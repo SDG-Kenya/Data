@@ -50,8 +50,6 @@ inputs:
       - NATURE
       - TIME_COVERAGE
     import_codes: true
-    import_series_attributes: true
-    import_observation_attributes: true
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
