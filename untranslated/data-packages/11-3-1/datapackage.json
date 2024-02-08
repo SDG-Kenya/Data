@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population data and Satellite Imagery i.e. Landsat datasets",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KE_NBO",
+                "KE_MBA",
+                "KE_KIS",
+                "KE_NUU",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

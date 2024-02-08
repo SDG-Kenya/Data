@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KE_NBO",
+                "KE_MBA",
+                "KE_KIS",
+                "KE_NUU",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

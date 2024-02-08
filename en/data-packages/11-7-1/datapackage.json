@@ -12,8 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nairobi City County",
+                "Mombasa County",
+                "Kisumu County",
+                "Nakuru Coutny",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KE_NBO",
+                "KE_MBA",
+                "KE_KIS",
+                "KE_NUU",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
           },
           {
             "name": "Value",

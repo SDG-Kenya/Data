@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2020,2020,2020,2020],"SOURCE_DETAIL":["Population data and Satellite Imagery i.e. Landsat datasets",null,null,null],"REF_AREA":["KE_NBO","KE_MBA","KE_KIS","KE_NUU"],"Value":[1.36,2.57,2.79,2.66]},"edges":{"From":["REF_AREA"],"To":["SOURCE_DETAIL"]}}
