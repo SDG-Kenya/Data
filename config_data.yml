@@ -41,7 +41,7 @@ src_dir: ''
 inputs:
   - class: InputSdmxMl_Multiple
     path_pattern: 'data/*.xml'
-    dsd: 'LocalRegistry.xml'
+    dsd: 'data/LocalRegistry.xml'
     dimension_map:
       REF_AREA|KE: ''
     drop_dimensions:
