@@ -50,9 +50,11 @@ inputs:
       - NATURE
       - TIME_COVERAGE
     import_codes: true
-  - class: InputYamlMeta
-    path_pattern: indicator-config/*-*.yml
-    git: false
+    import_series_attributes: true
+    import_observation_attributes: true
+  - class: InputWordMeta
+    path_pattern: meta/*-*.docm
+    git: true
   - class: InputYamlMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.yml
