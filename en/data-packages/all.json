@@ -44,7 +44,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -82,7 +82,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "Value",
@@ -117,7 +117,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "REF_AREA",
@@ -131,7 +131,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "Value",
@@ -217,7 +217,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "REF_AREA",
@@ -231,7 +231,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "Value",
@@ -269,7 +269,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "REF_AREA",
@@ -283,7 +283,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "Value",
