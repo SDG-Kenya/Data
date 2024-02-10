@@ -15,8 +15,18 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of urban population living in slums                 (One Shelter Deprivation)",
+                "Proportion of urban population living in slums                 (Two Shelter Deprivation)",
+                "Proportion of urban population living in slums(Three Shelter Deprivation)",
+                "Proportion of urban population living in slums                (Four Shelter Deprivation)",
+                "Proportion of urban population living in slums                  (Any Shelter Deprivation) - Slum dwellers",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

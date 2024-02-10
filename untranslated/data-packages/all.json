@@ -39,8 +39,18 @@
             "type": "integer"
           },
           {
-            "name": "SERIES",
-            "type": "string"
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of urban population living in slums                 (One Shelter Deprivation)",
+                "Proportion of urban population living in slums                 (Two Shelter Deprivation)",
+                "Proportion of urban population living in slums(Three Shelter Deprivation)",
+                "Proportion of urban population living in slums                (Four Shelter Deprivation)",
+                "Proportion of urban population living in slums                  (Any Shelter Deprivation) - Slum dwellers",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -65,14 +75,14 @@
             "type": "integer"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "KE_NBO",
-                "KE_MBA",
-                "KE_KIS",
-                "KE_NUU",
+                "Nairobi City",
+                "Mombasa city",
+                "Kisumu City",
+                "Nakuru City",
                 ""
               ]
             }
@@ -110,14 +120,14 @@
             }
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "KE_NBO",
-                "KE_MBA",
-                "KE_KIS",
-                "KE_NUU",
+                "Nairobi City",
+                "Mombasa city",
+                "Kisumu City",
+                "Nakuru City",
                 ""
               ]
             }
@@ -202,14 +212,14 @@
             }
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "KE_NBO",
-                "KE_MBA",
-                "KE_KIS",
-                "KE_NUU",
+                "Nairobi City",
+                "Mombasa city",
+                "Kisumu City",
+                "Nakuru City",
                 ""
               ]
             }
@@ -250,14 +260,14 @@
             }
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "KE_NBO",
-                "KE_MBA",
-                "KE_KIS",
-                "KE_NUU",
+                "Nairobi City",
+                "Mombasa city",
+                "Kisumu City",
+                "Nakuru City",
                 ""
               ]
             }

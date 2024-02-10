@@ -30,14 +30,14 @@
             "title": "Source details"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "KE_NBO",
-                "KE_MBA",
-                "KE_KIS",
-                "KE_NUU",
+                "Nairobi City",
+                "Mombasa city",
+                "Kisumu City",
+                "Nakuru City",
                 ""
               ]
             },
