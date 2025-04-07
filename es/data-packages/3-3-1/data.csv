@@ -1,1 +1,8 @@
-Year,Value
+Year,Sex,Value
+2014,,5.0
+2018,,1.4
+2019,,1.2
+2014,Female,5.0
+2018,Female,1.5
+2014,Male,5.0
+2018,Male,1.3

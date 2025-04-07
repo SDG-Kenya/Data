@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of household with access to electricity",
+                "Proportion of population with access to electricity [7.1.1]",
+                "Proportion of households with access to electricity (Grid and Solar Systems)",
+                "Proportion of population with access to electricity (Grid and Solar Systems)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",

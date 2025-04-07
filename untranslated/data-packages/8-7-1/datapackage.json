@@ -12,7 +12,63 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children engaged in economic activity and household chores [8.7.1]",
+                "Number of children engaged in economic activity and household chores [8.7.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5 to 9 years old",
+                "10 to 14 years old",
+                "15 to 17 years old",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Number",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

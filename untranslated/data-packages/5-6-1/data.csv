@@ -1,1 +1,21 @@
-Year,Value
+Year,Age,Degree of urbanisation,Value
+2014,,,32.4
+2022,,,64.8
+2014,,Rural,29.5
+2022,,Rural,59.4
+2014,,Urban,37.0
+2022,,Urban,73.2
+2014,15 to 19 years old,,15.9
+2022,15 to 19 years old,,49.3
+2014,20 to 24 years old,,26.2
+2022,20 to 24 years old,,58.9
+2014,25 to 29 years old,,33.0
+2022,25 to 29 years old,,67.5
+2014,30 to 34 years old,,37.8
+2022,30 to 34 years old,,65.4
+2014,35 to 39 years old,,37.3
+2022,35 to 39 years old,,64.8
+2014,40 to 44 years old,,35.2
+2022,40 to 44 years old,,68.0
+2014,45 to 49 years old,,25.2
+2022,45 to 49 years old,,65.9

@@ -1,1 +1,10 @@
-Year,Value
+Year,Sex,Value
+2014,,11.6
+2015,,13.3
+2022,,9.0
+2014,Female,4.5
+2015,Female,4.1
+2022,Female,2.0
+2014,Male,19.1
+2015,Male,23.0
+2022,Male,16.0

@@ -1,1 +1,46 @@
-Year,Value
+Year,COMMENT_OBS,SOURCE_DETAIL,Occupation,Value
+2014,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Medical doctors,21.0
+2015,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Medical doctors,21.0
+2016,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Medical doctors,23.4
+2017,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Medical doctors,24.1
+2018,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Medical doctors,25.1
+2019,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Medical doctors,18.0
+2020,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Medical doctors,19.0
+2021,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Medical doctors,19.0
+2022,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Medical doctors,19.0
+2023,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Medical doctors,19.0
+2014,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Nursing personnel,165.0
+2015,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Nursing personnel,151.0
+2016,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Nursing personnel,167.4
+2017,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Nursing personnel,174.6
+2018,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Nursing personnel,187.9
+2019,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Nursing personnel,91.0
+2020,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Nursing personnel,81.0
+2021,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Nursing personnel,99.0
+2022,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Nursing personnel,99.0
+2023,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Nursing personnel,125.0
+2014,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Dentists,3.0
+2015,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Dentists,2.0
+2016,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Dentists,2.6
+2017,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Dentists,2.7
+2018,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Dentists,2.7
+2019,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Dentists,2.0
+2020,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Dentists,2.0
+2021,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Dentists,2.0
+2022,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Dentists,2.0
+2023,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Dentists,2.0
+2014,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Pharmacists,5.0
+2015,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Pharmacists,7.0
+2016,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Pharmacists,7.1
+2017,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Pharmacists,7.4
+2018,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Pharmacists,7.6
+2019,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Pharmacists,3.0
+2020,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Pharmacists,3.0
+2021,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Pharmacists,3.0
+2022,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Pharmacists,3.0
+2023,Sourced from the Health Regulatory Bodies in Kenya,Economic Survey,Pharmacists,3.0
+2019,,,Pharmaceutical Technologists,14.0
+2020,,,Pharmaceutical Technologists,14.0
+2021,,,Pharmaceutical Technologists,14.0
+2022,,,Pharmaceutical Technologists,14.0
+2023,,,Pharmaceutical Technologists,14.0

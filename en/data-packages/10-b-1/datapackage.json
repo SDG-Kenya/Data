@@ -12,8 +12,68 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millions",
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "External Grants",
+                "Total cost of the transaction in percentage for sending US$ 200 to Kenya;",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KNBS, Economic Survey Report (Several  editions)",
+                "Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org\"",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total resource flows for development, by recipient and donor countries [10.b.1]",
+                "Remittance costs as a proportion of the amount remitted",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenyan Shillings",
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
           },
           {
             "name": "Value",
@@ -26,5 +86,5 @@
   ],
   "profile": "data-package",
   "name": "10-b-1",
-  "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
+  "title": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)"
 }

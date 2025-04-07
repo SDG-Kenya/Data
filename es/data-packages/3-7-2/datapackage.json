@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Economic Survey",
+                "2014: KDHS        Economic Survey , 2022: KDHS",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10 to 14 years old",
+                "15 to 19 years old",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Value",

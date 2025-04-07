@@ -12,7 +12,66 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2015: Uwezo Kenya Sixth Learning Assessment Report",
+                "Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",
+                "Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC",
+                "Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",
+                "Basic Education Statistics Booklet",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Grade 2/3",
+                "Primary education, sufficient for level completion",
+                "Lower secondary education",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Skill: Reading",
+                "Skill: Mathematics",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

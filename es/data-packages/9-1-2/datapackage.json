@@ -12,8 +12,72 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3",
+                "6",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Passenger volumes, by mode of transport (000 Passenger)",
+                "Freight volumes, by mode of transport (000 Passenger)",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mode of Transport: Rail",
+                "Mode of Transport: Air",
+                "Water",
+                "Mode of Transport: Road",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Metric Tons",
+                "Kenyan Shillings",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data collected from Kenya seaward border points for foreigners",
+                "Data from Mombasa, Lamu and Kisumu ports",
+                "Figures represent value of output of passengers/ freight",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

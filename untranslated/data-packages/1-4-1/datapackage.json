@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population using basic drinking water services [1.4.1]",
+                "Proportion of population using basic sanitation services [1.4.1]",
+                "Proportion of population using basic hygiene services",
+                "Proportion of population using clean fuels and technologies",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Access to a handwashing station with soap and water at home",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

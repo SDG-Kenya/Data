@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Change in GINI",
+                "Pre-fiscal GINI index",
+                "Post-fiscal GINI index",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",
@@ -26,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "10-4-2",
-  "title": "Redistributive impact of fiscal policy"
+  "title": "Redistributive impact of fiscal policy on the Gini index"
 }

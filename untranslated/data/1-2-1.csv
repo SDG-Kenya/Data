@@ -1,1 +1,65 @@
-Year,Value
+Year,Sex,Age,Degree of urbanisation,Value
+2014,,,,46.6
+2016,,,,36.1
+2019,,,,33.6
+2020,,,,42.9
+2021,,,,38.6
+2022,,,,39.8
+2014,,,Rural,49.7
+2016,,,Rural,38.8
+2019,,,Rural,37.0
+2020,,,Rural,43.5
+2021,,,Rural,40.7
+2022,,,Rural,42.9
+2014,,,Urban,34.4
+2016,,,Urban,29.5
+2019,,,Urban,26.0
+2020,,,Urban,41.7
+2021,,,Urban,34.1
+2022,,,Urban,33.2
+2016,Female,,,36.1
+2019,Female,,,34.1
+2020,Female,,,42.2
+2021,Female,,,38.0
+2022,Female,,,39.3
+2016,Male,,,36.2
+2019,Male,,,34.0
+2020,Male,,,42.9
+2021,Male,,,38.3
+2022,Male,,,40.3
+2016,,under 6 years old,,37.0
+2019,,under 6 years old,,37.5
+2020,,under 6 years old,,40.5
+2021,,under 6 years old,,34.5
+2022,,under 6 years old,,36.4
+2016,,6-13 years,,44.0
+2019,,6-13 years,,40.6
+2020,,6-13 years,,48.6
+2021,,6-13 years,,42.3
+2022,,6-13 years,,44.4
+2016,,14-17 years,,43.8
+2019,,14-17 years,,39.9
+2020,,14-17 years,,47.7
+2021,,14-17 years,,44.9
+2022,,14-17 years,,47.4
+2016,,under 18 years old,,41.6
+2019,,under 18 years old,,39.5
+2020,,under 18 years old,,46.0
+2021,,under 18 years old,,40.3
+2022,,under 18 years old,,42.4
+2022,,15 to 24 years old,,44.0
+2016,,18-34 years,,28.9
+2019,,18-34 years,,28.3
+2020,,18-34 years,,39.6
+2021,,18-34 years,,34.4
+2022,,18-34 years,,36.7
+2016,,15 to 64 years old,,32.2
+2019,,15 to 64 years old,,30.5
+2020,,15 to 64 years old,,40.8
+2021,,15 to 64 years old,,36.7
+2022,,15 to 64 years old,,38.5
+2016,,65 years old and over,,39.1
+2019,,65 years old and over,,32.1
+2020,,65 years old and over,,39.5
+2021,,65 years old and over,,46.6
+2022,,65 years old and over,,44.4

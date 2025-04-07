@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic",
+                "Domestic (Sewer)",
+                "Domestic (Septic tank)",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",

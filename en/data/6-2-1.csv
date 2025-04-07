@@ -1,1 +1,34 @@
-Year,Value
+Year,Observation-level footnotes,Source details,SDG Series,Degree of urbanisation,Value
+2014,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of households using safely managed sanitation services,,22.7
+2016,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of households using safely managed sanitation services,,28.3
+2022,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of households using safely managed sanitation services,,38.2
+2014,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of households using safely managed sanitation services,Rural,25.5
+2016,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of households using safely managed sanitation services,Rural,29.5
+2022,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of households using safely managed sanitation services,Rural,36.6
+2014,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of households using safely managed sanitation services,Urban,20.6
+2016,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of households using safely managed sanitation services,Urban,27.9
+2022,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of households using safely managed sanitation services,Urban,40.7
+2014,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of population using safely managed sanitation services [6.2.1],,24.7
+2016,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of population using safely managed sanitation services [6.2.1],,30.5
+2022,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of population using safely managed sanitation services [6.2.1],,40.9
+2014,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of population using safely managed sanitation services [6.2.1],Rural,30.5
+2016,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of population using safely managed sanitation services [6.2.1],Rural,28.4
+2022,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of population using safely managed sanitation services [6.2.1],Rural,37.7
+2014,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of population using safely managed sanitation services [6.2.1],Urban,21.6
+2016,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of population using safely managed sanitation services [6.2.1],Urban,34.9
+2022,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",Proportion of population using safely managed sanitation services [6.2.1],Urban,47.3
+2014,,2014: KDHS,Proportion of households with basic handwashing facilities on premises,,16.6
+2016,,2014: KDHS,Proportion of households with basic handwashing facilities on premises,,19.4
+2022,,2014: KDHS,Proportion of households with basic handwashing facilities on premises,,51.0
+2014,,2014: KDHS,Proportion of households with basic handwashing facilities on premises,Rural,25.7
+2016,,2014: KDHS,Proportion of households with basic handwashing facilities on premises,Rural,29.7
+2022,,2014: KDHS,Proportion of households with basic handwashing facilities on premises,Rural,41.3
+2014,,2014: KDHS,Proportion of households with basic handwashing facilities on premises,Urban,10.1
+2016,,2014: KDHS,Proportion of households with basic handwashing facilities on premises,Urban,11.4
+2022,,2014: KDHS,Proportion of households with basic handwashing facilities on premises,Urban,65.3
+2016,,"2014: KDHS,     2016: KIHBS                2022: KDHS",Proportion of population with basic handwashing facilities on premises [6.2.1],,17.4
+2022,,"2014: KDHS,     2016: KIHBS                2022: KDHS",Proportion of population with basic handwashing facilities on premises [6.2.1],,51.3
+2016,,"2014: KDHS,      2016: KIHBS                2022: KDHS",Proportion of population with basic handwashing facilities on premises [6.2.1],Rural,29.5
+2022,,"2014: KDHS,      2016: KIHBS                2022: KDHS",Proportion of population with basic handwashing facilities on premises [6.2.1],Rural,43.0
+2016,,"2014: KDHS,        2016: KIHBS                2022: KDHS",Proportion of population with basic handwashing facilities on premises [6.2.1],Urban,10.6
+2022,,"2014: KDHS,        2016: KIHBS                2022: KDHS",Proportion of population with basic handwashing facilities on premises [6.2.1],Urban,67.6

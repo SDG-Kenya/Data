@@ -1,1 +1,60 @@
-Year,Value
+Year,COMMENT_OBS,SOURCE_DETAIL,SDG Series,Age,Occupation,Disability status,Unit of measure,Value
+2014,Include both elected and nominated seats,Economic Survey,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",,,,Percent,26.9
+2015,Include both elected and nominated seats,Economic Survey,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",,,,Percent,26.9
+2016,Include both elected and nominated seats,Economic Survey,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",,,,Percent,26.9
+2017,Include both elected and nominated seats,Economic Survey,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",,,,Percent,31.3
+2018,Include both elected and nominated seats,Economic Survey,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",,,,Percent,31.3
+2019,Include both elected and nominated seats,Economic Survey,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",,,,Percent,31.3
+2020,Include both elected and nominated seats,Economic Survey,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",,,,Percent,31.3
+2021,Include both elected and nominated seats,Economic Survey,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",,,,Percent,32.8
+2022,Include both elected and nominated seats,Economic Survey,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",,,,Percent,31.3
+2023,Include both elected and nominated seats,Economic Survey,"Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",,,,Percent,31.3
+2019,,Parliamentary Service Commision; Council of Governors,Ratio for female members of legislature compared to the  National distribution,,,,Ratio,0.61
+2020,,Parliamentary Service Commision; Council of Governors,Ratio for female members of legislature compared to the  National distribution,,,,Ratio,0.6157
+2021,,Parliamentary Service Commision; Council of Governors,Ratio for female members of legislature compared to the  National distribution,,,,Ratio,0.6161
+2022,,Parliamentary Service Commision; Council of Governors,Ratio for female members of legislature compared to the  National distribution,,,,Ratio,0.614
+2023,,Parliamentary Service Commision; Council of Governors,Ratio for female members of legislature compared to the  National distribution,,,,Ratio,0.6132
+2020,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Senate",,,,Ratio,0.622
+2021,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Senate",,,,Ratio,0.6521
+2022,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Senate",,,,Ratio,0.6229
+2023,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Senate",,,,Ratio,0.6228
+2020,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Parliament",,,,Ratio,0.4264
+2021,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Parliament",,,,Ratio,0.4268
+2022,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Parliament",,,,Ratio,0.4613
+2023,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Parliament",,,,Ratio,0.4669
+2020,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, County Assembly",,,,Ratio,0.6687
+2021,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, County Assembly",,,,Ratio,0.6835
+2022,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, County Assembly",,,,Ratio,0.6612
+2023,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, County Assembly",,,,Ratio,0.6611
+2020,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Speakers",,,,Ratio,0.162
+2021,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Speakers",,,,Ratio,0.1621
+2022,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Speakers",,,,Ratio,0.0406
+2023,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Speakers",,,,Ratio,0.0406
+2020,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Clerks",,,,Ratio,0.0405
+2021,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Clerks",,,,Ratio,0.0405
+2022,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Clerks",,,,Ratio,0.1622
+2023,,Parliamentary Service Commision; Council of Governors,"Ratio for female members of legislature compared to the  National distribution, Clerks",,,,Ratio,0.0811
+2020,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Judges,,Ratio,0.933
+2021,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Judges,,Ratio,0.9373
+2022,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Judges,,Ratio,1.1351
+2023,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Judges,,Ratio,1.0122
+2020,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,,Ratio,1.1024
+2021,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,,Ratio,1.1916
+2022,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,,Ratio,1.1041
+2023,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,,Ratio,1.0838
+2020,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,18 to 44 years old,Judges,,Ratio,0.258
+2021,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,18 to 44 years old,Judges,,Ratio,0.1951
+2022,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,18 to 44 years old,Judges,,Ratio,0.373
+2023,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,18 to 44 years old,Judges,,Ratio,0.7647
+2020,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,18 to 44 years old,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,,Ratio,0.0
+2021,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,18 to 44 years old,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,,Ratio,0.0
+2022,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,18 to 44 years old,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,,Ratio,0.0
+2023,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,18 to 44 years old,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,,Ratio,0.1147
+2020,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Judges,Persons with disability,Ratio,0.6898
+2021,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Judges,Persons with disability,Ratio,0.7915
+2022,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Judges,Persons with disability,Ratio,1.0918
+2023,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Judges,Persons with disability,Ratio,0.9034
+2020,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,Persons with disability,Ratio,0.0
+2021,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,Persons with disability,Ratio,0.0
+2022,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,Persons with disability,Ratio,0.0
+2023,,"Judiciary, SOJAR Report",Ratio for female members of judiciary compared to the  National distribution,,Registrars included in 2619 - Legal Professionals Not Elsewhere Classified,Persons with disability,Ratio,0.0

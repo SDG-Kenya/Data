@@ -1,1 +1,14 @@
-Year,Value
+Year,Sex,Degree of urbanisation,Value
+2014,,,52
+2019,,,52
+2022,,,41
+2014,,Rural,56
+2019,,Rural,42
+2022,,Rural,41
+2014,,Urban,57
+2019,,Urban,50
+2022,,Urban,41
+2022,Female,,38
+2014,Male,,57
+2019,Male,,50
+2022,Male,,45

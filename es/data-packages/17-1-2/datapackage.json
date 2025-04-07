@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Economic Survey",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of domestic budget funded by domestic taxes [17.1.2]",
+                "Proportion of domestic budget funded by tax on income",
+                "Proportion of domestic budget funded by value added tax",
+                "Proportion of domestic budget funded by tax on other goods and services",
+                "Proportion of domestic budget funded by taxes on international trade",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",

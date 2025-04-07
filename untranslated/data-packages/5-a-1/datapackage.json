@@ -12,7 +12,62 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2022 KCHS",
+                "2016:  KIHBS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1]",
+                "Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",
+                "Share of men among owners or rights-bearers of agricultural land, by type of tenure",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2016: Share of  households with legal documents of agricultural (crop only) land by sex of the household head\n2022 KDHS Did not measure tenure system",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

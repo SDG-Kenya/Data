@@ -12,8 +12,58 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KPHC conducted in 2009 and 2019",
+                "Birth registration",
+                "Death registration",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KNBS",
+                "2019: KPHC, Others: Civil Registration Services",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]",
+                "Percentage birth registration",
+                "Percentage death registration",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boolean or binary measure",
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
           },
           {
             "name": "Value",

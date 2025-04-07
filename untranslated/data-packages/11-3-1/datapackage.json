@@ -15,24 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population data and Satellite Imagery i.e. Landsat datasets",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Nairobi City",
-                "Mombasa city",
-                "Kisumu City",
-                "Nakuru City",
+                "Nairobi",
+                "Mombasa",
+                "Kisumu",
+                "Nakuru",
                 ""
               ]
             }

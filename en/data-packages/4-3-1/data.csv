@@ -1,1 +1,5 @@
-Year,Value
+Year,Sex,Degree of urbanisation,Value
+2019,,,21.9
+2019,,Rural,14.6
+2019,,Urban,20.4
+2019,Female,,23.5

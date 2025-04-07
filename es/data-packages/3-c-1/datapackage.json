@@ -12,8 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sourced from the Health Regulatory Bodies in Kenya",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Economic Survey",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medical doctors",
+                "Nursing personnel",
+                "Dentists",
+                "Pharmacists",
+                "Pharmaceutical Technologists",
+                ""
+              ]
+            },
+            "title": "Occupation"
           },
           {
             "name": "Value",

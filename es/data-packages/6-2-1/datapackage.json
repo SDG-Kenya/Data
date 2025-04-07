@@ -12,8 +12,60 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "At least basic sanitation services which includes basic and safely managed sanitation services",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2014: KDHS,   2016: KIHBS,  2022:KDHS",
+                "2014: KDHS",
+                "2014: KDHS,     2016: KIHBS                2022: KDHS",
+                "2014: KDHS,      2016: KIHBS                2022: KDHS",
+                "2014: KDHS,        2016: KIHBS                2022: KDHS",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of households using safely managed sanitation services",
+                "Proportion of population using safely managed sanitation services [6.2.1]",
+                "Proportion of households with basic handwashing facilities on premises",
+                "Proportion of population with basic handwashing facilities on premises [6.2.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Value",

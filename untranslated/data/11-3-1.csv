@@ -1,5 +1,5 @@
-Year,SOURCE_DETAIL,Reference area,Value
-2020,Population data and Satellite Imagery i.e. Landsat datasets,Nairobi City,1.36
-2020,,Mombasa city,2.57
-2020,,Kisumu City,2.79
-2020,,Nakuru City,2.66
+Year,Reference area,Value
+2020,Nairobi,1.33
+2020,Mombasa,2.67
+2020,Kisumu,3.0
+2020,Nakuru,3.0

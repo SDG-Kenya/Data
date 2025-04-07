@@ -12,7 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                "2021 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                "2022 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                "2023 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                "2024 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                "2025 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Income or wealth quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bottom 40%",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

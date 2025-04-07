@@ -12,8 +12,93 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Economic Survey",
+                "CBK",
+                "Treasury, Economic Survey",
+                "KNBS",
+                "KPHC 2019, KCHSP 2020, KCHSP 2021",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Personal transfers, received (% of GDP)",
+                "Current account balance as a proportion of GDP (%) [17.13.1]",
+                "Foreign direct investment, net inflows, as a proportion of GDP (%) [17.13.1]",
+                "Portfolio investment, net (Balance of Payments, current United States dollars) [17.13.1]",
+                "Total reserves in months of imports",
+                "Debt service on external debt, total (% exports and primary income)",
+                "External debt stocks as a proportion of GNI (%) [17.13.1]",
+                "Official exchange rate (LCU per US$, period average annual)",
+                "Commodity Prices (Export/import)",
+                "Annual broad money growth (%) [17.13.1]",
+                "Broad money to total reserves ratio [17.13.1]",
+                "Bank nonperforming loans to total gross loans (%)",
+                "Bank capital to assets ratio (%) [17.13.1]",
+                "Annual GDP growth (%) [17.13.1]",
+                "Tax revenue as a proportion of GDP (%) [17.13.1]",
+                "Overall Fiscal Balance (% of GDP):",
+                "Gross public sector debt, Central Government, as a proportion of GDP (%) [17.13.1]",
+                "Annual growth of the gross capital formation (%) [17.13.1]",
+                "Annual growth of households and NPISHs final consumption expenditure [17.13.1]",
+                "Annual growth of the general government final consumption expenditure (%) [17.13.1]",
+                "Annual growth of exports of goods and services (%) [17.13.1]",
+                "Annual growth of imports of goods and services (%) [17.13.1]",
+                "Annual inflation, consumer prices (%) [17.13.1]",
+                "Unemployment rate",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "USD",
+                "Months",
+                "Kenyan Shillings to US Dollars",
+                "Index",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOP",
+                "Include debt service of IMF(repayments, repurchases and charges)",
+                "Include private external debt",
+                "End Period Annual Average",
+                "Terms of Trade for all items",
+                "NationalTax revenue. GDP at Current Market price",
+                "Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price",
+                "GDP at Current Market price",
+                "This includes Gross Fixed Capital Formation and Changes in Inventories",
+                "Includes private final consumption and final consumption by NPISH",
+                "Base; Feb 2019=100",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

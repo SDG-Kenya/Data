@@ -1,1 +1,8 @@
-Year,Value
+Year,Source details,SDG Series,Sex,Degree of urbanisation,Observation-level footnotes,Value
+2022,2022 KCHS,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,,,25.4
+2022,2022 KCHS,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,Rural,,33.4
+2022,2022 KCHS,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,Urban,,10.0
+2016,2016:  KIHBS,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",Female,,"2016: Share of  households with legal documents of agricultural (crop only) land by sex of the household head
+2022 KDHS Did not measure tenure system",31.7
+2016,2016:  KIHBS,"Share of men among owners or rights-bearers of agricultural land, by type of tenure",Male,,"2016: Share of  households with legal documents of agricultural (crop only) land by sex of the household head
+2022 KDHS Did not measure tenure system",68.3

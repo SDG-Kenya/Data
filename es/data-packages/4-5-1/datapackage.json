@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pre-primary education",
+                "Primary education",
+                "Secondary",
+                "Middle-Level Colleges",
+                "University",
+                ""
+              ]
+            },
+            "title": "Education level"
           },
           {
             "name": "Value",

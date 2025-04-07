@@ -1,1 +1,49 @@
-Year,Value
+Year,SDG Series,Sex,Age,Degree of urbanisation,Unit of measure,Value
+2014,Proportion of children engaged in economic activity and household chores [8.7.1],,,,Percent,34.5
+2016,Proportion of children engaged in economic activity and household chores [8.7.1],,,,Percent,13.1
+2019,Proportion of children engaged in economic activity and household chores [8.7.1],,,,Percent,16.9
+2020,Proportion of children engaged in economic activity and household chores [8.7.1],,,,Percent,13.9
+2021,Proportion of children engaged in economic activity and household chores [8.7.1],,,,Percent,3.9
+2022,Proportion of children engaged in economic activity and household chores [8.7.1],,,,Percent,3.1
+2022,Proportion of children engaged in economic activity and household chores [8.7.1],,,Rural,Percent,3.3
+2022,Proportion of children engaged in economic activity and household chores [8.7.1],,,Urban,Percent,2.5
+2019,Proportion of children engaged in economic activity and household chores [8.7.1],Female,,,Percent,15.1
+2020,Proportion of children engaged in economic activity and household chores [8.7.1],Female,,,Percent,11.7
+2021,Proportion of children engaged in economic activity and household chores [8.7.1],Female,,,Percent,2.9
+2022,Proportion of children engaged in economic activity and household chores [8.7.1],Female,,,Percent,2.6
+2019,Proportion of children engaged in economic activity and household chores [8.7.1],Male,,,Percent,26.0
+2020,Proportion of children engaged in economic activity and household chores [8.7.1],Male,,,Percent,16.2
+2021,Proportion of children engaged in economic activity and household chores [8.7.1],Male,,,Percent,4.8
+2022,Proportion of children engaged in economic activity and household chores [8.7.1],Male,,,Percent,3.6
+2019,Proportion of children engaged in economic activity and household chores [8.7.1],,5 to 9 years old,,Percent,9.9
+2020,Proportion of children engaged in economic activity and household chores [8.7.1],,5 to 9 years old,,Percent,4.9
+2021,Proportion of children engaged in economic activity and household chores [8.7.1],,5 to 9 years old,,Percent,1.8
+2022,Proportion of children engaged in economic activity and household chores [8.7.1],,5 to 9 years old,,Percent,1.0
+2019,Proportion of children engaged in economic activity and household chores [8.7.1],,10 to 14 years old,,Percent,20.1
+2020,Proportion of children engaged in economic activity and household chores [8.7.1],,10 to 14 years old,,Percent,15.3
+2021,Proportion of children engaged in economic activity and household chores [8.7.1],,10 to 14 years old,,Percent,4.2
+2022,Proportion of children engaged in economic activity and household chores [8.7.1],,10 to 14 years old,,Percent,1.8
+2019,Proportion of children engaged in economic activity and household chores [8.7.1],,15 to 17 years old,,Percent,24.1
+2020,Proportion of children engaged in economic activity and household chores [8.7.1],,15 to 17 years old,,Percent,28.1
+2021,Proportion of children engaged in economic activity and household chores [8.7.1],,15 to 17 years old,,Percent,7.2
+2022,Proportion of children engaged in economic activity and household chores [8.7.1],,15 to 17 years old,,Percent,9.4
+2014,Number of children engaged in economic activity and household chores [8.7.1],,,,Number,4552.3
+2016,Number of children engaged in economic activity and household chores [8.7.1],,,,Number,2074.3
+2019,Number of children engaged in economic activity and household chores [8.7.1],,,,Number,2693.2
+2020,Number of children engaged in economic activity and household chores [8.7.1],,,,Number,2276.8
+2021,Number of children engaged in economic activity and household chores [8.7.1],,,,Number,640.5
+2022,Number of children engaged in economic activity and household chores [8.7.1],,,,Number,517.4
+2022,Number of children engaged in economic activity and household chores [8.7.1],,,Rural,Number,414.3
+2022,Number of children engaged in economic activity and household chores [8.7.1],,,Urban,Number,103.1
+2014,Number of children engaged in economic activity and household chores [8.7.1],Female,,,Number,2200.6
+2016,Number of children engaged in economic activity and household chores [8.7.1],Female,,,Number,894.8
+2019,Number of children engaged in economic activity and household chores [8.7.1],Female,,,Number,1190.3
+2020,Number of children engaged in economic activity and household chores [8.7.1],Female,,,Number,945.0
+2021,Number of children engaged in economic activity and household chores [8.7.1],Female,,,Number,237.7
+2022,Number of children engaged in economic activity and household chores [8.7.1],Female,,,Number,216.1
+2014,Number of children engaged in economic activity and household chores [8.7.1],Male,,,Number,2351.7
+2016,Number of children engaged in economic activity and household chores [8.7.1],Male,,,Number,1179.5
+2019,Number of children engaged in economic activity and household chores [8.7.1],Male,,,Number,1503.0
+2020,Number of children engaged in economic activity and household chores [8.7.1],Male,,,Number,1331.7
+2021,Number of children engaged in economic activity and household chores [8.7.1],Male,,,Number,402.8
+2022,Number of children engaged in economic activity and household chores [8.7.1],Male,,,Number,301.3

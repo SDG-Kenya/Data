@@ -1,1 +1,53 @@
-Year,Value
+Year,Composite breakdown,Value
+2014,256 Kbps,0.014
+2015,256 Kbps,0.01
+2016,256 Kbps,0.003
+2017,256 Kbps,0.003
+2018,256 Kbps,0.001
+2019,256 Kbps,0.025
+2020,256 Kbps,0.023
+2021,256 Kbps,0.02
+2022,256 Kbps,0.017
+2023,256 Kbps,0.019
+2014,512 Kbps,0.064
+2015,512 Kbps,0.015
+2016,512 Kbps,0.018
+2017,512 Kbps,0.009
+2018,512 Kbps,0.001
+2014,1 Mbps (< 2 mbps),0.378
+2015,1 Mbps (< 2 mbps),0.075
+2016,1 Mbps (< 2 mbps),0.085
+2017,1 Mbps (< 2 mbps),0.043
+2018,1 Mbps (< 2 mbps),0.019
+2014,2 Mbps,0.023
+2015,2 Mbps,0.017
+2016,2 Mbps,0.126
+2017,2 Mbps,0.289
+2018,2 Mbps,0.192
+2014,>2Mbps,0.058
+2015,>2Mbps,0.288
+2016,>2Mbps,0.341
+2017,>2Mbps,0.521
+2018,>2Mbps,0.599
+2019,Internet speed: 2 Mbit/s to less than 10 Mbit/s,0.702
+2020,Internet speed: 2 Mbit/s to less than 10 Mbit/s,0.879
+2021,Internet speed: 2 Mbit/s to less than 10 Mbit/s,0.858
+2022,Internet speed: 2 Mbit/s to less than 10 Mbit/s,0.975
+2023,Internet speed: 2 Mbit/s to less than 10 Mbit/s,1.196
+2019,>10 Mbps - <30 Mbps,0.264
+2020,>10 Mbps - <30 Mbps,0.324
+2021,>10 Mbps - <30 Mbps,0.5119
+2022,>10 Mbps - <30 Mbps,0.559
+2023,>10 Mbps - <30 Mbps,0.812
+2019,>30 Mbps - <100 Mbps,0.238
+2020,>30 Mbps - <100 Mbps,0.274
+2021,>30 Mbps - <100 Mbps,0.2947
+2022,>30 Mbps - <100 Mbps,0.0714
+2023,>30 Mbps - <100 Mbps,0.474
+2019,> 100 Mbps - 1 Gbps,0.007
+2020,> 100 Mbps - 1 Gbps,0.008
+2021,> 100 Mbps - 1 Gbps,0.01
+2022,> 100 Mbps - 1 Gbps,0.0089
+2023,> 100 Mbps - 1 Gbps,0.019
+2022,> 1 Gbps,0.0
+2023,> 1 Gbps,0.001

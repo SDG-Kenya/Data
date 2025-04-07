@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2014,2019,2022,2014,2019,2022,2014,2019,2022,2022,2014,2019,2022],"Sex":[null,null,null,null,null,null,null,null,null,"Female","Male","Male","Male"],"Degree of urbanisation":[null,null,null,"Rural","Rural","Rural","Urban","Urban","Urban",null,null,null,null],"Value":[52,52,41,56,42,41,57,50,41,38,57,50,45]},"edges":[]}

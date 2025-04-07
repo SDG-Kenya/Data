@@ -1,1 +1,13 @@
-Year,Value
+Year,Degree of urbanisation,Value
+2016,,29.3
+2020,,35.2
+2021,,35.3
+2022,,35.0
+2016,Rural,37.2
+2020,Rural,45.3
+2021,Rural,45.5
+2022,Rural,46.0
+2016,Urban,9.6
+2020,Urban,13.6
+2021,Urban,13.6
+2022,Urban,11.6

@@ -32,10 +32,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nairobi City",
-                "Mombasa city",
-                "Kisumu City",
-                "Nakuru City",
+                "Nairobi",
+                "Mombasa",
+                "Kisumu",
+                "Nakuru",
                 ""
               ]
             }

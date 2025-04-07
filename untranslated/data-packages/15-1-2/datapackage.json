@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]",
+                "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

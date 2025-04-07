@@ -12,11 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",
+                "Number of cases of killings of human rights defenders, journalists and trade unionists [16.10.1]",
+                "Number of cases of kidnappings of human rights defenders, journalists and trade unionists",
+                "Number of cases of enforced disappearance of human rights defenders, journalists and trade unionists [16.10.1]",
+                "Number of cases of arbitrary detentions of human rights defenders, journalists and trade unionists",
+                "Number of cases of torture of human rights defenders, journalists and trade unionists",
+                "Number of cases of violations of human rights of human rights defenders, journalists and trade unionists",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

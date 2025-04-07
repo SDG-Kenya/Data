@@ -12,8 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "256 Kbps",
+                "512 Kbps",
+                "1 Mbps (< 2 mbps)",
+                "2 Mbps",
+                ">2Mbps",
+                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
+                ">10 Mbps - <30 Mbps",
+                ">30 Mbps - <100 Mbps",
+                "> 100 Mbps - 1 Gbps",
+                "> 1 Gbps",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "Value",

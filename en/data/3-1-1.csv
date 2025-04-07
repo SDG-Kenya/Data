@@ -1,1 +1,12 @@
-Year,Value
+Year,Age,Degree of urbanisation,Value
+2014,,,362
+2019,,,355
+2019,,Rural,374
+2019,,Urban,317
+2019,15 to 19 years old,,464
+2019,20 to 24 years old,,275
+2019,25 to 29 years old,,287
+2019,30 to 34 years old,,345
+2019,35 to 39 years old,,436
+2019,40 to 44 years old,,786
+2019,45 to 49 years old,,2219

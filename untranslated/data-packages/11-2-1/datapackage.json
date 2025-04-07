@@ -19,17 +19,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nairobi City",
-                "Mombasa city",
-                "Kisumu City",
-                "Nakuru City",
+                "Nairobi",
+                "Mombasa",
+                "Kisumu",
+                "Nakuru",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

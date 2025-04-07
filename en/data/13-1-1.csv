@@ -1,3 +1,32 @@
-Year,Value
-2015,3151
-2019,2208
+Year,Source details,SDG Series,Unit of measure,Value
+2015,Kenya National Disaster Operations Centre (NDOC),"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Per million population,3151
+2018,Kenya National Disaster Operations Centre (NDOC),"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Per million population,3019
+2019,Kenya National Disaster Operations Centre (NDOC),"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Per million population,2759
+2021,Kenya National Disaster Operations Centre (NDOC),"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Per million population,2399
+2015,Kenya National Disaster Operations Centre (NDOC),"Number of deaths, missing persons and directly affected persons attributed to disasters",Number,1500000
+2018,Kenya National Disaster Operations Centre (NDOC),"Number of deaths, missing persons and directly affected persons attributed to disasters",Number,1401058
+2019,Kenya National Disaster Operations Centre (NDOC),"Number of deaths, missing persons and directly affected persons attributed to disasters",Number,1313374
+2021,Kenya National Disaster Operations Centre (NDOC),"Number of deaths, missing persons and directly affected persons attributed to disasters",Number,1192393
+2018,Kenya National Disaster Operations Centre (NDOC),"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,187
+2019,Kenya National Disaster Operations Centre (NDOC),"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,305
+2021,Kenya National Disaster Operations Centre (NDOC),"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,139
+2018,Kenya National Disaster Operations Centre (NDOC),"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,56
+2019,Kenya National Disaster Operations Centre (NDOC),"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,82
+2021,Kenya National Disaster Operations Centre (NDOC),"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,17
+2019,Kenya National Disaster Operations Centre (NDOC),"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,17
+2021,Kenya National Disaster Operations Centre (NDOC),"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,1
+2018,Kenya National Disaster Operations Centre (NDOC),Number of persons displaced attributed to disasters,Number,269515
+2019,Kenya National Disaster Operations Centre (NDOC),Number of persons displaced attributed to disasters,Number,396855
+2021,Kenya National Disaster Operations Centre (NDOC),Number of persons displaced attributed to disasters,Number,158472
+2018,Kenya National Disaster Operations Centre (NDOC),Number of directly affected persons attributed to disasters,Number,1131300
+2019,Kenya National Disaster Operations Centre (NDOC),Number of directly affected persons attributed to disasters,Number,916115
+2021,Kenya National Disaster Operations Centre (NDOC),Number of directly affected persons attributed to disasters,Number,1033764
+2018,,"Number of deaths from disaster per 100,000 people",Number,187
+2019,,"Number of deaths from disaster per 100,000 people",Number,305
+2021,,"Number of deaths from disaster per 100,000 people",Number,139
+2018,,Number of households displaced as a result of disaster,Number,269515
+2019,,Number of households displaced as a result of disaster,Number,396855
+2021,,Number of households displaced as a result of disaster,Number,158472
+2018,Kenya National Disaster Operations Centre (NDOC),Number of households affected by disaster,Number,1131300
+2019,Kenya National Disaster Operations Centre (NDOC),Number of households affected by disaster,Number,916115
+2021,Kenya National Disaster Operations Centre (NDOC),Number of households affected by disaster,Number,1033764

@@ -1,1 +1,25 @@
-Year,Value
+Year,Sex,Age,Degree of urbanisation,Value
+2021,,,,12.2
+2021,,,Rural,12.0
+2021,,,Urban,12.5
+2021,,15 to 24 years old,,12.7
+2021,,25 to 44 years old,,13.5
+2021,,45 to 54 years old,,10.5
+2021,,55 to 64 years old,,10.4
+2021,,65 years old and over,,8.5
+2021,Female,,,18.7
+2021,Female,,Rural,18.6
+2021,Female,,Urban,18.9
+2021,Female,15 to 24 years old,,19.1
+2021,Female,25 to 44 years old,,21.0
+2021,Female,45 to 54 years old,,16.4
+2021,Female,55 to 64 years old,,15.9
+2021,Female,65 years old and over,,12.0
+2021,Male,,,3.6
+2021,Male,,Rural,3.4
+2021,Male,,Urban,4.0
+2021,Male,15 to 24 years old,,4.2
+2021,Male,25 to 44 years old,,3.4
+2021,Male,45 to 54 years old,,3.6
+2021,Male,55 to 64 years old,,3.2
+2021,Male,65 years old and over,,3.3

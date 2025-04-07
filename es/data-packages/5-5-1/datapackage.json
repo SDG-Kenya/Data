@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]",
+                "Proportion of seats held by women in local governments (% of total number of seats) [5.5.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Governors",
+                "Deputy Governors",
+                "Members of County Assembly",
+                ""
+              ]
+            },
+            "title": "Occupation"
           },
           {
             "name": "Value",

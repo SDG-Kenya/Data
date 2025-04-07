@@ -1,1 +1,76 @@
-Year,Value
+Year,SOURCE_DETAIL,Sex,Degree of urbanisation,Education level,Composite breakdown,Value
+2015,2015: Uwezo Kenya Sixth Learning Assessment Report,,,Grade 2/3,Skill: Reading,39.9
+2018,2015: Uwezo Kenya Sixth Learning Assessment Report,,,Grade 2/3,Skill: Reading,52.7
+2023,2015: Uwezo Kenya Sixth Learning Assessment Report,,,Grade 2/3,Skill: Reading,78.4
+2015,2015: Uwezo Kenya Sixth Learning Assessment Report,Female,,Grade 2/3,Skill: Reading,43.4
+2018,2015: Uwezo Kenya Sixth Learning Assessment Report,Female,,Grade 2/3,Skill: Reading,58.5
+2023,2015: Uwezo Kenya Sixth Learning Assessment Report,Female,,Grade 2/3,Skill: Reading,81.8
+2015,2015: Uwezo Kenya Sixth Learning Assessment Report,Male,,Grade 2/3,Skill: Reading,36.3
+2018,2015: Uwezo Kenya Sixth Learning Assessment Report,Male,,Grade 2/3,Skill: Reading,47.4
+2023,2015: Uwezo Kenya Sixth Learning Assessment Report,Male,,Grade 2/3,Skill: Reading,75.1
+2014,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,"Primary education, sufficient for level completion",Skill: Reading,47.6
+2015,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,"Primary education, sufficient for level completion",Skill: Reading,52.8
+2016,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,"Primary education, sufficient for level completion",Skill: Reading,53.0
+2017,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,"Primary education, sufficient for level completion",Skill: Reading,52.2
+2018,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,"Primary education, sufficient for level completion",Skill: Reading,52.7
+2019,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,"Primary education, sufficient for level completion",Skill: Reading,51.5
+2020,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,"Primary education, sufficient for level completion",Skill: Reading,52.8
+2021,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,"Primary education, sufficient for level completion",Skill: Reading,53.2
+2022,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,"Primary education, sufficient for level completion",Skill: Reading,53.1
+2023,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,"Primary education, sufficient for level completion",Skill: Reading,25.5
+2017,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",Female,,"Primary education, sufficient for level completion",Skill: Reading,47.8
+2018,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",Female,,"Primary education, sufficient for level completion",Skill: Reading,54.8
+2019,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",Female,,"Primary education, sufficient for level completion",Skill: Reading,53.5
+2020,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",Female,,"Primary education, sufficient for level completion",Skill: Reading,53.8
+2023,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",Female,,"Primary education, sufficient for level completion",Skill: Reading,27.2
+2017,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",Male,,"Primary education, sufficient for level completion",Skill: Reading,47.4
+2018,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",Male,,"Primary education, sufficient for level completion",Skill: Reading,54.6
+2019,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",Male,,"Primary education, sufficient for level completion",Skill: Reading,53.8
+2020,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",Male,,"Primary education, sufficient for level completion",Skill: Reading,53.2
+2023,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",Male,,"Primary education, sufficient for level completion",Skill: Reading,23.9
+2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,,,Lower secondary education,Skill: Reading,39.9
+2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,Female,,Lower secondary education,Skill: Reading,43.5
+2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,Male,,Lower secondary education,Skill: Reading,36.3
+2015,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,Grade 2/3,Skill: Mathematics,47.1
+2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,Grade 2/3,Skill: Mathematics,71.1
+2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,Grade 2/3,Skill: Mathematics,67.0
+2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,Grade 2/3,Skill: Mathematics,76.1
+2023,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,Grade 2/3,Skill: Mathematics,88.6
+2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,Rural,Grade 2/3,Skill: Mathematics,71.9
+2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,Rural,Grade 2/3,Skill: Mathematics,62.2
+2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,Rural,Grade 2/3,Skill: Mathematics,73.2
+2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,Urban,Grade 2/3,Skill: Mathematics,82.5
+2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,Urban,Grade 2/3,Skill: Mathematics,75.7
+2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,Urban,Grade 2/3,Skill: Mathematics,83.1
+2015,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",Female,,Grade 2/3,Skill: Mathematics,49.0
+2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",Female,,Grade 2/3,Skill: Mathematics,72.5
+2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",Female,,Grade 2/3,Skill: Mathematics,66.4
+2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",Female,,Grade 2/3,Skill: Mathematics,75.9
+2023,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",Female,,Grade 2/3,Skill: Mathematics,89.4
+2015,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",Male,,Grade 2/3,Skill: Mathematics,45.2
+2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",Male,,Grade 2/3,Skill: Mathematics,69.8
+2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",Male,,Grade 2/3,Skill: Mathematics,67.7
+2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",Male,,Grade 2/3,Skill: Mathematics,76.1
+2023,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",Male,,Grade 2/3,Skill: Mathematics,87.6
+2015,Basic Education Statistics Booklet,,,"Primary education, sufficient for level completion",Skill: Mathematics,56.2
+2016,Basic Education Statistics Booklet,,,"Primary education, sufficient for level completion",Skill: Mathematics,45.4
+2017,Basic Education Statistics Booklet,,,"Primary education, sufficient for level completion",Skill: Mathematics,51.1
+2018,Basic Education Statistics Booklet,,,"Primary education, sufficient for level completion",Skill: Mathematics,43.1
+2019,Basic Education Statistics Booklet,,,"Primary education, sufficient for level completion",Skill: Mathematics,49.1
+2020,Basic Education Statistics Booklet,,,"Primary education, sufficient for level completion",Skill: Mathematics,54.9
+2021,Basic Education Statistics Booklet,,,"Primary education, sufficient for level completion",Skill: Mathematics,49.6
+2022,Basic Education Statistics Booklet,,,"Primary education, sufficient for level completion",Skill: Mathematics,47.5
+2023,Basic Education Statistics Booklet,,,"Primary education, sufficient for level completion",Skill: Mathematics,36.9
+2017,Basic Education Statistics Booklet,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,49.6
+2018,Basic Education Statistics Booklet,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,42.1
+2019,Basic Education Statistics Booklet,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,47.7
+2020,Basic Education Statistics Booklet,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,52.2
+2023,Basic Education Statistics Booklet,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,37.9
+2017,Basic Education Statistics Booklet,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,52.7
+2018,Basic Education Statistics Booklet,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,44.1
+2019,Basic Education Statistics Booklet,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,50.8
+2020,Basic Education Statistics Booklet,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,57.6
+2023,Basic Education Statistics Booklet,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,36.0
+2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,,,Lower secondary education,Skill: Mathematics,6.2
+2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,Female,,Lower secondary education,Skill: Mathematics,4.3
+2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,Male,,Lower secondary education,Skill: Mathematics,8.0
