@@ -41,7 +41,7 @@ src_dir: ''
 inputs:
   - class: InputSdmxMl_Multiple
     path_pattern: 'data/*.xml'
-    dsd: 'LocalRegistry.xml'
+    dsd: 'Kenya-SDG-DSD-1.0.xml'
     dimension_map:
       REF_AREA|KE: ''
     drop_dimensions:
@@ -90,7 +90,7 @@ translations:
     tag: 2.3.0
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputSdmx
-    source: 'LocalRegistry.xml'
+    source: 'Kenya-SDG-DSD-1.0.xml'
 
 # Reporting status extra fields
 # -----------------------------
