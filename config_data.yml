@@ -90,7 +90,7 @@ translations:
     tag: 2.3.0
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputSdmx
-    source: 'LocalRegistry.xml'
+    source: 'Kenya-SDG-DSD-1.0.xml'
 
 # Reporting status extra fields
 # -----------------------------
