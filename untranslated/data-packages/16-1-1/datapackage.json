@@ -15,25 +15,25 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
-                "18-25",
-                "25-59",
-                "60 years old and over",
+                "Y0T17",
+                "Y18T25",
+                "Y25T59",
+                "Y_GE60",
                 ""
               ]
             }

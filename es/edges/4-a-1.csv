@@ -1,4 +1,3 @@
 From,To
 SOURCE_DETAIL,COMMENT_OBS
-Education level,SOURCE_DETAIL
-SDG Series,Education level
+EDUCATION_LEV,SOURCE_DETAIL

@@ -16,24 +16,24 @@
             "title": "Año"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "256 Kbps",
-                "512 Kbps",
-                "1 Mbps (< 2 mbps)",
-                "2 Mbps",
-                ">2Mbps",
-                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
-                ">10 Mbps - <30 Mbps",
-                ">30 Mbps - <100 Mbps",
-                "> 100 Mbps - 1 Gbps",
-                "> 1 Gbps",
+                "IS_256K",
+                "IS_512K",
+                "IS_1MT2M",
+                "IS_2M",
+                "IS_GE2M",
+                "IS_2MT10M",
+                "IS_10MT30M",
+                "IS_30MT100M",
+                "IS_100MT1G",
+                "IS_GE1G",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

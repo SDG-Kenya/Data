@@ -16,17 +16,17 @@
             "title": "Año"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic",
-                "Domestic (Sewer)",
-                "Domestic (Septic tank)",
+                "WW_DOM",
+                "WW_DOM_SEW",
+                "WW_DOM_SPT",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

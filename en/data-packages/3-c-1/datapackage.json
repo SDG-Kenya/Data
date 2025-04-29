@@ -38,7 +38,7 @@
             "title": "Source details"
           },
           {
-            "name": "Occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [

@@ -16,18 +16,23 @@
             "title": "Año"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Nairobi",
-                "Mombasa",
-                "Kisumu",
-                "Nakuru",
+                "KE_NBO",
+                "KE_MBA",
+                "KE_KIS",
+                "KE_NUU",
                 ""
               ]
             },
-            "title": "Reference area"
+            "title": "REF_AREA"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

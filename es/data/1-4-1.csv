@@ -1,14 +1,14 @@
-Year,SDG Series,COMMENT_OBS,Value
-2014,Proportion of population using basic drinking water services [1.4.1],,60.3
-2022,Proportion of population using basic drinking water services [1.4.1],,67.9
-2014,Proportion of population using basic sanitation services [1.4.1],,24.7
-2022,Proportion of population using basic sanitation services [1.4.1],,40.9
-2014,Proportion of population using basic hygiene services,Access to a handwashing station with soap and water at home,16.6
-2022,Proportion of population using basic hygiene services,Access to a handwashing station with soap and water at home,51.3
-2014,Proportion of population using clean fuels and technologies,,11.9
-2016,Proportion of population using clean fuels and technologies,,14.6
-2018,Proportion of population using clean fuels and technologies,,19.8
-2019,Proportion of population using clean fuels and technologies,,25.4
-2020,Proportion of population using clean fuels and technologies,,23.1
-2021,Proportion of population using clean fuels and technologies,,27.2
-2022,Proportion of population using clean fuels and technologies,,21.2
+Year,SERIES,COMMENT_OBS,Value
+2014,SP_ACS_BSRVH2O,,60.3
+2022,SP_ACS_BSRVH2O,,67.9
+2014,SP_ACS_BSRVSAN,,24.7
+2022,SP_ACS_BSRVSAN,,40.9
+2014,_L_KE_010401_01,Access to a handwashing station with soap and water at home,16.6
+2022,_L_KE_010401_01,Access to a handwashing station with soap and water at home,51.3
+2014,_L_KE_010401_03,,11.9
+2016,_L_KE_010401_03,,14.6
+2018,_L_KE_010401_03,,19.8
+2019,_L_KE_010401_03,,25.4
+2020,_L_KE_010401_03,,23.1
+2021,_L_KE_010401_03,,27.2
+2022,_L_KE_010401_03,,21.2

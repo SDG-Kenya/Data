@@ -15,40 +15,40 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 6 years old",
-                "6-13 years",
-                "14-17 years",
-                "under 18 years old",
-                "15 to 24 years old",
-                "18-34 years",
-                "15 to 64 years old",
-                "65 years old and over",
+                "Y0T5",
+                "Y6T13",
+                "Y14T17",
+                "Y0T17",
+                "Y15T24",
+                "Y18T34",
+                "Y15T64",
+                "Y_GE65",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }

@@ -1,5 +1,5 @@
-Year,Reference area,Value
-2019,Nairobi,66
-2019,Mombasa,20
-2019,Kisumu,10
-2019,Nakuru,16
+Year,Reference area,GeoCode,Value
+2019,Nairobi,KE_NBO,66
+2019,Mombasa,KE_MBA,20
+2019,Kisumu,KE_KIS,10
+2019,Nakuru,KE_NUU,16

@@ -15,24 +15,24 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 19 years old",
-                "20-34",
-                "35 to 49 years old",
+                "Y15T19",
+                "Y20T34",
+                "Y35T49",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }

@@ -32,27 +32,27 @@
             "title": "COMMENT_OBS"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "URBANISATION"
           },
           {
-            "name": "Income or wealth quantile",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bottom 40%",
+                "B40",
                 ""
               ]
             },
-            "title": "Income or wealth quantile"
+            "title": "INCOME_WEALTH_QUANTILE"
           },
           {
             "name": "Value",

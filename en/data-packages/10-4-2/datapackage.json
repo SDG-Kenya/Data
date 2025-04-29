@@ -16,16 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Change in GINI",
-                "Pre-fiscal GINI index",
-                "Post-fiscal GINI index",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {

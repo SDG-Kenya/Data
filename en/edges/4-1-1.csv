@@ -1,5 +1,5 @@
 From,To
 Source details,Education level
-Composite breakdown,Sex
-Composite breakdown,Degree of urbanisation
-Education level,Composite breakdown
+COMPOSITE_BREAKDOWN,Sex
+COMPOSITE_BREAKDOWN,Degree of urbanisation
+Education level,COMPOSITE_BREAKDOWN

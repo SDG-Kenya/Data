@@ -1,43 +1,43 @@
-Year,SOURCE_DETAIL,SDG Series,Value
-2014,Economic Survey,Proportion of domestic budget funded by domestic taxes [17.1.2],59.6
-2015,Economic Survey,Proportion of domestic budget funded by domestic taxes [17.1.2],53.0
-2016,Economic Survey,Proportion of domestic budget funded by domestic taxes [17.1.2],58.2
-2017,Economic Survey,Proportion of domestic budget funded by domestic taxes [17.1.2],59.1
-2018,Economic Survey,Proportion of domestic budget funded by domestic taxes [17.1.2],54.8
-2019,Economic Survey,Proportion of domestic budget funded by domestic taxes [17.1.2],64.0
-2020,Economic Survey,Proportion of domestic budget funded by domestic taxes [17.1.2],59.0
-2021,Economic Survey,Proportion of domestic budget funded by domestic taxes [17.1.2],59.7
-2022,Economic Survey,Proportion of domestic budget funded by domestic taxes [17.1.2],65.9
-2023,Economic Survey,Proportion of domestic budget funded by domestic taxes [17.1.2],65.3
-2016,,Proportion of domestic budget funded by tax on income,27.9
-2017,,Proportion of domestic budget funded by tax on income,27.5
-2018,,Proportion of domestic budget funded by tax on income,24.9
-2019,,Proportion of domestic budget funded by tax on income,23.8
-2020,,Proportion of domestic budget funded by tax on income,27.2
-2021,,Proportion of domestic budget funded by tax on income,25.4
-2022,,Proportion of domestic budget funded by tax on income,29.3
-2023,,Proportion of domestic budget funded by tax on income,29.9
-2016,,Proportion of domestic budget funded by value added tax,14.3
-2017,,Proportion of domestic budget funded by value added tax,14.9
-2018,,Proportion of domestic budget funded by value added tax,13.9
-2019,,Proportion of domestic budget funded by value added tax,14.4
-2020,,Proportion of domestic budget funded by value added tax,14.8
-2021,,Proportion of domestic budget funded by value added tax,15.0
-2022,,Proportion of domestic budget funded by value added tax,17.5
-2023,,Proportion of domestic budget funded by value added tax,17.5
-2016,,Proportion of domestic budget funded by tax on other goods and services,13.6
-2017,,Proportion of domestic budget funded by tax on other goods and services,11.0
-2018,,Proportion of domestic budget funded by tax on other goods and services,10.7
-2019,,Proportion of domestic budget funded by tax on other goods and services,10.2
-2020,,Proportion of domestic budget funded by tax on other goods and services,11.2
-2021,,Proportion of domestic budget funded by tax on other goods and services,12.8
-2022,,Proportion of domestic budget funded by tax on other goods and services,12.2
-2023,,Proportion of domestic budget funded by tax on other goods and services,11.9
-2016,,Proportion of domestic budget funded by taxes on international trade,5.1
-2017,,Proportion of domestic budget funded by taxes on international trade,5.8
-2018,,Proportion of domestic budget funded by taxes on international trade,5.4
-2019,,Proportion of domestic budget funded by taxes on international trade,5.3
-2020,,Proportion of domestic budget funded by taxes on international trade,5.8
-2021,,Proportion of domestic budget funded by taxes on international trade,6.5
-2022,,Proportion of domestic budget funded by taxes on international trade,6.9
-2023,,Proportion of domestic budget funded by taxes on international trade,5.9
+Year,SOURCE_DETAIL,SERIES,Value
+2014,Economic Survey,GC_GOB_TAXD,59.6
+2015,Economic Survey,GC_GOB_TAXD,53.0
+2016,Economic Survey,GC_GOB_TAXD,58.2
+2017,Economic Survey,GC_GOB_TAXD,59.1
+2018,Economic Survey,GC_GOB_TAXD,54.8
+2019,Economic Survey,GC_GOB_TAXD,64.0
+2020,Economic Survey,GC_GOB_TAXD,59.0
+2021,Economic Survey,GC_GOB_TAXD,59.7
+2022,Economic Survey,GC_GOB_TAXD,65.9
+2023,Economic Survey,GC_GOB_TAXD,65.3
+2016,,_L_KE_170102_01,27.9
+2017,,_L_KE_170102_01,27.5
+2018,,_L_KE_170102_01,24.9
+2019,,_L_KE_170102_01,23.8
+2020,,_L_KE_170102_01,27.2
+2021,,_L_KE_170102_01,25.4
+2022,,_L_KE_170102_01,29.3
+2023,,_L_KE_170102_01,29.9
+2016,,_L_KE_170102_02,14.3
+2017,,_L_KE_170102_02,14.9
+2018,,_L_KE_170102_02,13.9
+2019,,_L_KE_170102_02,14.4
+2020,,_L_KE_170102_02,14.8
+2021,,_L_KE_170102_02,15.0
+2022,,_L_KE_170102_02,17.5
+2023,,_L_KE_170102_02,17.5
+2016,,_L_KE_170102_03,13.6
+2017,,_L_KE_170102_03,11.0
+2018,,_L_KE_170102_03,10.7
+2019,,_L_KE_170102_03,10.2
+2020,,_L_KE_170102_03,11.2
+2021,,_L_KE_170102_03,12.8
+2022,,_L_KE_170102_03,12.2
+2023,,_L_KE_170102_03,11.9
+2016,,_L_KE_170102_04,5.1
+2017,,_L_KE_170102_04,5.8
+2018,,_L_KE_170102_04,5.4
+2019,,_L_KE_170102_04,5.3
+2020,,_L_KE_170102_04,5.8
+2021,,_L_KE_170102_04,6.5
+2022,,_L_KE_170102_04,6.9
+2023,,_L_KE_170102_04,5.9

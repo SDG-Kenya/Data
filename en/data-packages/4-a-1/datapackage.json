@@ -39,19 +39,12 @@
             "title": "Source details"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of schools with access to electricity, by education level [4.a.1]",
-                "Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [

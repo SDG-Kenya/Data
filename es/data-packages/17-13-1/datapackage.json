@@ -31,53 +31,14 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Personal transfers, received (% of GDP)",
-                "Current account balance as a proportion of GDP (%) [17.13.1]",
-                "Foreign direct investment, net inflows, as a proportion of GDP (%) [17.13.1]",
-                "Portfolio investment, net (Balance of Payments, current United States dollars) [17.13.1]",
-                "Total reserves in months of imports",
-                "Debt service on external debt, total (% exports and primary income)",
-                "External debt stocks as a proportion of GNI (%) [17.13.1]",
-                "Official exchange rate (LCU per US$, period average annual)",
-                "Commodity Prices (Export/import)",
-                "Annual broad money growth (%) [17.13.1]",
-                "Broad money to total reserves ratio [17.13.1]",
-                "Bank nonperforming loans to total gross loans (%)",
-                "Bank capital to assets ratio (%) [17.13.1]",
-                "Annual GDP growth (%) [17.13.1]",
-                "Tax revenue as a proportion of GDP (%) [17.13.1]",
-                "Overall Fiscal Balance (% of GDP):",
-                "Gross public sector debt, Central Government, as a proportion of GDP (%) [17.13.1]",
-                "Annual growth of the gross capital formation (%) [17.13.1]",
-                "Annual growth of households and NPISHs final consumption expenditure [17.13.1]",
-                "Annual growth of the general government final consumption expenditure (%) [17.13.1]",
-                "Annual growth of exports of goods and services (%) [17.13.1]",
-                "Annual growth of imports of goods and services (%) [17.13.1]",
-                "Annual inflation, consumer prices (%) [17.13.1]",
-                "Unemployment rate",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "USD",
-                "Months",
-                "Kenyan Shillings to US Dollars",
-                "Index",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "COMMENT_OBS",

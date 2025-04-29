@@ -27,7 +27,7 @@
             "title": "Observation-level footnotes"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -39,7 +39,7 @@
             "title": "Sex"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -51,7 +51,7 @@
             "title": "Degree of urbanisation"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [

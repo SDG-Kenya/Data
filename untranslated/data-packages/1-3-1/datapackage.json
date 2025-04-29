@@ -25,24 +25,16 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population covered by at least one social protection benefit [1.3.1]",
-                "Proportion of population with severe disabilities receiving disability cash benefit [1.3.1]",
-                "Proportion of population above statutory pensionable age receiving a pension [1.3.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }

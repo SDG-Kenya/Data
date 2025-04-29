@@ -16,54 +16,54 @@
             "title": "Año"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "(3-4)",
-                "5 to 9 years old",
-                "10 to 14 years old",
-                "15 to 19 years old",
-                "20 to 24 years old",
-                "25 to 29 years old",
-                "30 to 34 years old",
-                "35 to 39 years old",
-                "40 to 44 years old",
-                "45 to 49 years old",
-                "50 to 54 years old",
-                "55 to 59 years old",
-                "60 to 64 years old",
-                "65 to 69 years old",
-                "70 to 74 years old",
-                "75 years old and over",
+                "Y3T4",
+                "Y5T9",
+                "Y10T14",
+                "Y15T19",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49",
+                "Y50T54",
+                "Y55T59",
+                "Y60T64",
+                "Y65T69",
+                "Y70T74",
+                "Y_GE75",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "URBANISATION"
           },
           {
             "name": "Value",

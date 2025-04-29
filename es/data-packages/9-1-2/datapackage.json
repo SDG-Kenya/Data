@@ -28,43 +28,28 @@
             "title": "UNIT_MULT"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Passenger volumes, by mode of transport (000 Passenger)",
-                "Freight volumes, by mode of transport (000 Passenger)",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mode of Transport: Rail",
-                "Mode of Transport: Air",
-                "Water",
-                "Mode of Transport: Road",
+                "MOT_RAI",
+                "MOT_AIR",
+                "MOT_IWW_SEA",
+                "MOT_ROA",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Metric Tons",
-                "Kenyan Shillings",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "COMMENT_OBS",

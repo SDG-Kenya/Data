@@ -1,5 +1,5 @@
-Year,SOURCE_DETAIL,Reference area,Value
-2019,Nairobi City County,Nairobi,16.4
-2019,Mombasa County,Mombasa,9.5
-2019,Kisumu County,Kisumu,67.1
-2019,Nakuru Coutny,Nakuru,0.1
+Year,SOURCE_DETAIL,REF_AREA,GeoCode,Value
+2019,Nairobi City County,KE_NBO,KE_NBO,16.4
+2019,Mombasa County,KE_MBA,KE_MBA,9.5
+2019,Kisumu County,KE_KIS,KE_KIS,67.1
+2019,Nakuru Coutny,KE_NUU,KE_NUU,0.1

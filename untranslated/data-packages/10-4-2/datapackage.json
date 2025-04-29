@@ -15,16 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Change in GINI",
-                "Pre-fiscal GINI index",
-                "Post-fiscal GINI index",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

@@ -30,7 +30,7 @@
             "title": "Source details"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
@@ -42,6 +42,11 @@
               ]
             },
             "title": "Reference area"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

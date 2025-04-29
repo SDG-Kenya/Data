@@ -16,16 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary government expenditures as a proportion of original approved budget [16.6.1]",
-                "Primary government expenditures as a proportion of original approved budget- Recurrent",
-                "Primary government expenditures as a proportion of original approved budget- Development",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {

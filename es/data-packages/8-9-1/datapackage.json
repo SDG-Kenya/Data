@@ -27,16 +27,9 @@
             "title": "COMMENT_OBS"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Tourism direct GDP as a proportion of total GDP [8.9.1]",
-                "Tourism direct GDP in growth rate",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
             "name": "Value",

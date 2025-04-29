@@ -1,40 +1,40 @@
 Value,Disaggregation combinations using this value,Number of indicators
-10 to 14 years old,3,3
-14-17 years,2,2
-15 to 17 years old,1,1
-15 to 19 years old,13,9
-15 to 24 years old,5,3
-15 to 64 years old,2,2
-18-25,3,3
-18-34 years,3,3
-18 to 44 years old,2,1
-20-34,1,1
-20 to 24 years old,11,7
-25-59,1,1
-25 to 29 years old,11,7
-25 to 44 years old,3,1
-26-35,1,1
-(3-4),1,1
-30 to 34 years old,11,7
-35-59,1,1
-35 to 39 years old,11,7
-35 to 49 years old,1,1
-36-45,1,1
-40 to 44 years old,11,7
-45 to 49 years old,11,7
-45 to 54 years old,3,1
-46-55,1,1
-5 to 9 years old,2,2
-50 to 54 years old,2,2
-55 to 59 years old,2,2
-55 to 64 years old,3,1
-56 years old and over,1,1
-6-13 years,2,2
-60 to 64 years old,2,2
-60 years old and over,2,2
-65 to 69 years old,1,1
-65 years old and over,5,3
-70 to 74 years old,1,1
-75 years old and over,1,1
-under 18 years old,4,4
-under 6 years old,2,2
+Y0T17,4,4
+Y0T5,2,2
+Y10T14,3,3
+Y14T17,2,2
+Y15T17,1,1
+Y15T19,13,9
+Y15T24,5,3
+Y15T64,2,2
+Y18T25,3,3
+Y18T34,3,3
+Y18T44,2,1
+Y20T24,11,7
+Y20T34,1,1
+Y25T29,11,7
+Y25T44,3,1
+Y25T59,1,1
+Y26T35,1,1
+Y30T34,11,7
+Y35T39,11,7
+Y35T49,1,1
+Y35T59,1,1
+Y36T45,1,1
+Y3T4,1,1
+Y40T44,11,7
+Y45T49,11,7
+Y45T54,3,1
+Y46T55,1,1
+Y50T54,2,2
+Y55T59,2,2
+Y55T64,3,1
+Y5T9,2,2
+Y60T64,2,2
+Y65T69,1,1
+Y6T13,2,2
+Y70T74,1,1
+Y_GE56,1,1
+Y_GE60,2,2
+Y_GE65,5,3
+Y_GE75,1,1

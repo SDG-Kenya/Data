@@ -1,29 +1,29 @@
-Year,SDG Series,Sex,Degree of urbanisation,Value
-2014,Proportion of children moderately or severely wasted [2.2.2],,,4.0
-2016,Proportion of children moderately or severely wasted [2.2.2],,,6.3
-2022,Proportion of children moderately or severely wasted [2.2.2],,,4.9
-2014,Proportion of children moderately or severely wasted [2.2.2],,Rural,4.4
-2016,Proportion of children moderately or severely wasted [2.2.2],,Rural,6.5
-2022,Proportion of children moderately or severely wasted [2.2.2],,Rural,5.3
-2014,Proportion of children moderately or severely wasted [2.2.2],,Urban,3.4
-2016,Proportion of children moderately or severely wasted [2.2.2],,Urban,5.1
-2022,Proportion of children moderately or severely wasted [2.2.2],,Urban,4.0
-2014,Proportion of children moderately or severely wasted [2.2.2],Female,,3.7
-2016,Proportion of children moderately or severely wasted [2.2.2],Female,,5.8
-2022,Proportion of children moderately or severely wasted [2.2.2],Female,,4.3
-2014,Proportion of children moderately or severely wasted [2.2.2],Male,,4.4
-2016,Proportion of children moderately or severely wasted [2.2.2],Male,,6.7
-2022,Proportion of children moderately or severely wasted [2.2.2],Male,,5.4
-2014,Proportion of children moderately or severely overweight [2.2.2],,,22.7
-2016,Proportion of children moderately or severely overweight [2.2.2],,,4.9
-2022,Proportion of children moderately or severely overweight [2.2.2],,,3.2
-2014,Proportion of children moderately or severely overweight [2.2.2],,Rural,18.8
-2022,Proportion of children moderately or severely overweight [2.2.2],,Rural,2.8
-2014,Proportion of children moderately or severely overweight [2.2.2],,Urban,28.6
-2022,Proportion of children moderately or severely overweight [2.2.2],,Urban,4.0
-2014,Proportion of children moderately or severely overweight [2.2.2],Female,,3.5
-2016,Proportion of children moderately or severely overweight [2.2.2],Female,,6.5
-2022,Proportion of children moderately or severely overweight [2.2.2],Female,,3.6
-2014,Proportion of children moderately or severely overweight [2.2.2],Male,,4.7
-2016,Proportion of children moderately or severely overweight [2.2.2],Male,,4.7
-2022,Proportion of children moderately or severely overweight [2.2.2],Male,,2.9
+Year,SERIES,SEX,URBANISATION,Value
+2014,SH_STA_WAST,,,4.0
+2016,SH_STA_WAST,,,6.3
+2022,SH_STA_WAST,,,4.9
+2014,SH_STA_WAST,,R,4.4
+2016,SH_STA_WAST,,R,6.5
+2022,SH_STA_WAST,,R,5.3
+2014,SH_STA_WAST,,U,3.4
+2016,SH_STA_WAST,,U,5.1
+2022,SH_STA_WAST,,U,4.0
+2014,SH_STA_WAST,F,,3.7
+2016,SH_STA_WAST,F,,5.8
+2022,SH_STA_WAST,F,,4.3
+2014,SH_STA_WAST,M,,4.4
+2016,SH_STA_WAST,M,,6.7
+2022,SH_STA_WAST,M,,5.4
+2014,SN_STA_OVWGT,,,22.7
+2016,SN_STA_OVWGT,,,4.9
+2022,SN_STA_OVWGT,,,3.2
+2014,SN_STA_OVWGT,,R,18.8
+2022,SN_STA_OVWGT,,R,2.8
+2014,SN_STA_OVWGT,,U,28.6
+2022,SN_STA_OVWGT,,U,4.0
+2014,SN_STA_OVWGT,F,,3.5
+2016,SN_STA_OVWGT,F,,6.5
+2022,SN_STA_OVWGT,F,,3.6
+2014,SN_STA_OVWGT,M,,4.7
+2016,SN_STA_OVWGT,M,,4.7
+2022,SN_STA_OVWGT,M,,2.9

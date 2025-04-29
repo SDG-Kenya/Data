@@ -25,34 +25,12 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
-                "Number of deaths, missing persons and directly affected persons attributed to disasters",
-                "Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",
-                "Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
-                "Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",
-                "Number of persons displaced attributed to disasters",
-                "Number of directly affected persons attributed to disasters",
-                "Number of deaths from disaster per 100,000 people",
-                "Number of households displaced as a result of disaster",
-                "Number of households affected by disaster",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per million population",
-                "Number",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",

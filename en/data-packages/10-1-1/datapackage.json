@@ -32,7 +32,7 @@
             "title": "Observation-level footnotes"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -44,7 +44,7 @@
             "title": "Degree of urbanisation"
           },
           {
-            "name": "Income or wealth quantile",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [

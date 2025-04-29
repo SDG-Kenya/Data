@@ -27,40 +27,40 @@
             "title": "COMMENT_OBS"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "URBANISATION"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary education, sufficient for level completion",
-                "Secondary",
+                "ISCED11A_1",
+                "_L_KE_3",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "EDUCATION_LEV"
           },
           {
             "name": "Value",

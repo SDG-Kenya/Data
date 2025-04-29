@@ -15,15 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of members of developing countries in international organizations, by organization [10.6.1, 16.8.1]",
-                "Proportion of voting rights of developing countries in international organizations, by organization [10.6.1, 16.8.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",

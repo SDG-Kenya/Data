@@ -15,13 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-primary education",
-                "Primary education",
-                "Secondary education (lower and upper secondary education)",
+                "ISCED11_02",
+                "ISCED11_1",
+                "AGG_2_3",
                 ""
               ]
             }

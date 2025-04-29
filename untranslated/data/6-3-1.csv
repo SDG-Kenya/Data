@@ -1,6 +1,6 @@
-Year,Composite breakdown,Value
-2020,Domestic,9.4
-2022,Domestic,11.0
-2020,Domestic (Sewer),53.3
-2022,Domestic (Sewer),50.0
-2022,Domestic (Septic tank),39.1
+Year,COMPOSITE_BREAKDOWN,Value
+2020,WW_DOM,9.4
+2022,WW_DOM,11.0
+2020,WW_DOM_SEW,53.3
+2022,WW_DOM_SEW,50.0
+2022,WW_DOM_SPT,39.1

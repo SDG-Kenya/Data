@@ -31,53 +31,53 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "URBANISATION"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Grade 2/3",
-                "Primary education, sufficient for level completion",
-                "Lower secondary education",
+                "_L_KE_1",
+                "ISCED11A_1",
+                "ISCED11_2",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "EDUCATION_LEV"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Skill: Reading",
-                "Skill: Mathematics",
+                "SKILL_READ",
+                "SKILL_MATH",
                 ""
               ]
             },
-            "title": "Composite breakdown"
+            "title": "COMPOSITE_BREAKDOWN"
           },
           {
             "name": "Value",

@@ -17,12 +17,12 @@
             "type": "integer"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -50,40 +50,40 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 6 years old",
-                "6-13 years",
-                "14-17 years",
-                "under 18 years old",
-                "15 to 24 years old",
-                "18-34 years",
-                "15 to 64 years old",
-                "65 years old and over",
+                "Y0T5",
+                "Y6T13",
+                "Y14T17",
+                "Y0T17",
+                "Y15T24",
+                "Y18T34",
+                "Y15T64",
+                "Y_GE65",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -133,37 +133,30 @@
             }
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of children living in child-specific multidimensional poverty [1.2.2]",
-                "Proportion of population living in multidimensional poverty [1.2.2]",
+                "Y0T17",
+                "Y18T25",
+                "Y18T34",
+                "Y35T59",
+                "Y_GE60",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
-                "18-25",
-                "18-34 years",
-                "35-59",
-                "60 years old and over",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Degree of urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -201,24 +194,16 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population covered by at least one social protection benefit [1.3.1]",
-                "Proportion of population with severe disabilities receiving disability cash benefit [1.3.1]",
-                "Proportion of population above statutory pensionable age receiving a pension [1.3.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -257,17 +242,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population using basic drinking water services [1.4.1]",
-                "Proportion of population using basic sanitation services [1.4.1]",
-                "Proportion of population using basic hygiene services",
-                "Proportion of population using clean fuels and technologies",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "COMMENT_OBS",
@@ -302,12 +278,12 @@
             "type": "integer"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -345,34 +321,12 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
-                "Number of deaths, missing persons and directly affected persons attributed to disasters",
-                "Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",
-                "Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
-                "Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",
-                "Number of persons displaced attributed to disasters",
-                "Number of directly affected persons attributed to disasters",
-                "Number of deaths from disaster per 100,000 people",
-                "Number of households displaced as a result of disaster",
-                "Number of households affected by disaster",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per million population",
-                "Number",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -407,34 +361,12 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
-                "Number of deaths, missing persons and directly affected persons attributed to disasters",
-                "Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",
-                "Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
-                "Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",
-                "Number of persons displaced attributed to disasters",
-                "Number of directly affected persons attributed to disasters",
-                "Number of deaths from disaster per 100,000 people",
-                "Number of households displaced as a result of disaster",
-                "Number of households affected by disaster",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per million population",
-                "Number",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -469,34 +401,12 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
-                "Number of deaths, missing persons and directly affected persons attributed to disasters",
-                "Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",
-                "Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
-                "Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",
-                "Number of persons displaced attributed to disasters",
-                "Number of directly affected persons attributed to disasters",
-                "Number of deaths from disaster per 100,000 people",
-                "Number of households displaced as a result of disaster",
-                "Number of households affected by disaster",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per million population",
-                "Number",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -587,16 +497,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",
-                "Proportion of total government spending on essential services, health [1.a.2]",
-                "Proportion of total government spending on essential services, social protection [1.a.2]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -632,12 +534,12 @@
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -665,23 +567,16 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prevalence of moderate or severe food insecurity in the population [2.1.2]",
-                "Prevalence of severe food insecurity in the population [2.1.2]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -709,23 +604,23 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -753,34 +648,27 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of children moderately or severely wasted [2.2.2]",
-                "Proportion of children moderately or severely overweight [2.2.2]",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Degree of urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -896,28 +784,28 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 19 years old",
-                "20 to 24 years old",
-                "25 to 29 years old",
-                "30 to 34 years old",
-                "35 to 39 years old",
-                "40 to 44 years old",
-                "45 to 49 years old",
+                "Y15T19",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -945,24 +833,24 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 19 years old",
-                "20-34",
-                "35 to 49 years old",
+                "Y15T19",
+                "Y20T34",
+                "Y35T49",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -990,23 +878,23 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -1034,23 +922,23 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -1078,12 +966,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -1221,12 +1109,12 @@
             "type": "integer"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -1265,12 +1153,12 @@
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "10 to 14 years old",
-                "15 to 19 years old",
+                "Y10T14",
+                "Y15T19",
                 ""
               ]
             }
@@ -1298,15 +1186,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2]",
-                "Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1331,12 +1212,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -1364,17 +1245,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1]",
-                "Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1]",
-                "Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1]",
-                "Proportion of the target population covered by all vaccines included in their national programme [3.b.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1441,15 +1313,15 @@
             }
           },
           {
-            "name": "Occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Medical doctors",
-                "Nursing personnel",
-                "Dentists",
-                "Pharmacists",
-                "Pharmaceutical Technologists",
+                "ISCO08_221",
+                "ISCO08_2221_3221",
+                "ISCO08_2261",
+                "ISCO08_2262",
+                "ISCO08_3213",
                 ""
               ]
             }
@@ -1491,46 +1363,46 @@
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Grade 2/3",
-                "Primary education, sufficient for level completion",
-                "Lower secondary education",
+                "_L_KE_1",
+                "ISCED11A_1",
+                "ISCED11_2",
                 ""
               ]
             }
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Skill: Reading",
-                "Skill: Mathematics",
+                "SKILL_READ",
+                "SKILL_MATH",
                 ""
               ]
             }
@@ -1568,34 +1440,34 @@
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary education, sufficient for level completion",
-                "Secondary",
+                "ISCED11A_1",
+                "_L_KE_3",
                 ""
               ]
             }
@@ -1623,12 +1495,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -1639,7 +1511,7 @@
           }
         ]
       },
-      "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi"
+      "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex"
     },
     {
       "path": "4-2-2/data.csv",
@@ -1656,23 +1528,23 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -1700,22 +1572,22 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -1743,15 +1615,15 @@
             "type": "integer"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-primary education",
-                "Primary education",
-                "Secondary",
-                "Middle-Level Colleges",
-                "University",
+                "ISCED11_02",
+                "ISCED11_1",
+                "_L_KE_3",
+                "_L_KE_4",
+                "_L_KE_6",
                 ""
               ]
             }
@@ -1800,23 +1672,16 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of schools with access to electricity, by education level [4.a.1]",
-                "Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary education",
-                "Secondary",
+                "ISCED11_1",
+                "_L_KE_3",
                 ""
               ]
             }
@@ -1844,13 +1709,13 @@
             "type": "integer"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-primary education",
-                "Primary education",
-                "Secondary education (lower and upper secondary education)",
+                "ISCED11_02",
+                "ISCED11_1",
+                "AGG_2_3",
                 ""
               ]
             }
@@ -1890,42 +1755,32 @@
             }
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1]",
-                "Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]",
-                "Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1]",
-                "Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]",
-                "Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months",
+                "Y15T19",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 19 years old",
-                "20 to 24 years old",
-                "25 to 29 years old",
-                "30 to 34 years old",
-                "35 to 39 years old",
-                "40 to 44 years old",
-                "45 to 49 years old",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Degree of urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -1953,28 +1808,28 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 19 years old",
-                "20 to 24 years old",
-                "25 to 29 years old",
-                "30 to 34 years old",
-                "35 to 39 years old",
-                "40 to 44 years old",
-                "45 to 49 years old",
+                "Y15T19",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -2002,15 +1857,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1]",
-                "Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2035,28 +1883,28 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 19 years old",
-                "20 to 24 years old",
-                "25 to 29 years old",
-                "30 to 34 years old",
-                "35 to 39 years old",
-                "40 to 44 years old",
-                "45 to 49 years old",
+                "Y15T19",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -2084,37 +1932,37 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 24 years old",
-                "25 to 44 years old",
-                "45 to 54 years old",
-                "55 to 64 years old",
-                "65 years old and over",
+                "Y15T24",
+                "Y25T44",
+                "Y45T54",
+                "Y55T64",
+                "Y_GE65",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -2142,24 +1990,17 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]",
-                "Proportion of seats held by women in local governments (% of total number of seats) [5.5.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Governors",
-                "Deputy Governors",
-                "Members of County Assembly",
+                "_L_KE_ISCO08_1111_05",
+                "_L_KE_ISCO08_1111_06",
+                "_L_KE_ISCO08_1111_03",
                 ""
               ]
             }
@@ -2209,63 +2050,43 @@
             }
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",
-                "Ratio for female members of legislature compared to the  National distribution",
-                "Ratio for female members of legislature compared to the  National distribution, Senate",
-                "Ratio for female members of legislature compared to the  National distribution, Parliament",
-                "Ratio for female members of legislature compared to the  National distribution, County Assembly",
-                "Ratio for female members of legislature compared to the  National distribution, Speakers",
-                "Ratio for female members of legislature compared to the  National distribution, Clerks",
-                "Ratio for female members of judiciary compared to the  National distribution",
+                "Y18T44",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "18 to 44 years old",
+                "ISCO08_2612",
+                "ISCO08_2619R",
                 ""
               ]
             }
           },
           {
-            "name": "Occupation",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Judges",
-                "Registrars included in 2619 - Legal Professionals Not Elsewhere Classified",
+                "PD",
                 ""
               ]
             }
           },
           {
-            "name": "Disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Persons with disability",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Ratio",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2290,12 +2111,12 @@
             "type": "integer"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Public Sector",
-                "Private Sector",
+                "PWSM_PUBLIC",
+                "PWSM_PRIVATE",
                 ""
               ]
             }
@@ -2323,28 +2144,28 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 19 years old",
-                "20 to 24 years old",
-                "25 to 29 years old",
-                "30 to 34 years old",
-                "35 to 39 years old",
-                "40 to 44 years old",
-                "45 to 49 years old",
+                "Y15T19",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -2383,35 +2204,27 @@
             }
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1]",
-                "Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",
-                "Share of men among owners or rights-bearers of agricultural land, by type of tenure",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Degree of urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -2449,23 +2262,23 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -2493,23 +2306,16 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of household using safely managed drinking water services",
-                "Proportion of population using safely managed drinking water services [6.1.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -2561,25 +2367,16 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of households using safely managed sanitation services",
-                "Proportion of population using safely managed sanitation services [6.2.1]",
-                "Proportion of households with basic handwashing facilities on premises",
-                "Proportion of population with basic handwashing facilities on premises [6.2.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -2607,13 +2404,13 @@
             "type": "integer"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic",
-                "Domestic (Sewer)",
-                "Domestic (Septic tank)",
+                "WW_DOM",
+                "WW_DOM_SEW",
+                "WW_DOM_SPT",
                 ""
               ]
             }
@@ -2641,17 +2438,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of bodies of water with good ambient water quality [6.3.2]",
-                "Proportion of open water bodies with good ambient water quality [6.3.2]",
-                "Proportion of river water bodies with good ambient water quality [6.3.2]",
-                "Proportion of groundwater bodies with good ambient water quality [6.3.2]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2742,15 +2530,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2]",
-                "Proportion of transboundary river and lake basins with an operational arrangement for water cooperation [6.5.2]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -2841,25 +2622,16 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of household with access to electricity",
-                "Proportion of population with access to electricity [7.1.1]",
-                "Proportion of households with access to electricity (Grid and Solar Systems)",
-                "Proportion of population with access to electricity (Grid and Solar Systems)",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -2887,23 +2659,16 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of household with primary reliance on clean fuels and technology",
-                "Proportion of population with primary reliance on clean fuels and technology [7.1.2]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -3063,42 +2828,42 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 19 years old",
-                "20 to 24 years old",
-                "25 to 29 years old",
-                "30 to 34 years old",
-                "35 to 39 years old",
-                "40 to 44 years old",
-                "45 to 49 years old",
-                "50 to 54 years old",
-                "55 to 59 years old",
-                "60 to 64 years old",
+                "Y15T19",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49",
+                "Y50T54",
+                "Y55T59",
+                "Y60T64",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -3126,23 +2891,23 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -3170,60 +2935,46 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of children engaged in economic activity and household chores [8.7.1]",
-                "Number of children engaged in economic activity and household chores [8.7.1]",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Y5T9",
+                "Y10T14",
+                "Y15T17",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "5 to 9 years old",
-                "10 to 14 years old",
-                "15 to 17 years old",
+                "R",
+                "U",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Number",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3280,15 +3031,8 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tourism direct GDP as a proportion of total GDP [8.9.1]",
-                "Tourism direct GDP in growth rate",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3313,15 +3057,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of commercial bank branches per 100,000 adults [8.10.1]",
-                "Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3346,37 +3083,37 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "18-25",
-                "26-35",
-                "36-45",
-                "46-55",
-                "56 years old and over",
+                "Y18T25",
+                "Y26T35",
+                "Y36T45",
+                "Y46T55",
+                "Y_GE56",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -3459,40 +3196,25 @@
             }
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "Passenger volumes, by mode of transport (000 Passenger)",
-                "Freight volumes, by mode of transport (000 Passenger)",
+                "MOT_RAI",
+                "MOT_AIR",
+                "MOT_IWW_SEA",
+                "MOT_ROA",
                 ""
               ]
             }
           },
           {
-            "name": "Composite breakdown",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mode of Transport: Rail",
-                "Mode of Transport: Air",
-                "Water",
-                "Mode of Transport: Road",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Metric Tons",
-                "Kenyan Shillings",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "COMMENT_OBS",
@@ -3540,26 +3262,12 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufacturing value added as a proportion of GDP [9.2.1]",
-                "Manufacturing value added per capita [9.2.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Kenyan Shillings",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3716,16 +3424,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population covered by at least a 2G mobile network [9.c.1]",
-                "Proportion of population covered by at least a 3G mobile network [9.c.1]",
-                "Proportion of population covered by at least a 4G mobile network [9.c.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3765,22 +3465,22 @@
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
           },
           {
-            "name": "Income or wealth quantile",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bottom 40%",
+                "B40",
                 ""
               ]
             }
@@ -3808,29 +3508,29 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 6 years old",
-                "6-13 years",
-                "under 18 years old",
-                "14-17 years",
-                "15 to 24 years old",
-                "18-34 years",
-                "15 to 64 years old",
-                "65 years old and over",
+                "Y0T5",
+                "Y6T13",
+                "Y0T17",
+                "Y14T17",
+                "Y15T24",
+                "Y18T34",
+                "Y15T64",
+                "Y_GE65",
                 ""
               ]
             }
@@ -3880,16 +3580,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Change in GINI",
-                "Pre-fiscal GINI index",
-                "Post-fiscal GINI index",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3914,19 +3606,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Regulatory capital to assets (%) [10.5.1]",
-                "Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1]",
-                "Non-performing loans net of provisions to capital (%) [10.5.1]",
-                "Non-performing loans to total gross loans (%) [10.5.1]",
-                "Return on assets (%) [10.5.1]",
-                "Net open position in foreign exchange to capital (%) [10.5.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3951,15 +3632,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of members of developing countries in international organizations, by organization [10.6.1, 16.8.1]",
-                "Proportion of voting rights of developing countries in international organizations, by organization [10.6.1, 16.8.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3984,15 +3658,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of members of developing countries in international organizations, by organization [10.6.1, 16.8.1]",
-                "Proportion of voting rights of developing countries in international organizations, by organization [10.6.1, 16.8.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4116,26 +3783,12 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total resource flows for development, by recipient and donor countries [10.b.1]",
-                "Remittance costs as a proportion of the amount remitted",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenyan Shillings",
-                "Percent",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4175,19 +3828,8 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of urban population living in slums [11.1.1]",
-                "Proportion of urban population living in slums (One Shelter Deprivation)",
-                "Proportion of urban population living in slums (Two Shelter Deprivation)",
-                "Proportion of urban population living in slums(Three Shelter Deprivation)",
-                "Proportion of urban population living in slums (Four Shelter Deprivation)",
-                "Proportion of urban population living in slums (Any Shelter Deprivation) - Slum dwellers",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4212,17 +3854,21 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Nairobi",
-                "Mombasa",
-                "Kisumu",
-                "Nakuru",
+                "KE_NBO",
+                "KE_MBA",
+                "KE_KIS",
+                "KE_NUU",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4247,17 +3893,21 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Nairobi",
-                "Mombasa",
-                "Kisumu",
-                "Nakuru",
+                "KE_NBO",
+                "KE_MBA",
+                "KE_KIS",
+                "KE_NUU",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4317,17 +3967,21 @@
             }
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Nairobi",
-                "Mombasa",
-                "Kisumu",
-                "Nakuru",
+                "KE_NBO",
+                "KE_MBA",
+                "KE_KIS",
+                "KE_NUU",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4365,17 +4019,21 @@
             }
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Nairobi",
-                "Mombasa",
-                "Kisumu",
-                "Nakuru",
+                "KE_NBO",
+                "KE_MBA",
+                "KE_KIS",
+                "KE_NUU",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4796,15 +4454,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]",
-                "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -4917,25 +4568,25 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
-                "18-25",
-                "25-59",
-                "60 years old and over",
+                "Y0T17",
+                "Y18T25",
+                "Y25T59",
+                "Y_GE60",
                 ""
               ]
             }
@@ -4963,23 +4614,23 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -5029,12 +4680,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -5062,12 +4713,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -5161,16 +4812,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary government expenditures as a proportion of original approved budget [16.6.1]",
-                "Primary government expenditures as a proportion of original approved budget- Recurrent",
-                "Primary government expenditures as a proportion of original approved budget- Development",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5217,23 +4860,23 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -5261,20 +4904,8 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",
-                "Number of cases of killings of human rights defenders, journalists and trade unionists [16.10.1]",
-                "Number of cases of kidnappings of human rights defenders, journalists and trade unionists",
-                "Number of cases of enforced disappearance of human rights defenders, journalists and trade unionists [16.10.1]",
-                "Number of cases of arbitrary detentions of human rights defenders, journalists and trade unionists",
-                "Number of cases of torture of human rights defenders, journalists and trade unionists",
-                "Number of cases of violations of human rights of human rights defenders, journalists and trade unionists",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5341,18 +4972,8 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total government revenue as a proportion of GDP [17.1.1]",
-                "Government revenue from domestic taxes as a proportion of GDP",
-                "Government revenue from social contributions as a proportion of GDP",
-                "Government revenue from grants as a proportion of GDP",
-                "Government revenue from  other sources as a proportion of GDP",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5387,18 +5008,8 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of domestic budget funded by domestic taxes [17.1.2]",
-                "Proportion of domestic budget funded by tax on income",
-                "Proportion of domestic budget funded by value added tax",
-                "Proportion of domestic budget funded by tax on other goods and services",
-                "Proportion of domestic budget funded by taxes on international trade",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5489,20 +5100,20 @@
             "type": "integer"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "256 Kbps",
-                "512 Kbps",
-                "1 Mbps (< 2 mbps)",
-                "2 Mbps",
-                ">2Mbps",
-                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
-                ">10 Mbps - <30 Mbps",
-                ">30 Mbps - <100 Mbps",
-                "> 100 Mbps - 1 Gbps",
-                "> 1 Gbps",
+                "IS_256K",
+                "IS_512K",
+                "IS_1MT2M",
+                "IS_2M",
+                "IS_GE2M",
+                "IS_2MT10M",
+                "IS_10MT30M",
+                "IS_30MT100M",
+                "IS_100MT1G",
+                "IS_GE1G",
                 ""
               ]
             }
@@ -5530,48 +5141,48 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "(3-4)",
-                "5 to 9 years old",
-                "10 to 14 years old",
-                "15 to 19 years old",
-                "20 to 24 years old",
-                "25 to 29 years old",
-                "30 to 34 years old",
-                "35 to 39 years old",
-                "40 to 44 years old",
-                "45 to 49 years old",
-                "50 to 54 years old",
-                "55 to 59 years old",
-                "60 to 64 years old",
-                "65 to 69 years old",
-                "70 to 74 years old",
-                "75 years old and over",
+                "Y3T4",
+                "Y5T9",
+                "Y10T14",
+                "Y15T19",
+                "Y20T24",
+                "Y25T29",
+                "Y30T34",
+                "Y35T39",
+                "Y40T44",
+                "Y45T49",
+                "Y50T54",
+                "Y55T59",
+                "Y60T64",
+                "Y65T69",
+                "Y70T74",
+                "Y_GE75",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }
@@ -5657,51 +5268,12 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Personal transfers, received (% of GDP)",
-                "Current account balance as a proportion of GDP (%) [17.13.1]",
-                "Foreign direct investment, net inflows, as a proportion of GDP (%) [17.13.1]",
-                "Portfolio investment, net (Balance of Payments, current United States dollars) [17.13.1]",
-                "Total reserves in months of imports",
-                "Debt service on external debt, total (% exports and primary income)",
-                "External debt stocks as a proportion of GNI (%) [17.13.1]",
-                "Official exchange rate (LCU per US$, period average annual)",
-                "Commodity Prices (Export/import)",
-                "Annual broad money growth (%) [17.13.1]",
-                "Broad money to total reserves ratio [17.13.1]",
-                "Bank nonperforming loans to total gross loans (%)",
-                "Bank capital to assets ratio (%) [17.13.1]",
-                "Annual GDP growth (%) [17.13.1]",
-                "Tax revenue as a proportion of GDP (%) [17.13.1]",
-                "Overall Fiscal Balance (% of GDP):",
-                "Gross public sector debt, Central Government, as a proportion of GDP (%) [17.13.1]",
-                "Annual growth of the gross capital formation (%) [17.13.1]",
-                "Annual growth of households and NPISHs final consumption expenditure [17.13.1]",
-                "Annual growth of the general government final consumption expenditure (%) [17.13.1]",
-                "Annual growth of exports of goods and services (%) [17.13.1]",
-                "Annual growth of imports of goods and services (%) [17.13.1]",
-                "Annual inflation, consumer prices (%) [17.13.1]",
-                "Unemployment rate",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "USD",
-                "Months",
-                "Kenyan Shillings to US Dollars",
-                "Index",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "COMMENT_OBS",
@@ -5835,27 +5407,12 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]",
-                "Percentage birth registration",
-                "Percentage death registration",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Unit of measure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Boolean or binary measure",
-                "Percent",
-                ""
-              ]
-            }
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -5930,6 +5487,28 @@
         ]
       },
       "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
+    },
+    {
+      "path": "2-2-4/data.csv",
+      "name": "2-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Prevalence of minimum dietary diversity, by population group (children aged 6 to 23.9 months and non-pregnant women aged 15 to 49 years)"
     },
     {
       "path": "2-3-1/data.csv",
@@ -6480,6 +6059,28 @@
         ]
       },
       "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+    },
+    {
+      "path": "8-9-2/data.csv",
+      "name": "8-9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Employed persons in the tourism industries"
     },
     {
       "path": "8-b-1/data.csv",

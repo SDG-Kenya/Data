@@ -40,43 +40,36 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of children living in child-specific multidimensional poverty [1.2.2]",
-                "Proportion of population living in multidimensional poverty [1.2.2]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
-                "18-25",
-                "18-34 years",
-                "35-59",
-                "60 years old and over",
+                "Y0T17",
+                "Y18T25",
+                "Y18T34",
+                "Y35T59",
+                "Y_GE60",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "URBANISATION"
           },
           {
             "name": "Value",

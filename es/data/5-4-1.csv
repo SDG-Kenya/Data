@@ -1,25 +1,25 @@
-Year,Sex,Age,Degree of urbanisation,Value
+Year,SEX,AGE,URBANISATION,Value
 2021,,,,12.2
-2021,,,Rural,12.0
-2021,,,Urban,12.5
-2021,,15 to 24 years old,,12.7
-2021,,25 to 44 years old,,13.5
-2021,,45 to 54 years old,,10.5
-2021,,55 to 64 years old,,10.4
-2021,,65 years old and over,,8.5
-2021,Female,,,18.7
-2021,Female,,Rural,18.6
-2021,Female,,Urban,18.9
-2021,Female,15 to 24 years old,,19.1
-2021,Female,25 to 44 years old,,21.0
-2021,Female,45 to 54 years old,,16.4
-2021,Female,55 to 64 years old,,15.9
-2021,Female,65 years old and over,,12.0
-2021,Male,,,3.6
-2021,Male,,Rural,3.4
-2021,Male,,Urban,4.0
-2021,Male,15 to 24 years old,,4.2
-2021,Male,25 to 44 years old,,3.4
-2021,Male,45 to 54 years old,,3.6
-2021,Male,55 to 64 years old,,3.2
-2021,Male,65 years old and over,,3.3
+2021,,,R,12.0
+2021,,,U,12.5
+2021,,Y15T24,,12.7
+2021,,Y25T44,,13.5
+2021,,Y45T54,,10.5
+2021,,Y55T64,,10.4
+2021,,Y_GE65,,8.5
+2021,F,,,18.7
+2021,F,,R,18.6
+2021,F,,U,18.9
+2021,F,Y15T24,,19.1
+2021,F,Y25T44,,21.0
+2021,F,Y45T54,,16.4
+2021,F,Y55T64,,15.9
+2021,F,Y_GE65,,12.0
+2021,M,,,3.6
+2021,M,,R,3.4
+2021,M,,U,4.0
+2021,M,Y15T24,,4.2
+2021,M,Y25T44,,3.4
+2021,M,Y45T54,,3.6
+2021,M,Y55T64,,3.2
+2021,M,Y_GE65,,3.3

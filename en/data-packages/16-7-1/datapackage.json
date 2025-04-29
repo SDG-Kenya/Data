@@ -40,25 +40,12 @@
             "title": "Source details"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",
-                "Ratio for female members of legislature compared to the  National distribution",
-                "Ratio for female members of legislature compared to the  National distribution, Senate",
-                "Ratio for female members of legislature compared to the  National distribution, Parliament",
-                "Ratio for female members of legislature compared to the  National distribution, County Assembly",
-                "Ratio for female members of legislature compared to the  National distribution, Speakers",
-                "Ratio for female members of legislature compared to the  National distribution, Clerks",
-                "Ratio for female members of judiciary compared to the  National distribution",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -69,7 +56,7 @@
             "title": "Age"
           },
           {
-            "name": "Occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -81,7 +68,7 @@
             "title": "Occupation"
           },
           {
-            "name": "Disability status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -92,15 +79,8 @@
             "title": "Disability status"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Ratio",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

@@ -28,19 +28,12 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Passenger volumes, by mode of transport (000 Passenger)",
-                "Freight volumes, by mode of transport (000 Passenger)",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
@@ -54,16 +47,8 @@
             "title": "Composite breakdown"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Metric Tons",
-                "Kenyan Shillings",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

@@ -16,65 +16,51 @@
             "title": "Año"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of children engaged in economic activity and household chores [8.7.1]",
-                "Number of children engaged in economic activity and household chores [8.7.1]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "5 to 9 years old",
-                "10 to 14 years old",
-                "15 to 17 years old",
+                "Y5T9",
+                "Y10T14",
+                "Y15T17",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "URBANISATION"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "Number",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "Value",

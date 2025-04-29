@@ -36,23 +36,16 @@
             }
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of schools with access to electricity, by education level [4.a.1]",
-                "Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary education",
-                "Secondary",
+                "ISCED11_1",
+                "_L_KE_3",
                 ""
               ]
             }

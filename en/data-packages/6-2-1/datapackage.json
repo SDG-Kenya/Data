@@ -42,21 +42,12 @@
             "title": "Source details"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of households using safely managed sanitation services",
-                "Proportion of population using safely managed sanitation services [6.2.1]",
-                "Proportion of households with basic handwashing facilities on premises",
-                "Proportion of population with basic handwashing facilities on premises [6.2.1]",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [

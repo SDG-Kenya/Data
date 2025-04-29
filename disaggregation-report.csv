@@ -1,14 +1,12 @@
 Disaggregation,Number of indicators,Number of values
-Age,17,39
-Composite breakdown,5,21
-Degree of urbanisation,36,2
-Disability status,1,1
-Education level,5,9
-Income or wealth quantile,1,1
-Occupation,3,10
-Reference area,4,4
-SDG Series,42,153
-Sex,27,2
+AGE,17,39
+COMPOSITE_BREAKDOWN,5,21
+DISABILITY_STATUS,1,1
+EDUCATION_LEV,5,9
+INCOME_WEALTH_QUANTILE,1,1
+OCCUPATION,3,10
+REF_AREA,4,4
+SEX,27,2
 SOURCE_DETAIL,20,32
-Unit of measure,10,11
 UNIT_MULT,2,3
+URBANISATION,36,2

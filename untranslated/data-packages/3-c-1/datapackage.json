@@ -35,15 +35,15 @@
             }
           },
           {
-            "name": "Occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Medical doctors",
-                "Nursing personnel",
-                "Dentists",
-                "Pharmacists",
-                "Pharmaceutical Technologists",
+                "ISCO08_221",
+                "ISCO08_2221_3221",
+                "ISCO08_2261",
+                "ISCO08_2262",
+                "ISCO08_3213",
                 ""
               ]
             }

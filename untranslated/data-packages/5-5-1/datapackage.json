@@ -15,24 +15,17 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]",
-                "Proportion of seats held by women in local governments (% of total number of seats) [5.5.1]",
-                ""
-              ]
-            }
+            "name": "SERIES",
+            "type": "string"
           },
           {
-            "name": "Occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Governors",
-                "Deputy Governors",
-                "Members of County Assembly",
+                "_L_KE_ISCO08_1111_05",
+                "_L_KE_ISCO08_1111_06",
+                "_L_KE_ISCO08_1111_03",
                 ""
               ]
             }

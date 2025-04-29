@@ -1,25 +1,25 @@
-Year,SDG Series,Degree of urbanisation,Value
-2016,Prevalence of moderate or severe food insecurity in the population [2.1.2],,56.5
-2020,Prevalence of moderate or severe food insecurity in the population [2.1.2],,60.3
-2021,Prevalence of moderate or severe food insecurity in the population [2.1.2],,57.5
-2022,Prevalence of moderate or severe food insecurity in the population [2.1.2],,62.4
-2016,Prevalence of severe food insecurity in the population [2.1.2],,19.1
-2020,Prevalence of severe food insecurity in the population [2.1.2],,17.0
-2021,Prevalence of severe food insecurity in the population [2.1.2],,19.7
-2022,Prevalence of severe food insecurity in the population [2.1.2],,30.5
-2016,Prevalence of moderate or severe food insecurity in the population [2.1.2],Rural,58.5
-2020,Prevalence of moderate or severe food insecurity in the population [2.1.2],Rural,60.0
-2021,Prevalence of moderate or severe food insecurity in the population [2.1.2],Rural,61.7
-2022,Prevalence of moderate or severe food insecurity in the population [2.1.2],Rural,63.4
-2016,Prevalence of moderate or severe food insecurity in the population [2.1.2],Urban,44.2
-2020,Prevalence of moderate or severe food insecurity in the population [2.1.2],Urban,60.5
-2021,Prevalence of moderate or severe food insecurity in the population [2.1.2],Urban,48.5
-2022,Prevalence of moderate or severe food insecurity in the population [2.1.2],Urban,52.2
-2016,Prevalence of severe food insecurity in the population [2.1.2],Rural,21.5
-2020,Prevalence of severe food insecurity in the population [2.1.2],Rural,18.0
-2021,Prevalence of severe food insecurity in the population [2.1.2],Rural,21.3
-2022,Prevalence of severe food insecurity in the population [2.1.2],Rural,33.9
-2016,Prevalence of severe food insecurity in the population [2.1.2],Urban,13.0
-2020,Prevalence of severe food insecurity in the population [2.1.2],Urban,15.9
-2021,Prevalence of severe food insecurity in the population [2.1.2],Urban,16.2
-2022,Prevalence of severe food insecurity in the population [2.1.2],Urban,22.0
+Year,SERIES,URBANISATION,Value
+2016,AG_PRD_FIESMS,,56.5
+2020,AG_PRD_FIESMS,,60.3
+2021,AG_PRD_FIESMS,,57.5
+2022,AG_PRD_FIESMS,,62.4
+2016,AG_PRD_FIESS,,19.1
+2020,AG_PRD_FIESS,,17.0
+2021,AG_PRD_FIESS,,19.7
+2022,AG_PRD_FIESS,,30.5
+2016,AG_PRD_FIESMS,R,58.5
+2020,AG_PRD_FIESMS,R,60.0
+2021,AG_PRD_FIESMS,R,61.7
+2022,AG_PRD_FIESMS,R,63.4
+2016,AG_PRD_FIESMS,U,44.2
+2020,AG_PRD_FIESMS,U,60.5
+2021,AG_PRD_FIESMS,U,48.5
+2022,AG_PRD_FIESMS,U,52.2
+2016,AG_PRD_FIESS,R,21.5
+2020,AG_PRD_FIESS,R,18.0
+2021,AG_PRD_FIESS,R,21.3
+2022,AG_PRD_FIESS,R,33.9
+2016,AG_PRD_FIESS,U,13.0
+2020,AG_PRD_FIESS,U,15.9
+2021,AG_PRD_FIESS,U,16.2
+2022,AG_PRD_FIESS,U,22.0

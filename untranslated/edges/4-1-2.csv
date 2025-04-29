@@ -1,4 +1,4 @@
 From,To
-Education level,COMMENT_OBS
-Education level,Sex
-Education level,Degree of urbanisation
+EDUCATION_LEV,COMMENT_OBS
+EDUCATION_LEV,SEX
+EDUCATION_LEV,URBANISATION

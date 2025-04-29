@@ -15,34 +15,27 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of children moderately or severely wasted [2.2.2]",
-                "Proportion of children moderately or severely overweight [2.2.2]",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Degree of urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }

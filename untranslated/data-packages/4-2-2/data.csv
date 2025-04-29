@@ -1,4 +1,4 @@
-Year,Sex,Degree of urbanisation,Value
+Year,SEX,URBANISATION,Value
 2014,,,71.8
 2015,,,74.6
 2016,,,74.9
@@ -6,9 +6,9 @@ Year,Sex,Degree of urbanisation,Value
 2018,,,77.2
 2019,,,73.8
 2022,,,87.9
-2019,,Rural,70.9
-2019,,Urban,81.9
-2019,Female,,73.8
-2022,Female,,88.8
-2019,Male,,73.9
-2022,Male,,86.9
+2019,,R,70.9
+2019,,U,81.9
+2019,F,,73.8
+2022,F,,88.8
+2019,M,,73.9
+2022,M,,86.9

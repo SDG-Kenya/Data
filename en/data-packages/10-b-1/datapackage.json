@@ -52,27 +52,13 @@
             "title": "Source details"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Total resource flows for development, by recipient and donor countries [10.b.1]",
-                "Remittance costs as a proportion of the amount remitted",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
-            "name": "Unit of measure",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenyan Shillings",
-                "Percent",
-                ""
-              ]
-            },
             "title": "Unit of measure"
           },
           {

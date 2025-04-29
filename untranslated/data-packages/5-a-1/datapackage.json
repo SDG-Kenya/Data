@@ -26,35 +26,27 @@
             }
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1]",
-                "Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",
-                "Share of men among owners or rights-bearers of agricultural land, by type of tenure",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Degree of urbanisation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rural",
-                "Urban",
+                "R",
+                "U",
                 ""
               ]
             }

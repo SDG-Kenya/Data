@@ -1,1 +1,33 @@
-Year,Value
+Year,Value,SERIES
+2016,16.2,Government revenue from domestic taxes as a proportion of GDP
+2017,15.9,Government revenue from domestic taxes as a proportion of GDP
+2018,15.1,Government revenue from domestic taxes as a proportion of GDP
+2019,15.1,Government revenue from domestic taxes as a proportion of GDP
+2020,14.3,Government revenue from domestic taxes as a proportion of GDP
+2021,13.6,Government revenue from domestic taxes as a proportion of GDP
+2022,14.6,Government revenue from domestic taxes as a proportion of GDP
+2023,13.6,Government revenue from domestic taxes as a proportion of GDP
+2016,0.0,Government revenue from social contributions as a proportion of GDP
+2017,0.0,Government revenue from social contributions as a proportion of GDP
+2018,0.0,Government revenue from social contributions as a proportion of GDP
+2019,0.0,Government revenue from social contributions as a proportion of GDP
+2020,0.0,Government revenue from social contributions as a proportion of GDP
+2021,0.0,Government revenue from social contributions as a proportion of GDP
+2022,0.0,Government revenue from social contributions as a proportion of GDP
+2023,0.0,Government revenue from social contributions as a proportion of GDP
+2016,0.4,Government revenue from grants as a proportion of GDP
+2017,0.3,Government revenue from grants as a proportion of GDP
+2018,0.3,Government revenue from grants as a proportion of GDP
+2019,0.5,Government revenue from grants as a proportion of GDP
+2020,0.2,Government revenue from grants as a proportion of GDP
+2021,0.3,Government revenue from grants as a proportion of GDP
+2022,0.2,Government revenue from grants as a proportion of GDP
+2023,0.2,Government revenue from grants as a proportion of GDP
+2016,0.2,Government revenue from  other sources as a proportion of GDP
+2017,1.1,Government revenue from  other sources as a proportion of GDP
+2018,1.2,Government revenue from  other sources as a proportion of GDP
+2019,1.6,Government revenue from  other sources as a proportion of GDP
+2020,2.5,Government revenue from  other sources as a proportion of GDP
+2021,1.4,Government revenue from  other sources as a proportion of GDP
+2022,1.7,Government revenue from  other sources as a proportion of GDP
+2023,1.6,Government revenue from  other sources as a proportion of GDP

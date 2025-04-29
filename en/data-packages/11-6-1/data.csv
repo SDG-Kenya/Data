@@ -1,26 +1,26 @@
-Year,Source details,Reference area,Value
-2014,Nairobi City County,Nairobi,44.0
-2016,Nairobi City County,Nairobi,56.6
-2017,Nairobi City County,Nairobi,53.6
-2018,Nairobi City County,Nairobi,57.4
-2019,Nairobi City County,Nairobi,75.2
-2020,Nairobi City County,Nairobi,75.2
-2021,Nairobi City County,Nairobi,76.7
-2022,Nairobi City County,Nairobi,74.3
-2023,Nairobi City County,Nairobi,86.0
-2017,Mombasa County,Mombasa,25.1
-2018,Mombasa County,Mombasa,56.0
-2019,Mombasa County,Mombasa,46.1
-2020,Mombasa County,Mombasa,46.0
-2021,Mombasa County,Mombasa,56.5
-2022,Mombasa County,Mombasa,65.0
-2023,Mombasa County,Mombasa,58.3
-2017,Kisumu County,Kisumu,30.0
-2018,Kisumu County,Kisumu,30.0
-2019,Kisumu County,Kisumu,30.0
-2020,Kisumu County,Kisumu,30.0
-2021,Kisumu County,Kisumu,30.0
-2022,Kisumu County,Kisumu,30.1
-2023,Kisumu County,Kisumu,30.0
-2022,Nakuru Coutny,Nakuru,60.0
-2023,Nakuru Coutny,Nakuru,60.0
+Year,Source details,Reference area,GeoCode,Value
+2014,Nairobi City County,Nairobi,KE_NBO,44.0
+2016,Nairobi City County,Nairobi,KE_NBO,56.6
+2017,Nairobi City County,Nairobi,KE_NBO,53.6
+2018,Nairobi City County,Nairobi,KE_NBO,57.4
+2019,Nairobi City County,Nairobi,KE_NBO,75.2
+2020,Nairobi City County,Nairobi,KE_NBO,75.2
+2021,Nairobi City County,Nairobi,KE_NBO,76.7
+2022,Nairobi City County,Nairobi,KE_NBO,74.3
+2023,Nairobi City County,Nairobi,KE_NBO,86.0
+2017,Mombasa County,Mombasa,KE_MBA,25.1
+2018,Mombasa County,Mombasa,KE_MBA,56.0
+2019,Mombasa County,Mombasa,KE_MBA,46.1
+2020,Mombasa County,Mombasa,KE_MBA,46.0
+2021,Mombasa County,Mombasa,KE_MBA,56.5
+2022,Mombasa County,Mombasa,KE_MBA,65.0
+2023,Mombasa County,Mombasa,KE_MBA,58.3
+2017,Kisumu County,Kisumu,KE_KIS,30.0
+2018,Kisumu County,Kisumu,KE_KIS,30.0
+2019,Kisumu County,Kisumu,KE_KIS,30.0
+2020,Kisumu County,Kisumu,KE_KIS,30.0
+2021,Kisumu County,Kisumu,KE_KIS,30.0
+2022,Kisumu County,Kisumu,KE_KIS,30.1
+2023,Kisumu County,Kisumu,KE_KIS,30.0
+2022,Nakuru Coutny,Nakuru,KE_NUU,60.0
+2023,Nakuru Coutny,Nakuru,KE_NUU,60.0

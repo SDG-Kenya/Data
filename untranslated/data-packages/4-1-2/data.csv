@@ -1,11 +1,11 @@
-Year,COMMENT_OBS,Sex,Degree of urbanisation,Education level,Value
-2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),,,"Primary education, sufficient for level completion",17.5
-2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),,Rural,"Primary education, sufficient for level completion",18.0
-2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),,Urban,"Primary education, sufficient for level completion",16.1
-2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),Female,,"Primary education, sufficient for level completion",17.4
-2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),Male,,"Primary education, sufficient for level completion",17.6
-2019,,,,Secondary,31.3
-2019,,,Rural,Secondary,25.1
-2019,,,Urban,Secondary,42.0
-2019,,Female,,Secondary,31.2
-2019,,Male,,Secondary,31.3
+Year,COMMENT_OBS,SEX,URBANISATION,EDUCATION_LEV,Value
+2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),,,ISCED11A_1,17.5
+2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),,R,ISCED11A_1,18.0
+2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),,U,ISCED11A_1,16.1
+2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),F,,ISCED11A_1,17.4
+2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),M,,ISCED11A_1,17.6
+2019,,,,_L_KE_3,31.3
+2019,,,R,_L_KE_3,25.1
+2019,,,U,_L_KE_3,42.0
+2019,,F,,_L_KE_3,31.2
+2019,,M,,_L_KE_3,31.3

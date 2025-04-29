@@ -27,18 +27,8 @@
             "title": "Source details"
           },
           {
-            "name": "SDG Series",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of domestic budget funded by domestic taxes [17.1.2]",
-                "Proportion of domestic budget funded by tax on income",
-                "Proportion of domestic budget funded by value added tax",
-                "Proportion of domestic budget funded by tax on other goods and services",
-                "Proportion of domestic budget funded by taxes on international trade",
-                ""
-              ]
-            },
             "title": "SDG Series"
           },
           {
