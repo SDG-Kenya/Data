@@ -16,6 +16,11 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
@@ -25,11 +30,6 @@
               ]
             },
             "title": "Source details"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
           },
           {
             "name": "Value",

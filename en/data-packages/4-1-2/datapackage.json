@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR)",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -55,12 +44,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary education, sufficient for level completion",
                 "Secondary",
+                "Primary education, sufficient for level completion",
                 ""
               ]
             },
             "title": "Education level"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR)",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

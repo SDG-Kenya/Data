@@ -1,76 +1,76 @@
-Year,SOURCE_DETAIL,SEX,URBANISATION,EDUCATION_LEV,COMPOSITE_BREAKDOWN,Value
-2015,2015: Uwezo Kenya Sixth Learning Assessment Report,,,_L_KE_1,SKILL_READ,39.9
-2018,2015: Uwezo Kenya Sixth Learning Assessment Report,,,_L_KE_1,SKILL_READ,52.7
-2023,2015: Uwezo Kenya Sixth Learning Assessment Report,,,_L_KE_1,SKILL_READ,78.4
-2015,2015: Uwezo Kenya Sixth Learning Assessment Report,F,,_L_KE_1,SKILL_READ,43.4
-2018,2015: Uwezo Kenya Sixth Learning Assessment Report,F,,_L_KE_1,SKILL_READ,58.5
-2023,2015: Uwezo Kenya Sixth Learning Assessment Report,F,,_L_KE_1,SKILL_READ,81.8
-2015,2015: Uwezo Kenya Sixth Learning Assessment Report,M,,_L_KE_1,SKILL_READ,36.3
-2018,2015: Uwezo Kenya Sixth Learning Assessment Report,M,,_L_KE_1,SKILL_READ,47.4
-2023,2015: Uwezo Kenya Sixth Learning Assessment Report,M,,_L_KE_1,SKILL_READ,75.1
-2014,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,47.6
-2015,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,52.8
-2016,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,53.0
-2017,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,52.2
-2018,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,52.7
-2019,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,51.5
-2020,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,52.8
-2021,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,53.2
-2022,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,53.1
-2023,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,25.5
-2017,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",F,,ISCED11A_1,SKILL_READ,47.8
-2018,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",F,,ISCED11A_1,SKILL_READ,54.8
-2019,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",F,,ISCED11A_1,SKILL_READ,53.5
-2020,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",F,,ISCED11A_1,SKILL_READ,53.8
-2023,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",F,,ISCED11A_1,SKILL_READ,27.2
-2017,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",M,,ISCED11A_1,SKILL_READ,47.4
-2018,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",M,,ISCED11A_1,SKILL_READ,54.6
-2019,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",M,,ISCED11A_1,SKILL_READ,53.8
-2020,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",M,,ISCED11A_1,SKILL_READ,53.2
-2023,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",M,,ISCED11A_1,SKILL_READ,23.9
-2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,,,ISCED11_2,SKILL_READ,39.9
-2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,F,,ISCED11_2,SKILL_READ,43.5
-2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,M,,ISCED11_2,SKILL_READ,36.3
-2015,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,_L_KE_1,SKILL_MATH,47.1
-2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,_L_KE_1,SKILL_MATH,71.1
-2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,_L_KE_1,SKILL_MATH,67.0
-2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,_L_KE_1,SKILL_MATH,76.1
-2023,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,_L_KE_1,SKILL_MATH,88.6
-2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,R,_L_KE_1,SKILL_MATH,71.9
-2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,R,_L_KE_1,SKILL_MATH,62.2
-2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,R,_L_KE_1,SKILL_MATH,73.2
-2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,U,_L_KE_1,SKILL_MATH,82.5
-2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,U,_L_KE_1,SKILL_MATH,75.7
-2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,U,_L_KE_1,SKILL_MATH,83.1
-2015,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",F,,_L_KE_1,SKILL_MATH,49.0
-2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",F,,_L_KE_1,SKILL_MATH,72.5
-2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",F,,_L_KE_1,SKILL_MATH,66.4
-2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",F,,_L_KE_1,SKILL_MATH,75.9
-2023,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",F,,_L_KE_1,SKILL_MATH,89.4
-2015,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",M,,_L_KE_1,SKILL_MATH,45.2
-2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",M,,_L_KE_1,SKILL_MATH,69.8
-2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",M,,_L_KE_1,SKILL_MATH,67.7
-2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",M,,_L_KE_1,SKILL_MATH,76.1
-2023,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",M,,_L_KE_1,SKILL_MATH,87.6
-2015,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,56.2
-2016,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,45.4
-2017,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,51.1
-2018,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,43.1
-2019,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,49.1
-2020,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,54.9
-2021,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,49.6
-2022,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,47.5
-2023,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,36.9
-2017,Basic Education Statistics Booklet,F,,ISCED11A_1,SKILL_MATH,49.6
-2018,Basic Education Statistics Booklet,F,,ISCED11A_1,SKILL_MATH,42.1
-2019,Basic Education Statistics Booklet,F,,ISCED11A_1,SKILL_MATH,47.7
-2020,Basic Education Statistics Booklet,F,,ISCED11A_1,SKILL_MATH,52.2
-2023,Basic Education Statistics Booklet,F,,ISCED11A_1,SKILL_MATH,37.9
-2017,Basic Education Statistics Booklet,M,,ISCED11A_1,SKILL_MATH,52.7
-2018,Basic Education Statistics Booklet,M,,ISCED11A_1,SKILL_MATH,44.1
-2019,Basic Education Statistics Booklet,M,,ISCED11A_1,SKILL_MATH,50.8
-2020,Basic Education Statistics Booklet,M,,ISCED11A_1,SKILL_MATH,57.6
-2023,Basic Education Statistics Booklet,M,,ISCED11A_1,SKILL_MATH,36.0
-2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,,,ISCED11_2,SKILL_MATH,6.2
-2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,F,,ISCED11_2,SKILL_MATH,4.3
-2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,M,,ISCED11_2,SKILL_MATH,8.0
+Year,SOURCE_DETAIL,SEX,URBANISATION,EDUCATION_LEV,COMPOSITE_BREAKDOWN,TIME_DETAIL,Value
+2015,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,_L_KE_1,SKILL_MATH,2023,47.1
+2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,_L_KE_1,SKILL_MATH,2023,71.1
+2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,_L_KE_1,SKILL_MATH,2023,67.0
+2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,_L_KE_1,SKILL_MATH,2023,76.1
+2023,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,,_L_KE_1,SKILL_MATH,2023,88.6
+2015,2015: Uwezo Kenya Sixth Learning Assessment Report,,,_L_KE_1,SKILL_READ,2023,39.9
+2018,2015: Uwezo Kenya Sixth Learning Assessment Report,,,_L_KE_1,SKILL_READ,2023,52.7
+2023,2015: Uwezo Kenya Sixth Learning Assessment Report,,,_L_KE_1,SKILL_READ,2023,78.4
+2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,,,ISCED11_2,SKILL_MATH,2018,6.2
+2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,,,ISCED11_2,SKILL_READ,2018,39.9
+2015,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,2023,56.2
+2016,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,2023,45.4
+2017,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,2023,51.1
+2018,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,2023,43.1
+2019,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,2023,49.1
+2020,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,2023,54.9
+2021,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,2023,49.6
+2022,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,2023,47.5
+2023,Basic Education Statistics Booklet,,,ISCED11A_1,SKILL_MATH,2023,36.9
+2014,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,2023,47.6
+2015,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,2023,52.8
+2016,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,2023,53.0
+2017,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,2023,52.2
+2018,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,2023,52.7
+2019,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,2023,51.5
+2020,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,2023,52.8
+2021,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,2023,53.2
+2022,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,2023,53.1
+2023,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",,,ISCED11A_1,SKILL_READ,2023,25.5
+2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,R,_L_KE_1,SKILL_MATH,2019,71.9
+2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,R,_L_KE_1,SKILL_MATH,2019,62.2
+2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,R,_L_KE_1,SKILL_MATH,2019,73.2
+2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,U,_L_KE_1,SKILL_MATH,2019,82.5
+2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,U,_L_KE_1,SKILL_MATH,2019,75.7
+2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",,U,_L_KE_1,SKILL_MATH,2019,83.1
+2015,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",F,,_L_KE_1,SKILL_MATH,2023,49.0
+2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",F,,_L_KE_1,SKILL_MATH,2023,72.5
+2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",F,,_L_KE_1,SKILL_MATH,2023,66.4
+2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",F,,_L_KE_1,SKILL_MATH,2023,75.9
+2023,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",F,,_L_KE_1,SKILL_MATH,2023,89.4
+2015,2015: Uwezo Kenya Sixth Learning Assessment Report,F,,_L_KE_1,SKILL_READ,2023,43.4
+2018,2015: Uwezo Kenya Sixth Learning Assessment Report,F,,_L_KE_1,SKILL_READ,2023,58.5
+2023,2015: Uwezo Kenya Sixth Learning Assessment Report,F,,_L_KE_1,SKILL_READ,2023,81.8
+2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,F,,ISCED11_2,SKILL_MATH,2018,4.3
+2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,F,,ISCED11_2,SKILL_READ,2018,43.5
+2017,Basic Education Statistics Booklet,F,,ISCED11A_1,SKILL_MATH,2023,49.6
+2018,Basic Education Statistics Booklet,F,,ISCED11A_1,SKILL_MATH,2023,42.1
+2019,Basic Education Statistics Booklet,F,,ISCED11A_1,SKILL_MATH,2023,47.7
+2020,Basic Education Statistics Booklet,F,,ISCED11A_1,SKILL_MATH,2023,52.2
+2023,Basic Education Statistics Booklet,F,,ISCED11A_1,SKILL_MATH,2023,37.9
+2017,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",F,,ISCED11A_1,SKILL_READ,2023,47.8
+2018,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",F,,ISCED11A_1,SKILL_READ,2023,54.8
+2019,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",F,,ISCED11A_1,SKILL_READ,2023,53.5
+2020,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",F,,ISCED11A_1,SKILL_READ,2023,53.8
+2023,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",F,,ISCED11A_1,SKILL_READ,2023,27.2
+2015,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",M,,_L_KE_1,SKILL_MATH,2023,45.2
+2017,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",M,,_L_KE_1,SKILL_MATH,2023,69.8
+2018,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",M,,_L_KE_1,SKILL_MATH,2023,67.7
+2019,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",M,,_L_KE_1,SKILL_MATH,2023,76.1
+2023,"Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",M,,_L_KE_1,SKILL_MATH,2023,87.6
+2015,2015: Uwezo Kenya Sixth Learning Assessment Report,M,,_L_KE_1,SKILL_READ,2023,36.3
+2018,2015: Uwezo Kenya Sixth Learning Assessment Report,M,,_L_KE_1,SKILL_READ,2023,47.4
+2023,2015: Uwezo Kenya Sixth Learning Assessment Report,M,,_L_KE_1,SKILL_READ,2023,75.1
+2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,M,,ISCED11_2,SKILL_MATH,2018,8.0
+2018,Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC,M,,ISCED11_2,SKILL_READ,2018,36.3
+2017,Basic Education Statistics Booklet,M,,ISCED11A_1,SKILL_MATH,2023,52.7
+2018,Basic Education Statistics Booklet,M,,ISCED11A_1,SKILL_MATH,2023,44.1
+2019,Basic Education Statistics Booklet,M,,ISCED11A_1,SKILL_MATH,2023,50.8
+2020,Basic Education Statistics Booklet,M,,ISCED11A_1,SKILL_MATH,2023,57.6
+2023,Basic Education Statistics Booklet,M,,ISCED11A_1,SKILL_MATH,2023,36.0
+2017,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",M,,ISCED11A_1,SKILL_READ,2023,47.4
+2018,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",M,,ISCED11A_1,SKILL_READ,2023,54.6
+2019,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",M,,ISCED11A_1,SKILL_READ,2023,53.8
+2020,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",M,,ISCED11A_1,SKILL_READ,2023,53.2
+2023,"Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",M,,ISCED11A_1,SKILL_READ,2023,23.9

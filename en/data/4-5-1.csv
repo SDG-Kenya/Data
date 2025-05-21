@@ -1,24 +1,4 @@
 Year,Education level,Value
-2014,Pre-primary education,1.05
-2015,Pre-primary education,0.97
-2016,Pre-primary education,0.96
-2017,Pre-primary education,0.96
-2018,Pre-primary education,0.96
-2019,Pre-primary education,0.96
-2020,Pre-primary education,0.97
-2021,Pre-primary education,1.0
-2022,Pre-primary education,1.01
-2023,Pre-primary education,1.01
-2014,Primary education,0.97
-2015,Primary education,0.97
-2016,Primary education,0.97
-2017,Primary education,0.97
-2018,Primary education,0.97
-2019,Primary education,0.97
-2020,Primary education,0.96
-2021,Primary education,0.96
-2022,Primary education,0.97
-2023,Primary education,0.96
 2014,Secondary,0.92
 2015,Secondary,0.9
 2016,Secondary,0.95
@@ -49,3 +29,23 @@ Year,Education level,Value
 2021,University,0.68
 2022,University,0.74
 2023,University,0.76
+2014,Pre-primary education,1.05
+2015,Pre-primary education,0.97
+2016,Pre-primary education,0.96
+2017,Pre-primary education,0.96
+2018,Pre-primary education,0.96
+2019,Pre-primary education,0.96
+2020,Pre-primary education,0.97
+2021,Pre-primary education,1.0
+2022,Pre-primary education,1.01
+2023,Pre-primary education,1.01
+2014,Primary education,0.97
+2015,Primary education,0.97
+2016,Primary education,0.97
+2017,Primary education,0.97
+2018,Primary education,0.97
+2019,Primary education,0.97
+2020,Primary education,0.96
+2021,Primary education,0.96
+2022,Primary education,0.97
+2023,Primary education,0.96

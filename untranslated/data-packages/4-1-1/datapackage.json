@@ -19,11 +19,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2015: Uwezo Kenya Sixth Learning Assessment Report",
-                "Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",
-                "Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC",
                 "Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",
+                "2015: Uwezo Kenya Sixth Learning Assessment Report",
+                "Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC",
                 "Basic Education Statistics Booklet",
+                "Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",
                 ""
               ]
             }
@@ -56,8 +56,8 @@
             "constraints": {
               "enum": [
                 "_L_KE_1",
-                "ISCED11A_1",
                 "ISCED11_2",
+                "ISCED11A_1",
                 ""
               ]
             }
@@ -67,8 +67,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SKILL_READ",
                 "SKILL_MATH",
+                "SKILL_READ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2023",
+                "2018",
+                "2019",
                 ""
               ]
             }

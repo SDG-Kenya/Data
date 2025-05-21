@@ -19,11 +19,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_02",
-                "ISCED11_1",
                 "_L_KE_3",
                 "_L_KE_4",
                 "_L_KE_6",
+                "ISCED11_02",
+                "ISCED11_1",
                 ""
               ]
             }

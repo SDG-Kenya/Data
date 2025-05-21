@@ -1,1 +1,1 @@
-{"data":{"Year":[2019,2019,2019,2019],"REF_AREA":["KE_NBO","KE_MBA","KE_KIS","KE_NUU"],"GeoCode":["KE_NBO","KE_MBA","KE_KIS","KE_NUU"],"Value":[66,20,10,16]},"edges":[]}
+{"data":{"Year":[2019,2019,2019,2019],"REF_AREA":["KE_KIS","KE_MBA","KE_NBO","KE_NUU"],"GeoCode":["KE_KIS","KE_MBA","KE_NBO","KE_NUU"],"Value":[10,20,66,16]},"edges":[]}

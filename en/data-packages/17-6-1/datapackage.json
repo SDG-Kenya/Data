@@ -20,20 +20,32 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "256 Kbps",
-                "512 Kbps",
-                "1 Mbps (< 2 mbps)",
-                "2 Mbps",
-                ">2Mbps",
-                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
-                ">10 Mbps - <30 Mbps",
-                ">30 Mbps - <100 Mbps",
                 "> 100 Mbps - 1 Gbps",
+                ">10 Mbps - <30 Mbps",
+                "1 Mbps (< 2 mbps)",
+                "256 Kbps",
+                "2 Mbps",
+                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
+                ">30 Mbps - <100 Mbps",
+                "512 Kbps",
                 "> 1 Gbps",
+                ">2Mbps",
                 ""
               ]
             },
             "title": "Composite breakdown"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2023",
+                "2018",
+                ""
+              ]
+            },
+            "title": "Time period details"
           },
           {
             "name": "Value",

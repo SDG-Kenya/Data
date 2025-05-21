@@ -15,6 +15,10 @@
             "type": "integer"
           },
           {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
@@ -33,10 +37,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "SERIES",
-            "type": "string"
           },
           {
             "name": "Value",

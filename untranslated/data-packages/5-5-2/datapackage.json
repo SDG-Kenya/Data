@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PWSM_PUBLIC",
                 "PWSM_PRIVATE",
+                "PWSM_PUBLIC",
                 ""
               ]
             }

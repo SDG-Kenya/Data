@@ -16,24 +16,13 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Include both elected and nominated seats",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Economic Survey",
                 "Parliamentary Service Commision; Council of Governors",
                 "Judiciary, SOJAR Report",
+                "Economic Survey",
                 ""
               ]
             },
@@ -82,6 +71,17 @@
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Include both elected and nominated seats",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
           },
           {
             "name": "Value",

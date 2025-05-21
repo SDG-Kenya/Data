@@ -7,14 +7,12 @@ Year,SOURCE_DETAIL,SERIES,UNIT_MEASURE,Value
 2018,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_02,NUMBER,1401058
 2019,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_02,NUMBER,1313374
 2021,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_02,NUMBER,1192393
-2018,Kenya National Disaster Operations Centre (NDOC),VC_DSR_MORT,NUMBER,187
-2019,Kenya National Disaster Operations Centre (NDOC),VC_DSR_MORT,NUMBER,305
-2021,Kenya National Disaster Operations Centre (NDOC),VC_DSR_MORT,NUMBER,139
-2018,Kenya National Disaster Operations Centre (NDOC),VC_DSR_IJILN,NUMBER,56
-2019,Kenya National Disaster Operations Centre (NDOC),VC_DSR_IJILN,NUMBER,82
-2021,Kenya National Disaster Operations Centre (NDOC),VC_DSR_IJILN,NUMBER,17
-2019,Kenya National Disaster Operations Centre (NDOC),VC_DSR_MISS,NUMBER,17
-2021,Kenya National Disaster Operations Centre (NDOC),VC_DSR_MISS,NUMBER,1
+2018,,_L_KE_010501_03,NUMBER,269515
+2019,,_L_KE_010501_03,NUMBER,396855
+2021,,_L_KE_010501_03,NUMBER,158472
+2018,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_04,NUMBER,1131300
+2019,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_04,NUMBER,916115
+2021,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_04,NUMBER,1033764
 2018,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_06,NUMBER,269515
 2019,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_06,NUMBER,396855
 2021,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_06,NUMBER,158472
@@ -24,9 +22,11 @@ Year,SOURCE_DETAIL,SERIES,UNIT_MEASURE,Value
 2018,,_L_KE_130101_03,NUMBER,187
 2019,,_L_KE_130101_03,NUMBER,305
 2021,,_L_KE_130101_03,NUMBER,139
-2018,,_L_KE_010501_03,NUMBER,269515
-2019,,_L_KE_010501_03,NUMBER,396855
-2021,,_L_KE_010501_03,NUMBER,158472
-2018,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_04,NUMBER,1131300
-2019,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_04,NUMBER,916115
-2021,Kenya National Disaster Operations Centre (NDOC),_L_KE_010501_04,NUMBER,1033764
+2018,Kenya National Disaster Operations Centre (NDOC),VC_DSR_IJILN,NUMBER,56
+2019,Kenya National Disaster Operations Centre (NDOC),VC_DSR_IJILN,NUMBER,82
+2021,Kenya National Disaster Operations Centre (NDOC),VC_DSR_IJILN,NUMBER,17
+2019,Kenya National Disaster Operations Centre (NDOC),VC_DSR_MISS,NUMBER,17
+2021,Kenya National Disaster Operations Centre (NDOC),VC_DSR_MISS,NUMBER,1
+2018,Kenya National Disaster Operations Centre (NDOC),VC_DSR_MORT,NUMBER,187
+2019,Kenya National Disaster Operations Centre (NDOC),VC_DSR_MORT,NUMBER,305
+2021,Kenya National Disaster Operations Centre (NDOC),VC_DSR_MORT,NUMBER,139

@@ -30,10 +30,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Y_GE60",
                 "Y0T17",
                 "Y18T25",
                 "Y25T59",
-                "Y_GE60",
                 ""
               ]
             }

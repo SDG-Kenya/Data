@@ -23,9 +23,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_L_KE_ISCO08_1111_03",
                 "_L_KE_ISCO08_1111_05",
                 "_L_KE_ISCO08_1111_06",
-                "_L_KE_ISCO08_1111_03",
                 ""
               ]
             }

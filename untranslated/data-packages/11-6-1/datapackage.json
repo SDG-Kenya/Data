@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nairobi City County",
-                "Mombasa County",
                 "Kisumu County",
+                "Mombasa County",
+                "Nairobi City County",
                 "Nakuru Coutny",
                 ""
               ]
@@ -32,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KE_NBO",
-                "KE_MBA",
                 "KE_KIS",
+                "KE_MBA",
+                "KE_NBO",
                 "KE_NUU",
                 ""
               ]

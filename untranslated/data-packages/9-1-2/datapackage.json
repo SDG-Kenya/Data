@@ -34,9 +34,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MOT_RAI",
                 "MOT_AIR",
                 "MOT_IWW_SEA",
+                "MOT_RAI",
                 "MOT_ROA",
                 ""
               ]
@@ -52,8 +52,8 @@
             "constraints": {
               "enum": [
                 "Data collected from Kenya seaward border points for foreigners",
-                "Data from Mombasa, Lamu and Kisumu ports",
                 "Figures represent value of output of passengers/ freight",
+                "Data from Mombasa, Lamu and Kisumu ports",
                 ""
               ]
             }

@@ -40,6 +40,18 @@
             "title": "Degree of urbanisation"
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2022",
+                "2019",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

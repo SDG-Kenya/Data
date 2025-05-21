@@ -9,12 +9,9 @@ Year,Sex,Age,Degree of urbanisation,Value
 2016,,,Urban,86.3
 2019,,,Urban,91.2
 2021,,,Urban,91.7
-2016,Female,,,71.2
-2019,Female,,,80.4
-2021,Female,,,81.7
-2016,Male,,,79.7
-2019,Male,,,85.6
-2021,Male,,,85.9
+2016,,56 years old and over,,62.2
+2019,,56 years old and over,,73.9
+2021,,56 years old and over,,78.9
 2016,,18-25,,69.4
 2019,,18-25,,75.5
 2021,,18-25,,71.8
@@ -27,6 +24,9 @@ Year,Sex,Age,Degree of urbanisation,Value
 2016,,46-55,,78.2
 2019,,46-55,,87.5
 2021,,46-55,,89.9
-2016,,56 years old and over,,62.2
-2019,,56 years old and over,,73.9
-2021,,56 years old and over,,78.9
+2016,Female,,,71.2
+2019,Female,,,80.4
+2021,Female,,,81.7
+2016,Male,,,79.7
+2019,Male,,,85.6
+2021,Male,,,85.9

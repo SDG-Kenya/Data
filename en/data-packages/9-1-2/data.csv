@@ -1,24 +1,4 @@
 Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Observation-level footnotes,Value
-2014,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,3715.0
-2015,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,2288.0
-2016,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,2793.0
-2017,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,3096.0
-2018,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,4490.0
-2019,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,5624.0
-2020,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,2705.0
-2021,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,6491.0
-2022,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,5822.0
-2023,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,6183.0
-2014,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,1509.0
-2015,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,1542.0
-2016,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,1380.0
-2017,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,1147.0
-2018,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,3544.0
-2019,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,4826.0
-2020,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,5063.0
-2021,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,6051.0
-2022,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,6877.0
-2023,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,7534.0
 2014,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Number,,8882.0
 2015,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Number,,8993.2
 2016,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Number,,9791.9
@@ -29,16 +9,6 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Observation-level f
 2021,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Number,,6703.0
 2022,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Number,,10239.0
 2023,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Number,,12206.0
-2014,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,279.4
-2015,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,263.0
-2016,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,249.5
-2017,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,290.8
-2018,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,358.7
-2019,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,374.7
-2020,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,321.6
-2021,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,375.8
-2022,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,375.0
-2023,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,380.0
 2014,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Water,Number,Data collected from Kenya seaward border points for foreigners,1126.0
 2015,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Water,Number,Data collected from Kenya seaward border points for foreigners,5072.0
 2016,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Water,Number,Data collected from Kenya seaward border points for foreigners,2298.0
@@ -49,16 +19,16 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Observation-level f
 2021,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Water,Number,Data collected from Kenya seaward border points for foreigners,930.0
 2022,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Water,Number,Data collected from Kenya seaward border points for foreigners,4731.0
 2023,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Water,Number,Data collected from Kenya seaward border points for foreigners,3390.0
-2014,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",24875.0
-2015,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",26732.0
-2016,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",27384.0
-2017,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",30245.0
-2018,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",30934.0
-2019,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",34458.0
-2020,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",34162.0
-2021,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",34605.2
-2022,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",33939.0
-2023,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",36143.0
+2014,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,3715.0
+2015,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,2288.0
+2016,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,2793.0
+2017,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,3096.0
+2018,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,4490.0
+2019,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,5624.0
+2020,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,2705.0
+2021,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,6491.0
+2022,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,5822.0
+2023,Thousands,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Number,,6183.0
 2014,Millions,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Road,Kenyan Shillings,Figures represent value of output of passengers/ freight,313031.0
 2015,Millions,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Road,Kenyan Shillings,Figures represent value of output of passengers/ freight,322161.0
 2016,Millions,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Road,Kenyan Shillings,Figures represent value of output of passengers/ freight,333114.0
@@ -69,6 +39,36 @@ Year,Unit multiplier,SERIES,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Observation-level f
 2021,Millions,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Road,Kenyan Shillings,Figures represent value of output of passengers/ freight,993304.0
 2022,Millions,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Road,Kenyan Shillings,Figures represent value of output of passengers/ freight,1263157.0
 2023,Millions,"Passenger volumes, by mode of transport (000 Passenger)",Mode of Transport: Road,Kenyan Shillings,Figures represent value of output of passengers/ freight,1429139.0
+2014,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,279.4
+2015,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,263.0
+2016,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,249.5
+2017,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,290.8
+2018,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,358.7
+2019,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,374.7
+2020,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,321.6
+2021,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,375.8
+2022,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,375.0
+2023,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Air,Metric Tons,,380.0
+2014,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",24875.0
+2015,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",26732.0
+2016,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",27384.0
+2017,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",30245.0
+2018,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",30934.0
+2019,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",34458.0
+2020,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",34162.0
+2021,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",34605.2
+2022,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",33939.0
+2023,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Water,Metric Tons,"Data from Mombasa, Lamu and Kisumu ports",36143.0
+2014,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,1509.0
+2015,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,1542.0
+2016,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,1380.0
+2017,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,1147.0
+2018,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,3544.0
+2019,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,4826.0
+2020,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,5063.0
+2021,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,6051.0
+2022,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,6877.0
+2023,Thousands,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Rail,Metric Tons,,7534.0
 2014,Millions,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Road,Kenyan Shillings,,282695.0
 2015,Millions,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Road,Kenyan Shillings,,306884.0
 2016,Millions,"Freight volumes, by mode of transport (000 Passenger)",Mode of Transport: Road,Kenyan Shillings,,331370.0

@@ -1,43 +1,43 @@
-Year,Observation-level footnotes,Source details,SERIES,Value
-2014,Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,Total government revenue as a proportion of GDP [17.1.1],16.7
-2015,Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,Total government revenue as a proportion of GDP [17.1.1],16.6
-2016,Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,Total government revenue as a proportion of GDP [17.1.1],16.9
-2017,Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,Total government revenue as a proportion of GDP [17.1.1],17.3
-2018,Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,Total government revenue as a proportion of GDP [17.1.1],16.6
-2019,Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,Total government revenue as a proportion of GDP [17.1.1],17.1
-2020,Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,Total government revenue as a proportion of GDP [17.1.1],17.0
-2021,Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,Total government revenue as a proportion of GDP [17.1.1],15.3
-2022,Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,Total government revenue as a proportion of GDP [17.1.1],16.5
-2023,Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,Total government revenue as a proportion of GDP [17.1.1],15.4
-2016,,,Government revenue from domestic taxes as a proportion of GDP,16.2
-2017,,,Government revenue from domestic taxes as a proportion of GDP,15.9
-2018,,,Government revenue from domestic taxes as a proportion of GDP,15.1
-2019,,,Government revenue from domestic taxes as a proportion of GDP,15.1
-2020,,,Government revenue from domestic taxes as a proportion of GDP,14.3
-2021,,,Government revenue from domestic taxes as a proportion of GDP,13.6
-2022,,,Government revenue from domestic taxes as a proportion of GDP,14.6
-2023,,,Government revenue from domestic taxes as a proportion of GDP,13.6
-2016,,,Government revenue from social contributions as a proportion of GDP,0.0
-2017,,,Government revenue from social contributions as a proportion of GDP,0.0
-2018,,,Government revenue from social contributions as a proportion of GDP,0.0
-2019,,,Government revenue from social contributions as a proportion of GDP,0.0
-2020,,,Government revenue from social contributions as a proportion of GDP,0.0
-2021,,,Government revenue from social contributions as a proportion of GDP,0.0
-2022,,,Government revenue from social contributions as a proportion of GDP,0.0
-2023,,,Government revenue from social contributions as a proportion of GDP,0.0
-2016,,,Government revenue from grants as a proportion of GDP,0.4
-2017,,,Government revenue from grants as a proportion of GDP,0.3
-2018,,,Government revenue from grants as a proportion of GDP,0.3
-2019,,,Government revenue from grants as a proportion of GDP,0.5
-2020,,,Government revenue from grants as a proportion of GDP,0.2
-2021,,,Government revenue from grants as a proportion of GDP,0.3
-2022,,,Government revenue from grants as a proportion of GDP,0.2
-2023,,,Government revenue from grants as a proportion of GDP,0.2
-2016,,,Government revenue from  other sources as a proportion of GDP,0.2
-2017,,,Government revenue from  other sources as a proportion of GDP,1.1
-2018,,,Government revenue from  other sources as a proportion of GDP,1.2
-2019,,,Government revenue from  other sources as a proportion of GDP,1.6
-2020,,,Government revenue from  other sources as a proportion of GDP,2.5
-2021,,,Government revenue from  other sources as a proportion of GDP,1.4
-2022,,,Government revenue from  other sources as a proportion of GDP,1.7
-2023,,,Government revenue from  other sources as a proportion of GDP,1.6
+Year,SERIES,Observation-level footnotes,Source details,Value
+2016,Government revenue from domestic taxes as a proportion of GDP,,,16.2
+2017,Government revenue from domestic taxes as a proportion of GDP,,,15.9
+2018,Government revenue from domestic taxes as a proportion of GDP,,,15.1
+2019,Government revenue from domestic taxes as a proportion of GDP,,,15.1
+2020,Government revenue from domestic taxes as a proportion of GDP,,,14.3
+2021,Government revenue from domestic taxes as a proportion of GDP,,,13.6
+2022,Government revenue from domestic taxes as a proportion of GDP,,,14.6
+2023,Government revenue from domestic taxes as a proportion of GDP,,,13.6
+2016,Government revenue from social contributions as a proportion of GDP,,,0.0
+2017,Government revenue from social contributions as a proportion of GDP,,,0.0
+2018,Government revenue from social contributions as a proportion of GDP,,,0.0
+2019,Government revenue from social contributions as a proportion of GDP,,,0.0
+2020,Government revenue from social contributions as a proportion of GDP,,,0.0
+2021,Government revenue from social contributions as a proportion of GDP,,,0.0
+2022,Government revenue from social contributions as a proportion of GDP,,,0.0
+2023,Government revenue from social contributions as a proportion of GDP,,,0.0
+2016,Government revenue from grants as a proportion of GDP,,,0.4
+2017,Government revenue from grants as a proportion of GDP,,,0.3
+2018,Government revenue from grants as a proportion of GDP,,,0.3
+2019,Government revenue from grants as a proportion of GDP,,,0.5
+2020,Government revenue from grants as a proportion of GDP,,,0.2
+2021,Government revenue from grants as a proportion of GDP,,,0.3
+2022,Government revenue from grants as a proportion of GDP,,,0.2
+2023,Government revenue from grants as a proportion of GDP,,,0.2
+2016,Government revenue from  other sources as a proportion of GDP,,,0.2
+2017,Government revenue from  other sources as a proportion of GDP,,,1.1
+2018,Government revenue from  other sources as a proportion of GDP,,,1.2
+2019,Government revenue from  other sources as a proportion of GDP,,,1.6
+2020,Government revenue from  other sources as a proportion of GDP,,,2.5
+2021,Government revenue from  other sources as a proportion of GDP,,,1.4
+2022,Government revenue from  other sources as a proportion of GDP,,,1.7
+2023,Government revenue from  other sources as a proportion of GDP,,,1.6
+2014,Total government revenue as a proportion of GDP [17.1.1],Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,16.7
+2015,Total government revenue as a proportion of GDP [17.1.1],Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,16.6
+2016,Total government revenue as a proportion of GDP [17.1.1],Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,16.9
+2017,Total government revenue as a proportion of GDP [17.1.1],Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,17.3
+2018,Total government revenue as a proportion of GDP [17.1.1],Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,16.6
+2019,Total government revenue as a proportion of GDP [17.1.1],Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,17.1
+2020,Total government revenue as a proportion of GDP [17.1.1],Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,17.0
+2021,Total government revenue as a proportion of GDP [17.1.1],Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,15.3
+2022,Total government revenue as a proportion of GDP [17.1.1],Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,16.5
+2023,Total government revenue as a proportion of GDP [17.1.1],Total national revenue ( Including grants. GDP used is at market price.,Economic Survey,15.4

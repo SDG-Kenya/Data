@@ -25,9 +25,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Members of County Assembly",
                 "Governors",
                 "Deputy Governors",
-                "Members of County Assembly",
                 ""
               ]
             },

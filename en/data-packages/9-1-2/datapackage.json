@@ -37,9 +37,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mode of Transport: Rail",
                 "Mode of Transport: Air",
                 "Water",
+                "Mode of Transport: Rail",
                 "Mode of Transport: Road",
                 ""
               ]
@@ -57,8 +57,8 @@
             "constraints": {
               "enum": [
                 "Data collected from Kenya seaward border points for foreigners",
-                "Data from Mombasa, Lamu and Kisumu ports",
                 "Figures represent value of output of passengers/ freight",
+                "Data from Mombasa, Lamu and Kisumu ports",
                 ""
               ]
             },

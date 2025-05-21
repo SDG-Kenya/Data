@@ -15,12 +15,22 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2016: Share of  households with legal documents of agricultural (crop only) land by sex of the household head 2022 KDHS Did not measure tenure system",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2022 KCHS",
                 "2016:  KIHBS",
+                "2022 KCHS",
                 ""
               ]
             }
@@ -34,8 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
                 "M",
+                "F",
                 ""
               ]
             }
@@ -52,11 +62,12 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "2016: Share of  households with legal documents of agricultural (crop only) land by sex of the household head\n2022 KDHS Did not measure tenure system",
+                "2016",
+                "2022",
                 ""
               ]
             }

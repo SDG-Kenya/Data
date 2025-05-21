@@ -49,11 +49,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "60 years old and over",
                 "under 18 years old",
                 "18-25",
                 "18-34 years",
                 "35-59",
-                "60 years old and over",
                 ""
               ]
             },

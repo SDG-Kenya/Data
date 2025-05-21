@@ -19,12 +19,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of urban population living in informal settlements",
                 "Proportion of urban population living in a household that lacks one of the four housing conditions",
                 "Proportion of urban population living in a household that lacks two of the four housing conditions",
                 "Proportion of urban population living in a household that three of the four housing conditions",
                 "Proportion of urban population living in a household that lacks all the four housing conditions",
-                "Proportion of urban population lacking at least one of the one of the four housing conditions (Access to improved water; Access to improved\nsanitation facilities; Sufficient-living area, not overcrowded;housing durability)",
+                "Proportion of urban population lacking at least one of the one of the four housing conditions (Access to improved water; Access to improved sanitation facilities; Sufficient-living area, not overcrowded;housing durability)",
+                "Proportion of urban population living in informal settlements",
                 ""
               ]
             }

@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KPHC conducted in 2009 and 2019",
                 "Birth registration",
                 "Death registration",
+                "KPHC conducted in 2009 and 2019",
                 ""
               ]
             }
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KNBS",
                 "2019: KPHC, Others: Civil Registration Services",
+                "KNBS",
                 ""
               ]
             }

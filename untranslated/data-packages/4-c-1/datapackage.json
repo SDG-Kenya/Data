@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "AGG_2_3",
                 "ISCED11_02",
                 "ISCED11_1",
-                "AGG_2_3",
                 ""
               ]
             }

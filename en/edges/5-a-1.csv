@@ -1,4 +1,5 @@
 From,To
+Time period details,Observation-level footnotes
 Source details,Sex
-Sex,Degree of urbanisation
-Sex,Observation-level footnotes
+Sex,Time period details
+Time period details,Degree of urbanisation

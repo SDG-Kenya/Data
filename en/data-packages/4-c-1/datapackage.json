@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Secondary education (lower and upper secondary education)",
                 "Pre-primary education",
                 "Primary education",
-                "Secondary education (lower and upper secondary education)",
                 ""
               ]
             },

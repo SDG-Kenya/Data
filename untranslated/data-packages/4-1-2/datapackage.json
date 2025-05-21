@@ -15,16 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -51,8 +41,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11A_1",
                 "_L_KE_3",
+                "ISCED11A_1",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR)",
                 ""
               ]
             }

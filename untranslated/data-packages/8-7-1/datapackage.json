@@ -34,9 +34,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y5T9",
                 "Y10T14",
                 "Y15T17",
+                "Y5T9",
                 ""
               ]
             }

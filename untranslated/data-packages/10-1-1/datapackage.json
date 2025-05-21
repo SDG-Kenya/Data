@@ -20,10 +20,10 @@
             "constraints": {
               "enum": [
                 "2020 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                "2021 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                "2022 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
                 "2023 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                "2021 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
                 "2024 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                "2022 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
                 "2025 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
                 ""
               ]

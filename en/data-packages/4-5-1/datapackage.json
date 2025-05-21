@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-primary education",
-                "Primary education",
                 "Secondary",
                 "Middle-Level Colleges",
                 "University",
+                "Pre-primary education",
+                "Primary education",
                 ""
               ]
             },

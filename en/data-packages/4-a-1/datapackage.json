@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of Schools with access to Electricity.",
                 "Proportion of Secondary Schools with access to Electricity.",
+                "Proportion of Schools with access to Electricity.",
                 ""
               ]
             },
@@ -48,12 +48,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary education",
                 "Secondary",
+                "Primary education",
                 ""
               ]
             },
             "title": "Education level"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2016",
+                "2023",
+                "2020",
+                "2022",
+                ""
+              ]
+            },
+            "title": "Time period details"
           },
           {
             "name": "Value",

@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "6",
                 "0",
+                "6",
                 ""
               ]
             }
@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "External Grants",
                 "Total cost of the transaction in percentage for sending US$ 200 to Kenya;",
+                "External Grants",
                 ""
               ]
             }
@@ -41,8 +41,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KNBS, Economic Survey Report (Several  editions)",
                 "Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org\"",
+                "KNBS, Economic Survey Report (Several  editions)",
                 ""
               ]
             }

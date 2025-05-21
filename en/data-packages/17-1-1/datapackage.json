@@ -16,6 +16,11 @@
             "title": "Year"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
@@ -36,11 +41,6 @@
               ]
             },
             "title": "Source details"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
           },
           {
             "name": "Value",

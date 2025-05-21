@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Public Sector",
                 "Private Sector",
+                "Public Sector",
                 ""
               ]
             },
