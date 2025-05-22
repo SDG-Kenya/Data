@@ -496,24 +496,13 @@ indicator_name: >-
 graph_title: >-
   Proportion of the population living below the international poverty line by
   sex, age, employment status and geographic location (urban/rural)
-data_show_map: false
-national_geographical_coverage: Kenya
-sources:
-  - periodicity: Annual
-    earliest_available: '2020'
-    geographical_coverage: National
-    organisation: KNBS
-    url: www.knbs.or.ke
-    release_date: 2019-2022
-    contact: info@knbs.or.ke
-  - organisation: The World Bank
+national_geographical_coverage: Kanya
+computation_units: 2.5 USD per day(2017 PPP terms)
+data_footnote: 2.5 USD per day(2017 PPP terms)
 publications:
   - title: Kenya Continuous Household Survey Programme
     link: https://www.knbs.or.ke/publications/
-    description: ''
     date: 2020-2022
-data_notice_text: ''
+  - title: The World Bank
 copyright: Kenya National Bureau of Statistics (KNBS)
-auto_progress_calculation: false
-computation_units: ''
-data_footnote: 2.5 USD per day(2017 PPP terms)
+progress_status: moderate_progress
