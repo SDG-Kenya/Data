@@ -28,7 +28,20 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_160701_01",
+                "_L_KE_160701_02",
+                "_L_KE_160701_03",
+                "_L_KE_160701_04",
+                "_L_KE_160701_05",
+                "_L_KE_160701_06",
+                "_L_KE_160701_07",
+                "SG_DMK_PARLMP_UC",
+                ""
+              ]
+            }
           },
           {
             "name": "AGE",
@@ -63,7 +76,14 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RO",
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "COMMENT_OBS",

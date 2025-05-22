@@ -26,7 +26,16 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_010401_01",
+                "_L_KE_010401_03",
+                "SP_ACS_BSRVH2O",
+                "SP_ACS_BSRVSAN",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

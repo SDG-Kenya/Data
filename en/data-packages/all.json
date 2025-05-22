@@ -31,6 +31,15 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population using basic hygiene services",
+                "Proportion of population using clean fuels and technologies",
+                "Proportion of population using basic drinking water services [1.4.1]",
+                "Proportion of population using basic sanitation services [1.4.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -71,11 +80,33 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+                "Number of deaths, missing persons and directly affected persons attributed to disasters",
+                "Number of households displaced as a result of disaster",
+                "Number of households affected by disaster",
+                "Number of persons displaced attributed to disasters",
+                "Number of directly affected persons attributed to disasters",
+                "Number of deaths from disaster per 100,000 people",
+                "Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
+                "Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",
+                "Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Per million population",
+                "Number",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
@@ -116,11 +147,33 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+                "Number of deaths, missing persons and directly affected persons attributed to disasters",
+                "Number of households displaced as a result of disaster",
+                "Number of households affected by disaster",
+                "Number of persons displaced attributed to disasters",
+                "Number of directly affected persons attributed to disasters",
+                "Number of deaths from disaster per 100,000 people",
+                "Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
+                "Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",
+                "Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Per million population",
+                "Number",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
@@ -161,11 +214,33 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+                "Number of deaths, missing persons and directly affected persons attributed to disasters",
+                "Number of households displaced as a result of disaster",
+                "Number of households affected by disaster",
+                "Number of persons displaced attributed to disasters",
+                "Number of directly affected persons attributed to disasters",
+                "Number of deaths from disaster per 100,000 people",
+                "Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
+                "Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",
+                "Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Per million population",
+                "Number",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
@@ -294,6 +369,16 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months",
+                "Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]",
+                "Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1]",
+                "Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1]",
+                "Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -375,6 +460,14 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Share of men among owners or rights-bearers of agricultural land, by type of tenure",
+                "Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",
+                "Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -440,6 +533,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of household using safely managed drinking water services",
+                "Proportion of population using safely managed drinking water services [6.1.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -507,6 +607,15 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of households using safely managed sanitation services",
+                "Proportion of households with basic handwashing facilities on premises",
+                "Proportion of population with basic handwashing facilities on premises [6.2.1]",
+                "Proportion of population using safely managed sanitation services [6.2.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -572,6 +681,15 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of household with access to electricity",
+                "Proportion of households with access to electricity (Grid and Solar Systems)",
+                "Proportion of population with access to electricity (Grid and Solar Systems)",
+                "Proportion of population with access to electricity [7.1.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -627,6 +745,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of household with primary reliance on clean fuels and technology",
+                "Proportion of population with primary reliance on clean fuels and technology [7.1.2]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -681,6 +806,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Tourism direct GDP in growth rate",
+                "Tourism direct GDP as a proportion of total GDP [8.9.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -733,6 +865,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Passenger volumes, by mode of transport (000 Passenger)",
+                "Freight volumes, by mode of transport (000 Passenger)",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -752,6 +891,14 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Kenyan Shillings",
+                "Metric Tons",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
@@ -794,6 +941,14 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Change in GINI",
+                "Pre-fiscal GINI index",
+                "Post-fiscal GINI index",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -859,11 +1014,25 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Remittance costs as a proportion of the amount remitted",
+                "Total resource flows for development, by recipient and donor countries [10.b.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Kenyan Shillings",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
@@ -909,6 +1078,17 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of urban population living in slums (One Shelter Deprivation)",
+                "Proportion of urban population living in slums (Two Shelter Deprivation)",
+                "Proportion of urban population living in slums(Three Shelter Deprivation)",
+                "Proportion of urban population living in slums (Four Shelter Deprivation)",
+                "Proportion of urban population living in slums (Any Shelter Deprivation) - Slum dwellers",
+                "Proportion of urban population living in slums [11.1.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -1130,6 +1310,14 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary government expenditures as a proportion of original approved budget- Recurrent",
+                "Primary government expenditures as a proportion of original approved budget- Development",
+                "Primary government expenditures as a proportion of original approved budget [16.6.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -1172,6 +1360,19 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio for female members of legislature compared to the  National distribution",
+                "Ratio for female members of judiciary compared to the  National distribution",
+                "Ratio for female members of legislature compared to the  National distribution, Senate",
+                "Ratio for female members of legislature compared to the  National distribution, Parliament",
+                "Ratio for female members of legislature compared to the  National distribution, County Assembly",
+                "Ratio for female members of legislature compared to the  National distribution, Speakers",
+                "Ratio for female members of legislature compared to the  National distribution, Clerks",
+                "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -1211,6 +1412,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio",
+                "Percent",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
@@ -1251,6 +1459,18 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",
+                "Number of cases of kidnappings of human rights defenders, journalists and trade unionists",
+                "Number of cases of arbitrary detentions of human rights defenders, journalists and trade unionists",
+                "Number of cases of torture of human rights defenders, journalists and trade unionists",
+                "Number of cases of violations of human rights of human rights defenders, journalists and trade unionists",
+                "Number of cases of killings of human rights defenders, journalists and trade unionists [16.10.1]",
+                "Number of cases of enforced disappearance of human rights defenders, journalists and trade unionists [16.10.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -1280,6 +1500,16 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Government revenue from domestic taxes as a proportion of GDP",
+                "Government revenue from social contributions as a proportion of GDP",
+                "Government revenue from grants as a proportion of GDP",
+                "Government revenue from  other sources as a proportion of GDP",
+                "Total government revenue as a proportion of GDP [17.1.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -1331,6 +1561,16 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of domestic budget funded by tax on income",
+                "Proportion of domestic budget funded by value added tax",
+                "Proportion of domestic budget funded by tax on other goods and services",
+                "Proportion of domestic budget funded by taxes on international trade",
+                "Proportion of domestic budget funded by domestic taxes [17.1.2]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -1410,11 +1650,51 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Personal transfers, received (% of GDP)",
+                "Debt service on external debt, total (% exports and primary income)",
+                "Official exchange rate (LCU per US$, period average annual)",
+                "Commodity Prices (Export/import)",
+                "Bank nonperforming loans to total gross loans (%)",
+                "Overall Fiscal Balance (% of GDP):",
+                "Commodity Prices (Export/import)",
+                "Unemployment rate",
+                "Total reserves in months of imports",
+                "Current account balance as a proportion of GDP (%) [17.13.1]",
+                "Portfolio investment, net (Balance of Payments, current United States dollars) [17.13.1]",
+                "Foreign direct investment, net inflows, as a proportion of GDP (%) [17.13.1]",
+                "Gross public sector debt, Central Government, as a proportion of GDP (%) [17.13.1]",
+                "External debt stocks as a proportion of GNI (%) [17.13.1]",
+                "Bank capital to assets ratio (%) [17.13.1]",
+                "Broad money to total reserves ratio [17.13.1]",
+                "Annual broad money growth (%) [17.13.1]",
+                "Annual inflation, consumer prices (%) [17.13.1]",
+                "Tax revenue as a proportion of GDP (%) [17.13.1]",
+                "Annual growth of the general government final consumption expenditure (%) [17.13.1]",
+                "Annual growth of households and NPISHs final consumption expenditure [17.13.1]",
+                "Annual growth of exports of goods and services (%) [17.13.1]",
+                "Annual growth of the gross capital formation (%) [17.13.1]",
+                "Annual growth of imports of goods and services (%) [17.13.1]",
+                "Annual GDP growth (%) [17.13.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Kenyan Shillings to US Dollars",
+                "Index",
+                "Months",
+                "USD",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
@@ -1527,11 +1807,26 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage birth registration",
+                "Percentage death registration",
+                "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Boolean or binary measure",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
@@ -1633,6 +1928,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of moderate or severe food insecurity in the population [2.1.2]",
+                "Prevalence of severe food insecurity in the population [2.1.2]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -1986,6 +2288,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2]",
+                "Proportion of transboundary river and lake basins with an operational arrangement for water cooperation [6.5.2]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -2015,6 +2324,15 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of groundwater bodies with good ambient water quality [6.3.2]",
+                "Proportion of open water bodies with good ambient water quality [6.3.2]",
+                "Proportion of river water bodies with good ambient water quality [6.3.2]",
+                "Proportion of bodies of water with good ambient water quality [6.3.2]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -2526,6 +2844,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]",
+                "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -2555,6 +2880,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",
+                "Number of commercial bank branches per 100,000 adults [8.10.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -2683,6 +3015,17 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-performing loans to total gross loans (%) [10.5.1]",
+                "Return on assets (%) [10.5.1]",
+                "Regulatory capital to assets (%) [10.5.1]",
+                "Non-performing loans net of provisions to capital (%) [10.5.1]",
+                "Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1]",
+                "Net open position in foreign exchange to capital (%) [10.5.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -2832,6 +3175,14 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population covered by at least a 2G mobile network [9.c.1]",
+                "Proportion of population covered by at least a 3G mobile network [9.c.1]",
+                "Proportion of population covered by at least a 4G mobile network [9.c.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -3075,11 +3426,25 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing value added as a proportion of GDP [9.2.1]",
+                "Manufacturing value added per capita [9.2.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Kenyan Shillings",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
@@ -3181,6 +3546,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children living in child-specific multidimensional poverty [1.2.2]",
+                "Proportion of population living in multidimensional poverty [1.2.2]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -3237,6 +3609,14 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",
+                "Proportion of total government spending on essential services, health [1.a.2]",
+                "Proportion of total government spending on essential services, social protection [1.a.2]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -3289,6 +3669,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of schools with access to electricity, by education level [4.a.1]",
+                "Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -3841,6 +4228,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of seats held by women in local governments (% of total number of seats) [5.5.1]",
+                "Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -3907,6 +4301,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of members of developing countries in international organizations, by organization [10.6.1, 16.8.1]",
+                "Proportion of voting rights of developing countries in international organizations, by organization [10.6.1, 16.8.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -3936,6 +4337,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of members of developing countries in international organizations, by organization [10.6.1, 16.8.1]",
+                "Proportion of voting rights of developing countries in international organizations, by organization [10.6.1, 16.8.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -4109,6 +4517,15 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1]",
+                "Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1]",
+                "Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1]",
+                "Proportion of the target population covered by all vaccines included in their national programme [3.b.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -4767,6 +5184,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children moderately or severely wasted [2.2.2]",
+                "Proportion of children moderately or severely overweight [2.2.2]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -4844,6 +5268,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2]",
+                "Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -4884,6 +5315,14 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population covered by at least one social protection benefit [1.3.1]",
+                "Proportion of population with severe disabilities receiving disability cash benefit [1.3.1]",
+                "Proportion of population above statutory pensionable age receiving a pension [1.3.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -5315,6 +5754,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children engaged in economic activity and household chores [8.7.1]",
+                "Number of children engaged in economic activity and household chores [8.7.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -5357,6 +5803,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Number",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {
@@ -5670,6 +6123,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1]",
+                "Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {

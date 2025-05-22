@@ -26,7 +26,15 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_COV_BENFTS",
+                "SI_COV_DISAB",
+                "SI_COV_PENSN",
+                ""
+              ]
+            }
           },
           {
             "name": "SEX",

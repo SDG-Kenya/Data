@@ -16,7 +16,17 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_170102_01",
+                "_L_KE_170102_02",
+                "_L_KE_170102_03",
+                "_L_KE_170102_04",
+                "GC_GOB_TAXD",
+                ""
+              ]
+            }
           },
           {
             "name": "SOURCE_DETAIL",

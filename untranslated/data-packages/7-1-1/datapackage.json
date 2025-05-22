@@ -16,7 +16,16 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_070101_01",
+                "_L_KE_070101_02",
+                "_L_KE_070101_03",
+                "EG_ACS_ELEC",
+                ""
+              ]
+            }
           },
           {
             "name": "URBANISATION",

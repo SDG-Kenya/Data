@@ -49,11 +49,25 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_100b01_01",
+                "DC_TRF_TFDV",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                "KES",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -38,7 +38,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SD_MDP_CSMP",
+                "SD_MDP_MUHC",
+                ""
+              ]
+            }
           },
           {
             "name": "AGE",

@@ -31,7 +31,18 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_110101_01",
+                "_L_KE_110101_02",
+                "_L_KE_110101_03",
+                "_L_KE_110101_04",
+                "_L_KE_110101_05",
+                "EN_LND_SLUM",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

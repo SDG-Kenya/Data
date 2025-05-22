@@ -40,7 +40,16 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_060201_01",
+                "_L_KE_060201_02",
+                "SH_SAN_HNDWSH",
+                "SH_SAN_SAFE",
+                ""
+              ]
+            }
           },
           {
             "name": "URBANISATION",

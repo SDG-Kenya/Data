@@ -16,7 +16,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_PTD_FRHWTR",
+                "ER_PTD_TERR",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

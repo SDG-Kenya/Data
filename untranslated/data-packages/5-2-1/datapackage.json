@@ -28,7 +28,17 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_050201_01",
+                "VC_VAW_MARR",
+                "VC_VAW_PHYV",
+                "VC_VAW_PSYV",
+                "VC_VAW_SEXV",
+                ""
+              ]
+            }
           },
           {
             "name": "AGE",

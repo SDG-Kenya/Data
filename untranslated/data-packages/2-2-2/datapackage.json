@@ -16,7 +16,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_STA_WAST",
+                "SN_STA_OVWGT",
+                ""
+              ]
+            }
           },
           {
             "name": "SEX",

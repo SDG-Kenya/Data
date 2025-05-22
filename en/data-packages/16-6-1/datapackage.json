@@ -18,6 +18,14 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary government expenditures as a proportion of original approved budget- Recurrent",
+                "Primary government expenditures as a proportion of original approved budget- Development",
+                "Primary government expenditures as a proportion of original approved budget [16.6.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {

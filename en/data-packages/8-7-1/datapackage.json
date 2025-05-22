@@ -18,6 +18,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of children engaged in economic activity and household chores [8.7.1]",
+                "Number of children engaged in economic activity and household chores [8.7.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -60,6 +67,13 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Number",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

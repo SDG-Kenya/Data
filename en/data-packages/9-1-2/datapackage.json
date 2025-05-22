@@ -30,6 +30,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Passenger volumes, by mode of transport (000 Passenger)",
+                "Freight volumes, by mode of transport (000 Passenger)",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
@@ -49,6 +56,14 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Kenyan Shillings",
+                "Metric Tons",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

@@ -26,11 +26,33 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_010501_01",
+                "_L_KE_010501_02",
+                "_L_KE_010501_03",
+                "_L_KE_010501_04",
+                "_L_KE_010501_06",
+                "_L_KE_010501_07",
+                "_L_KE_130101_03",
+                "VC_DSR_IJILN",
+                "VC_DSR_MISS",
+                "VC_DSR_MORT",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_1000000_POP",
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

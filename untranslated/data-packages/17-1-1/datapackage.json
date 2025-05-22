@@ -16,7 +16,17 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_170101_01",
+                "_L_KE_170101_02",
+                "_L_KE_170101_03",
+                "_L_KE_170101_04",
+                "GR_G14_GDP",
+                ""
+              ]
+            }
           },
           {
             "name": "COMMENT_OBS",

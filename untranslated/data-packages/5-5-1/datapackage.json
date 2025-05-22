@@ -16,7 +16,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_GEN_LOCG",
+                "SG_GEN_PARL",
+                ""
+              ]
+            }
           },
           {
             "name": "OCCUPATION",

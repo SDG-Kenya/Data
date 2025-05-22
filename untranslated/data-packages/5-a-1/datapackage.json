@@ -37,7 +37,15 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_050a01_01",
+                "SP_GNP_WNOWNS",
+                "SP_LGL_LNDAGSEC",
+                ""
+              ]
+            }
           },
           {
             "name": "SEX",

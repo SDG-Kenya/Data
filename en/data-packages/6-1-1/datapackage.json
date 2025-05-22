@@ -18,6 +18,13 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of household using safely managed drinking water services",
+                "Proportion of population using safely managed drinking water services [6.1.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {

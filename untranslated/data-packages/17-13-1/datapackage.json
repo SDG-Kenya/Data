@@ -30,11 +30,51 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_171301_01",
+                "_L_KE_171301_02",
+                "_L_KE_171301_03",
+                "_L_KE_171301_04",
+                "_L_KE_171301_05",
+                "_L_KE_171301_06",
+                "_L_KE_171301_07",
+                "_L_KE_171301_08",
+                "_L_KE_171301_09",
+                "BN_CAB_XOKA_GD_ZS",
+                "BN_KLT_PTXL_CD",
+                "BX_KLT_DINV_WD_GD_ZS",
+                "DP_DOD_DLD2_CR_CG_Z1",
+                "DT_DOD_DECT_GN_ZS",
+                "FB_BNK_CAPA_ZS",
+                "FM_LBL_BMNY_IR_ZS",
+                "FM_LBL_BMNY_ZG",
+                "FP_CPI_TOTL_ZG",
+                "GC_TAX_TOTL_GD_ZS",
+                "NE_CON_GOVT_KD_ZG",
+                "NE_CON_PRVT_KD_ZG",
+                "NE_EXP_GNFS_KD_ZG",
+                "NE_GDI_TOTL_KD_ZG",
+                "NE_IMP_GNFS_KD_ZG",
+                "NY_GDP_MKTP_KD_ZG",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                "KES_TO_USD",
+                "IX",
+                "MO",
+                "USD",
+                ""
+              ]
+            }
           },
           {
             "name": "TIME_DETAIL",

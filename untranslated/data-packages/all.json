@@ -28,7 +28,16 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_010401_01",
+                "_L_KE_010401_03",
+                "SP_ACS_BSRVH2O",
+                "SP_ACS_BSRVSAN",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -64,11 +73,33 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_010501_01",
+                "_L_KE_010501_02",
+                "_L_KE_010501_03",
+                "_L_KE_010501_04",
+                "_L_KE_010501_06",
+                "_L_KE_010501_07",
+                "_L_KE_130101_03",
+                "VC_DSR_IJILN",
+                "VC_DSR_MISS",
+                "VC_DSR_MORT",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_1000000_POP",
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -104,11 +135,33 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_010501_01",
+                "_L_KE_010501_02",
+                "_L_KE_010501_03",
+                "_L_KE_010501_04",
+                "_L_KE_010501_06",
+                "_L_KE_010501_07",
+                "_L_KE_130101_03",
+                "VC_DSR_IJILN",
+                "VC_DSR_MISS",
+                "VC_DSR_MORT",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_1000000_POP",
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -144,11 +197,33 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_010501_01",
+                "_L_KE_010501_02",
+                "_L_KE_010501_03",
+                "_L_KE_010501_04",
+                "_L_KE_010501_06",
+                "_L_KE_010501_07",
+                "_L_KE_130101_03",
+                "VC_DSR_IJILN",
+                "VC_DSR_MISS",
+                "VC_DSR_MORT",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_1000000_POP",
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -265,7 +340,17 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_050201_01",
+                "VC_VAW_MARR",
+                "VC_VAW_PHYV",
+                "VC_VAW_PSYV",
+                "VC_VAW_SEXV",
+                ""
+              ]
+            }
           },
           {
             "name": "AGE",
@@ -339,7 +424,15 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_050a01_01",
+                "SP_GNP_WNOWNS",
+                "SP_LGL_LNDAGSEC",
+                ""
+              ]
+            }
           },
           {
             "name": "SEX",
@@ -398,7 +491,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_060101_01",
+                "SH_H2O_SAFE",
+                ""
+              ]
+            }
           },
           {
             "name": "URBANISATION",
@@ -459,7 +559,16 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_060201_01",
+                "_L_KE_060201_02",
+                "SH_SAN_HNDWSH",
+                "SH_SAN_SAFE",
+                ""
+              ]
+            }
           },
           {
             "name": "URBANISATION",
@@ -518,7 +627,16 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_070101_01",
+                "_L_KE_070101_02",
+                "_L_KE_070101_03",
+                "EG_ACS_ELEC",
+                ""
+              ]
+            }
           },
           {
             "name": "URBANISATION",
@@ -568,7 +686,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_070102_01",
+                "EG_EGY_CLEAN",
+                ""
+              ]
+            }
           },
           {
             "name": "URBANISATION",
@@ -617,7 +742,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_080901_01",
+                "ST_GDP_ZS",
+                ""
+              ]
+            }
           },
           {
             "name": "COMMENT_OBS",
@@ -664,7 +796,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_090102_01",
+                "_L_KE_090102_02",
+                ""
+              ]
+            }
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
@@ -681,7 +820,15 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                "KES",
+                "T",
+                ""
+              ]
+            }
           },
           {
             "name": "COMMENT_OBS",
@@ -719,7 +866,15 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_100402_01",
+                "_L_KE_100402_02",
+                "_L_KE_100402_03",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -778,11 +933,25 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_100b01_01",
+                "DC_TRF_TFDV",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                "KES",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -823,7 +992,18 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_110101_01",
+                "_L_KE_110101_02",
+                "_L_KE_110101_03",
+                "_L_KE_110101_04",
+                "_L_KE_110101_05",
+                "EN_LND_SLUM",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1025,7 +1205,15 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_160601_01",
+                "_L_KE_160601_02",
+                "GF_XPD_GBPC",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1063,7 +1251,20 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_160701_01",
+                "_L_KE_160701_02",
+                "_L_KE_160701_03",
+                "_L_KE_160701_04",
+                "_L_KE_160701_05",
+                "_L_KE_160701_06",
+                "_L_KE_160701_07",
+                "SG_DMK_PARLMP_UC",
+                ""
+              ]
+            }
           },
           {
             "name": "AGE",
@@ -1098,7 +1299,14 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RO",
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "COMMENT_OBS",
@@ -1134,7 +1342,19 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_161001_01",
+                "_L_KE_161001_02",
+                "_L_KE_161001_03",
+                "_L_KE_161001_04",
+                "_L_KE_161001_05",
+                "VC_VAW_MTUHRA",
+                "VC_VOC_ENFDIS",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1160,7 +1380,17 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_170101_01",
+                "_L_KE_170101_02",
+                "_L_KE_170101_03",
+                "_L_KE_170101_04",
+                "GR_G14_GDP",
+                ""
+              ]
+            }
           },
           {
             "name": "COMMENT_OBS",
@@ -1206,7 +1436,17 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_170102_01",
+                "_L_KE_170102_02",
+                "_L_KE_170102_03",
+                "_L_KE_170102_04",
+                "GC_GOB_TAXD",
+                ""
+              ]
+            }
           },
           {
             "name": "SOURCE_DETAIL",
@@ -1278,11 +1518,51 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_171301_01",
+                "_L_KE_171301_02",
+                "_L_KE_171301_03",
+                "_L_KE_171301_04",
+                "_L_KE_171301_05",
+                "_L_KE_171301_06",
+                "_L_KE_171301_07",
+                "_L_KE_171301_08",
+                "_L_KE_171301_09",
+                "BN_CAB_XOKA_GD_ZS",
+                "BN_KLT_PTXL_CD",
+                "BX_KLT_DINV_WD_GD_ZS",
+                "DP_DOD_DLD2_CR_CG_Z1",
+                "DT_DOD_DECT_GN_ZS",
+                "FB_BNK_CAPA_ZS",
+                "FM_LBL_BMNY_IR_ZS",
+                "FM_LBL_BMNY_ZG",
+                "FP_CPI_TOTL_ZG",
+                "GC_TAX_TOTL_GD_ZS",
+                "NE_CON_GOVT_KD_ZG",
+                "NE_CON_PRVT_KD_ZG",
+                "NE_EXP_GNFS_KD_ZG",
+                "NE_GDI_TOTL_KD_ZG",
+                "NE_IMP_GNFS_KD_ZG",
+                "NY_GDP_MKTP_KD_ZG",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                "KES_TO_USD",
+                "IX",
+                "MO",
+                "USD",
+                ""
+              ]
+            }
           },
           {
             "name": "TIME_DETAIL",
@@ -1385,11 +1665,26 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_171902_01",
+                "_L_KE_171902_02",
+                "SG_REG_CENSUSN",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                "BOOL",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1481,7 +1776,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_PRD_FIESMS",
+                "AG_PRD_FIESS",
+                ""
+              ]
+            }
           },
           {
             "name": "URBANISATION",
@@ -1804,7 +2106,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_TBA_H2CO",
+                "EG_TBA_H2CORL",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1830,7 +2139,16 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_H2O_GRAMBQ",
+                "EN_H2O_OPAMBQ",
+                "EN_H2O_RVAMBQ",
+                "EN_H2O_WBAMBQ",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2297,7 +2615,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_PTD_FRHWTR",
+                "ER_PTD_TERR",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2323,7 +2648,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FB_ATM_TOTL",
+                "FB_CBK_BRCH",
+                ""
+              ]
+            }
           },
           {
             "name": "TIME_DETAIL",
@@ -2440,7 +2772,18 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FI_FSI_FSANL",
+                "FI_FSI_FSERA",
+                "FI_FSI_FSKA",
+                "FI_FSI_FSKNL",
+                "FI_FSI_FSKRTC",
+                "FI_FSI_FSSNO",
+                ""
+              ]
+            }
           },
           {
             "name": "TIME_DETAIL",
@@ -2576,7 +2919,15 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IT_MOB_2GNTWK",
+                "IT_MOB_3GNTWK",
+                "IT_MOB_4GNTWK",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2800,11 +3151,25 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NV_IND_MANF",
+                "NV_IND_MANFPC",
+                ""
+              ]
+            }
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                "KES",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2896,7 +3261,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SD_MDP_CSMP",
+                "SD_MDP_MUHC",
+                ""
+              ]
+            }
           },
           {
             "name": "AGE",
@@ -2947,7 +3319,15 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SD_XPD_ESED",
+                "SG_XPD_HLTH",
+                "SG_XPD_PROT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2994,7 +3374,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_ACS_ELECT",
+                "SE_ACS_INTNT",
+                ""
+              ]
+            }
           },
           {
             "name": "EDUCATION_LEV",
@@ -3500,7 +3887,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_GEN_LOCG",
+                "SG_GEN_PARL",
+                ""
+              ]
+            }
           },
           {
             "name": "OCCUPATION",
@@ -3560,7 +3954,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_INT_MBRDEV",
+                "SG_INT_VRTDEV",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3586,7 +3987,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_INT_MBRDEV",
+                "SG_INT_VRTDEV",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3744,7 +4152,16 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_ACS_DTP3",
+                "SH_ACS_MCV2",
+                "SH_ACS_PCV3",
+                "SH_ACS_VACN",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4348,7 +4765,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_STA_WAST",
+                "SN_STA_OVWGT",
+                ""
+              ]
+            }
           },
           {
             "name": "SEX",
@@ -4418,7 +4842,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_XPD_EARN10",
+                "SH_XPD_EARN25",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4454,7 +4885,15 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_COV_BENFTS",
+                "SI_COV_DISAB",
+                "SI_COV_PENSN",
+                ""
+              ]
+            }
           },
           {
             "name": "SEX",
@@ -4850,7 +5289,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_TLF_CHLDEC",
+                "SL_TLF_CHLDECN",
+                ""
+              ]
+            }
           },
           {
             "name": "SEX",
@@ -4888,7 +5334,14 @@
           },
           {
             "name": "UNIT_MEASURE",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -5175,7 +5628,14 @@
           },
           {
             "name": "SERIES",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SP_DYN_MRBF15",
+                "SP_DYN_MRBF18",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

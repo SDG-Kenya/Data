@@ -30,11 +30,25 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing value added as a proportion of GDP [9.2.1]",
+                "Manufacturing value added per capita [9.2.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Kenyan Shillings",
+                ""
+              ]
+            },
             "title": "Unit of measure"
           },
           {

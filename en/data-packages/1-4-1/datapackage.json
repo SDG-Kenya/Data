@@ -29,6 +29,15 @@
           {
             "name": "SERIES",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population using basic hygiene services",
+                "Proportion of population using clean fuels and technologies",
+                "Proportion of population using basic drinking water services [1.4.1]",
+                "Proportion of population using basic sanitation services [1.4.1]",
+                ""
+              ]
+            },
             "title": "SDG Series"
           },
           {
