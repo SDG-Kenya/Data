@@ -1,3 +1,70 @@
+SDG_GOAL: <p>End poverty in all its forms everywhere</p>
+SDG_TARGET: >-
+  <p>By 2030, build the resilience of the poor and those in vulnerable
+  situations and reduce their exposure and vulnerability to climate-related
+  extreme events and other economic, social and environmental shocks and
+  disasters</p>
+SDG_INDICATOR: >-
+  <p>Number of countries that adopt and implement national disaster risk
+  reduction strategies in line with the Sendai Framework for Disaster Risk
+  Reduction 2015-2030</p>
+META_LAST_UPDATE: <p>May 2024</p>
+SDG_RELATED_INDICATORS: >-
+  <p>1.5; 11.5; 11.b; 13.1; 2.4; 3.6; 3.9; 3.d; 4.a; 6.6; 9.1; 9.a; 11.1; 11.3;
+  11.c; 13.2; 13.3; 13.a; 13.b; 14.2; 15.1; 15.2; 15.3; 15.9.</p>
+SDG_CUSTODIAN_AGENCIES: <p>United Nations Office for Disaster Reduction (UNISDR)</p>
+CONTACT: <p>Kenya National Bureau of Statistics</p>
+CONTACT_ORGANISATION: <p>Kenya National Bureau of Statistics</p>
+CONTACT_NAME: <p>Senior Manager Food Monitoring, Nutrition and Environment Statistics</p>
+ORGANISATION_UNIT: <p>Food Monitoring, Nutrition and Environment Statistics Division</p>
+CONTACT_FUNCT: >-
+  <p>Collect, compile, analyze and disseminate Environment and Natural Resources
+  Statistics</p>
+CONTACT_PHONE: <p>+254-202-911-000</p>
+CONTACT_MAIL: <p>30266-00100, Nairobi Kenya</p>
+CONTACT_EMAIL: <p>dpss@knbs.or.ke</p>
+STAT_CONC_DEF: >-
+  <p><strong>Definitions:</strong></p><p>An open-ended intergovernmental expert
+  working group on indicators and terminology relating to disaster risk
+  reduction established by the General Assembly (resolution 69/284) is
+  developing a set of indicators to measure global progress in the
+  implementation of the Sendai Framework. These indicators will eventually
+  reflect the agreements on the Sendai Framework indicators.</p>
+UNIT_MEASURE: <p>(0,1)</p>
+CLASS_SYSTEM: <p>None</p>
+SOURCE_TYPE: <p>National Progress Report of the Sendai Monitor</p>
+COLL_METHOD: <p>Administrative sources</p>
+FREQ_COLL: <p>Annual</p>
+REL_CAL_POLICY: <p>Every year</p>
+DATA_SOURCE: <p>Kenya National Disaster Operations Centre (NDOC</p>
+COMPILING_ORG: <p>Kenya National Bureau of Statistics</p>
+INST_MANDATE: >-
+  <p><strong>Kenya National Disaster Operations Centre (NDOC </strong></p><p>A
+  department established by an act of Parliament to act as the focal point for
+  co-ordinating response to emergencies and disasters in
+  Kenya</p><p><strong>Kenya National Bureau of Statistics
+  </strong></p><p>According to the Statistics Act of 2006, Kenya National Bureau
+  of Statistics is mandated to collect, compile , analyze, publish and
+  disseminate official statistics for public use</p>
+DOC_METHOD: >-
+  <p>National Disaster Reduction Strategy &amp; Policy 2010, National Disaster
+  Preparedness and Response Strategies</p>
+QUALITY_ASSURE: >-
+  <p>The KNBS adheres to Kenya Statistical Quality Assurance Framework (KesQAF)
+  that underlines principles to be assured in managing the statistical
+  production processes and output.  </p><p>Data consistency and quality checks
+  are conducted through Technical Working Groups (TWGs) before publication and
+  dissemination.</p>
+QUALITY_ASSMNT: >-
+  <p>The processes of compilation, production, publication and dissemination of
+  data, including quality control are subjected to a set criteria and standards
+  to ensure conformity.</p>
+COVERAGE: <p>Data available</p>
+COMPARABILITY: <p>None.</p>
+OTHER_DOC: >-
+  <p> National Disaster Reduction Strategy &amp; Policy 2010, National Disaster
+  Preparedness and Response Strategies</p>
+national_metadata_updated_date: '2025-05-26'
 SDG_GOAL__GLOBAL: '<p>Goal 1: End poverty in all its forms everywhere</p>'
 SDG_TARGET__GLOBAL: >-
   <p>Target 1.5: By 2030, build the resilience of the poor and those in
