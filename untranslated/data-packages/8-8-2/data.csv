@@ -1,11 +1,11 @@
-Year,Value
-2014,328
-2015,230
-2016,298
-2017,386
-2018,313
-2019,263
-2020,172
-2021,166
-2022,315
-2023,334
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,3,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,SL_LBR_NTLCPL,,NUMBER,2023,,328
+2015,A,3,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,SL_LBR_NTLCPL,,NUMBER,2023,,230
+2016,A,3,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,SL_LBR_NTLCPL,,NUMBER,2023,,298
+2017,A,3,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,SL_LBR_NTLCPL,,NUMBER,2023,,386
+2018,A,3,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,SL_LBR_NTLCPL,,NUMBER,2023,,313
+2019,A,3,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,SL_LBR_NTLCPL,,NUMBER,2023,,263
+2020,A,3,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,SL_LBR_NTLCPL,,NUMBER,2023,,172
+2021,A,3,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,SL_LBR_NTLCPL,,NUMBER,2023,,166
+2022,A,3,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,SL_LBR_NTLCPL,,NUMBER,2023,,315
+2023,A,3,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,SL_LBR_NTLCPL,,NUMBER,2023,,334

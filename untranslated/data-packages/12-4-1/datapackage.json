@@ -15,6 +15,89 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenya is a signatory to 4 Multilateral Environmental Agreements (MEAs) namely; 1.United Nations Convention on Biological Diversity (UNCBD); 2.United Nations Framework Convention on Climate Change (UNFCCC);  3.United Nations Convention on Combating Desertification (UNCCD);  4. Stockholm Convention on Persistent Organic Pollutants (POPs).  Kenya  implements these MEAs  and provides further information on each of them.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "https://meas.nema.go.ke/",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_120401_01",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2023",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
             "name": "Value",
             "type": "integer"
           }

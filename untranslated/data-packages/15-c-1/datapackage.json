@@ -15,6 +15,89 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Elephants Ivory and Rhino horns",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KWS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_150c01_01",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
             "name": "Value",
             "type": "number"
           }

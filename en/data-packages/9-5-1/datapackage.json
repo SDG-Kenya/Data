@@ -16,6 +16,98 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The indicator is derived from GDP at current prices by the Kenya National Bureau of Statistics. Public expenditure on research and development is collected from different MDAs as reported from IFMIS system.",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The National Treasury, KNBS_IFMIS data",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Research and development expenditure as a proportion of GDP [9.5.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2023",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

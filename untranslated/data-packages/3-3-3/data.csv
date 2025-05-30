@@ -1,11 +1,11 @@
-Year,Value
-2014,225.0
-2015,120.0
-2016,111.0
-2017,87.0
-2018,89.2
-2019,102.9
-2020,87.3
-2021,91.3
-2022,92.9
-2023,104.4
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,"Division of National Malaria Programme (DNMP), MoH",SH_STA_MALR,,PER_100000_POP,2023,,225.0
+2015,A,0,"Division of National Malaria Programme (DNMP), MoH",SH_STA_MALR,,PER_100000_POP,2023,,120.0
+2016,A,0,"Division of National Malaria Programme (DNMP), MoH",SH_STA_MALR,,PER_100000_POP,2023,,111.0
+2017,A,0,"Division of National Malaria Programme (DNMP), MoH",SH_STA_MALR,,PER_100000_POP,2023,,87.0
+2018,A,0,"Division of National Malaria Programme (DNMP), MoH",SH_STA_MALR,,PER_100000_POP,2023,,89.2
+2019,A,0,"Division of National Malaria Programme (DNMP), MoH",SH_STA_MALR,,PER_100000_POP,2023,,102.9
+2020,A,0,"Division of National Malaria Programme (DNMP), MoH",SH_STA_MALR,,PER_100000_POP,2023,,87.3
+2021,A,0,"Division of National Malaria Programme (DNMP), MoH",SH_STA_MALR,,PER_100000_POP,2023,,91.3
+2022,A,0,"Division of National Malaria Programme (DNMP), MoH",SH_STA_MALR,,PER_100000_POP,2023,,92.9
+2023,A,0,"Division of National Malaria Programme (DNMP), MoH",SH_STA_MALR,,PER_100000_POP,2023,,104.4

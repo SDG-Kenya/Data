@@ -15,6 +15,65 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_PRE_PARTN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
@@ -37,6 +96,16 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -46,6 +115,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

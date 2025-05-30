@@ -15,6 +15,26 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
@@ -58,6 +78,15 @@
                 "NE_GDI_TOTL_KD_ZG",
                 "NE_IMP_GNFS_KD_ZG",
                 "NY_GDP_MKTP_KD_ZG",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -107,6 +136,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

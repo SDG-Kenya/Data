@@ -1,25 +1,25 @@
-Year,Sex,Age,Degree of urbanisation,Value
-2021,,,,12.2
-2021,,,Rural,12.0
-2021,,,Urban,12.5
-2021,,65 years old and over,,8.5
-2021,,15 to 24 years old,,12.7
-2021,,25 to 44 years old,,13.5
-2021,,45 to 54 years old,,10.5
-2021,,55 to 64 years old,,10.4
-2021,Female,,,18.7
-2021,Female,,Rural,18.6
-2021,Female,,Urban,18.9
-2021,Female,65 years old and over,,12.0
-2021,Female,15 to 24 years old,,19.1
-2021,Female,25 to 44 years old,,21.0
-2021,Female,45 to 54 years old,,16.4
-2021,Female,55 to 64 years old,,15.9
-2021,Male,,,3.6
-2021,Male,,Rural,3.4
-2021,Male,,Urban,4.0
-2021,Male,65 years old and over,,3.3
-2021,Male,15 to 24 years old,,4.2
-2021,Male,25 to 44 years old,,3.4
-2021,Male,45 to 54 years old,,3.6
-2021,Male,55 to 64 years old,,3.2
+Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,,,Percent,2021,,12.2
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,,Rural,Percent,2021,,12.0
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,,Urban,Percent,2021,,12.5
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,65 years old and over,,Percent,2021,,8.5
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,15 to 24 years old,,Percent,2021,,12.7
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,25 to 44 years old,,Percent,2021,,13.5
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,45 to 54 years old,,Percent,2021,,10.5
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,55 to 64 years old,,Percent,2021,,10.4
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,,,Percent,2021,,18.7
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,,Rural,Percent,2021,,18.6
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,,Urban,Percent,2021,,18.9
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,65 years old and over,,Percent,2021,,12.0
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,15 to 24 years old,,Percent,2021,,19.1
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,25 to 44 years old,,Percent,2021,,21.0
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,45 to 54 years old,,Percent,2021,,16.4
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,55 to 64 years old,,Percent,2021,,15.9
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,,,Percent,2021,,3.6
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,,Rural,Percent,2021,,3.4
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,,Urban,Percent,2021,,4.0
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,65 years old and over,,Percent,2021,,3.3
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,15 to 24 years old,,Percent,2021,,4.2
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,25 to 44 years old,,Percent,2021,,3.4
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,45 to 54 years old,,Percent,2021,,3.6
+2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,55 to 64 years old,,Percent,2021,,3.2

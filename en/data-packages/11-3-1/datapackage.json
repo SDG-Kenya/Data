@@ -16,6 +16,61 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DEGURBA tool was used to generate the  gridded population and the updated urban extents. These were data input for computing the ratio of LCR/PGR. The study period was between 2009 and 2020 based on data availability.",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population data and Satellite Imagery i.e. Landsat datasets",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio of land consumption rate to population growth rate [11.3.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -28,6 +83,39 @@
               ]
             },
             "title": "Reference area"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "City",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020",
+                ""
+              ]
+            },
+            "title": "Time period details"
           },
           {
             "name": "GeoCode",

@@ -1,4 +1,6 @@
 From,To
-Education level,Sex
-Education level,Degree of urbanisation
-Education level,Observation-level footnotes
+Source details,Education level
+Time period details,Sex
+Time period details,Degree of urbanisation
+Education level,Time period details
+Time period details,Observation-level footnotes

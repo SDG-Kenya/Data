@@ -15,6 +15,26 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
@@ -25,6 +45,35 @@
                 "2024 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
                 "2022 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
                 "2025 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2016: KIHBS                             2019-2022: KCHS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_HEI_TOTL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -49,6 +98,30 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2022",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

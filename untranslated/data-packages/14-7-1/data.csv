@@ -1,10 +1,10 @@
-Year,Value
-2014,8
-2015,5
-2016,5
-2017,7
-2018,7
-2019,9
-2020,8
-2021,10
-2022,10
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,Value Added marine Fisheries used as a proxy,EN_SCP_FSHGDP,,PT,2022,,8
+2015,A,0,Value Added marine Fisheries used as a proxy,EN_SCP_FSHGDP,,PT,2022,,5
+2016,A,0,Value Added marine Fisheries used as a proxy,EN_SCP_FSHGDP,,PT,2022,,5
+2017,A,0,Value Added marine Fisheries used as a proxy,EN_SCP_FSHGDP,,PT,2022,,7
+2018,A,0,Value Added marine Fisheries used as a proxy,EN_SCP_FSHGDP,,PT,2022,,7
+2019,A,0,Value Added marine Fisheries used as a proxy,EN_SCP_FSHGDP,,PT,2022,,9
+2020,A,0,Value Added marine Fisheries used as a proxy,EN_SCP_FSHGDP,,PT,2022,,8
+2021,A,0,Value Added marine Fisheries used as a proxy,EN_SCP_FSHGDP,,PT,2022,,10
+2022,A,0,Value Added marine Fisheries used as a proxy,EN_SCP_FSHGDP,,PT,2022,,10

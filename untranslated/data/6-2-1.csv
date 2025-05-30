@@ -1,34 +1,34 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,URBANISATION,Value
-2014,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,,22.7
-2016,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,,28.3
-2022,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,,38.2
-2014,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,R,25.5
-2016,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,R,29.5
-2022,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,R,36.6
-2014,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,U,20.6
-2016,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,U,27.9
-2022,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,U,40.7
-2014,,2014: KDHS,_L_KE_060201_02,,16.6
-2016,,2014: KDHS,_L_KE_060201_02,,19.4
-2022,,2014: KDHS,_L_KE_060201_02,,51.0
-2014,,2014: KDHS,_L_KE_060201_02,R,25.7
-2016,,2014: KDHS,_L_KE_060201_02,R,29.7
-2022,,2014: KDHS,_L_KE_060201_02,R,41.3
-2014,,2014: KDHS,_L_KE_060201_02,U,10.1
-2016,,2014: KDHS,_L_KE_060201_02,U,11.4
-2022,,2014: KDHS,_L_KE_060201_02,U,65.3
-2016,,"2014: KDHS,     2016: KIHBS                2022: KDHS",SH_SAN_HNDWSH,,17.4
-2022,,"2014: KDHS,     2016: KIHBS                2022: KDHS",SH_SAN_HNDWSH,,51.3
-2016,,"2014: KDHS,      2016: KIHBS                2022: KDHS",SH_SAN_HNDWSH,R,29.5
-2022,,"2014: KDHS,      2016: KIHBS                2022: KDHS",SH_SAN_HNDWSH,R,43.0
-2016,,"2014: KDHS,        2016: KIHBS                2022: KDHS",SH_SAN_HNDWSH,U,10.6
-2022,,"2014: KDHS,        2016: KIHBS                2022: KDHS",SH_SAN_HNDWSH,U,67.6
-2014,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,,24.7
-2016,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,,30.5
-2022,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,,40.9
-2014,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,R,30.5
-2016,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,R,28.4
-2022,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,R,37.7
-2014,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,U,21.6
-2016,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,U,34.9
-2022,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,U,47.3
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,,,PT,2022,,22.7
+2016,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,,,PT,2022,,28.3
+2022,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,,,PT,2022,,38.2
+2014,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,,R,PT,2022,,25.5
+2016,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,,R,PT,2022,,29.5
+2022,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,,R,PT,2022,,36.6
+2014,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,,U,PT,2022,,20.6
+2016,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,,U,PT,2022,,27.9
+2022,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060201_01,,U,PT,2022,,40.7
+2014,A,0,,2014: KDHS,_L_KE_060201_02,,,PT,2022,,16.6
+2016,A,0,,2014: KDHS,_L_KE_060201_02,,,PT,2022,,19.4
+2022,A,0,,2014: KDHS,_L_KE_060201_02,,,PT,2022,,51.0
+2014,A,0,,2014: KDHS,_L_KE_060201_02,,R,PT,2022,,25.7
+2016,A,0,,2014: KDHS,_L_KE_060201_02,,R,PT,2022,,29.7
+2022,A,0,,2014: KDHS,_L_KE_060201_02,,R,PT,2022,,41.3
+2014,A,0,,2014: KDHS,_L_KE_060201_02,,U,PT,2022,,10.1
+2016,A,0,,2014: KDHS,_L_KE_060201_02,,U,PT,2022,,11.4
+2022,A,0,,2014: KDHS,_L_KE_060201_02,,U,PT,2022,,65.3
+2016,A,0,,"2014: KDHS,     2016: KIHBS                2022: KDHS",SH_SAN_HNDWSH,,,PT,2022,,17.4
+2022,A,0,,"2014: KDHS,     2016: KIHBS                2022: KDHS",SH_SAN_HNDWSH,,,PT,2022,,51.3
+2016,A,0,,"2014: KDHS,      2016: KIHBS                2022: KDHS",SH_SAN_HNDWSH,,R,PT,2022,,29.5
+2022,A,0,,"2014: KDHS,      2016: KIHBS                2022: KDHS",SH_SAN_HNDWSH,,R,PT,2022,,43.0
+2016,A,0,,"2014: KDHS,        2016: KIHBS                2022: KDHS",SH_SAN_HNDWSH,,U,PT,2022,,10.6
+2022,A,0,,"2014: KDHS,        2016: KIHBS                2022: KDHS",SH_SAN_HNDWSH,,U,PT,2022,,67.6
+2014,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,,,PT,2022,,24.7
+2016,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,,,PT,2022,,30.5
+2022,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,,,PT,2022,,40.9
+2014,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,,R,PT,2022,,30.5
+2016,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,,R,PT,2022,,28.4
+2022,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,,R,PT,2022,,37.7
+2014,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,,U,PT,2022,,21.6
+2016,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,,U,PT,2022,,34.9
+2022,A,0,At least basic sanitation services which includes basic and safely managed sanitation services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_SAN_SAFE,,U,PT,2022,,47.3

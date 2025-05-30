@@ -16,6 +16,98 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Elephants Ivory and Rhino horns",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KWS",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Stocks of intercepted wildlife products - Proxy",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Metric Tons",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

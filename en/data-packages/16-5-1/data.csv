@@ -1,8 +1,8 @@
-Year,Value
-2015,38.0
-2016,46.0
-2017,38.9
-2018,41.8
-2021,23.2
-2022,41.1
-2023,25.7
+Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2015,Normal value,Units,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",Prevalence rate of bribery [16.5.1],,Percent,2023,,38.0
+2016,Normal value,Units,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",Prevalence rate of bribery [16.5.1],,Percent,2023,,46.0
+2017,Normal value,Units,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",Prevalence rate of bribery [16.5.1],,Percent,2023,,38.9
+2018,Normal value,Units,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",Prevalence rate of bribery [16.5.1],,Percent,2023,,41.8
+2021,Normal value,Units,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",Prevalence rate of bribery [16.5.1],,Percent,2023,,23.2
+2022,Normal value,Units,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",Prevalence rate of bribery [16.5.1],,Percent,2023,,41.1
+2023,Normal value,Units,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",Prevalence rate of bribery [16.5.1],,Percent,2023,,25.7

@@ -1,10 +1,10 @@
-Year,Value
-2014,1
-2015,1
-2016,1
-2017,1
-2018,1
-2019,1
-2020,1
-2021,1
-2022,1
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,"National Disaster Reduction Strategy & Policy 2010, National Disaster Preparedness and Response Strategies",Kenya National Disaster Operations Centre (NDOC),SG_DSR_SFDRR,,BOOL,2022,,1
+2015,A,0,"National Disaster Reduction Strategy & Policy 2010, National Disaster Preparedness and Response Strategies",Kenya National Disaster Operations Centre (NDOC),SG_DSR_SFDRR,,BOOL,2022,,1
+2016,A,0,"National Disaster Reduction Strategy & Policy 2010, National Disaster Preparedness and Response Strategies",Kenya National Disaster Operations Centre (NDOC),SG_DSR_SFDRR,,BOOL,2022,,1
+2017,A,0,"National Disaster Reduction Strategy & Policy 2010, National Disaster Preparedness and Response Strategies",Kenya National Disaster Operations Centre (NDOC),SG_DSR_SFDRR,,BOOL,2022,,1
+2018,A,0,"National Disaster Reduction Strategy & Policy 2010, National Disaster Preparedness and Response Strategies",Kenya National Disaster Operations Centre (NDOC),SG_DSR_SFDRR,,BOOL,2022,,1
+2019,A,0,"National Disaster Reduction Strategy & Policy 2010, National Disaster Preparedness and Response Strategies",Kenya National Disaster Operations Centre (NDOC),SG_DSR_SFDRR,,BOOL,2022,,1
+2020,A,0,"National Disaster Reduction Strategy & Policy 2010, National Disaster Preparedness and Response Strategies",Kenya National Disaster Operations Centre (NDOC),SG_DSR_SFDRR,,BOOL,2022,,1
+2021,A,0,"National Disaster Reduction Strategy & Policy 2010, National Disaster Preparedness and Response Strategies",Kenya National Disaster Operations Centre (NDOC),SG_DSR_SFDRR,,BOOL,2022,,1
+2022,A,0,"National Disaster Reduction Strategy & Policy 2010, National Disaster Preparedness and Response Strategies",Kenya National Disaster Operations Centre (NDOC),SG_DSR_SFDRR,,BOOL,2022,,1

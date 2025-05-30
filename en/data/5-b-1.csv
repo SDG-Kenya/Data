@@ -1,14 +1,14 @@
-Year,Sex,Degree of urbanisation,Value
-2014,,,33.0
-2016,,,44.4
-2019,,,47.3
-2016,,Rural,36.3
-2019,,Rural,40.5
-2016,,Urban,58.7
-2019,,Urban,62.6
-2014,Female,,30.2
-2016,Female,,43.2
-2019,Female,,47.0
-2014,Male,,35.7
-2016,Male,,45.5
-2019,Male,,47.6
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,"2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",Proportion of individuals who own a mobile telephone [5.b.1],,,,Percent,2019,,33.0
+2016,Normal value,Units,"2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",Proportion of individuals who own a mobile telephone [5.b.1],,,,Percent,2019,,44.4
+2019,Normal value,Units,"2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",Proportion of individuals who own a mobile telephone [5.b.1],,,,Percent,2019,,47.3
+2016,Normal value,Units,"2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",Proportion of individuals who own a mobile telephone [5.b.1],,,Rural,Percent,2019,,36.3
+2019,Normal value,Units,"2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",Proportion of individuals who own a mobile telephone [5.b.1],,,Rural,Percent,2019,,40.5
+2016,Normal value,Units,"2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",Proportion of individuals who own a mobile telephone [5.b.1],,,Urban,Percent,2019,,58.7
+2019,Normal value,Units,"2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",Proportion of individuals who own a mobile telephone [5.b.1],,,Urban,Percent,2019,,62.6
+2014,Normal value,Units,"2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",Proportion of individuals who own a mobile telephone [5.b.1],,Female,,Percent,2019,,30.2
+2016,Normal value,Units,"2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",Proportion of individuals who own a mobile telephone [5.b.1],,Female,,Percent,2019,,43.2
+2019,Normal value,Units,"2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",Proportion of individuals who own a mobile telephone [5.b.1],,Female,,Percent,2019,,47.0
+2014,Normal value,Units,"2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",Proportion of individuals who own a mobile telephone [5.b.1],,Male,,Percent,2019,,35.7
+2016,Normal value,Units,"2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",Proportion of individuals who own a mobile telephone [5.b.1],,Male,,Percent,2019,,45.5
+2019,Normal value,Units,"2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",Proportion of individuals who own a mobile telephone [5.b.1],,Male,,Percent,2019,,47.6

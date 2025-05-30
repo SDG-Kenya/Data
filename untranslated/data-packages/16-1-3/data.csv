@@ -1,11 +1,11 @@
-Year,SEX,URBANISATION,Value
-2014,,,28.8
-2022,,,28.0
-2014,,R,27.3
-2022,,R,25.4
-2014,,U,29.9
-2022,,U,25.4
-2014,F,,22.7
-2022,F,,28.1
-2014,M,,33.9
-2022,M,,22.4
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,To be run for population aged 15 to 59 from 2022 KDHS,KDHS,_L_KE_160103_01,,,,PT,2022,,28.8
+2022,A,0,To be run for population aged 15 to 59 from 2022 KDHS,KDHS,_L_KE_160103_01,,,,PT,2022,,28.0
+2014,A,0,To be run for population aged 15 to 59 from 2022 KDHS,KDHS,_L_KE_160103_01,,,R,PT,2022,,27.3
+2022,A,0,To be run for population aged 15 to 59 from 2022 KDHS,KDHS,_L_KE_160103_01,,,R,PT,2022,,25.4
+2014,A,0,To be run for population aged 15 to 59 from 2022 KDHS,KDHS,_L_KE_160103_01,,,U,PT,2022,,29.9
+2022,A,0,To be run for population aged 15 to 59 from 2022 KDHS,KDHS,_L_KE_160103_01,,,U,PT,2022,,25.4
+2014,A,0,To be run for population aged 15 to 59 from 2022 KDHS,KDHS,_L_KE_160103_01,,F,,PT,2022,,22.7
+2022,A,0,To be run for population aged 15 to 59 from 2022 KDHS,KDHS,_L_KE_160103_01,,F,,PT,2022,,28.1
+2014,A,0,To be run for population aged 15 to 59 from 2022 KDHS,KDHS,_L_KE_160103_01,,M,,PT,2022,,33.9
+2022,A,0,To be run for population aged 15 to 59 from 2022 KDHS,KDHS,_L_KE_160103_01,,M,,PT,2022,,22.4

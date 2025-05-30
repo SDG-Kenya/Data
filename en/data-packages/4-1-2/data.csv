@@ -1,11 +1,11 @@
-Year,Sex,Degree of urbanisation,Education level,Observation-level footnotes,Value
-2019,,,Secondary,,31.3
-2019,,,"Primary education, sufficient for level completion",Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),17.5
-2019,,Rural,Secondary,,25.1
-2019,,Rural,"Primary education, sufficient for level completion",Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),18.0
-2019,,Urban,Secondary,,42.0
-2019,,Urban,"Primary education, sufficient for level completion",Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),16.1
-2019,Female,,Secondary,,31.2
-2019,Female,,"Primary education, sufficient for level completion",Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),17.4
-2019,Male,,Secondary,,31.3
-2019,Male,,"Primary education, sufficient for level completion",Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),17.6
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,Education level,UNIT_MEASURE,Time period details,Observation-level footnotes,GeoCode,Value
+2019,Normal value,Units,2019: KPHC,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,,Secondary,Percent,2019,,,31.3
+2019,Normal value,Units,2019: KPHC,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,,"Primary education, sufficient for level completion",Percent,2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),,17.5
+2019,Normal value,Units,2019: KPHC,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,Rural,Secondary,Percent,2019,,,25.1
+2019,Normal value,Units,2019: KPHC,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,Rural,"Primary education, sufficient for level completion",Percent,2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),,18.0
+2019,Normal value,Units,2019: KPHC,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,Urban,Secondary,Percent,2019,,,42.0
+2019,Normal value,Units,2019: KPHC,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,Urban,"Primary education, sufficient for level completion",Percent,2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),,16.1
+2019,Normal value,Units,2019: KPHC,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,Female,,Secondary,Percent,2019,,,31.2
+2019,Normal value,Units,2019: KPHC,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,Female,,"Primary education, sufficient for level completion",Percent,2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),,17.4
+2019,Normal value,Units,2019: KPHC,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,Male,,Secondary,Percent,2019,,,31.3
+2019,Normal value,Units,2019: KPHC,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,Male,,"Primary education, sufficient for level completion",Percent,2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),,17.6

@@ -1,10 +1,10 @@
-Year,SEX,Value
-2014,,11.6
-2015,,13.3
-2022,,9.0
-2014,F,4.5
-2015,F,4.1
-2022,F,2.0
-2014,M,19.1
-2015,M,23.0
-2022,M,16.0
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,2014: Male 15-54 years                                       2014: Female 15-49 years 2015: 18-69 years,"2014:  KDHS                2015:  STEPS Survey, 2022: TADSAS",SH_PRV_SMOK,,,PT,2022,,11.6
+2015,A,0,2014: Male 15-54 years                                       2014: Female 15-49 years 2015: 18-69 years,"2014:  KDHS                2015:  STEPS Survey, 2022: TADSAS",SH_PRV_SMOK,,,PT,2022,,13.3
+2022,A,0,2014: Male 15-54 years                                       2014: Female 15-49 years 2015: 18-69 years,"2014:  KDHS                2015:  STEPS Survey, 2022: TADSAS",SH_PRV_SMOK,,,PT,2022,,9.0
+2014,A,0,2014: Male 15-54 years                                       2014: Female 15-49 years 2015: 18-69 years,"2014:  KDHS                2015:  STEPS Survey, 2022: TADSAS",SH_PRV_SMOK,,F,PT,2022,,4.5
+2015,A,0,2014: Male 15-54 years                                       2014: Female 15-49 years 2015: 18-69 years,"2014:  KDHS                2015:  STEPS Survey, 2022: TADSAS",SH_PRV_SMOK,,F,PT,2022,,4.1
+2022,A,0,2014: Male 15-54 years                                       2014: Female 15-49 years 2015: 18-69 years,"2014:  KDHS                2015:  STEPS Survey, 2022: TADSAS",SH_PRV_SMOK,,F,PT,2022,,2.0
+2014,A,0,2014: Male 15-54 years                                       2014: Female 15-49 years 2015: 18-69 years,"2014:  KDHS                2015:  STEPS Survey, 2022: TADSAS",SH_PRV_SMOK,,M,PT,2022,,19.1
+2015,A,0,2014: Male 15-54 years                                       2014: Female 15-49 years 2015: 18-69 years,"2014:  KDHS                2015:  STEPS Survey, 2022: TADSAS",SH_PRV_SMOK,,M,PT,2022,,23.0
+2022,A,0,2014: Male 15-54 years                                       2014: Female 15-49 years 2015: 18-69 years,"2014:  KDHS                2015:  STEPS Survey, 2022: TADSAS",SH_PRV_SMOK,,M,PT,2022,,16.0

@@ -1,49 +1,49 @@
-Year,SERIES,SEX,AGE,URBANISATION,UNIT_MEASURE,Value
-2014,SL_TLF_CHLDEC,,,,PT,34.5
-2016,SL_TLF_CHLDEC,,,,PT,13.1
-2019,SL_TLF_CHLDEC,,,,PT,16.9
-2020,SL_TLF_CHLDEC,,,,PT,13.9
-2021,SL_TLF_CHLDEC,,,,PT,3.9
-2022,SL_TLF_CHLDEC,,,,PT,3.1
-2022,SL_TLF_CHLDEC,,,R,PT,3.3
-2022,SL_TLF_CHLDEC,,,U,PT,2.5
-2019,SL_TLF_CHLDEC,,Y10T14,,PT,20.1
-2020,SL_TLF_CHLDEC,,Y10T14,,PT,15.3
-2021,SL_TLF_CHLDEC,,Y10T14,,PT,4.2
-2022,SL_TLF_CHLDEC,,Y10T14,,PT,1.8
-2019,SL_TLF_CHLDEC,,Y15T17,,PT,24.1
-2020,SL_TLF_CHLDEC,,Y15T17,,PT,28.1
-2021,SL_TLF_CHLDEC,,Y15T17,,PT,7.2
-2022,SL_TLF_CHLDEC,,Y15T17,,PT,9.4
-2019,SL_TLF_CHLDEC,,Y5T9,,PT,9.9
-2020,SL_TLF_CHLDEC,,Y5T9,,PT,4.9
-2021,SL_TLF_CHLDEC,,Y5T9,,PT,1.8
-2022,SL_TLF_CHLDEC,,Y5T9,,PT,1.0
-2019,SL_TLF_CHLDEC,F,,,PT,15.1
-2020,SL_TLF_CHLDEC,F,,,PT,11.7
-2021,SL_TLF_CHLDEC,F,,,PT,2.9
-2022,SL_TLF_CHLDEC,F,,,PT,2.6
-2019,SL_TLF_CHLDEC,M,,,PT,26.0
-2020,SL_TLF_CHLDEC,M,,,PT,16.2
-2021,SL_TLF_CHLDEC,M,,,PT,4.8
-2022,SL_TLF_CHLDEC,M,,,PT,3.6
-2014,SL_TLF_CHLDECN,,,,NUMBER,4552.3
-2016,SL_TLF_CHLDECN,,,,NUMBER,2074.3
-2019,SL_TLF_CHLDECN,,,,NUMBER,2693.2
-2020,SL_TLF_CHLDECN,,,,NUMBER,2276.8
-2021,SL_TLF_CHLDECN,,,,NUMBER,640.5
-2022,SL_TLF_CHLDECN,,,,NUMBER,517.4
-2022,SL_TLF_CHLDECN,,,R,NUMBER,414.3
-2022,SL_TLF_CHLDECN,,,U,NUMBER,103.1
-2014,SL_TLF_CHLDECN,F,,,NUMBER,2200.6
-2016,SL_TLF_CHLDECN,F,,,NUMBER,894.8
-2019,SL_TLF_CHLDECN,F,,,NUMBER,1190.3
-2020,SL_TLF_CHLDECN,F,,,NUMBER,945.0
-2021,SL_TLF_CHLDECN,F,,,NUMBER,237.7
-2022,SL_TLF_CHLDECN,F,,,NUMBER,216.1
-2014,SL_TLF_CHLDECN,M,,,NUMBER,2351.7
-2016,SL_TLF_CHLDECN,M,,,NUMBER,1179.5
-2019,SL_TLF_CHLDECN,M,,,NUMBER,1503.0
-2020,SL_TLF_CHLDECN,M,,,NUMBER,1331.7
-2021,SL_TLF_CHLDECN,M,,,NUMBER,402.8
-2022,SL_TLF_CHLDECN,M,,,NUMBER,301.3
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,,,PT,2022,,34.5
+2016,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,,,PT,2022,,13.1
+2019,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,,,PT,2022,,16.9
+2020,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,,,PT,2022,,13.9
+2021,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,,,PT,2022,,3.9
+2022,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,,,PT,2022,,3.1
+2022,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,,R,PT,2022,,3.3
+2022,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,,U,PT,2022,,2.5
+2019,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,Y10T14,,PT,2022,,20.1
+2020,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,Y10T14,,PT,2022,,15.3
+2021,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,Y10T14,,PT,2022,,4.2
+2022,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,Y10T14,,PT,2022,,1.8
+2019,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,Y15T17,,PT,2022,,24.1
+2020,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,Y15T17,,PT,2022,,28.1
+2021,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,Y15T17,,PT,2022,,7.2
+2022,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,Y15T17,,PT,2022,,9.4
+2019,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,Y5T9,,PT,2022,,9.9
+2020,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,Y5T9,,PT,2022,,4.9
+2021,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,Y5T9,,PT,2022,,1.8
+2022,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,,Y5T9,,PT,2022,,1.0
+2019,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,F,,,PT,2022,,15.1
+2020,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,F,,,PT,2022,,11.7
+2021,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,F,,,PT,2022,,2.9
+2022,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,F,,,PT,2022,,2.6
+2019,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,M,,,PT,2022,,26.0
+2020,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,M,,,PT,2022,,16.2
+2021,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,M,,,PT,2022,,4.8
+2022,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDEC,,M,,,PT,2022,,3.6
+2014,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,,,,NUMBER,2022,,4552.3
+2016,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,,,,NUMBER,2022,,2074.3
+2019,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,,,,NUMBER,2022,,2693.2
+2020,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,,,,NUMBER,2022,,2276.8
+2021,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,,,,NUMBER,2022,,640.5
+2022,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,,,,NUMBER,2022,,517.4
+2022,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,,,R,NUMBER,2022,,414.3
+2022,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,,,U,NUMBER,2022,,103.1
+2014,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,F,,,NUMBER,2022,,2200.6
+2016,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,F,,,NUMBER,2022,,894.8
+2019,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,F,,,NUMBER,2022,,1190.3
+2020,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,F,,,NUMBER,2022,,945.0
+2021,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,F,,,NUMBER,2022,,237.7
+2022,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,F,,,NUMBER,2022,,216.1
+2014,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,M,,,NUMBER,2022,,2351.7
+2016,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,M,,,NUMBER,2022,,1179.5
+2019,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,M,,,NUMBER,2022,,1503.0
+2020,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,M,,,NUMBER,2022,,1331.7
+2021,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,M,,,NUMBER,2022,,402.8
+2022,A,0,Refers to working children,"2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",SL_TLF_CHLDECN,,M,,,NUMBER,2022,,301.3

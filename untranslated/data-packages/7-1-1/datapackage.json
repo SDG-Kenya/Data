@@ -15,6 +15,36 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2014: KDHS                 2016: KIHBS                 2018:                            2019: KPHC                 2020: KCHS                2021: KCHS                2022 KDHS",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -23,6 +53,15 @@
                 "_L_KE_070101_02",
                 "_L_KE_070101_03",
                 "EG_ACS_ELEC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -39,6 +78,16 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -50,6 +99,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

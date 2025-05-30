@@ -1,8 +1,8 @@
-Year,Value
-2015,9.8
-2017,11.4
-2018,11.4
-2019,19.4
-2020,11.4
-2021,11.4
-2022,11.4
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2015,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,,9.8
+2017,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,,11.4
+2018,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,,11.4
+2019,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,,19.4
+2020,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,,11.4
+2021,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,,11.4
+2022,Normal value,Units,Proportion of land that is degraded over total land area [15.3.1],,Percent,2022,,11.4

@@ -1,4 +1,4 @@
-Year,SERIES,Value
-2016,Change in GINI,9.3
-2016,Pre-fiscal GINI index,45.0
-2016,Post-fiscal GINI index,35.7
+Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2016,Normal value,Units,"A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality","2015/16:  Fiscal Incidence, Inequality And Poverty In Kenya Report based on KIHBS",Change in GINI,,Percent,2016,,9.3
+2016,Normal value,Units,"A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality","2015/16:  Fiscal Incidence, Inequality And Poverty In Kenya Report based on KIHBS",Pre-fiscal GINI index,,Percent,2016,,45.0
+2016,Normal value,Units,"A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality","2015/16:  Fiscal Incidence, Inequality And Poverty In Kenya Report based on KIHBS",Post-fiscal GINI index,,Percent,2016,,35.7

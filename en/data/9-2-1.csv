@@ -1,21 +1,21 @@
-Year,Observation-level footnotes,SERIES,UNIT_MEASURE,Value
-2014,As a proportion of GDP,Manufacturing value added as a proportion of GDP [9.2.1],Percent,10.0
-2015,As a proportion of GDP,Manufacturing value added as a proportion of GDP [9.2.1],Percent,10.0
-2016,As a proportion of GDP,Manufacturing value added as a proportion of GDP [9.2.1],Percent,9.3
-2017,As a proportion of GDP,Manufacturing value added as a proportion of GDP [9.2.1],Percent,8.7
-2018,As a proportion of GDP,Manufacturing value added as a proportion of GDP [9.2.1],Percent,8.4
-2019,As a proportion of GDP,Manufacturing value added as a proportion of GDP [9.2.1],Percent,7.9
-2020,As a proportion of GDP,Manufacturing value added as a proportion of GDP [9.2.1],Percent,7.6
-2021,As a proportion of GDP,Manufacturing value added as a proportion of GDP [9.2.1],Percent,7.4
-2022,As a proportion of GDP,Manufacturing value added as a proportion of GDP [9.2.1],Percent,7.8
-2023,As a proportion of GDP,Manufacturing value added as a proportion of GDP [9.2.1],Percent,7.6
-2014,Per capita,Manufacturing value added per capita [9.2.1],Kenyan Shillings,12511.6
-2015,Per capita,Manufacturing value added per capita [9.2.1],Kenyan Shillings,13600.4
-2016,Per capita,Manufacturing value added per capita [9.2.1],Kenyan Shillings,14773.3
-2017,Per capita,Manufacturing value added per capita [9.2.1],Kenyan Shillings,15735.3
-2018,Per capita,Manufacturing value added per capita [9.2.1],Kenyan Shillings,16926.1
-2019,Per capita,Manufacturing value added per capita [9.2.1],Kenyan Shillings,17001.1
-2020,Per capita,Manufacturing value added per capita [9.2.1],Kenyan Shillings,16687.0
-2021,Per capita,Manufacturing value added per capita [9.2.1],Kenyan Shillings,17819.6
-2022,Per capita,Manufacturing value added per capita [9.2.1],Kenyan Shillings,20636.2
-2023,Per capita,Manufacturing value added per capita [9.2.1],Kenyan Shillings,22308.0
+Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,As a proportion of GDP,Economic Survey,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,2023,,10.0
+2015,Normal value,Units,As a proportion of GDP,Economic Survey,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,2023,,10.0
+2016,Normal value,Units,As a proportion of GDP,Economic Survey,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,2023,,9.3
+2017,Normal value,Units,As a proportion of GDP,Economic Survey,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,2023,,8.7
+2018,Normal value,Units,As a proportion of GDP,Economic Survey,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,2023,,8.4
+2019,Normal value,Units,As a proportion of GDP,Economic Survey,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,2023,,7.9
+2020,Normal value,Units,As a proportion of GDP,Economic Survey,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,2023,,7.6
+2021,Normal value,Units,As a proportion of GDP,Economic Survey,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,2023,,7.4
+2022,Normal value,Units,As a proportion of GDP,Economic Survey,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,2023,,7.8
+2023,Normal value,Units,As a proportion of GDP,Economic Survey,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,2023,,7.6
+2014,Normal value,Units,Per capita,Economic Survey,Manufacturing value added per capita [9.2.1],,Kenyan Shillings,2023,,12511.6
+2015,Normal value,Units,Per capita,Economic Survey,Manufacturing value added per capita [9.2.1],,Kenyan Shillings,2023,,13600.4
+2016,Normal value,Units,Per capita,Economic Survey,Manufacturing value added per capita [9.2.1],,Kenyan Shillings,2023,,14773.3
+2017,Normal value,Units,Per capita,Economic Survey,Manufacturing value added per capita [9.2.1],,Kenyan Shillings,2023,,15735.3
+2018,Normal value,Units,Per capita,Economic Survey,Manufacturing value added per capita [9.2.1],,Kenyan Shillings,2023,,16926.1
+2019,Normal value,Units,Per capita,Economic Survey,Manufacturing value added per capita [9.2.1],,Kenyan Shillings,2023,,17001.1
+2020,Normal value,Units,Per capita,Economic Survey,Manufacturing value added per capita [9.2.1],,Kenyan Shillings,2023,,16687.0
+2021,Normal value,Units,Per capita,Economic Survey,Manufacturing value added per capita [9.2.1],,Kenyan Shillings,2023,,17819.6
+2022,Normal value,Units,Per capita,Economic Survey,Manufacturing value added per capita [9.2.1],,Kenyan Shillings,2023,,20636.2
+2023,Normal value,Units,Per capita,Economic Survey,Manufacturing value added per capita [9.2.1],,Kenyan Shillings,2023,,22308.0

@@ -1,32 +1,32 @@
-Year,SEX,AGE,URBANISATION,Value
-2016,,,,75.3
-2018,,,,81.0
-2019,,,,82.9
-2021,,,,83.7
-2016,,,R,69.0
-2019,,,R,77.3
-2021,,,R,79.2
-2016,,,U,86.3
-2019,,,U,91.2
-2021,,,U,91.7
-2016,,Y_GE56,,62.2
-2019,,Y_GE56,,73.9
-2021,,Y_GE56,,78.9
-2016,,Y18T25,,69.4
-2019,,Y18T25,,75.5
-2021,,Y18T25,,71.8
-2016,,Y26T35,,82.5
-2019,,Y26T35,,89.0
-2021,,Y26T35,,90.8
-2016,,Y36T45,,81.5
-2019,,Y36T45,,87.8
-2021,,Y36T45,,91.1
-2016,,Y46T55,,78.2
-2019,,Y46T55,,87.5
-2021,,Y46T55,,89.9
-2016,F,,,71.2
-2019,F,,,80.4
-2021,F,,,81.7
-2016,M,,,79.7
-2019,M,,,85.6
-2021,M,,,85.9
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2016,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,,,PT,2021,,75.3
+2018,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,,,PT,2021,,81.0
+2019,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,,,PT,2021,,82.9
+2021,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,,,PT,2021,,83.7
+2016,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,,R,PT,2021,,69.0
+2019,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,,R,PT,2021,,77.3
+2021,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,,R,PT,2021,,79.2
+2016,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,,U,PT,2021,,86.3
+2019,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,,U,PT,2021,,91.2
+2021,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,,U,PT,2021,,91.7
+2016,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y_GE56,,PT,2021,,62.2
+2019,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y_GE56,,PT,2021,,73.9
+2021,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y_GE56,,PT,2021,,78.9
+2016,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y18T25,,PT,2021,,69.4
+2019,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y18T25,,PT,2021,,75.5
+2021,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y18T25,,PT,2021,,71.8
+2016,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y26T35,,PT,2021,,82.5
+2019,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y26T35,,PT,2021,,89.0
+2021,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y26T35,,PT,2021,,90.8
+2016,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y36T45,,PT,2021,,81.5
+2019,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y36T45,,PT,2021,,87.8
+2021,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y36T45,,PT,2021,,91.1
+2016,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y46T55,,PT,2021,,78.2
+2019,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y46T55,,PT,2021,,87.5
+2021,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,,Y46T55,,PT,2021,,89.9
+2016,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,F,,,PT,2021,,71.2
+2019,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,F,,,PT,2021,,80.4
+2021,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,F,,,PT,2021,,81.7
+2016,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,M,,,PT,2021,,79.7
+2019,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,M,,,PT,2021,,85.6
+2021,A,0,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,FB_BNK_ACCSS,,M,,,PT,2021,,85.9

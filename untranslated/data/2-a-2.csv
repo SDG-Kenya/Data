@@ -1,7 +1,7 @@
-Year,Value
-2018,6219.8
-2019,15520.1
-2020,15981.0
-2021,281388.6
-2022,33238.8
-2023,34387.1
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2018,A,6,"AIA, loans and grants to livestock,crop and fisheries, aquatic and blue economy",External revenue estimates handbook - Agriculture,DC_TOF_AGRL,,KES,2023,,6219.8
+2019,A,6,"AIA, loans and grants to livestock,crop and fisheries, aquatic and blue economy",External revenue estimates handbook - Agriculture,DC_TOF_AGRL,,KES,2023,,15520.1
+2020,A,6,"AIA, loans and grants to livestock,crop and fisheries, aquatic and blue economy",External revenue estimates handbook - Agriculture,DC_TOF_AGRL,,KES,2023,,15981.0
+2021,A,6,"AIA, loans and grants to livestock,crop and fisheries, aquatic and blue economy",External revenue estimates handbook - Agriculture,DC_TOF_AGRL,,KES,2023,,281388.6
+2022,A,6,"AIA, loans and grants to livestock,crop and fisheries, aquatic and blue economy",External revenue estimates handbook - Agriculture,DC_TOF_AGRL,,KES,2023,,33238.8
+2023,A,6,"AIA, loans and grants to livestock,crop and fisheries, aquatic and blue economy",External revenue estimates handbook - Agriculture,DC_TOF_AGRL,,KES,2023,,34387.1

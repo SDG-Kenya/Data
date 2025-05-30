@@ -15,12 +15,61 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
               "enum": [
                 "_L_KE_070102_01",
                 "EG_EGY_CLEAN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -37,6 +86,16 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -47,6 +106,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

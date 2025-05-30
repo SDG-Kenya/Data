@@ -16,6 +16,28 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
@@ -30,6 +52,17 @@
             "title": "Source details"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Municipal Solid Waste collection coverage, by cities (%) [11.6.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
@@ -42,6 +75,39 @@
               ]
             },
             "title": "Reference area"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "City",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2023",
+                ""
+              ]
+            },
+            "title": "Time period details"
           },
           {
             "name": "GeoCode",

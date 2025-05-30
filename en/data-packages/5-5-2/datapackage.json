@@ -16,6 +16,71 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2010: Manpower Survey, 2016: KIHBS, 2019: KPHC, 2021: KCHS",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
@@ -26,6 +91,33 @@
               ]
             },
             "title": "Composite breakdown"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Baseline Data          (2009-2014)",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

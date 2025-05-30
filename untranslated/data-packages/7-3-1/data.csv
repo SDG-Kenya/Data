@@ -1,11 +1,11 @@
-Year,Value
-2014,2e-05
-2015,2.1e-05
-2016,2e-05
-2017,1.8e-05
-2018,1.8e-05
-2019,1.8e-05
-2020,3.4e-05
-2021,3.4e-05
-2022,2e-05
-2023,1.5e-05
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,Modern energy only,Economic Survey,EG_EGY_PRIM,,T_OIL_PER_USD,2023,,2e-05
+2015,A,0,Modern energy only,Economic Survey,EG_EGY_PRIM,,T_OIL_PER_USD,2023,,2.1e-05
+2016,A,0,Modern energy only,Economic Survey,EG_EGY_PRIM,,T_OIL_PER_USD,2023,,2e-05
+2017,A,0,Modern energy only,Economic Survey,EG_EGY_PRIM,,T_OIL_PER_USD,2023,,1.8e-05
+2018,A,0,Modern energy only,Economic Survey,EG_EGY_PRIM,,T_OIL_PER_USD,2023,,1.8e-05
+2019,A,0,Modern energy only,Economic Survey,EG_EGY_PRIM,,T_OIL_PER_USD,2023,,1.8e-05
+2020,A,0,Modern energy only,Economic Survey,EG_EGY_PRIM,,T_OIL_PER_USD,2023,,3.4e-05
+2021,A,0,Modern energy only,Economic Survey,EG_EGY_PRIM,,T_OIL_PER_USD,2023,,3.4e-05
+2022,A,0,Modern energy only,Economic Survey,EG_EGY_PRIM,,T_OIL_PER_USD,2023,,2e-05
+2023,A,0,Modern energy only,Economic Survey,EG_EGY_PRIM,,T_OIL_PER_USD,2023,,1.5e-05

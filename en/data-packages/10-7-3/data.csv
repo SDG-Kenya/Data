@@ -1,8 +1,8 @@
-Year,Value
-2015,2
-2016,2
-2017,5
-2018,6
-2019,3
-2020,0
-2021,0
+Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2015,Normal value,Units,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),Total deaths and disappearances recorded during migration [10.7.3],,Number,2021,,2
+2016,Normal value,Units,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),Total deaths and disappearances recorded during migration [10.7.3],,Number,2021,,2
+2017,Normal value,Units,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),Total deaths and disappearances recorded during migration [10.7.3],,Number,2021,,5
+2018,Normal value,Units,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),Total deaths and disappearances recorded during migration [10.7.3],,Number,2021,,6
+2019,Normal value,Units,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),Total deaths and disappearances recorded during migration [10.7.3],,Number,2021,,3
+2020,Normal value,Units,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),Total deaths and disappearances recorded during migration [10.7.3],,Number,2021,,0
+2021,Normal value,Units,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),Total deaths and disappearances recorded during migration [10.7.3],,Number,2021,,0

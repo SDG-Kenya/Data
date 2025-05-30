@@ -1,21 +1,21 @@
-Year,SERIES,Value
-2014,SG_INT_MBRDEV,63.6
-2015,SG_INT_MBRDEV,63.6
-2016,SG_INT_MBRDEV,63.6
-2017,SG_INT_MBRDEV,63.6
-2018,SG_INT_MBRDEV,63.6
-2019,SG_INT_MBRDEV,63.6
-2020,SG_INT_MBRDEV,63.6
-2021,SG_INT_MBRDEV,72.7
-2022,SG_INT_MBRDEV,72.7
-2023,SG_INT_MBRDEV,63.6
-2014,SG_INT_VRTDEV,63.6
-2015,SG_INT_VRTDEV,63.6
-2016,SG_INT_VRTDEV,63.6
-2017,SG_INT_VRTDEV,63.6
-2018,SG_INT_VRTDEV,63.6
-2019,SG_INT_VRTDEV,63.6
-2020,SG_INT_VRTDEV,63.6
-2021,SG_INT_VRTDEV,72.7
-2022,SG_INT_VRTDEV,72.7
-2023,SG_INT_VRTDEV,63.6
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_MBRDEV,,PT,2023,,63.6
+2015,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_MBRDEV,,PT,2023,,63.6
+2016,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_MBRDEV,,PT,2023,,63.6
+2017,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_MBRDEV,,PT,2023,,63.6
+2018,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_MBRDEV,,PT,2023,,63.6
+2019,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_MBRDEV,,PT,2023,,63.6
+2020,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_MBRDEV,,PT,2023,,63.6
+2021,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_MBRDEV,,PT,2023,,72.7
+2022,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_MBRDEV,,PT,2023,,72.7
+2023,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_MBRDEV,,PT,2023,,63.6
+2014,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_VRTDEV,,PT,2023,,63.6
+2015,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_VRTDEV,,PT,2023,,63.6
+2016,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_VRTDEV,,PT,2023,,63.6
+2017,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_VRTDEV,,PT,2023,,63.6
+2018,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_VRTDEV,,PT,2023,,63.6
+2019,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_VRTDEV,,PT,2023,,63.6
+2020,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_VRTDEV,,PT,2023,,63.6
+2021,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_VRTDEV,,PT,2023,,72.7
+2022,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_VRTDEV,,PT,2023,,72.7
+2023,A,0,"Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",Ministry of Foreign and Diaspora Affairs,SG_INT_VRTDEV,,PT,2023,,63.6

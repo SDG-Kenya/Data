@@ -1,11 +1,11 @@
-Year,Value
-2014,1
-2015,1
-2016,1
-2017,1
-2018,1
-2019,1
-2020,1
-2021,1
-2022,1
-2023,1
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,"Constitution of Kenya 2010; The Access to Information Act, 2016",SG_INF_ACCSS,,BOOL,2023,,1
+2015,A,0,"Constitution of Kenya 2010; The Access to Information Act, 2016",SG_INF_ACCSS,,BOOL,2023,,1
+2016,A,0,"Constitution of Kenya 2010; The Access to Information Act, 2016",SG_INF_ACCSS,,BOOL,2023,,1
+2017,A,0,"Constitution of Kenya 2010; The Access to Information Act, 2016",SG_INF_ACCSS,,BOOL,2023,,1
+2018,A,0,"Constitution of Kenya 2010; The Access to Information Act, 2016",SG_INF_ACCSS,,BOOL,2023,,1
+2019,A,0,"Constitution of Kenya 2010; The Access to Information Act, 2016",SG_INF_ACCSS,,BOOL,2023,,1
+2020,A,0,"Constitution of Kenya 2010; The Access to Information Act, 2016",SG_INF_ACCSS,,BOOL,2023,,1
+2021,A,0,"Constitution of Kenya 2010; The Access to Information Act, 2016",SG_INF_ACCSS,,BOOL,2023,,1
+2022,A,0,"Constitution of Kenya 2010; The Access to Information Act, 2016",SG_INF_ACCSS,,BOOL,2023,,1
+2023,A,0,"Constitution of Kenya 2010; The Access to Information Act, 2016",SG_INF_ACCSS,,BOOL,2023,,1

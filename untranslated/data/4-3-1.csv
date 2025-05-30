@@ -1,5 +1,5 @@
-Year,SEX,URBANISATION,Value
-2019,,,21.9
-2019,,R,14.6
-2019,,U,20.4
-2019,F,,23.5
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2019,A,0,Tertiary Education Gross Enrolment Rates (Population Age 18-22 Years),2019:  KPHC,_L_KE_040301_01,,,,PT,2019,,21.9
+2019,A,0,Tertiary Education Gross Enrolment Rates (Population Age 18-22 Years),2019:  KPHC,_L_KE_040301_01,,,R,PT,2019,,14.6
+2019,A,0,Tertiary Education Gross Enrolment Rates (Population Age 18-22 Years),2019:  KPHC,_L_KE_040301_01,,,U,PT,2019,,20.4
+2019,A,0,Tertiary Education Gross Enrolment Rates (Population Age 18-22 Years),2019:  KPHC,_L_KE_040301_01,,F,,PT,2019,,23.5

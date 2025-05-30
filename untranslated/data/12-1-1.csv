@@ -1,11 +1,11 @@
-Year,Value
-2014,0
-2015,0
-2016,1
-2017,1
-2018,1
-2019,1
-2020,1
-2021,1
-2022,1
-2023,1
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,Green Economy Strategy and Implementation Plan (GESIP 2016-2030),SG_SCP_CORMEC,,BOOL,2023,,0
+2015,A,0,Green Economy Strategy and Implementation Plan (GESIP 2016-2030),SG_SCP_CORMEC,,BOOL,2023,,0
+2016,A,0,Green Economy Strategy and Implementation Plan (GESIP 2016-2030),SG_SCP_CORMEC,,BOOL,2023,,1
+2017,A,0,Green Economy Strategy and Implementation Plan (GESIP 2016-2030),SG_SCP_CORMEC,,BOOL,2023,,1
+2018,A,0,Green Economy Strategy and Implementation Plan (GESIP 2016-2030),SG_SCP_CORMEC,,BOOL,2023,,1
+2019,A,0,Green Economy Strategy and Implementation Plan (GESIP 2016-2030),SG_SCP_CORMEC,,BOOL,2023,,1
+2020,A,0,Green Economy Strategy and Implementation Plan (GESIP 2016-2030),SG_SCP_CORMEC,,BOOL,2023,,1
+2021,A,0,Green Economy Strategy and Implementation Plan (GESIP 2016-2030),SG_SCP_CORMEC,,BOOL,2023,,1
+2022,A,0,Green Economy Strategy and Implementation Plan (GESIP 2016-2030),SG_SCP_CORMEC,,BOOL,2023,,1
+2023,A,0,Green Economy Strategy and Implementation Plan (GESIP 2016-2030),SG_SCP_CORMEC,,BOOL,2023,,1

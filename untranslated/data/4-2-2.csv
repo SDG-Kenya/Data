@@ -1,14 +1,14 @@
-Year,SEX,URBANISATION,TIME_DETAIL,Value
-2014,,,2022,71.8
-2015,,,2022,74.6
-2016,,,2022,74.9
-2017,,,2022,76.9
-2018,,,2022,77.2
-2019,,,2022,73.8
-2022,,,2022,87.9
-2019,,R,2019,70.9
-2019,,U,2019,81.9
-2019,F,,2022,73.8
-2022,F,,2022,88.8
-2019,M,,2022,73.9
-2022,M,,2022,86.9
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months),Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS,SE_PRE_PARTN,,,,PT,2022,,71.8
+2015,A,0,Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months),Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS,SE_PRE_PARTN,,,,PT,2022,,74.6
+2016,A,0,Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months),Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS,SE_PRE_PARTN,,,,PT,2022,,74.9
+2017,A,0,Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months),Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS,SE_PRE_PARTN,,,,PT,2022,,76.9
+2018,A,0,Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months),Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS,SE_PRE_PARTN,,,,PT,2022,,77.2
+2019,A,0,Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months),Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS,SE_PRE_PARTN,,,,PT,2022,,73.8
+2022,A,0,Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months),Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS,SE_PRE_PARTN,,,,PT,2022,,87.9
+2019,A,0,Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months),Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS,SE_PRE_PARTN,,,R,PT,2019,,70.9
+2019,A,0,Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months),Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS,SE_PRE_PARTN,,,U,PT,2019,,81.9
+2019,A,0,Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months),Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS,SE_PRE_PARTN,,F,,PT,2022,,73.8
+2022,A,0,Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months),Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS,SE_PRE_PARTN,,F,,PT,2022,,88.8
+2019,A,0,Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months),Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS,SE_PRE_PARTN,,M,,PT,2022,,73.9
+2022,A,0,Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months),Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS,SE_PRE_PARTN,,M,,PT,2022,,86.9

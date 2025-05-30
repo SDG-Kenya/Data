@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
@@ -26,12 +36,31 @@
             }
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Economic Survey",
+                ""
+              ]
+            }
+          },
+          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
               "enum": [
                 "_L_KE_090102_01",
                 "_L_KE_090102_02",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -62,6 +91,16 @@
             }
           },
           {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2023",
+                ""
+              ]
+            }
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
@@ -72,6 +111,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
           },
           {
             "name": "Value",

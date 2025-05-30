@@ -1,6 +1,6 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,SEX,URBANISATION,TIME_DETAIL,Value
-2016,2016: Share of  households with legal documents of agricultural (crop only) land by sex of the household head 2022 KDHS Did not measure tenure system,2016:  KIHBS,_L_KE_050a01_01,M,,2016,68.3
-2016,2016: Share of  households with legal documents of agricultural (crop only) land by sex of the household head 2022 KDHS Did not measure tenure system,2016:  KIHBS,SP_GNP_WNOWNS,F,,2016,31.7
-2022,,2022 KCHS,SP_LGL_LNDAGSEC,F,,2022,25.4
-2022,,2022 KCHS,SP_LGL_LNDAGSEC,F,R,2022,33.4
-2022,,2022 KCHS,SP_LGL_LNDAGSEC,F,U,2022,10.0
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2016,A,0,2016: Share of  households with legal documents of agricultural (crop only) land by sex of the household head 2022 KDHS Did not measure tenure system,2016:  KIHBS,_L_KE_050a01_01,,M,,PT,2016,,68.3
+2016,A,0,2016: Share of  households with legal documents of agricultural (crop only) land by sex of the household head 2022 KDHS Did not measure tenure system,2016:  KIHBS,SP_GNP_WNOWNS,,F,,PT,2016,,31.7
+2022,A,0,,2022 KCHS,SP_LGL_LNDAGSEC,,F,,PT,2022,,25.4
+2022,A,0,,2022 KCHS,SP_LGL_LNDAGSEC,,F,R,PT,2022,,33.4
+2022,A,0,,2022 KCHS,SP_LGL_LNDAGSEC,,F,U,PT,2022,,10.0

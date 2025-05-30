@@ -1,1 +1,5 @@
 From,To
+Source details,Sex
+Sex,Time period details
+Time period details,Age
+Time period details,Degree of urbanisation

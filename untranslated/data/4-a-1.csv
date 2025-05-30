@@ -1,13 +1,13 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,EDUCATION_LEV,TIME_DETAIL,Value
-2014,Proportion of Secondary Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,_L_KE_3,2016,75.3
-2015,Proportion of Secondary Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,_L_KE_3,2016,83.3
-2016,Proportion of Secondary Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,_L_KE_3,2016,87.0
-2014,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,ISCED11_1,2023,43.8
-2015,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,ISCED11_1,2023,71.7
-2016,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,ISCED11_1,2023,80.5
-2019,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,ISCED11_1,2023,97.0
-2020,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,ISCED11_1,2023,97.0
-2023,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,ISCED11_1,2023,87.4
-2020,,,SE_ACS_INTNT,_L_KE_3,2020,34.0
-2020,,Basic Education Statistical Booklets,SE_ACS_INTNT,ISCED11_1,2022,39.1
-2022,,Basic Education Statistical Booklets,SE_ACS_INTNT,ISCED11_1,2022,42.9
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,EDUCATION_LEV,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,Proportion of Secondary Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,,_L_KE_3,PT,2016,,75.3
+2015,A,0,Proportion of Secondary Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,,_L_KE_3,PT,2016,,83.3
+2016,A,0,Proportion of Secondary Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,,_L_KE_3,PT,2016,,87.0
+2014,A,0,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,,ISCED11_1,PT,2023,,43.8
+2015,A,0,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,,ISCED11_1,PT,2023,,71.7
+2016,A,0,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,,ISCED11_1,PT,2023,,80.5
+2019,A,0,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,,ISCED11_1,PT,2023,,97.0
+2020,A,0,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,,ISCED11_1,PT,2023,,97.0
+2023,A,0,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,SE_ACS_ELECT,,ISCED11_1,PT,2023,,87.4
+2020,A,0,,,SE_ACS_INTNT,,_L_KE_3,PT,2020,,34.0
+2020,A,0,,Basic Education Statistical Booklets,SE_ACS_INTNT,,ISCED11_1,PT,2022,,39.1
+2022,A,0,,Basic Education Statistical Booklets,SE_ACS_INTNT,,ISCED11_1,PT,2022,,42.9

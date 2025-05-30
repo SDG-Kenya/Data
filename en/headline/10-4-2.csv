@@ -1,4 +1,1 @@
-Year,Value,SERIES
-2016,9.3,Change in GINI
-2016,45.0,Pre-fiscal GINI index
-2016,35.7,Post-fiscal GINI index
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

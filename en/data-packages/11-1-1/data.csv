@@ -1,13 +1,13 @@
-Year,Observation-level footnotes,SERIES,Value
-2014,Proportion of urban population living in a household that lacks one of the four housing conditions,Proportion of urban population living in slums (One Shelter Deprivation),34.9
-2019,Proportion of urban population living in a household that lacks one of the four housing conditions,Proportion of urban population living in slums (One Shelter Deprivation),37.2
-2014,Proportion of urban population living in a household that lacks two of the four housing conditions,Proportion of urban population living in slums (Two Shelter Deprivation),23.2
-2019,Proportion of urban population living in a household that lacks two of the four housing conditions,Proportion of urban population living in slums (Two Shelter Deprivation),14.9
-2014,Proportion of urban population living in a household that three of the four housing conditions,Proportion of urban population living in slums(Three Shelter Deprivation),10.6
-2019,Proportion of urban population living in a household that three of the four housing conditions,Proportion of urban population living in slums(Three Shelter Deprivation),4.2
-2014,Proportion of urban population living in a household that lacks all the four housing conditions,Proportion of urban population living in slums (Four Shelter Deprivation),2.7
-2019,Proportion of urban population living in a household that lacks all the four housing conditions,Proportion of urban population living in slums (Four Shelter Deprivation),0.9
-2014,"Proportion of urban population lacking at least one of the one of the four housing conditions (Access to improved water; Access to improved sanitation facilities; Sufficient-living area, not overcrowded;housing durability)",Proportion of urban population living in slums (Any Shelter Deprivation) - Slum dwellers,71.4
-2019,"Proportion of urban population lacking at least one of the one of the four housing conditions (Access to improved water; Access to improved sanitation facilities; Sufficient-living area, not overcrowded;housing durability)",Proportion of urban population living in slums (Any Shelter Deprivation) - Slum dwellers,57.3
-2014,Proportion of urban population living in informal settlements,Proportion of urban population living in slums [11.1.1],7.9
-2019,Proportion of urban population living in informal settlements,Proportion of urban population living in slums [11.1.1],6.9
+Year,Observation status,Unit multiplier,Observation-level footnotes,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,Proportion of urban population living in a household that lacks one of the four housing conditions,Proportion of urban population living in slums (One Shelter Deprivation),,Percent,2019,,34.9
+2019,Normal value,Units,Proportion of urban population living in a household that lacks one of the four housing conditions,Proportion of urban population living in slums (One Shelter Deprivation),,Percent,2019,,37.2
+2014,Normal value,Units,Proportion of urban population living in a household that lacks two of the four housing conditions,Proportion of urban population living in slums (Two Shelter Deprivation),,Percent,2019,,23.2
+2019,Normal value,Units,Proportion of urban population living in a household that lacks two of the four housing conditions,Proportion of urban population living in slums (Two Shelter Deprivation),,Percent,2019,,14.9
+2014,Normal value,Units,Proportion of urban population living in a household that three of the four housing conditions,Proportion of urban population living in slums(Three Shelter Deprivation),,Percent,2019,,10.6
+2019,Normal value,Units,Proportion of urban population living in a household that three of the four housing conditions,Proportion of urban population living in slums(Three Shelter Deprivation),,Percent,2019,,4.2
+2014,Normal value,Units,Proportion of urban population living in a household that lacks all the four housing conditions,Proportion of urban population living in slums (Four Shelter Deprivation),,Percent,2019,,2.7
+2019,Normal value,Units,Proportion of urban population living in a household that lacks all the four housing conditions,Proportion of urban population living in slums (Four Shelter Deprivation),,Percent,2019,,0.9
+2014,Normal value,Units,"Proportion of urban population lacking at least one of the one of the four housing conditions (Access to improved water; Access to improved sanitation facilities; Sufficient-living area, not overcrowded;housing durability)",Proportion of urban population living in slums (Any Shelter Deprivation) - Slum dwellers,,Percent,2019,,71.4
+2019,Normal value,Units,"Proportion of urban population lacking at least one of the one of the four housing conditions (Access to improved water; Access to improved sanitation facilities; Sufficient-living area, not overcrowded;housing durability)",Proportion of urban population living in slums (Any Shelter Deprivation) - Slum dwellers,,Percent,2019,,57.3
+2014,Normal value,Units,Proportion of urban population living in informal settlements,Proportion of urban population living in slums [11.1.1],,Percent,2019,,7.9
+2019,Normal value,Units,Proportion of urban population living in informal settlements,Proportion of urban population living in slums [11.1.1],,Percent,2019,,6.9

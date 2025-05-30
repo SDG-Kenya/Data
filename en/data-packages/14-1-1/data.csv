@@ -1,5 +1,5 @@
-Year,Value
-2019,17698
-2020,2092
-2021,35360
-2022,5272
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2019,Normal value,Units,KMFRI,Floating plastic debris density (count per km2) [14.1.1],,Square kilometers,2022,,17698
+2020,Normal value,Units,KMFRI,Floating plastic debris density (count per km2) [14.1.1],,Square kilometers,2022,,2092
+2021,Normal value,Units,KMFRI,Floating plastic debris density (count per km2) [14.1.1],,Square kilometers,2022,,35360
+2022,Normal value,Units,KMFRI,Floating plastic debris density (count per km2) [14.1.1],,Square kilometers,2022,,5272

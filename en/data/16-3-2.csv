@@ -1,31 +1,31 @@
-Year,Sex,Value
-2014,,56.3
-2015,,60.3
-2016,,60.8
-2017,,61.4
-2018,,62.5
-2019,,64.7
-2020,,66.0
-2021,,59.2
-2022,,60.8
-2023,,67.7
-2014,Female,57.6
-2015,Female,49.9
-2016,Female,47.6
-2017,Female,56.1
-2018,Female,53.4
-2019,Female,55.8
-2020,Female,53.1
-2021,Female,43.7
-2022,Female,62.1
-2023,Female,68.8
-2014,Male,56.2
-2015,Male,61.6
-2016,Male,62.2
-2017,Male,61.9
-2018,Male,63.5
-2019,Male,65.7
-2020,Male,67.3
-2021,Male,60.7
-2022,Male,49.3
-2023,Male,55.4
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,,Percent,2023,,56.3
+2015,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,,Percent,2023,,60.3
+2016,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,,Percent,2023,,60.8
+2017,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,,Percent,2023,,61.4
+2018,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,,Percent,2023,,62.5
+2019,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,,Percent,2023,,64.7
+2020,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,,Percent,2023,,66.0
+2021,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,,Percent,2023,,59.2
+2022,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,,Percent,2023,,60.8
+2023,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,,Percent,2023,,67.7
+2014,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Female,Percent,2023,,57.6
+2015,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Female,Percent,2023,,49.9
+2016,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Female,Percent,2023,,47.6
+2017,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Female,Percent,2023,,56.1
+2018,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Female,Percent,2023,,53.4
+2019,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Female,Percent,2023,,55.8
+2020,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Female,Percent,2023,,53.1
+2021,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Female,Percent,2023,,43.7
+2022,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Female,Percent,2023,,62.1
+2023,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Female,Percent,2023,,68.8
+2014,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Male,Percent,2023,,56.2
+2015,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Male,Percent,2023,,61.6
+2016,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Male,Percent,2023,,62.2
+2017,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Male,Percent,2023,,61.9
+2018,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Male,Percent,2023,,63.5
+2019,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Male,Percent,2023,,65.7
+2020,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Male,Percent,2023,,67.3
+2021,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Male,Percent,2023,,60.7
+2022,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Male,Percent,2023,,49.3
+2023,Normal value,Units,Economic Survey,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Male,Percent,2023,,55.4

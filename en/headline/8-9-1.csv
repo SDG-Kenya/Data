@@ -1,11 +1,1 @@
-Year,Value,SERIES
-2014,-18.7,Tourism direct GDP in growth rate
-2015,5.4,Tourism direct GDP in growth rate
-2016,6.9,Tourism direct GDP in growth rate
-2017,9.4,Tourism direct GDP in growth rate
-2018,15.6,Tourism direct GDP in growth rate
-2019,14.3,Tourism direct GDP in growth rate
-2020,-47.7,Tourism direct GDP in growth rate
-2021,52.6,Tourism direct GDP in growth rate
-2022,26.8,Tourism direct GDP in growth rate
-2023,33.6,Tourism direct GDP in growth rate
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

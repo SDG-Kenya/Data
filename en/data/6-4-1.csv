@@ -1,9 +1,9 @@
-Year,Value
-2014,16.0
-2015,16.5
-2016,13.6
-2017,13.9
-2018,14.7
-2019,15.3
-2020,14.9
-2021,16.2
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,2021,,16.0
+2015,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,2021,,16.5
+2016,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,2021,,13.6
+2017,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,2021,,13.9
+2018,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,2021,,14.7
+2019,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,2021,,15.3
+2020,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,2021,,14.9
+2021,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,2021,,16.2

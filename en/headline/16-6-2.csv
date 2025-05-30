@@ -1,6 +1,1 @@
-Year,Value
-2017,59.4
-2018,55.7
-2021,44.0
-2022,28.9
-2023,40.0
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

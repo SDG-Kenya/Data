@@ -1,43 +1,43 @@
-Year,SERIES,Source details,Value
-2016,Proportion of domestic budget funded by tax on income,,27.9
-2017,Proportion of domestic budget funded by tax on income,,27.5
-2018,Proportion of domestic budget funded by tax on income,,24.9
-2019,Proportion of domestic budget funded by tax on income,,23.8
-2020,Proportion of domestic budget funded by tax on income,,27.2
-2021,Proportion of domestic budget funded by tax on income,,25.4
-2022,Proportion of domestic budget funded by tax on income,,29.3
-2023,Proportion of domestic budget funded by tax on income,,29.9
-2016,Proportion of domestic budget funded by value added tax,,14.3
-2017,Proportion of domestic budget funded by value added tax,,14.9
-2018,Proportion of domestic budget funded by value added tax,,13.9
-2019,Proportion of domestic budget funded by value added tax,,14.4
-2020,Proportion of domestic budget funded by value added tax,,14.8
-2021,Proportion of domestic budget funded by value added tax,,15.0
-2022,Proportion of domestic budget funded by value added tax,,17.5
-2023,Proportion of domestic budget funded by value added tax,,17.5
-2016,Proportion of domestic budget funded by tax on other goods and services,,13.6
-2017,Proportion of domestic budget funded by tax on other goods and services,,11.0
-2018,Proportion of domestic budget funded by tax on other goods and services,,10.7
-2019,Proportion of domestic budget funded by tax on other goods and services,,10.2
-2020,Proportion of domestic budget funded by tax on other goods and services,,11.2
-2021,Proportion of domestic budget funded by tax on other goods and services,,12.8
-2022,Proportion of domestic budget funded by tax on other goods and services,,12.2
-2023,Proportion of domestic budget funded by tax on other goods and services,,11.9
-2016,Proportion of domestic budget funded by taxes on international trade,,5.1
-2017,Proportion of domestic budget funded by taxes on international trade,,5.8
-2018,Proportion of domestic budget funded by taxes on international trade,,5.4
-2019,Proportion of domestic budget funded by taxes on international trade,,5.3
-2020,Proportion of domestic budget funded by taxes on international trade,,5.8
-2021,Proportion of domestic budget funded by taxes on international trade,,6.5
-2022,Proportion of domestic budget funded by taxes on international trade,,6.9
-2023,Proportion of domestic budget funded by taxes on international trade,,5.9
-2014,Proportion of domestic budget funded by domestic taxes [17.1.2],Economic Survey,59.6
-2015,Proportion of domestic budget funded by domestic taxes [17.1.2],Economic Survey,53.0
-2016,Proportion of domestic budget funded by domestic taxes [17.1.2],Economic Survey,58.2
-2017,Proportion of domestic budget funded by domestic taxes [17.1.2],Economic Survey,59.1
-2018,Proportion of domestic budget funded by domestic taxes [17.1.2],Economic Survey,54.8
-2019,Proportion of domestic budget funded by domestic taxes [17.1.2],Economic Survey,64.0
-2020,Proportion of domestic budget funded by domestic taxes [17.1.2],Economic Survey,59.0
-2021,Proportion of domestic budget funded by domestic taxes [17.1.2],Economic Survey,59.7
-2022,Proportion of domestic budget funded by domestic taxes [17.1.2],Economic Survey,65.9
-2023,Proportion of domestic budget funded by domestic taxes [17.1.2],Economic Survey,65.3
+Year,Observation status,Unit multiplier,Observation-level footnotes,SERIES,Reference area,UNIT_MEASURE,Time period details,Source details,GeoCode,Value
+2016,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on income,,Percent,2023,,,27.9
+2017,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on income,,Percent,2023,,,27.5
+2018,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on income,,Percent,2023,,,24.9
+2019,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on income,,Percent,2023,,,23.8
+2020,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on income,,Percent,2023,,,27.2
+2021,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on income,,Percent,2023,,,25.4
+2022,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on income,,Percent,2023,,,29.3
+2023,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on income,,Percent,2023,,,29.9
+2016,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by value added tax,,Percent,2023,,,14.3
+2017,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by value added tax,,Percent,2023,,,14.9
+2018,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by value added tax,,Percent,2023,,,13.9
+2019,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by value added tax,,Percent,2023,,,14.4
+2020,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by value added tax,,Percent,2023,,,14.8
+2021,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by value added tax,,Percent,2023,,,15.0
+2022,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by value added tax,,Percent,2023,,,17.5
+2023,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by value added tax,,Percent,2023,,,17.5
+2016,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on other goods and services,,Percent,2023,,,13.6
+2017,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on other goods and services,,Percent,2023,,,11.0
+2018,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on other goods and services,,Percent,2023,,,10.7
+2019,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on other goods and services,,Percent,2023,,,10.2
+2020,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on other goods and services,,Percent,2023,,,11.2
+2021,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on other goods and services,,Percent,2023,,,12.8
+2022,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on other goods and services,,Percent,2023,,,12.2
+2023,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on other goods and services,,Percent,2023,,,11.9
+2016,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by taxes on international trade,,Percent,2023,,,5.1
+2017,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by taxes on international trade,,Percent,2023,,,5.8
+2018,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by taxes on international trade,,Percent,2023,,,5.4
+2019,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by taxes on international trade,,Percent,2023,,,5.3
+2020,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by taxes on international trade,,Percent,2023,,,5.8
+2021,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by taxes on international trade,,Percent,2023,,,6.5
+2022,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by taxes on international trade,,Percent,2023,,,6.9
+2023,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by taxes on international trade,,Percent,2023,,,5.9
+2014,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2023,Economic Survey,,59.6
+2015,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2023,Economic Survey,,53.0
+2016,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2023,Economic Survey,,58.2
+2017,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2023,Economic Survey,,59.1
+2018,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2023,Economic Survey,,54.8
+2019,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2023,Economic Survey,,64.0
+2020,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2023,Economic Survey,,59.0
+2021,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2023,Economic Survey,,59.7
+2022,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2023,Economic Survey,,65.9
+2023,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2023,Economic Survey,,65.3

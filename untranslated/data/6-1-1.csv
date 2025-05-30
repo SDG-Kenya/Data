@@ -1,19 +1,19 @@
-Year,SERIES,URBANISATION,Value
-2014,_L_KE_060101_01,,63.0
-2016,_L_KE_060101_01,,55.9
-2022,_L_KE_060101_01,,64.3
-2014,_L_KE_060101_01,R,49.9
-2016,_L_KE_060101_01,R,51.2
-2022,_L_KE_060101_01,R,58.7
-2014,_L_KE_060101_01,U,81.2
-2016,_L_KE_060101_01,U,61.9
-2022,_L_KE_060101_01,U,72.7
-2014,SH_H2O_SAFE,,60.3
-2016,SH_H2O_SAFE,,52.4
-2022,SH_H2O_SAFE,,67.9
-2014,SH_H2O_SAFE,R,48.1
-2016,SH_H2O_SAFE,R,48.6
-2022,SH_H2O_SAFE,R,56.3
-2014,SH_H2O_SAFE,U,78.0
-2016,SH_H2O_SAFE,U,60.0
-2022,SH_H2O_SAFE,U,90.6
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060101_01,,,PT,2022,,63.0
+2016,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060101_01,,,PT,2022,,55.9
+2022,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060101_01,,,PT,2022,,64.3
+2014,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060101_01,,R,PT,2022,,49.9
+2016,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060101_01,,R,PT,2022,,51.2
+2022,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060101_01,,R,PT,2022,,58.7
+2014,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060101_01,,U,PT,2022,,81.2
+2016,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060101_01,,U,PT,2022,,61.9
+2022,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",_L_KE_060101_01,,U,PT,2022,,72.7
+2014,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_H2O_SAFE,,,PT,2022,,60.3
+2016,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_H2O_SAFE,,,PT,2022,,52.4
+2022,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_H2O_SAFE,,,PT,2022,,67.9
+2014,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_H2O_SAFE,,R,PT,2022,,48.1
+2016,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_H2O_SAFE,,R,PT,2022,,48.6
+2022,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_H2O_SAFE,,R,PT,2022,,56.3
+2014,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_H2O_SAFE,,U,PT,2022,,78.0
+2016,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_H2O_SAFE,,U,PT,2022,,60.0
+2022,A,0,At least basic service which includes basic  and safely managed drinking water services,"2014: KDHS,   2016: KIHBS,  2022:KDHS",SH_H2O_SAFE,,U,PT,2022,,90.6

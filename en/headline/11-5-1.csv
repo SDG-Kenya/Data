@@ -1,7 +1,1 @@
-Year,Value,UNIT_MEASURE,SERIES
-2018,269515,Number,Number of households displaced as a result of disaster
-2019,396855,Number,Number of households displaced as a result of disaster
-2021,158472,Number,Number of households displaced as a result of disaster
-2018,187,Number,"Number of deaths from disaster per 100,000 people"
-2019,305,Number,"Number of deaths from disaster per 100,000 people"
-2021,139,Number,"Number of deaths from disaster per 100,000 people"
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

@@ -1,21 +1,21 @@
-Year,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,UNIT_MEASURE,Value
-2014,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,PT,6.4
-2015,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,PT,6.0
-2016,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,PT,8.5
-2017,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,PT,8.3
-2018,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,PT,8.2
-2019,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,PT,8.4
-2020,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,PT,8.4
-2021,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,PT,9.1
-2022,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,PT,8.0
-2023,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,PT,8.3
-2014,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,KES,26957.1
-2015,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,KES,28117.5
-2016,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,KES,29596.7
-2017,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,KES,25904.0
-2018,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,KES,27600.1
-2019,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,KES,19701.8
-2020,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,KES,19819.7
-2021,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,KES,31320.4
-2022,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,KES,31031.2
-2023,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,KES,23083.5
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,,PT,2023,,6.4
+2015,A,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,,PT,2023,,6.0
+2016,A,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,,PT,2023,,8.5
+2017,A,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,,PT,2023,,8.3
+2018,A,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,,PT,2023,,8.2
+2019,A,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,,PT,2023,,8.4
+2020,A,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,,PT,2023,,8.4
+2021,A,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,,PT,2023,,9.1
+2022,A,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,,PT,2023,,8.0
+2023,A,0,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",_L_KE_100b01_01,,PT,2023,,8.3
+2014,A,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,,KES,2023,,26957.1
+2015,A,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,,KES,2023,,28117.5
+2016,A,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,,KES,2023,,29596.7
+2017,A,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,,KES,2023,,25904.0
+2018,A,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,,KES,2023,,27600.1
+2019,A,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,,KES,2023,,19701.8
+2020,A,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,,KES,2023,,19819.7
+2021,A,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,,KES,2023,,31320.4
+2022,A,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,,KES,2023,,31031.2
+2023,A,6,External Grants,"KNBS, Economic Survey Report (Several  editions)",DC_TRF_TFDV,,KES,2023,,23083.5

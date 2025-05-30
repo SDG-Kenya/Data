@@ -1,11 +1,11 @@
-Year,Value
-2014,392
-2015,331
-2016,444
-2017,186
-2018,185
-2019,988
-2020,236
-2021,114
-2022,610
-2023,296
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,Firearms recovered and surrendered,Economic Survey,VC_ARM_SZTRACE,,NUMBER,2023,,392
+2015,A,0,Firearms recovered and surrendered,Economic Survey,VC_ARM_SZTRACE,,NUMBER,2023,,331
+2016,A,0,Firearms recovered and surrendered,Economic Survey,VC_ARM_SZTRACE,,NUMBER,2023,,444
+2017,A,0,Firearms recovered and surrendered,Economic Survey,VC_ARM_SZTRACE,,NUMBER,2023,,186
+2018,A,0,Firearms recovered and surrendered,Economic Survey,VC_ARM_SZTRACE,,NUMBER,2023,,185
+2019,A,0,Firearms recovered and surrendered,Economic Survey,VC_ARM_SZTRACE,,NUMBER,2023,,988
+2020,A,0,Firearms recovered and surrendered,Economic Survey,VC_ARM_SZTRACE,,NUMBER,2023,,236
+2021,A,0,Firearms recovered and surrendered,Economic Survey,VC_ARM_SZTRACE,,NUMBER,2023,,114
+2022,A,0,Firearms recovered and surrendered,Economic Survey,VC_ARM_SZTRACE,,NUMBER,2023,,610
+2023,A,0,Firearms recovered and surrendered,Economic Survey,VC_ARM_SZTRACE,,NUMBER,2023,,296

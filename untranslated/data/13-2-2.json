@@ -1,1 +1,1 @@
-{"Year":[2018,2019,2020,2021],"Value":[96,97,98,100]}
+{"Year":[2018,2019,2020,2021],"OBS_STATUS":["A","A","A","A"],"UNIT_MULT":["0","0","0","0"],"SOURCE_DETAIL":["Ministry of Enviroment","Ministry of Enviroment","Ministry of Enviroment","Ministry of Enviroment"],"SERIES":["_L_KE_130202_01","_L_KE_130202_01","_L_KE_130202_01","_L_KE_130202_01"],"REF_AREA":[null,null,null,null],"UNIT_MEASURE":["TCO2E","TCO2E","TCO2E","TCO2E"],"TIME_DETAIL":["2021","2021","2021","2021"],"GeoCode":[null,null,null,null],"Value":[96,97,98,100]}

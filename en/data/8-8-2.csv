@@ -1,11 +1,11 @@
-Year,Value
-2014,328
-2015,230
-2016,298
-2017,386
-2018,313
-2019,263
-2020,172
-2021,166
-2022,315
-2023,334
+Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+2014,Normal value,Thousands,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation [8.8.2],,Number,2023,,328
+2015,Normal value,Thousands,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation [8.8.2],,Number,2023,,230
+2016,Normal value,Thousands,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation [8.8.2],,Number,2023,,298
+2017,Normal value,Thousands,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation [8.8.2],,Number,2023,,386
+2018,Normal value,Thousands,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation [8.8.2],,Number,2023,,313
+2019,Normal value,Thousands,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation [8.8.2],,Number,2023,,263
+2020,Normal value,Thousands,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation [8.8.2],,Number,2023,,172
+2021,Normal value,Thousands,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation [8.8.2],,Number,2023,,166
+2022,Normal value,Thousands,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation [8.8.2],,Number,2023,,315
+2023,Normal value,Thousands,CBAs - Collective Bargaining Agreements used as a proxy,Economic Survey,Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation [8.8.2],,Number,2023,,334

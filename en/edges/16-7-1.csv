@@ -1,5 +1,7 @@
 From,To
-Source details,Occupation
-Source details,Observation-level footnotes
+Source details,Sex
+Sex,Time period details
 Occupation,Age
 Occupation,Disability status
+Time period details,Occupation
+Time period details,Observation-level footnotes

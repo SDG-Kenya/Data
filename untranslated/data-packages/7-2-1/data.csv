@@ -1,11 +1,11 @@
-Year,Value
-2014,54.8
-2015,56.7
-2016,56.6
-2017,52.8
-2018,57.7
-2019,54.9
-2020,46.1
-2021,48.2
-2022,56.0
-2023,53.6
+Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
+2014,A,0,Formal final energy consumption only.,Economic Survey,EG_FEC_RNEW,,PT,2023,,54.8
+2015,A,0,Formal final energy consumption only.,Economic Survey,EG_FEC_RNEW,,PT,2023,,56.7
+2016,A,0,Formal final energy consumption only.,Economic Survey,EG_FEC_RNEW,,PT,2023,,56.6
+2017,A,0,Formal final energy consumption only.,Economic Survey,EG_FEC_RNEW,,PT,2023,,52.8
+2018,A,0,Formal final energy consumption only.,Economic Survey,EG_FEC_RNEW,,PT,2023,,57.7
+2019,A,0,Formal final energy consumption only.,Economic Survey,EG_FEC_RNEW,,PT,2023,,54.9
+2020,A,0,Formal final energy consumption only.,Economic Survey,EG_FEC_RNEW,,PT,2023,,46.1
+2021,A,0,Formal final energy consumption only.,Economic Survey,EG_FEC_RNEW,,PT,2023,,48.2
+2022,A,0,Formal final energy consumption only.,Economic Survey,EG_FEC_RNEW,,PT,2023,,56.0
+2023,A,0,Formal final energy consumption only.,Economic Survey,EG_FEC_RNEW,,PT,2023,,53.6
