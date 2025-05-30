@@ -51,6 +51,7 @@ inputs:
       - REPORTING_TYPE
       - NATURE
       - TIME_COVERAGE
+    drop_singleton_dimensions: false
     import_series_attributes: true
     import_observation_attributes: true
     import_codes: true
@@ -60,6 +61,9 @@ inputs:
   - class: InputWordMeta
     path_pattern: meta/*-*.docm
     git: true
+  - class: InputYamlMeta
+    path_pattern: indicator-config/*-*.yml
+    git: false
   - class: InputYamlMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.yml
