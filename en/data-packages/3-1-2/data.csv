@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
 2014,Normal value,Units,"2014: KDHS              2016: KIHBS, 2022: KDHS",Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,2022,,61.8
 2016,Normal value,Units,"2014: KDHS              2016: KIHBS, 2022: KDHS",Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,2022,,70.2
 2022,Normal value,Units,"2014: KDHS              2016: KIHBS, 2022: KDHS",Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,2022,,89.3

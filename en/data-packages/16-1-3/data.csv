@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,COMMENT_OBS,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
 2014,Normal value,Units,To be run for population aged 15 to 59 from 2022 KDHS,KDHS,"Proportion of population subjected to physical, psychological or sexual violence in the previous 12 months",,,,Percent,2022,,28.8
 2022,Normal value,Units,To be run for population aged 15 to 59 from 2022 KDHS,KDHS,"Proportion of population subjected to physical, psychological or sexual violence in the previous 12 months",,,,Percent,2022,,28.0
 2014,Normal value,Units,To be run for population aged 15 to 59 from 2022 KDHS,KDHS,"Proportion of population subjected to physical, psychological or sexual violence in the previous 12 months",,,Rural,Percent,2022,,27.3

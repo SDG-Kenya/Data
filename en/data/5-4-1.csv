@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,COMMENT_OBS,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
 2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,,,Percent,2021,,12.2
 2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,,Rural,Percent,2021,,12.0
 2021,Normal value,Units,Data available is for individuals aged 15 years and above,2021 Time Use Survey,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,,Urban,Percent,2021,,12.5

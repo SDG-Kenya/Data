@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
 2015,Normal value,Units,Economic Survey,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,2023,,97.9
 2016,Normal value,Units,Economic Survey,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,2023,,98.8
 2017,Normal value,Units,Economic Survey,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,2023,,95.5

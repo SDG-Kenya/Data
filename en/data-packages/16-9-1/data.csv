@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,COMMENT_OBS,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
 2014,Normal value,Units,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,2022,,66.9
 2019,Normal value,Units,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,2022,,89.3
 2022,Normal value,Units,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,2022,,76.0

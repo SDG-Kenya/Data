@@ -1,6 +1,6 @@
 From,To
-Observation-level footnotes,Source details
-Source details,Sex
+COMMENT_OBS,SOURCE_DETAIL
+SOURCE_DETAIL,Sex
 Sex,Time period details
 Time period details,Age
 Time period details,Degree of urbanisation

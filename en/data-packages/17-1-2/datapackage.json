@@ -46,7 +46,7 @@
                 ""
               ]
             },
-            "title": "Observation-level footnotes"
+            "title": "COMMENT_OBS"
           },
           {
             "name": "SERIES",
@@ -104,7 +104,7 @@
                 ""
               ]
             },
-            "title": "Source details"
+            "title": "SOURCE_DETAIL"
           },
           {
             "name": "GeoCode",
