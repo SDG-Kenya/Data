@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
 2018,Normal value,Units,Ministry of Enviroment,Total greenhouse gas emissions per year,,Tonnes of CO2-equivalent,2021,,96
 2019,Normal value,Units,Ministry of Enviroment,Total greenhouse gas emissions per year,,Tonnes of CO2-equivalent,2021,,97
 2020,Normal value,Units,Ministry of Enviroment,Total greenhouse gas emissions per year,,Tonnes of CO2-equivalent,2021,,98

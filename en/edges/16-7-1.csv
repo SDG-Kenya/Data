@@ -1,7 +1,7 @@
 From,To
-SOURCE_DETAIL,Sex
+Source details,Sex
 Sex,Time period details
 Occupation,Age
 Occupation,Disability status
 Time period details,Occupation
-Time period details,COMMENT_OBS
+Time period details,Observation-level footnotes

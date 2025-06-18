@@ -1,5 +1,5 @@
 From,To
-SOURCE_DETAIL,Education level
+Source details,Education level
 Time period details,Sex
 Time period details,Degree of urbanisation
 Education level,COMPOSITE_BREAKDOWN

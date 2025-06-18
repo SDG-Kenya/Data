@@ -48,7 +48,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
@@ -156,7 +156,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -271,7 +271,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -386,7 +386,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -501,7 +501,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -512,7 +512,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -640,7 +640,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -762,7 +762,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -773,7 +773,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -922,7 +922,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -934,7 +934,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -1066,7 +1066,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -1077,7 +1077,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -1195,7 +1195,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -1210,7 +1210,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -1330,7 +1330,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -1435,7 +1435,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -1558,7 +1558,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -1569,7 +1569,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -1689,7 +1689,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -1744,7 +1744,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "GeoCode",
@@ -1807,7 +1807,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -1880,7 +1880,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "GeoCode",
@@ -1942,7 +1942,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -1953,7 +1953,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -2062,7 +2062,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -2074,7 +2074,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -2186,7 +2186,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
@@ -2296,7 +2296,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -2307,7 +2307,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -2412,7 +2412,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
@@ -2517,7 +2517,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -2622,7 +2622,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -2633,7 +2633,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -2832,7 +2832,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -2843,7 +2843,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -2948,7 +2948,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -2959,7 +2959,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -3088,7 +3088,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -3197,7 +3197,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -3304,7 +3304,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "GeoCode",
@@ -3366,7 +3366,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -3377,7 +3377,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -3535,7 +3535,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -3546,7 +3546,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "GeoCode",
@@ -3608,7 +3608,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
@@ -3666,7 +3666,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "GeoCode",
@@ -3826,7 +3826,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -3920,7 +3920,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "GeoCode",
@@ -4078,7 +4078,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -4090,7 +4090,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -4386,7 +4386,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -4491,7 +4491,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -4609,7 +4609,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -4714,7 +4714,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -4725,7 +4725,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -4924,7 +4924,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -4935,7 +4935,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -5322,7 +5322,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -5333,7 +5333,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -5438,7 +5438,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -5449,7 +5449,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -5554,7 +5554,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -5565,7 +5565,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -5670,7 +5670,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -5681,7 +5681,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -5786,7 +5786,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -5797,7 +5797,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -5996,7 +5996,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -6102,7 +6102,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -6210,7 +6210,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -6221,7 +6221,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -6326,7 +6326,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -6337,7 +6337,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -6457,7 +6457,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -6565,7 +6565,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -6685,7 +6685,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
@@ -6793,7 +6793,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -6913,7 +6913,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -7018,7 +7018,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -7136,7 +7136,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -7241,7 +7241,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -7346,7 +7346,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -7357,7 +7357,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -7462,7 +7462,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -7567,7 +7567,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -7672,7 +7672,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -7777,7 +7777,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -7882,7 +7882,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -7987,7 +7987,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -8093,7 +8093,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -8200,7 +8200,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -8211,7 +8211,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -8355,7 +8355,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -8366,7 +8366,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -8471,7 +8471,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -8582,7 +8582,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -8687,7 +8687,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
@@ -8792,7 +8792,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -8803,7 +8803,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -8908,7 +8908,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -9036,7 +9036,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -9143,7 +9143,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -9272,7 +9272,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -9398,7 +9398,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
@@ -9553,7 +9553,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -9564,7 +9564,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -9670,7 +9670,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -9681,7 +9681,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -9788,7 +9788,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -9893,7 +9893,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -9999,7 +9999,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -10011,7 +10011,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -10241,7 +10241,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -10252,7 +10252,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -10479,7 +10479,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -10490,7 +10490,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -10620,7 +10620,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -10710,7 +10710,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "GeoCode",
@@ -10776,7 +10776,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -11039,7 +11039,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
@@ -11144,7 +11144,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -11155,7 +11155,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -11260,7 +11260,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -11271,7 +11271,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -11376,7 +11376,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -11387,7 +11387,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -11492,7 +11492,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -11503,7 +11503,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -11608,7 +11608,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -11619,7 +11619,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -11724,7 +11724,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -11735,7 +11735,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -11840,7 +11840,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -11851,7 +11851,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -11956,7 +11956,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -11967,7 +11967,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -12097,7 +12097,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
@@ -12202,7 +12202,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -12213,7 +12213,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -12319,7 +12319,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -12330,7 +12330,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -12436,7 +12436,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -12447,7 +12447,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -12576,7 +12576,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -12681,7 +12681,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SERIES",
@@ -12786,7 +12786,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -12797,7 +12797,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -12902,7 +12902,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -12913,7 +12913,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -13018,7 +13018,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -13126,7 +13126,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -13255,7 +13255,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -13384,7 +13384,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -13529,7 +13529,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -13540,7 +13540,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -13679,7 +13679,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -13784,7 +13784,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -13902,7 +13902,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -13913,7 +13913,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -14033,7 +14033,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -14044,7 +14044,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -14161,7 +14161,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -14291,7 +14291,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -14436,7 +14436,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -14541,7 +14541,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -14552,7 +14552,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -14686,7 +14686,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -14791,7 +14791,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -14920,7 +14920,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -15025,7 +15025,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -15155,7 +15155,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -15260,7 +15260,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -15271,7 +15271,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -15377,7 +15377,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -15446,7 +15446,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "GeoCode",
@@ -15513,7 +15513,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -15524,7 +15524,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -15652,7 +15652,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -15663,7 +15663,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -15809,7 +15809,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -15820,7 +15820,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -15937,7 +15937,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -15948,7 +15948,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -16095,7 +16095,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -16106,7 +16106,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -16250,7 +16250,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -16261,7 +16261,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -16366,7 +16366,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -16377,7 +16377,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -16482,7 +16482,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -16587,7 +16587,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -16598,7 +16598,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -16703,7 +16703,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -16714,7 +16714,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -16858,7 +16858,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -16869,7 +16869,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -16974,7 +16974,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -16985,7 +16985,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -17114,7 +17114,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -17263,7 +17263,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -17274,7 +17274,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -17380,7 +17380,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -17497,7 +17497,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -17508,7 +17508,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -17614,7 +17614,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -17742,7 +17742,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -17859,7 +17859,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -17870,7 +17870,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -17998,7 +17998,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -18009,7 +18009,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -18114,7 +18114,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -18125,7 +18125,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -18339,7 +18339,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -18444,7 +18444,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -18455,7 +18455,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -18560,7 +18560,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -18571,7 +18571,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -18676,7 +18676,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -18687,7 +18687,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -18818,7 +18818,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -18935,7 +18935,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -18946,7 +18946,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -19051,7 +19051,7 @@
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Observation-level footnotes"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -19062,7 +19062,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -19207,7 +19207,7 @@
                 ""
               ]
             },
-            "title": "SOURCE_DETAIL"
+            "title": "Source details"
           },
           {
             "name": "SERIES",

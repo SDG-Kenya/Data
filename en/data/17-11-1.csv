@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,COMMENT_OBS,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
 2014,Normal value,Millions,Values refer to Kenya's exports,Economic Survey,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,2023,,537236.0
 2015,Normal value,Millions,Values refer to Kenya's exports,Economic Survey,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,2023,,581045.0
 2016,Normal value,Millions,Values refer to Kenya's exports,Economic Survey,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,2023,,578067.0

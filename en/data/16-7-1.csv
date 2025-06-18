@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,Occupation,Disability status,UNIT_MEASURE,Time period details,COMMENT_OBS,GeoCode,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Age,Occupation,Disability status,UNIT_MEASURE,Time period details,Observation-level footnotes,GeoCode,Value
 2019,Normal value,Units,Parliamentary Service Commision; Council of Governors,Ratio for female members of legislature compared to the  National distribution,,Female,,,,Ratio,2023,,,0.61
 2020,Normal value,Units,Parliamentary Service Commision; Council of Governors,Ratio for female members of legislature compared to the  National distribution,,Female,,,,Ratio,2023,,,0.6157
 2021,Normal value,Units,Parliamentary Service Commision; Council of Governors,Ratio for female members of legislature compared to the  National distribution,,Female,,,,Ratio,2023,,,0.6161

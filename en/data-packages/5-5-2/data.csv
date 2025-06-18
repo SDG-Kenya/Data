@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,GeoCode,Value
 2014,Normal value,Units,"2010: Manpower Survey, 2016: KIHBS, 2019: KPHC, 2021: KCHS",Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2],,Female,,Percent,Baseline Data          (2009-2014),,22.2
 2014,Normal value,Units,"2010: Manpower Survey, 2016: KIHBS, 2019: KPHC, 2021: KCHS",Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2],,Female,Private Sector,Percent,Baseline Data          (2009-2014),,22.6
 2014,Normal value,Units,"2010: Manpower Survey, 2016: KIHBS, 2019: KPHC, 2021: KCHS",Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2],,Female,Public Sector,Percent,Baseline Data          (2009-2014),,19.4

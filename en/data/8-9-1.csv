@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,COMMENT_OBS,GeoCode,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,Observation-level footnotes,GeoCode,Value
 2014,Normal value,Units,Economic Survey,Tourism direct GDP in growth rate,,Percent,2023,,,-18.7
 2015,Normal value,Units,Economic Survey,Tourism direct GDP in growth rate,,Percent,2023,,,5.4
 2016,Normal value,Units,Economic Survey,Tourism direct GDP in growth rate,,Percent,2023,,,6.9

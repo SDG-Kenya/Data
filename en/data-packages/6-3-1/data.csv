@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,GeoCode,Value
 2020,Normal value,Units,MWIS/UN WATER,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,Domestic,Percent,2022,,9.4
 2022,Normal value,Units,MWIS/UN WATER,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,Domestic,Percent,2022,,11.0
 2020,Normal value,Units,MWIS/UN WATER,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,Domestic (Sewer),Percent,2022,,53.3

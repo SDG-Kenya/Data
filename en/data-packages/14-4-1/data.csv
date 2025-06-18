@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,COMMENT_OBS,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
 2014,Normal value,Units,Fish landed from freshwater bodies and marine is used as a proxy,Economic Survey Report,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,2023,,182626
 2015,Normal value,Units,Fish landed from freshwater bodies and marine is used as a proxy,Economic Survey Report,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,2023,,163824
 2016,Normal value,Units,Fish landed from freshwater bodies and marine is used as a proxy,Economic Survey Report,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,2023,,147678

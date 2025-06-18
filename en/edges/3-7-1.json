@@ -1,1 +1,1 @@
-{"From":["COMMENT_OBS","SOURCE_DETAIL","Sex","Age","Time period details"],"To":["SOURCE_DETAIL","Sex","Age","Time period details","Degree of urbanisation"]}
+{"From":["Observation-level footnotes","Source details","Sex","Age","Time period details"],"To":["Source details","Sex","Age","Time period details","Degree of urbanisation"]}

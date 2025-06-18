@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,COMMENT_OBS,SOURCE_DETAIL,SERIES,Reference area,Sex,Occupation,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,Sex,Occupation,UNIT_MEASURE,Time period details,GeoCode,Value
 2017,Normal value,Units,Include both elected and nominated seats,Economic Survey,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1],,Female,Members of County Assembly,Percent,2023,,33.9
 2018,Normal value,Units,Include both elected and nominated seats,Economic Survey,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1],,Female,Members of County Assembly,Percent,2023,,34.2
 2019,Normal value,Units,Include both elected and nominated seats,Economic Survey,Proportion of seats held by women in local governments (% of total number of seats) [5.5.1],,Female,Members of County Assembly,Percent,2023,,33.6

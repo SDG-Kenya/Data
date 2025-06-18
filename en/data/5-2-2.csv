@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,COMMENT_OBS,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
 2014,Normal value,Units,Covers 15-49 years years,KDHS,Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2],,Female,,,Percent,2022,,14.6
 2022,Normal value,Units,Covers 15-49 years years,KDHS,Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2],,Female,,,Percent,2022,,0.6
 2014,Normal value,Units,Covers 15-49 years years,KDHS,Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2],,Female,,Rural,Percent,2022,,11.5

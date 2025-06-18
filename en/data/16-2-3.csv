@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,GeoCode,Value
 2014,Normal value,Units,KDHS,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Female,Percent,2022,,9.5
 2022,Normal value,Units,KDHS,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Female,Percent,2022,,4.9
 2022,Normal value,Units,KDHS,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Male,Percent,2022,,2.6

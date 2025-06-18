@@ -1,4 +1,4 @@
 From,To
-COMMENT_OBS,SOURCE_DETAIL
-Time period details,COMMENT_OBS
+Observation-level footnotes,Source details
+Time period details,Observation-level footnotes
 Occupation,Time period details

@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,COMMENT_OBS,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,Observation-level footnotes,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
 2022,Normal value,Units,Low level of implementation of the Sustainable Public Procurement (SPP) policies,Countries implementing sustainable public procurement policies and action plans  (1 = YES; 0 = NO) [12.7.1],,Percent,2022,,38

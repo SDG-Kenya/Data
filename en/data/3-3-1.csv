@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,GeoCode,Value
 2014,Normal value,Units,2018:  KENPHIA        2019:  KASF II,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,,"Per 1,000 uninfected population",2019,,5.0
 2018,Normal value,Units,2018:  KENPHIA        2019:  KASF II,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,,"Per 1,000 uninfected population",2019,,1.4
 2019,Normal value,Units,2018:  KENPHIA        2019:  KASF II,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,,"Per 1,000 uninfected population",2019,,1.2

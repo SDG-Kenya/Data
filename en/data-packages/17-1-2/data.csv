@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,COMMENT_OBS,SERIES,Reference area,UNIT_MEASURE,Time period details,SOURCE_DETAIL,GeoCode,Value
+Year,Observation status,Unit multiplier,Observation-level footnotes,SERIES,Reference area,UNIT_MEASURE,Time period details,Source details,GeoCode,Value
 2016,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on income,,Percent,2023,,,27.9
 2017,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on income,,Percent,2023,,,27.5
 2018,Normal value,Units,Total Expenditures  with net acquisition of non financial assets,Proportion of domestic budget funded by tax on income,,Percent,2023,,,24.9

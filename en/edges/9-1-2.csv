@@ -1,4 +1,4 @@
 From,To
-SOURCE_DETAIL,COMPOSITE_BREAKDOWN
+Source details,COMPOSITE_BREAKDOWN
 COMPOSITE_BREAKDOWN,Time period details
-Time period details,COMMENT_OBS
+Time period details,Observation-level footnotes
