@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
 2020,Normal value,Units,MWIS/UN WATER,Water body extent (permanent) (% of total land area) [6.6.1],,Percent,2020,,23

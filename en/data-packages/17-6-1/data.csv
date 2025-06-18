@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,GeoCode,Value
 2019,Normal value,Units,Economic Survey,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,> 100 Mbps - 1 Gbps,Number,2023,,0.007
 2020,Normal value,Units,Economic Survey,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,> 100 Mbps - 1 Gbps,Number,2023,,0.008
 2021,Normal value,Units,Economic Survey,Fixed broadband subscriptions per 100 inhabitants [17.6.1],,> 100 Mbps - 1 Gbps,Number,2023,,0.01

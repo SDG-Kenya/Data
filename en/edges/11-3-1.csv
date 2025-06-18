@@ -1,5 +1,5 @@
 From,To
-Observation-level footnotes,Source details
-Source details,Reference area
+COMMENT_OBS,SOURCE_DETAIL
+SOURCE_DETAIL,Reference area
 Reference area,Degree of urbanisation
 Degree of urbanisation,Time period details

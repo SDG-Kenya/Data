@@ -1,5 +1,5 @@
 From,To
-Observation-level footnotes,Source details
-Time period details,Observation-level footnotes
+COMMENT_OBS,SOURCE_DETAIL
+Time period details,COMMENT_OBS
 Time period details,Age
 Time period details,Degree of urbanisation

@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,Education level,UNIT_MEASURE,Time period details,Observation-level footnotes,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,Education level,UNIT_MEASURE,Time period details,COMMENT_OBS,GeoCode,Value
 2019,Normal value,Units,2019: KPHC,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,,Secondary,Percent,2019,,,31.3
 2019,Normal value,Units,2019: KPHC,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,,"Primary education, sufficient for level completion",Percent,2019,Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR),,17.5
 2019,Normal value,Units,2019: KPHC,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,Rural,Secondary,Percent,2019,,,25.1

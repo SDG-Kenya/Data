@@ -48,7 +48,7 @@
                 ""
               ]
             },
-            "title": "Observation-level footnotes"
+            "title": "COMMENT_OBS"
           },
           {
             "name": "SOURCE_DETAIL",
@@ -60,7 +60,7 @@
                 ""
               ]
             },
-            "title": "Source details"
+            "title": "SOURCE_DETAIL"
           },
           {
             "name": "SERIES",

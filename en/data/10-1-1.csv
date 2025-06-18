@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,Degree of urbanisation,Income or wealth quantile,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,COMMENT_OBS,SOURCE_DETAIL,SERIES,Reference area,Degree of urbanisation,Income or wealth quantile,UNIT_MEASURE,Time period details,GeoCode,Value
 2020,Normal value,Units,2020 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual,2016: KIHBS                             2019-2022: KCHS,Growth rates of household expenditure or income per capita [10.1.1],,,,Percent,2022,,-2.0
 2021,Normal value,Units,2020 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual,2016: KIHBS                             2019-2022: KCHS,Growth rates of household expenditure or income per capita [10.1.1],,,,Percent,2022,,-0.3
 2022,Normal value,Units,2020 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual,2016: KIHBS                             2019-2022: KCHS,Growth rates of household expenditure or income per capita [10.1.1],,,,Percent,2022,,-0.49

@@ -1,4 +1,4 @@
 From,To
-Time period details,Source details
-Observation-level footnotes,Sex
-Time period details,Observation-level footnotes
+Time period details,SOURCE_DETAIL
+COMMENT_OBS,Sex
+Time period details,COMMENT_OBS

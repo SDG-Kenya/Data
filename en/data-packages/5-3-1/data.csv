@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,Time period details,GeoCode,Value
 2014,Normal value,Units,2014: KDHS                  2018: PMA                    2022: KDHS,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,Female,Percent,2022,,4.4
 2018,Normal value,Units,2014: KDHS                  2018: PMA                    2022: KDHS,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,Female,Percent,2022,,2.6
 2022,Normal value,Units,2014: KDHS                  2018: PMA                    2022: KDHS,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,Female,Percent,2022,,2.2

@@ -1,6 +1,6 @@
 From,To
-Source details,Education level
+SOURCE_DETAIL,Education level
 Time period details,Sex
 Time period details,Degree of urbanisation
 Education level,Time period details
-Time period details,Observation-level footnotes
+Time period details,COMMENT_OBS

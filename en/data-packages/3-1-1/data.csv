@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Observation-level footnotes,Source details,SERIES,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,COMMENT_OBS,SOURCE_DETAIL,SERIES,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
 2014,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,,,"Per 100,000 live births",2019,,362
 2019,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,,,"Per 100,000 live births",2019,,355
 2019,Normal value,Units,"Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",2014: KDHS              2019: KPHC,Maternal mortality ratio [3.1.1],,,Rural,"Per 100,000 live births",2019,,374

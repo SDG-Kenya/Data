@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Observation-level footnotes,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,COMMENT_OBS,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
 2014,Normal value,Units,Proportion of urban population living in a household that lacks one of the four housing conditions,Proportion of urban population living in slums (One Shelter Deprivation),,Percent,2019,,34.9
 2019,Normal value,Units,Proportion of urban population living in a household that lacks one of the four housing conditions,Proportion of urban population living in slums (One Shelter Deprivation),,Percent,2019,,37.2
 2014,Normal value,Units,Proportion of urban population living in a household that lacks two of the four housing conditions,Proportion of urban population living in slums (Two Shelter Deprivation),,Percent,2019,,23.2

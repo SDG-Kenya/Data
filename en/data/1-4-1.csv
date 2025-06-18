@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Observation-level footnotes,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
+Year,Observation status,Unit multiplier,COMMENT_OBS,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
 2014,Normal value,Units,Access to a handwashing station with soap and water at home,Proportion of population using basic hygiene services,,Percent,2022,,16.6
 2022,Normal value,Units,Access to a handwashing station with soap and water at home,Proportion of population using basic hygiene services,,Percent,2022,,51.3
 2014,Normal value,Units,,Proportion of population using clean fuels and technologies,,Percent,2022,,11.9
