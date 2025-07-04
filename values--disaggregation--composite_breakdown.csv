@@ -1,0 +1,12 @@
+Value,Disaggregation combinations using this value,Number of indicators
+MOT_AIR,2,1
+MOT_IWW_SEA,2,1
+MOT_RAI,2,1
+MOT_ROA,2,1
+PWSM_PRIVATE,1,1
+PWSM_PUBLIC,1,1
+SKILL_MATH,11,1
+SKILL_READ,9,1
+WW_DOM,1,1
+WW_DOM_SEW,1,1
+WW_DOM_SPT,1,1
