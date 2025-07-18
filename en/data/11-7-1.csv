@@ -1,5 +1,5 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Time period details,GeoCode,Value
-2019,Normal value,Units,Kisumu County,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Kisumu,City,Percent,2019,KE_KIS,67.1
-2019,Normal value,Units,Mombasa County,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Mombasa,City,Percent,2019,KE_MBA,9.5
-2019,Normal value,Units,Nairobi City County,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Nairobi,City,Percent,2019,KE_NBO,16.4
-2019,Normal value,Units,Nakuru Coutny,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Nakuru,City,Percent,2019,KE_NUU,0.1
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
+2019,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Kisumu,City,Percent,Normal value,Units,2019,Kisumu County,KE_KIS,67.1
+2019,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Mombasa,City,Percent,Normal value,Units,2019,Mombasa County,KE_MBA,9.5
+2019,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Nairobi,City,Percent,Normal value,Units,2019,Nairobi City County,KE_NBO,16.4
+2019,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Nakuru,City,Percent,Normal value,Units,2019,Nakuru Coutny,KE_NUU,0.1

@@ -1,3 +1,3 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,2019 : KPHC,Researchers (in full-time equivalent) per million inhabitants [9.5.2],,Number,2019,,100.0
-2019,Normal value,Units,2019 : KPHC,Researchers (in full-time equivalent) per million inhabitants [9.5.2],,Number,2019,,519.54
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
+2014,Researchers (in full-time equivalent) per million inhabitants [9.5.2],,Number,Normal value,Units,2019,2019 : KPHC,,100.0
+2019,Researchers (in full-time equivalent) per million inhabitants [9.5.2],,Number,Normal value,Units,2019,2019 : KPHC,,519.54

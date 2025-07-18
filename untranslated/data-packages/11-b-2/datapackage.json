@@ -15,46 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2017: 11 out of 47 Counties                     2019: 29 out of 47 Counties                  2022: 38 out  of 47 counties",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya National Disaster Operations Centre (NDOC)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -84,11 +44,51 @@
             }
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "2022",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017: 11 out of 47 Counties                     2019: 29 out of 47 Counties                  2022: 38 out  of 47 counties",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenya National Disaster Operations Centre (NDOC)",
                 ""
               ]
             }

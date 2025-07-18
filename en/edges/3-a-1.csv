@@ -1,4 +1,4 @@
 From,To
+SOURCE_DETAIL,Sex
+Time period details,COMMENT_OBS
 COMMENT_OBS,SOURCE_DETAIL
-SOURCE_DETAIL,Time period details
-Time period details,Sex

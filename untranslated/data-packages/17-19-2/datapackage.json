@@ -15,49 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Birth registration",
-                "Death registration",
-                "KPHC conducted in 2009 and 2019",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019: KPHC, Others: Civil Registration Services",
-                "KNBS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -90,11 +47,54 @@
             }
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "2023",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Birth registration",
+                "Death registration",
+                "KPHC conducted in 2009 and 2019",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2019: KPHC, Others: Civil Registration Services",
+                "KNBS",
                 ""
               ]
             }

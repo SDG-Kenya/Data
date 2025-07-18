@@ -1,1 +1,1 @@
-{"From":["SOURCE_DETAIL","Sex"],"To":["Sex","Time period details"]}
+{"From":["Sex","Time period details"],"To":["Time period details","SOURCE_DETAIL"]}

@@ -16,44 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of urban population living in a household that lacks one of the four housing conditions",
-                "Proportion of urban population living in a household that lacks two of the four housing conditions",
-                "Proportion of urban population living in a household that three of the four housing conditions",
-                "Proportion of urban population living in a household that lacks all the four housing conditions",
-                "Proportion of urban population lacking at least one of the one of the four housing conditions (Access to improved water; Access to improved sanitation facilities; Sufficient-living area, not overcrowded;housing durability)",
-                "Proportion of urban population living in informal settlements",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -91,6 +53,28 @@
             "title": "Unit of measure"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -100,6 +84,22 @@
               ]
             },
             "title": "Time period details"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of urban population living in a household that lacks one of the four housing conditions",
+                "Proportion of urban population living in a household that lacks two of the four housing conditions",
+                "Proportion of urban population living in a household that three of the four housing conditions",
+                "Proportion of urban population living in a household that lacks all the four housing conditions",
+                "Proportion of urban population lacking at least one of the one of the four housing conditions (Access to improved water; Access to improved sanitation facilities; Sufficient-living area, not overcrowded;housing durability)",
+                "Proportion of urban population living in informal settlements",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "GeoCode",

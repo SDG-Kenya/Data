@@ -1,11 +1,11 @@
-Year,Observation status,Unit multiplier,COMMENT_OBS,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Millions,Values refer to Kenya's exports,Economic Survey,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,2023,,537236.0
-2015,Normal value,Millions,Values refer to Kenya's exports,Economic Survey,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,2023,,581045.0
-2016,Normal value,Millions,Values refer to Kenya's exports,Economic Survey,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,2023,,578067.0
-2017,Normal value,Millions,Values refer to Kenya's exports,Economic Survey,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,2023,,597904.0
-2018,Normal value,Millions,Values refer to Kenya's exports,Economic Survey,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,2023,,614316.0
-2019,Normal value,Millions,Values refer to Kenya's exports,Economic Survey,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,2023,,596677.0
-2020,Normal value,Millions,Values refer to Kenya's exports,Economic Survey,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,2023,,643706.2
-2021,Normal value,Millions,Values refer to Kenya's exports,Economic Survey,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,2023,,743671.1
-2022,Normal value,Millions,Values refer to Kenya's exports,Economic Survey,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,2023,,873144.6
-2023,Normal value,Millions,Values refer to Kenya's exports,Economic Survey,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,2023,,1007919.3
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
+2014,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,2023,Values refer to Kenya's exports,Economic Survey,,537236.0
+2015,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,2023,Values refer to Kenya's exports,Economic Survey,,581045.0
+2016,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,2023,Values refer to Kenya's exports,Economic Survey,,578067.0
+2017,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,2023,Values refer to Kenya's exports,Economic Survey,,597904.0
+2018,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,2023,Values refer to Kenya's exports,Economic Survey,,614316.0
+2019,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,2023,Values refer to Kenya's exports,Economic Survey,,596677.0
+2020,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,2023,Values refer to Kenya's exports,Economic Survey,,643706.2
+2021,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,2023,Values refer to Kenya's exports,Economic Survey,,743671.1
+2022,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,2023,Values refer to Kenya's exports,Economic Survey,,873144.6
+2023,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,2023,Values refer to Kenya's exports,Economic Survey,,1007919.3

@@ -1,1 +1,1 @@
-{"From":["COMMENT_OBS","SOURCE_DETAIL","Time period details"],"To":["SOURCE_DETAIL","Time period details","Sex"]}
+{"From":["SOURCE_DETAIL","Time period details","COMMENT_OBS"],"To":["Sex","COMMENT_OBS","SOURCE_DETAIL"]}

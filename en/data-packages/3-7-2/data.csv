@@ -1,5 +1,5 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,Economic Survey,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,10 to 14 years old,"Per 1,000 population",2022,,2
-2022,Normal value,Units,Economic Survey,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,10 to 14 years old,"Per 1,000 population",2022,,2
-2014,Normal value,Units,"2014: KDHS        Economic Survey , 2022: KDHS","Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",2022,,96
-2022,Normal value,Units,"2014: KDHS        Economic Survey , 2022: KDHS","Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",2022,,73
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
+2014,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,10 to 14 years old,"Per 1,000 population",Normal value,Units,2022,Economic Survey,,2
+2022,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,10 to 14 years old,"Per 1,000 population",Normal value,Units,2022,Economic Survey,,2
+2014,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",Normal value,Units,2022,"2014: KDHS        Economic Survey , 2022: KDHS",,96
+2022,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",Normal value,Units,2022,"2014: KDHS        Economic Survey , 2022: KDHS",,73

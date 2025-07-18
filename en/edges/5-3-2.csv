@@ -1,5 +1,5 @@
 From,To
-SOURCE_DETAIL,Sex
 Sex,Time period details
-Time period details,Age
-Time period details,Degree of urbanisation
+SOURCE_DETAIL,Age
+SOURCE_DETAIL,Degree of urbanisation
+Time period details,SOURCE_DETAIL

@@ -1,4 +1,4 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2022,A,0,Proportion of total adult women aged (18+ years) with legally recognized documentation,2022 KCHS,SP_LGL_LNDDOC,,F,,PT,2022,,7.3
-2022,A,0,Proportion of total adult women aged (18+ years) with legally recognized documentation,2022 KCHS,SP_LGL_LNDDOC,,F,R,PT,2022,,8.4
-2022,A,0,Proportion of total adult women aged (18+ years) with legally recognized documentation,2022 KCHS,SP_LGL_LNDDOC,,F,U,PT,2022,,5.1
+Year,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
+2022,SP_LGL_LNDDOC,,F,,PT,A,0,2022,Proportion of total adult women aged (18+ years) with legally recognized documentation,2022 KCHS,,7.3
+2022,SP_LGL_LNDDOC,,F,R,PT,A,0,2022,Proportion of total adult women aged (18+ years) with legally recognized documentation,2022 KCHS,,8.4
+2022,SP_LGL_LNDDOC,,F,U,PT,A,0,2022,Proportion of total adult women aged (18+ years) with legally recognized documentation,2022 KCHS,,5.1

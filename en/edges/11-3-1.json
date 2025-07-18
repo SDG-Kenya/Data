@@ -1,1 +1,1 @@
-{"From":["COMMENT_OBS","SOURCE_DETAIL","Reference area","Degree of urbanisation"],"To":["SOURCE_DETAIL","Reference area","Degree of urbanisation","Time period details"]}
+{"From":["Reference area","Degree of urbanisation","Time period details","COMMENT_OBS"],"To":["Degree of urbanisation","Time period details","COMMENT_OBS","SOURCE_DETAIL"]}

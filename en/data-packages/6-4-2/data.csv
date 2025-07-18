@@ -1,9 +1,9 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,2021,,26.5
-2015,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,2021,,26.6
-2016,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,2021,,33.2
-2017,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,2021,,33.2
-2018,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,2021,,33.2
-2019,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,2021,,33.2
-2020,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,2021,,33.2
-2021,Normal value,Units,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,2021,,33.2
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
+2014,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,Normal value,Units,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,26.5
+2015,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,Normal value,Units,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,26.6
+2016,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,Normal value,Units,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,33.2
+2017,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,Normal value,Units,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,33.2
+2018,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,Normal value,Units,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,33.2
+2019,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,Normal value,Units,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,33.2
+2020,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,Normal value,Units,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,33.2
+2021,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2],,Percent,Normal value,Units,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,33.2

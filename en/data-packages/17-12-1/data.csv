@@ -1,10 +1,10 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2015,Normal value,Units,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,2023,,9.0
-2016,Normal value,Units,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,2023,,10.0
-2017,Normal value,Units,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,2023,,9.8
-2018,Normal value,Units,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,2023,,10.6
-2019,Normal value,Units,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,2023,,11.1
-2020,Normal value,Units,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,2023,,10.8
-2021,Normal value,Units,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,2023,,10.0
-2022,Normal value,Units,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,2023,,9.1
-2023,Normal value,Units,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,2023,,11.5
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2015,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,2023,,9.0
+2016,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,2023,,10.0
+2017,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,2023,,9.8
+2018,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,2023,,10.6
+2019,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,2023,,11.1
+2020,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,2023,,10.8
+2021,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,2023,,10.0
+2022,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,2023,,9.1
+2023,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,2023,,11.5

@@ -16,55 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                "2023 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                "2021 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                "2024 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                "2022 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                "2025 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016: KIHBS                             2019-2022: KCHS",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -120,6 +71,28 @@
             "title": "Unit of measure"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
@@ -129,6 +102,33 @@
               ]
             },
             "title": "Time period details"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                "2023 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                "2021 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                "2024 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                "2022 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                "2025 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2016: KIHBS                             2019-2022: KCHS",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
           },
           {
             "name": "GeoCode",

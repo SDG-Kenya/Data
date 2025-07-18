@@ -1,8 +1,8 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2017,Normal value,Units,MWIS/UN WATER,Proportion of groundwater bodies with good ambient water quality [6.3.2],,Percent,2020,,42.2
-2020,Normal value,Units,MWIS/UN WATER,Proportion of groundwater bodies with good ambient water quality [6.3.2],,Percent,2020,,90.3
-2020,Normal value,Units,MWIS/UN WATER,Proportion of open water bodies with good ambient water quality [6.3.2],,Percent,2020,,33.3
-2017,Normal value,Units,MWIS/UN WATER,Proportion of river water bodies with good ambient water quality [6.3.2],,Percent,2020,,30.5
-2020,Normal value,Units,MWIS/UN WATER,Proportion of river water bodies with good ambient water quality [6.3.2],,Percent,2020,,90.4
-2017,Normal value,Units,MWIS/UN WATER,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,2020,,35.5
-2020,Normal value,Units,MWIS/UN WATER,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,2020,,86.5
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
+2017,Proportion of groundwater bodies with good ambient water quality [6.3.2],,Percent,Normal value,Units,2020,MWIS/UN WATER,,42.2
+2020,Proportion of groundwater bodies with good ambient water quality [6.3.2],,Percent,Normal value,Units,2020,MWIS/UN WATER,,90.3
+2020,Proportion of open water bodies with good ambient water quality [6.3.2],,Percent,Normal value,Units,2020,MWIS/UN WATER,,33.3
+2017,Proportion of river water bodies with good ambient water quality [6.3.2],,Percent,Normal value,Units,2020,MWIS/UN WATER,,30.5
+2020,Proportion of river water bodies with good ambient water quality [6.3.2],,Percent,Normal value,Units,2020,MWIS/UN WATER,,90.4
+2017,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,Normal value,Units,2020,MWIS/UN WATER,,35.5
+2020,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,Normal value,Units,2020,MWIS/UN WATER,,86.5

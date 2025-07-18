@@ -1,1 +1,1 @@
-{"From":["COMMENT_OBS","SOURCE_DETAIL","Sex","Age","Time period details"],"To":["SOURCE_DETAIL","Sex","Age","Time period details","Degree of urbanisation"]}
+{"From":["Sex","Age","SOURCE_DETAIL","Time period details","COMMENT_OBS"],"To":["Age","Time period details","Degree of urbanisation","COMMENT_OBS","SOURCE_DETAIL"]}

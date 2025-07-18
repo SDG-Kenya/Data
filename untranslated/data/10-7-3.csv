@@ -1,8 +1,8 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2015,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,,2
-2016,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,,2
-2017,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,,5
-2018,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,,6
-2019,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,,3
-2020,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,,0
-2021,A,0,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),SM_DTH_MIGR,,NUMBER,2021,,0
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
+2015,SM_DTH_MIGR,,NUMBER,A,0,2021,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),,2
+2016,SM_DTH_MIGR,,NUMBER,A,0,2021,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),,2
+2017,SM_DTH_MIGR,,NUMBER,A,0,2021,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),,5
+2018,SM_DTH_MIGR,,NUMBER,A,0,2021,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),,6
+2019,SM_DTH_MIGR,,NUMBER,A,0,2021,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),,3
+2020,SM_DTH_MIGR,,NUMBER,A,0,2021,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),,0
+2021,SM_DTH_MIGR,,NUMBER,A,0,2021,To ask for data from Kenya Police to validate,International Organisation of Migrants (https://missingmigrants.iom.int/downloads),,0

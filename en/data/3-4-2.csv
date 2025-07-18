@@ -1,11 +1,11 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,Civil Registration Services,Suicide mortality rate [3.4.2],,"Per 100,000 population",2023,,7.0
-2015,Normal value,Units,Civil Registration Services,Suicide mortality rate [3.4.2],,"Per 100,000 population",2023,,5.0
-2016,Normal value,Units,Civil Registration Services,Suicide mortality rate [3.4.2],,"Per 100,000 population",2023,,7.0
-2017,Normal value,Units,Civil Registration Services,Suicide mortality rate [3.4.2],,"Per 100,000 population",2023,,9.0
-2018,Normal value,Units,Civil Registration Services,Suicide mortality rate [3.4.2],,"Per 100,000 population",2023,,2.0
-2019,Normal value,Units,Civil Registration Services,Suicide mortality rate [3.4.2],,"Per 100,000 population",2023,,7.8
-2020,Normal value,Units,Civil Registration Services,Suicide mortality rate [3.4.2],,"Per 100,000 population",2023,,6.8
-2021,Normal value,Units,Civil Registration Services,Suicide mortality rate [3.4.2],,"Per 100,000 population",2023,,6.1
-2022,Normal value,Units,Civil Registration Services,Suicide mortality rate [3.4.2],,"Per 100,000 population",2023,,7.0
-2023,Normal value,Units,Civil Registration Services,Suicide mortality rate [3.4.2],,"Per 100,000 population",2023,,8.2
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
+2014,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2023,Civil Registration Services,,7.0
+2015,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2023,Civil Registration Services,,5.0
+2016,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2023,Civil Registration Services,,7.0
+2017,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2023,Civil Registration Services,,9.0
+2018,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2023,Civil Registration Services,,2.0
+2019,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2023,Civil Registration Services,,7.8
+2020,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2023,Civil Registration Services,,6.8
+2021,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2023,Civil Registration Services,,6.1
+2022,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2023,Civil Registration Services,,7.0
+2023,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2023,Civil Registration Services,,8.2

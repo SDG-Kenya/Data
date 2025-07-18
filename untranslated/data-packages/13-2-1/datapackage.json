@@ -15,36 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National Climate Change Response Strategy 2010; National Climate Change Action Plan 2018-2022; Kenya Independent Nationally Determined Contribution(INDC) 2015; The Climate Change Act 2016; National Climate Change Framework policy 2016; Kenya National Adaptation Plan 2015-2030.",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -74,11 +44,41 @@
             }
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
             "name": "TIME_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
                 "2022",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National Climate Change Response Strategy 2010; National Climate Change Action Plan 2018-2022; Kenya Independent Nationally Determined Contribution(INDC) 2015; The Climate Change Act 2016; National Climate Change Framework policy 2016; Kenya National Adaptation Plan 2015-2030.",
                 ""
               ]
             }

@@ -1,6 +1,6 @@
 From,To
-COMMENT_OBS,SOURCE_DETAIL
-SOURCE_DETAIL,Income or wealth quantile
-Time period details,Sex
-Time period details,Age
+SOURCE_DETAIL,Sex
+SOURCE_DETAIL,Age
 Income or wealth quantile,Time period details
+Time period details,COMMENT_OBS
+COMMENT_OBS,SOURCE_DETAIL

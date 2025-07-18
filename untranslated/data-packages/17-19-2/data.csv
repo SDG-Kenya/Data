@@ -1,31 +1,31 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,Birth registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_01,,PT,2023,,70.2
-2015,A,0,Birth registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_01,,PT,2023,,65.8
-2016,A,0,Birth registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_01,,PT,2023,,64.1
-2017,A,0,Birth registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_01,,PT,2023,,60.9
-2018,A,0,Birth registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_01,,PT,2023,,73.4
-2019,A,0,Birth registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_01,,PT,2023,,76.2
-2020,A,0,Birth registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_01,,PT,2023,,79.9
-2021,A,0,Birth registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_01,,PT,2023,,83.2
-2022,A,0,Birth registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_01,,PT,2023,,80.6
-2023,A,0,Birth registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_01,,PT,2023,,76.6
-2014,A,0,Death registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_02,,PT,2023,,45.8
-2015,A,0,Death registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_02,,PT,2023,,45.2
-2016,A,0,Death registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_02,,PT,2023,,41.9
-2017,A,0,Death registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_02,,PT,2023,,41.2
-2018,A,0,Death registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_02,,PT,2023,,40.5
-2019,A,0,Death registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_02,,PT,2023,,39.1
-2020,A,0,Death registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_02,,PT,2023,,42.3
-2021,A,0,Death registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_02,,PT,2023,,52.3
-2022,A,0,Death registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_02,,PT,2023,,47.6
-2023,A,0,Death registration,"2019: KPHC, Others: Civil Registration Services",_L_KE_171902_02,,PT,2023,,45.2
-2014,A,0,KPHC conducted in 2009 and 2019,KNBS,SG_REG_CENSUSN,,BOOL,2023,,1.0
-2015,A,0,KPHC conducted in 2009 and 2019,KNBS,SG_REG_CENSUSN,,BOOL,2023,,1.0
-2016,A,0,KPHC conducted in 2009 and 2019,KNBS,SG_REG_CENSUSN,,BOOL,2023,,1.0
-2017,A,0,KPHC conducted in 2009 and 2019,KNBS,SG_REG_CENSUSN,,BOOL,2023,,1.0
-2018,A,0,KPHC conducted in 2009 and 2019,KNBS,SG_REG_CENSUSN,,BOOL,2023,,1.0
-2019,A,0,KPHC conducted in 2009 and 2019,KNBS,SG_REG_CENSUSN,,BOOL,2023,,1.0
-2020,A,0,KPHC conducted in 2009 and 2019,KNBS,SG_REG_CENSUSN,,BOOL,2023,,1.0
-2021,A,0,KPHC conducted in 2009 and 2019,KNBS,SG_REG_CENSUSN,,BOOL,2023,,1.0
-2022,A,0,KPHC conducted in 2009 and 2019,KNBS,SG_REG_CENSUSN,,BOOL,2023,,1.0
-2023,A,0,KPHC conducted in 2009 and 2019,KNBS,SG_REG_CENSUSN,,BOOL,2023,,1.0
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
+2014,_L_KE_171902_01,,PT,A,0,2023,Birth registration,"2019: KPHC, Others: Civil Registration Services",,70.2
+2015,_L_KE_171902_01,,PT,A,0,2023,Birth registration,"2019: KPHC, Others: Civil Registration Services",,65.8
+2016,_L_KE_171902_01,,PT,A,0,2023,Birth registration,"2019: KPHC, Others: Civil Registration Services",,64.1
+2017,_L_KE_171902_01,,PT,A,0,2023,Birth registration,"2019: KPHC, Others: Civil Registration Services",,60.9
+2018,_L_KE_171902_01,,PT,A,0,2023,Birth registration,"2019: KPHC, Others: Civil Registration Services",,73.4
+2019,_L_KE_171902_01,,PT,A,0,2023,Birth registration,"2019: KPHC, Others: Civil Registration Services",,76.2
+2020,_L_KE_171902_01,,PT,A,0,2023,Birth registration,"2019: KPHC, Others: Civil Registration Services",,79.9
+2021,_L_KE_171902_01,,PT,A,0,2023,Birth registration,"2019: KPHC, Others: Civil Registration Services",,83.2
+2022,_L_KE_171902_01,,PT,A,0,2023,Birth registration,"2019: KPHC, Others: Civil Registration Services",,80.6
+2023,_L_KE_171902_01,,PT,A,0,2023,Birth registration,"2019: KPHC, Others: Civil Registration Services",,76.6
+2014,_L_KE_171902_02,,PT,A,0,2023,Death registration,"2019: KPHC, Others: Civil Registration Services",,45.8
+2015,_L_KE_171902_02,,PT,A,0,2023,Death registration,"2019: KPHC, Others: Civil Registration Services",,45.2
+2016,_L_KE_171902_02,,PT,A,0,2023,Death registration,"2019: KPHC, Others: Civil Registration Services",,41.9
+2017,_L_KE_171902_02,,PT,A,0,2023,Death registration,"2019: KPHC, Others: Civil Registration Services",,41.2
+2018,_L_KE_171902_02,,PT,A,0,2023,Death registration,"2019: KPHC, Others: Civil Registration Services",,40.5
+2019,_L_KE_171902_02,,PT,A,0,2023,Death registration,"2019: KPHC, Others: Civil Registration Services",,39.1
+2020,_L_KE_171902_02,,PT,A,0,2023,Death registration,"2019: KPHC, Others: Civil Registration Services",,42.3
+2021,_L_KE_171902_02,,PT,A,0,2023,Death registration,"2019: KPHC, Others: Civil Registration Services",,52.3
+2022,_L_KE_171902_02,,PT,A,0,2023,Death registration,"2019: KPHC, Others: Civil Registration Services",,47.6
+2023,_L_KE_171902_02,,PT,A,0,2023,Death registration,"2019: KPHC, Others: Civil Registration Services",,45.2
+2014,SG_REG_CENSUSN,,BOOL,A,0,2023,KPHC conducted in 2009 and 2019,KNBS,,1.0
+2015,SG_REG_CENSUSN,,BOOL,A,0,2023,KPHC conducted in 2009 and 2019,KNBS,,1.0
+2016,SG_REG_CENSUSN,,BOOL,A,0,2023,KPHC conducted in 2009 and 2019,KNBS,,1.0
+2017,SG_REG_CENSUSN,,BOOL,A,0,2023,KPHC conducted in 2009 and 2019,KNBS,,1.0
+2018,SG_REG_CENSUSN,,BOOL,A,0,2023,KPHC conducted in 2009 and 2019,KNBS,,1.0
+2019,SG_REG_CENSUSN,,BOOL,A,0,2023,KPHC conducted in 2009 and 2019,KNBS,,1.0
+2020,SG_REG_CENSUSN,,BOOL,A,0,2023,KPHC conducted in 2009 and 2019,KNBS,,1.0
+2021,SG_REG_CENSUSN,,BOOL,A,0,2023,KPHC conducted in 2009 and 2019,KNBS,,1.0
+2022,SG_REG_CENSUSN,,BOOL,A,0,2023,KPHC conducted in 2009 and 2019,KNBS,,1.0
+2023,SG_REG_CENSUSN,,BOOL,A,0,2023,KPHC conducted in 2009 and 2019,KNBS,,1.0

@@ -1,4 +1,4 @@
 From,To
-SOURCE_DETAIL,COMMENT_OBS
-Time period details,SOURCE_DETAIL
 Education level,Time period details
+Time period details,SOURCE_DETAIL
+SOURCE_DETAIL,COMMENT_OBS

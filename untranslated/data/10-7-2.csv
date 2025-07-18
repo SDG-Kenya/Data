@@ -1,9 +1,9 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,SG_CPA_MIGRS,,BOOL,2021,,1
-2015,A,0,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,SG_CPA_MIGRS,,BOOL,2021,,1
-2016,A,0,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,SG_CPA_MIGRS,,BOOL,2021,,1
-2017,A,0,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,SG_CPA_MIGRS,,BOOL,2021,,1
-2018,A,0,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,SG_CPA_MIGRS,,BOOL,2021,,1
-2019,A,0,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,SG_CPA_MIGRS,,BOOL,2021,,1
-2020,A,0,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,SG_CPA_MIGRS,,BOOL,2021,,1
-2021,A,0,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,SG_CPA_MIGRS,,BOOL,2021,,1
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
+2014,SG_CPA_MIGRS,,BOOL,A,0,2021,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,,1
+2015,SG_CPA_MIGRS,,BOOL,A,0,2021,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,,1
+2016,SG_CPA_MIGRS,,BOOL,A,0,2021,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,,1
+2017,SG_CPA_MIGRS,,BOOL,A,0,2021,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,,1
+2018,SG_CPA_MIGRS,,BOOL,A,0,2021,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,,1
+2019,SG_CPA_MIGRS,,BOOL,A,0,2021,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,,1
+2020,SG_CPA_MIGRS,,BOOL,A,0,2021,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,,1
+2021,SG_CPA_MIGRS,,BOOL,A,0,2021,Kenya Citizenship and Immigration Regulation 2013,Directorate on Immigration Services website,,1

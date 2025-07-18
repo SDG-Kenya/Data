@@ -1,4 +1,4 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,Elephants Ivory and Rhino horns,KWS,_L_KE_150c01_01,,T,2017,,137.3
-2016,A,0,Elephants Ivory and Rhino horns,KWS,_L_KE_150c01_01,,T,2017,,40.6
-2017,A,0,Elephants Ivory and Rhino horns,KWS,_L_KE_150c01_01,,T,2017,,56.3
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
+2014,_L_KE_150c01_01,,T,A,0,2017,Elephants Ivory and Rhino horns,KWS,,137.3
+2016,_L_KE_150c01_01,,T,A,0,2017,Elephants Ivory and Rhino horns,KWS,,40.6
+2017,_L_KE_150c01_01,,T,A,0,2017,Elephants Ivory and Rhino horns,KWS,,56.3

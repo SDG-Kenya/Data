@@ -1,4 +1,4 @@
 From,To
-SOURCE_DETAIL,Reference area
 Reference area,Degree of urbanisation
 Degree of urbanisation,Time period details
+Time period details,SOURCE_DETAIL

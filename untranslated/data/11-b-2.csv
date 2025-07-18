@@ -1,4 +1,4 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2017,A,0,2017: 11 out of 47 Counties                     2019: 29 out of 47 Counties                  2022: 38 out  of 47 counties,Kenya National Disaster Operations Centre (NDOC),SG_DSR_SILS,,PT,2022,,23.4
-2019,A,0,2017: 11 out of 47 Counties                     2019: 29 out of 47 Counties                  2022: 38 out  of 47 counties,Kenya National Disaster Operations Centre (NDOC),SG_DSR_SILS,,PT,2022,,61.7
-2022,A,0,2017: 11 out of 47 Counties                     2019: 29 out of 47 Counties                  2022: 38 out  of 47 counties,Kenya National Disaster Operations Centre (NDOC),SG_DSR_SILS,,PT,2022,,80.9
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
+2017,SG_DSR_SILS,,PT,A,0,2022,2017: 11 out of 47 Counties                     2019: 29 out of 47 Counties                  2022: 38 out  of 47 counties,Kenya National Disaster Operations Centre (NDOC),,23.4
+2019,SG_DSR_SILS,,PT,A,0,2022,2017: 11 out of 47 Counties                     2019: 29 out of 47 Counties                  2022: 38 out  of 47 counties,Kenya National Disaster Operations Centre (NDOC),,61.7
+2022,SG_DSR_SILS,,PT,A,0,2022,2017: 11 out of 47 Counties                     2019: 29 out of 47 Counties                  2022: 38 out  of 47 counties,Kenya National Disaster Operations Centre (NDOC),,80.9

@@ -1,31 +1,31 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,2023,,15.6
-2015,Normal value,Units,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,2023,,15.3
-2016,Normal value,Units,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,2023,,14.3
-2017,Normal value,Units,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,2023,,16.0
-2018,Normal value,Units,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,2023,,14.5
-2019,Normal value,Units,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,2023,,15.5
-2020,Normal value,Units,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,2023,,17.9
-2021,Normal value,Units,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,2023,,16.3
-2022,Normal value,Units,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,2023,,15.9
-2023,Normal value,Units,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,2023,,18.4
-2014,Normal value,Units,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,2023,,2.5
-2015,Normal value,Units,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,2023,,1.7
-2016,Normal value,Units,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,2023,,2.5
-2017,Normal value,Units,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,2023,,2.4
-2018,Normal value,Units,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,2023,,3.2
-2019,Normal value,Units,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,2023,,3.5
-2020,Normal value,Units,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,2023,,4.0
-2021,Normal value,Units,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,2023,,3.3
-2022,Normal value,Units,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,2023,,2.9
-2023,Normal value,Units,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,2023,,2.8
-2014,Normal value,Units,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,2023,,2.9
-2015,Normal value,Units,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,2023,,3.7
-2016,Normal value,Units,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,2023,,3.7
-2017,Normal value,Units,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,2023,,3.8
-2018,Normal value,Units,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,2023,,4.5
-2019,Normal value,Units,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,2023,,4.9
-2020,Normal value,Units,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,2023,,5.6
-2021,Normal value,Units,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,2023,,5.8
-2022,Normal value,Units,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,2023,,5.8
-2023,Normal value,Units,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,2023,,5.5
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2014,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,Normal value,Units,2023,,15.6
+2015,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,Normal value,Units,2023,,15.3
+2016,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,Normal value,Units,2023,,14.3
+2017,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,Normal value,Units,2023,,16.0
+2018,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,Normal value,Units,2023,,14.5
+2019,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,Normal value,Units,2023,,15.5
+2020,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,Normal value,Units,2023,,17.9
+2021,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,Normal value,Units,2023,,16.3
+2022,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,Normal value,Units,2023,,15.9
+2023,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,Normal value,Units,2023,,18.4
+2014,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,Normal value,Units,2023,,2.5
+2015,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,Normal value,Units,2023,,1.7
+2016,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,Normal value,Units,2023,,2.5
+2017,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,Normal value,Units,2023,,2.4
+2018,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,Normal value,Units,2023,,3.2
+2019,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,Normal value,Units,2023,,3.5
+2020,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,Normal value,Units,2023,,4.0
+2021,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,Normal value,Units,2023,,3.3
+2022,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,Normal value,Units,2023,,2.9
+2023,"Proportion of total government spending on essential services, health [1.a.2]",,Percent,Normal value,Units,2023,,2.8
+2014,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,Normal value,Units,2023,,2.9
+2015,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,Normal value,Units,2023,,3.7
+2016,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,Normal value,Units,2023,,3.7
+2017,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,Normal value,Units,2023,,3.8
+2018,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,Normal value,Units,2023,,4.5
+2019,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,Normal value,Units,2023,,4.9
+2020,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,Normal value,Units,2023,,5.6
+2021,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,Normal value,Units,2023,,5.8
+2022,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,Normal value,Units,2023,,5.8
+2023,"Proportion of total government spending on essential services, social protection [1.a.2]",,Percent,Normal value,Units,2023,,5.5

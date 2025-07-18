@@ -1,9 +1,9 @@
-Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",ER_H2O_WUEYST,,USD_PER_M3,2021,,16.0
-2015,A,0,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",ER_H2O_WUEYST,,USD_PER_M3,2021,,16.5
-2016,A,0,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",ER_H2O_WUEYST,,USD_PER_M3,2021,,13.6
-2017,A,0,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",ER_H2O_WUEYST,,USD_PER_M3,2021,,13.9
-2018,A,0,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",ER_H2O_WUEYST,,USD_PER_M3,2021,,14.7
-2019,A,0,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",ER_H2O_WUEYST,,USD_PER_M3,2021,,15.3
-2020,A,0,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",ER_H2O_WUEYST,,USD_PER_M3,2021,,14.9
-2021,A,0,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",ER_H2O_WUEYST,,USD_PER_M3,2021,,16.2
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,GeoCode,Value
+2014,ER_H2O_WUEYST,,USD_PER_M3,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,16.0
+2015,ER_H2O_WUEYST,,USD_PER_M3,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,16.5
+2016,ER_H2O_WUEYST,,USD_PER_M3,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,13.6
+2017,ER_H2O_WUEYST,,USD_PER_M3,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,13.9
+2018,ER_H2O_WUEYST,,USD_PER_M3,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,14.7
+2019,ER_H2O_WUEYST,,USD_PER_M3,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,15.3
+2020,ER_H2O_WUEYST,,USD_PER_M3,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,14.9
+2021,ER_H2O_WUEYST,,USD_PER_M3,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,16.2

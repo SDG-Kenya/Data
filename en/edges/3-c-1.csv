@@ -1,4 +1,4 @@
 From,To
-COMMENT_OBS,SOURCE_DETAIL
-Time period details,COMMENT_OBS
 Occupation,Time period details
+Time period details,COMMENT_OBS
+COMMENT_OBS,SOURCE_DETAIL

@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2020,Normal value,Units,KMFRI,Average marine acidity (pH) measured at agreed suite of representative sampling stations [14.3.1],,pH,2022,,7.93
-2021,Normal value,Units,KMFRI,Average marine acidity (pH) measured at agreed suite of representative sampling stations [14.3.1],,pH,2022,,7.99
-2022,Normal value,Units,KMFRI,Average marine acidity (pH) measured at agreed suite of representative sampling stations [14.3.1],,pH,2022,,7.94
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
+2020,Average marine acidity (pH) measured at agreed suite of representative sampling stations [14.3.1],,pH,Normal value,Units,2022,KMFRI,,7.93
+2021,Average marine acidity (pH) measured at agreed suite of representative sampling stations [14.3.1],,pH,Normal value,Units,2022,KMFRI,,7.99
+2022,Average marine acidity (pH) measured at agreed suite of representative sampling stations [14.3.1],,pH,Normal value,Units,2022,KMFRI,,7.94

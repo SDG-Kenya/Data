@@ -1,2 +1,2 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2022,A,0,Low level of implementation of the Sustainable Public Procurement (SPP) policies,SG_SCP_PROCN,,PT,2022,,38
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,GeoCode,Value
+2022,SG_SCP_PROCN,,PT,A,0,2022,Low level of implementation of the Sustainable Public Procurement (SPP) policies,,38

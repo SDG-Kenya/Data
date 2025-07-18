@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2017,Normal value,Units,MWIS/UN WATER,Degree of integrated water resources management implementation (%) [6.5.1],,Percent,2023,,52.6
-2020,Normal value,Units,MWIS/UN WATER,Degree of integrated water resources management implementation (%) [6.5.1],,Percent,2023,,59.0
-2023,Normal value,Units,MWIS/UN WATER,Degree of integrated water resources management implementation (%) [6.5.1],,Percent,2023,,62.0
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
+2017,Degree of integrated water resources management implementation (%) [6.5.1],,Percent,Normal value,Units,2023,MWIS/UN WATER,,52.6
+2020,Degree of integrated water resources management implementation (%) [6.5.1],,Percent,Normal value,Units,2023,MWIS/UN WATER,,59.0
+2023,Degree of integrated water resources management implementation (%) [6.5.1],,Percent,Normal value,Units,2023,MWIS/UN WATER,,62.0

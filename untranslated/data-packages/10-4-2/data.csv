@@ -1,4 +1,4 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2016,A,0,"A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality","2015/16:  Fiscal Incidence, Inequality And Poverty In Kenya Report based on KIHBS",_L_KE_100402_01,,PT,2016,,9.3
-2016,A,0,"A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality","2015/16:  Fiscal Incidence, Inequality And Poverty In Kenya Report based on KIHBS",_L_KE_100402_02,,PT,2016,,45.0
-2016,A,0,"A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality","2015/16:  Fiscal Incidence, Inequality And Poverty In Kenya Report based on KIHBS",_L_KE_100402_03,,PT,2016,,35.7
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
+2016,_L_KE_100402_01,,PT,A,0,2016,"A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality","2015/16:  Fiscal Incidence, Inequality And Poverty In Kenya Report based on KIHBS",,9.3
+2016,_L_KE_100402_02,,PT,A,0,2016,"A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality","2015/16:  Fiscal Incidence, Inequality And Poverty In Kenya Report based on KIHBS",,45.0
+2016,_L_KE_100402_03,,PT,A,0,2016,"A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality","2015/16:  Fiscal Incidence, Inequality And Poverty In Kenya Report based on KIHBS",,35.7

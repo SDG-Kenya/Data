@@ -1,21 +1,21 @@
-Year,OBS_STATUS,UNIT_MULT,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,GeoCode,Value
-2014,A,0,As a proportion of GDP,Economic Survey,NV_IND_MANF,,PT,2023,,10.0
-2015,A,0,As a proportion of GDP,Economic Survey,NV_IND_MANF,,PT,2023,,10.0
-2016,A,0,As a proportion of GDP,Economic Survey,NV_IND_MANF,,PT,2023,,9.3
-2017,A,0,As a proportion of GDP,Economic Survey,NV_IND_MANF,,PT,2023,,8.7
-2018,A,0,As a proportion of GDP,Economic Survey,NV_IND_MANF,,PT,2023,,8.4
-2019,A,0,As a proportion of GDP,Economic Survey,NV_IND_MANF,,PT,2023,,7.9
-2020,A,0,As a proportion of GDP,Economic Survey,NV_IND_MANF,,PT,2023,,7.6
-2021,A,0,As a proportion of GDP,Economic Survey,NV_IND_MANF,,PT,2023,,7.4
-2022,A,0,As a proportion of GDP,Economic Survey,NV_IND_MANF,,PT,2023,,7.8
-2023,A,0,As a proportion of GDP,Economic Survey,NV_IND_MANF,,PT,2023,,7.6
-2014,A,0,Per capita,Economic Survey,NV_IND_MANFPC,,KES,2023,,12511.6
-2015,A,0,Per capita,Economic Survey,NV_IND_MANFPC,,KES,2023,,13600.4
-2016,A,0,Per capita,Economic Survey,NV_IND_MANFPC,,KES,2023,,14773.3
-2017,A,0,Per capita,Economic Survey,NV_IND_MANFPC,,KES,2023,,15735.3
-2018,A,0,Per capita,Economic Survey,NV_IND_MANFPC,,KES,2023,,16926.1
-2019,A,0,Per capita,Economic Survey,NV_IND_MANFPC,,KES,2023,,17001.1
-2020,A,0,Per capita,Economic Survey,NV_IND_MANFPC,,KES,2023,,16687.0
-2021,A,0,Per capita,Economic Survey,NV_IND_MANFPC,,KES,2023,,17819.6
-2022,A,0,Per capita,Economic Survey,NV_IND_MANFPC,,KES,2023,,20636.2
-2023,A,0,Per capita,Economic Survey,NV_IND_MANFPC,,KES,2023,,22308.0
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
+2014,NV_IND_MANF,,PT,A,0,2023,As a proportion of GDP,Economic Survey,,10.0
+2015,NV_IND_MANF,,PT,A,0,2023,As a proportion of GDP,Economic Survey,,10.0
+2016,NV_IND_MANF,,PT,A,0,2023,As a proportion of GDP,Economic Survey,,9.3
+2017,NV_IND_MANF,,PT,A,0,2023,As a proportion of GDP,Economic Survey,,8.7
+2018,NV_IND_MANF,,PT,A,0,2023,As a proportion of GDP,Economic Survey,,8.4
+2019,NV_IND_MANF,,PT,A,0,2023,As a proportion of GDP,Economic Survey,,7.9
+2020,NV_IND_MANF,,PT,A,0,2023,As a proportion of GDP,Economic Survey,,7.6
+2021,NV_IND_MANF,,PT,A,0,2023,As a proportion of GDP,Economic Survey,,7.4
+2022,NV_IND_MANF,,PT,A,0,2023,As a proportion of GDP,Economic Survey,,7.8
+2023,NV_IND_MANF,,PT,A,0,2023,As a proportion of GDP,Economic Survey,,7.6
+2014,NV_IND_MANFPC,,KES,A,0,2023,Per capita,Economic Survey,,12511.6
+2015,NV_IND_MANFPC,,KES,A,0,2023,Per capita,Economic Survey,,13600.4
+2016,NV_IND_MANFPC,,KES,A,0,2023,Per capita,Economic Survey,,14773.3
+2017,NV_IND_MANFPC,,KES,A,0,2023,Per capita,Economic Survey,,15735.3
+2018,NV_IND_MANFPC,,KES,A,0,2023,Per capita,Economic Survey,,16926.1
+2019,NV_IND_MANFPC,,KES,A,0,2023,Per capita,Economic Survey,,17001.1
+2020,NV_IND_MANFPC,,KES,A,0,2023,Per capita,Economic Survey,,16687.0
+2021,NV_IND_MANFPC,,KES,A,0,2023,Per capita,Economic Survey,,17819.6
+2022,NV_IND_MANFPC,,KES,A,0,2023,Per capita,Economic Survey,,20636.2
+2023,NV_IND_MANFPC,,KES,A,0,2023,Per capita,Economic Survey,,22308.0

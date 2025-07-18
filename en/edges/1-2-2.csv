@@ -1,5 +1,5 @@
 From,To
-COMMENT_OBS,SOURCE_DETAIL
-Time period details,COMMENT_OBS
 Time period details,Age
 Time period details,Degree of urbanisation
+Time period details,COMMENT_OBS
+COMMENT_OBS,SOURCE_DETAIL

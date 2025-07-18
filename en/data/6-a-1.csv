@@ -1,9 +1,9 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Millions,MWIS--SDG pilot Report,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,2021,,204.8
-2015,Normal value,Millions,MWIS--SDG pilot Report,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,2021,,172.6
-2016,Normal value,Millions,MWIS--SDG pilot Report,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,2021,,220.5
-2017,Normal value,Millions,MWIS--SDG pilot Report,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,2021,,244.3
-2018,Normal value,Millions,MWIS--SDG pilot Report,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,2021,,295.3
-2019,Normal value,Millions,MWIS--SDG pilot Report,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,2021,,217.2
-2020,Normal value,Millions,MWIS--SDG pilot Report,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,2021,,206.9
-2021,Normal value,Millions,MWIS--SDG pilot Report,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,2021,,247.1
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
+2014,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,Normal value,Millions,2021,MWIS--SDG pilot Report,,204.8
+2015,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,Normal value,Millions,2021,MWIS--SDG pilot Report,,172.6
+2016,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,Normal value,Millions,2021,MWIS--SDG pilot Report,,220.5
+2017,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,Normal value,Millions,2021,MWIS--SDG pilot Report,,244.3
+2018,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,Normal value,Millions,2021,MWIS--SDG pilot Report,,295.3
+2019,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,Normal value,Millions,2021,MWIS--SDG pilot Report,,217.2
+2020,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,Normal value,Millions,2021,MWIS--SDG pilot Report,,206.9
+2021,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,,USD,Normal value,Millions,2021,MWIS--SDG pilot Report,,247.1

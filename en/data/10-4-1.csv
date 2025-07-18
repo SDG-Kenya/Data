@@ -1,11 +1,11 @@
-Year,Observation status,Unit multiplier,COMMENT_OBS,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,Compensation of employees/GDP,Economic Survey,Labour share of GDP [10.4.1],,Percent,2023,,27.0
-2015,Normal value,Units,Compensation of employees/GDP,Economic Survey,Labour share of GDP [10.4.1],,Percent,2023,,26.9
-2016,Normal value,Units,Compensation of employees/GDP,Economic Survey,Labour share of GDP [10.4.1],,Percent,2023,,28.1
-2017,Normal value,Units,Compensation of employees/GDP,Economic Survey,Labour share of GDP [10.4.1],,Percent,2023,,28.2
-2018,Normal value,Units,Compensation of employees/GDP,Economic Survey,Labour share of GDP [10.4.1],,Percent,2023,,28.9
-2019,Normal value,Units,Compensation of employees/GDP,Economic Survey,Labour share of GDP [10.4.1],,Percent,2023,,28.9
-2020,Normal value,Units,Compensation of employees/GDP,Economic Survey,Labour share of GDP [10.4.1],,Percent,2023,,28.5
-2021,Normal value,Units,Compensation of employees/GDP,Economic Survey,Labour share of GDP [10.4.1],,Percent,2023,,27.9
-2022,Normal value,Units,Compensation of employees/GDP,Economic Survey,Labour share of GDP [10.4.1],,Percent,2023,,27.1
-2023,Normal value,Units,Compensation of employees/GDP,Economic Survey,Labour share of GDP [10.4.1],,Percent,2023,,26.3
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
+2014,Labour share of GDP [10.4.1],,Percent,Normal value,Units,2023,Compensation of employees/GDP,Economic Survey,,27.0
+2015,Labour share of GDP [10.4.1],,Percent,Normal value,Units,2023,Compensation of employees/GDP,Economic Survey,,26.9
+2016,Labour share of GDP [10.4.1],,Percent,Normal value,Units,2023,Compensation of employees/GDP,Economic Survey,,28.1
+2017,Labour share of GDP [10.4.1],,Percent,Normal value,Units,2023,Compensation of employees/GDP,Economic Survey,,28.2
+2018,Labour share of GDP [10.4.1],,Percent,Normal value,Units,2023,Compensation of employees/GDP,Economic Survey,,28.9
+2019,Labour share of GDP [10.4.1],,Percent,Normal value,Units,2023,Compensation of employees/GDP,Economic Survey,,28.9
+2020,Labour share of GDP [10.4.1],,Percent,Normal value,Units,2023,Compensation of employees/GDP,Economic Survey,,28.5
+2021,Labour share of GDP [10.4.1],,Percent,Normal value,Units,2023,Compensation of employees/GDP,Economic Survey,,27.9
+2022,Labour share of GDP [10.4.1],,Percent,Normal value,Units,2023,Compensation of employees/GDP,Economic Survey,,27.1
+2023,Labour share of GDP [10.4.1],,Percent,Normal value,Units,2023,Compensation of employees/GDP,Economic Survey,,26.3

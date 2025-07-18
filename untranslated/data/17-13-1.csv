@@ -1,242 +1,242 @@
-Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,COMMENT_OBS,GeoCode,Value
-2014,A,0,Economic Survey,_L_KE_171301_01,,PT,2023,,,2.3
-2015,A,0,Economic Survey,_L_KE_171301_01,,PT,2023,,,2.4
-2016,A,0,Economic Survey,_L_KE_171301_01,,PT,2023,,,2.5
-2017,A,0,Economic Survey,_L_KE_171301_01,,PT,2023,,,2.4
-2018,A,0,Economic Survey,_L_KE_171301_01,,PT,2023,,,3.0
-2019,A,0,Economic Survey,_L_KE_171301_01,,PT,2023,,,2.8
-2020,A,0,Economic Survey,_L_KE_171301_01,,PT,2023,,,3.1
-2021,A,0,Economic Survey,_L_KE_171301_01,,PT,2023,,,3.4
-2022,A,0,Economic Survey,_L_KE_171301_01,,PT,2023,,,3.6
-2023,A,0,Economic Survey,_L_KE_171301_01,,PT,2023,,,3.9
-2014,A,0,"Treasury, Economic Survey",_L_KE_171301_02,,PT,2023,"Include debt service of IMF(repayments, repurchases and charges)",,15.2
-2015,A,0,"Treasury, Economic Survey",_L_KE_171301_02,,PT,2023,"Include debt service of IMF(repayments, repurchases and charges)",,6.8
-2016,A,0,"Treasury, Economic Survey",_L_KE_171301_02,,PT,2023,"Include debt service of IMF(repayments, repurchases and charges)",,9.0
-2017,A,0,"Treasury, Economic Survey",_L_KE_171301_02,,PT,2023,"Include debt service of IMF(repayments, repurchases and charges)",,12.3
-2018,A,0,"Treasury, Economic Survey",_L_KE_171301_02,,PT,2023,"Include debt service of IMF(repayments, repurchases and charges)",,19.8
-2019,A,0,"Treasury, Economic Survey",_L_KE_171301_02,,PT,2023,"Include debt service of IMF(repayments, repurchases and charges)",,39.9
-2020,A,0,"Treasury, Economic Survey",_L_KE_171301_02,,PT,2023,"Include debt service of IMF(repayments, repurchases and charges)",,24.9
-2021,A,0,"Treasury, Economic Survey",_L_KE_171301_02,,PT,2023,"Include debt service of IMF(repayments, repurchases and charges)",,23.2
-2022,A,0,"Treasury, Economic Survey",_L_KE_171301_02,,PT,2023,"Include debt service of IMF(repayments, repurchases and charges)",,24.7
-2023,A,0,"Treasury, Economic Survey",_L_KE_171301_02,,PT,2023,"Include debt service of IMF(repayments, repurchases and charges)",,31.1
-2014,A,0,CBK,_L_KE_171301_03,,KES_TO_USD,2023,End Period Annual Average,,87.9
-2015,A,0,CBK,_L_KE_171301_03,,KES_TO_USD,2023,End Period Annual Average,,98.7
-2016,A,0,CBK,_L_KE_171301_03,,KES_TO_USD,2023,End Period Annual Average,,101.5
-2017,A,0,CBK,_L_KE_171301_03,,KES_TO_USD,2023,End Period Annual Average,,103.4
-2018,A,0,CBK,_L_KE_171301_03,,KES_TO_USD,2023,End Period Annual Average,,101.3
-2019,A,0,CBK,_L_KE_171301_03,,KES_TO_USD,2023,End Period Annual Average,,102.1
-2020,A,0,CBK,_L_KE_171301_03,,KES_TO_USD,2023,End Period Annual Average,,106.6
-2021,A,0,CBK,_L_KE_171301_03,,KES_TO_USD,2023,End Period Annual Average,,109.9
-2022,A,0,CBK,_L_KE_171301_03,,KES_TO_USD,2023,End Period Annual Average,,117.9
-2023,A,0,CBK,_L_KE_171301_03,,KES_TO_USD,2023,End Period Annual Average,,139.9
-2014,A,0,Economic Survey,_L_KE_171301_04,,IX,2023,Terms of Trade for all items,,73.1
-2015,A,0,Economic Survey,_L_KE_171301_04,,IX,2023,Terms of Trade for all items,,76.0
-2016,A,0,Economic Survey,_L_KE_171301_04,,IX,2023,Terms of Trade for all items,,78.8
-2017,A,0,Economic Survey,_L_KE_171301_04,,IX,2023,Terms of Trade for all items,,75.5
-2018,A,0,Economic Survey,_L_KE_171301_04,,IX,2023,Terms of Trade for all items,,68.0
-2019,A,0,Economic Survey,_L_KE_171301_04,,IX,2023,Terms of Trade for all items,,68.0
-2020,A,0,Economic Survey,_L_KE_171301_04,,IX,2023,Terms of Trade for all items,,74.9
-2021,A,0,Economic Survey,_L_KE_171301_04,,IX,2023,Terms of Trade for all items,,73.3
-2022,A,0,Economic Survey,_L_KE_171301_04,,IX,2023,Terms of Trade for all items,,75.3
-2023,A,0,Economic Survey,_L_KE_171301_04,,IX,2023,Terms of Trade for all items,,71.4
-2015,A,0,Economic Survey,_L_KE_171301_05,,PT,2023,,,6.8
-2016,A,0,Economic Survey,_L_KE_171301_05,,PT,2023,,,9.1
-2017,A,0,Economic Survey,_L_KE_171301_05,,PT,2023,,,10.6
-2018,A,0,Economic Survey,_L_KE_171301_05,,PT,2023,,,12.0
-2019,A,0,Economic Survey,_L_KE_171301_05,,PT,2023,,,12.0
-2020,A,0,Economic Survey,_L_KE_171301_05,,PT,2023,,,11.5
-2021,A,0,Economic Survey,_L_KE_171301_05,,PT,2023,,,14.3
-2022,A,0,Economic Survey,_L_KE_171301_05,,PT,2023,,,13.8
-2023,A,0,Economic Survey,_L_KE_171301_05,,PT,2023,,,12.3
-2014,A,0,Economic Survey,_L_KE_171301_06,,PT,2023,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-5.1
-2015,A,0,Economic Survey,_L_KE_171301_06,,PT,2023,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-7.8
-2016,A,0,Economic Survey,_L_KE_171301_06,,PT,2023,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-6.4
-2017,A,0,Economic Survey,_L_KE_171301_06,,PT,2023,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-6.8
-2018,A,0,Economic Survey,_L_KE_171301_06,,PT,2023,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-7.1
-2019,A,0,Economic Survey,_L_KE_171301_06,,PT,2023,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-7.1
-2020,A,0,Economic Survey,_L_KE_171301_06,,PT,2023,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-7.6
-2021,A,0,Economic Survey,_L_KE_171301_06,,PT,2023,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-8.4
-2022,A,0,Economic Survey,_L_KE_171301_06,,PT,2023,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-5.5
-2023,A,0,Economic Survey,_L_KE_171301_06,,PT,2023,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-6.3
-2014,A,0,Economic Survey,_L_KE_171301_07,,IX,2023,Terms of Trade for all items,,73.1
-2015,A,0,Economic Survey,_L_KE_171301_07,,IX,2023,Terms of Trade for all items,,76.0
-2016,A,0,Economic Survey,_L_KE_171301_07,,IX,2023,Terms of Trade for all items,,78.8
-2017,A,0,Economic Survey,_L_KE_171301_07,,IX,2023,Terms of Trade for all items,,75.5
-2018,A,0,Economic Survey,_L_KE_171301_07,,IX,2023,Terms of Trade for all items,,68.0
-2019,A,0,Economic Survey,_L_KE_171301_07,,IX,2023,Terms of Trade for all items,,68.0
-2020,A,0,Economic Survey,_L_KE_171301_07,,IX,2023,Terms of Trade for all items,,74.9
-2021,A,0,Economic Survey,_L_KE_171301_07,,IX,2023,Terms of Trade for all items,,73.3
-2022,A,0,Economic Survey,_L_KE_171301_07,,IX,2023,Terms of Trade for all items,,75.3
-2023,A,0,Economic Survey,_L_KE_171301_07,,IX,2023,Terms of Trade for all items,,71.4
-2014,A,0,"KPHC 2019, KCHSP 2020, KCHSP 2021",_L_KE_171301_08,,PT,2022,,,9.7
-2016,A,0,"KPHC 2019, KCHSP 2020, KCHSP 2021",_L_KE_171301_08,,PT,2022,,,7.4
-2019,A,0,"KPHC 2019, KCHSP 2020, KCHSP 2021",_L_KE_171301_08,,PT,2022,,,13.7
-2020,A,0,"KPHC 2019, KCHSP 2020, KCHSP 2021",_L_KE_171301_08,,PT,2022,,,7.2
-2021,A,0,"KPHC 2019, KCHSP 2020, KCHSP 2021",_L_KE_171301_08,,PT,2022,,,6.1
-2022,A,0,"KPHC 2019, KCHSP 2020, KCHSP 2021",_L_KE_171301_08,,PT,2022,,,5.8
-2014,A,0,CBK,_L_KE_171301_09,,MO,2023,,,5.0
-2015,A,0,CBK,_L_KE_171301_09,,MO,2023,,,4.8
-2016,A,0,CBK,_L_KE_171301_09,,MO,2023,,,5.0
-2017,A,0,CBK,_L_KE_171301_09,,MO,2023,,,5.0
-2018,A,0,CBK,_L_KE_171301_09,,MO,2023,,,5.3
-2019,A,0,CBK,_L_KE_171301_09,,MO,2023,,,5.5
-2020,A,0,CBK,_L_KE_171301_09,,MO,2023,,,5.1
-2021,A,0,CBK,_L_KE_171301_09,,MO,2023,,,5.7
-2022,A,0,CBK,_L_KE_171301_09,,MO,2023,,,4.5
-2023,A,0,CBK,_L_KE_171301_09,,MO,2023,,,3.9
-2014,A,0,Economic Survey,BN_CAB_XOKA_GD_ZS,,PT,2023,,,-10.4
-2015,A,0,Economic Survey,BN_CAB_XOKA_GD_ZS,,PT,2023,,,-6.9
-2016,A,0,Economic Survey,BN_CAB_XOKA_GD_ZS,,PT,2023,,,-5.8
-2017,A,0,Economic Survey,BN_CAB_XOKA_GD_ZS,,PT,2023,,,-7.0
-2018,A,0,Economic Survey,BN_CAB_XOKA_GD_ZS,,PT,2023,,,-5.4
-2019,A,0,Economic Survey,BN_CAB_XOKA_GD_ZS,,PT,2023,,,-5.2
-2020,A,0,Economic Survey,BN_CAB_XOKA_GD_ZS,,PT,2023,,,-4.8
-2021,A,0,Economic Survey,BN_CAB_XOKA_GD_ZS,,PT,2023,,,-5.2
-2022,A,0,Economic Survey,BN_CAB_XOKA_GD_ZS,,PT,2023,,,-5.2
-2023,A,0,Economic Survey,BN_CAB_XOKA_GD_ZS,,PT,2023,,,-4.0
-2014,A,0,Economic Survey,BN_KLT_PTXL_CD,,USD,2023,BOP,,-3716.9
-2015,A,0,Economic Survey,BN_KLT_PTXL_CD,,USD,2023,BOP,,155.1
-2016,A,0,Economic Survey,BN_KLT_PTXL_CD,,USD,2023,BOP,,377.5
-2017,A,0,Economic Survey,BN_KLT_PTXL_CD,,USD,2023,BOP,,731.1
-2018,A,0,Economic Survey,BN_KLT_PTXL_CD,,USD,2023,BOP,,-649.0
-2019,A,0,Economic Survey,BN_KLT_PTXL_CD,,USD,2023,BOP,,-458.1
-2020,A,0,Economic Survey,BN_KLT_PTXL_CD,,USD,2023,BOP,,1313.3
-2021,A,0,Economic Survey,BN_KLT_PTXL_CD,,USD,2023,BOP,,203.6
-2022,A,0,Economic Survey,BN_KLT_PTXL_CD,,USD,2023,BOP,,706.7
-2023,A,0,Economic Survey,BN_KLT_PTXL_CD,,USD,2023,BOP,,645.5
-2014,A,0,Economic Survey,BX_KLT_DINV_WD_GD_ZS,,PT,2023,BOP,,1.3
-2015,A,0,Economic Survey,BX_KLT_DINV_WD_GD_ZS,,PT,2023,BOP,,-0.6
-2016,A,0,Economic Survey,BX_KLT_DINV_WD_GD_ZS,,PT,2023,BOP,,-0.5
-2017,A,0,Economic Survey,BX_KLT_DINV_WD_GD_ZS,,PT,2023,BOP,,-1.5
-2018,A,0,Economic Survey,BX_KLT_DINV_WD_GD_ZS,,PT,2023,BOP,,-0.8
-2019,A,0,Economic Survey,BX_KLT_DINV_WD_GD_ZS,,PT,2023,BOP,,-0.4
-2020,A,0,Economic Survey,BX_KLT_DINV_WD_GD_ZS,,PT,2023,BOP,,-0.6
-2021,A,0,Economic Survey,BX_KLT_DINV_WD_GD_ZS,,PT,2023,BOP,,-0.1
-2022,A,0,Economic Survey,BX_KLT_DINV_WD_GD_ZS,,PT,2023,BOP,,0.7
-2023,A,0,Economic Survey,BX_KLT_DINV_WD_GD_ZS,,PT,2023,BOP,,0.7
-2014,A,0,Economic Survey,DP_DOD_DLD2_CR_CG_Z1,,PT,2023,GDP at Current Market price,,36.9
-2015,A,0,Economic Survey,DP_DOD_DLD2_CR_CG_Z1,,PT,2023,GDP at Current Market price,,37.8
-2016,A,0,Economic Survey,DP_DOD_DLD2_CR_CG_Z1,,PT,2023,GDP at Current Market price,,42.2
-2017,A,0,Economic Survey,DP_DOD_DLD2_CR_CG_Z1,,PT,2023,GDP at Current Market price,,47.3
-2018,A,0,Economic Survey,DP_DOD_DLD2_CR_CG_Z1,,PT,2023,GDP at Current Market price,,49.1
-2019,A,0,Economic Survey,DP_DOD_DLD2_CR_CG_Z1,,PT,2023,GDP at Current Market price,,51.9
-2020,A,0,Economic Survey,DP_DOD_DLD2_CR_CG_Z1,,PT,2023,GDP at Current Market price,,58.4
-2021,A,0,Economic Survey,DP_DOD_DLD2_CR_CG_Z1,,PT,2023,GDP at Current Market price,,59.4
-2022,A,0,Economic Survey,DP_DOD_DLD2_CR_CG_Z1,,PT,2023,GDP at Current Market price,,59.8
-2023,A,0,Economic Survey,DP_DOD_DLD2_CR_CG_Z1,,PT,2023,GDP at Current Market price,,63.7
-2014,A,0,"Treasury, Economic Survey",DT_DOD_DECT_GN_ZS,,PT,2023,Include private external debt,,10.3
-2015,A,0,"Treasury, Economic Survey",DT_DOD_DECT_GN_ZS,,PT,2023,Include private external debt,,26.2
-2016,A,0,"Treasury, Economic Survey",DT_DOD_DECT_GN_ZS,,PT,2023,Include private external debt,,25.5
-2017,A,0,"Treasury, Economic Survey",DT_DOD_DECT_GN_ZS,,PT,2023,Include private external debt,,28.6
-2018,A,0,"Treasury, Economic Survey",DT_DOD_DECT_GN_ZS,,PT,2023,Include private external debt,,29.9
-2019,A,0,"Treasury, Economic Survey",DT_DOD_DECT_GN_ZS,,PT,2023,Include private external debt,,31.1
-2020,A,0,"Treasury, Economic Survey",DT_DOD_DECT_GN_ZS,,PT,2023,Include private external debt,,36.3
-2021,A,0,"Treasury, Economic Survey",DT_DOD_DECT_GN_ZS,,PT,2023,Include private external debt,,35.6
-2022,A,0,"Treasury, Economic Survey",DT_DOD_DECT_GN_ZS,,PT,2023,Include private external debt,,70.8
-2023,A,0,"Treasury, Economic Survey",DT_DOD_DECT_GN_ZS,,PT,2023,Include private external debt,,81.1
-2015,A,0,Economic Survey,FB_BNK_CAPA_ZS,,PT,2023,,,15.2
-2016,A,0,Economic Survey,FB_BNK_CAPA_ZS,,PT,2023,,,16.3
-2017,A,0,Economic Survey,FB_BNK_CAPA_ZS,,PT,2023,,,14.1
-2018,A,0,Economic Survey,FB_BNK_CAPA_ZS,,PT,2023,,,14.7
-2019,A,0,Economic Survey,FB_BNK_CAPA_ZS,,PT,2023,,,14.8
-2020,A,0,Economic Survey,FB_BNK_CAPA_ZS,,PT,2023,,,15.4
-2021,A,0,Economic Survey,FB_BNK_CAPA_ZS,,PT,2023,,,16.6
-2022,A,0,Economic Survey,FB_BNK_CAPA_ZS,,PT,2023,,,16.1
-2023,A,0,Economic Survey,FB_BNK_CAPA_ZS,,PT,2023,,,21.9
-2015,A,0,Economic Survey,FM_LBL_BMNY_IR_ZS,,PT,2021,,,3.5
-2016,A,0,Economic Survey,FM_LBL_BMNY_IR_ZS,,PT,2021,,,3.7
-2017,A,0,Economic Survey,FM_LBL_BMNY_IR_ZS,,PT,2021,,,4.0
-2018,A,0,Economic Survey,FM_LBL_BMNY_IR_ZS,,PT,2021,,,3.9
-2019,A,0,Economic Survey,FM_LBL_BMNY_IR_ZS,,PT,2021,,,3.8
-2020,A,0,Economic Survey,FM_LBL_BMNY_IR_ZS,,PT,2021,,,4.1
-2021,A,0,Economic Survey,FM_LBL_BMNY_IR_ZS,,PT,2021,,,4.0
-2014,A,0,Economic Survey,FM_LBL_BMNY_ZG,,PT,2023,,,16.1
-2015,A,0,Economic Survey,FM_LBL_BMNY_ZG,,PT,2023,,,14.1
-2016,A,0,Economic Survey,FM_LBL_BMNY_ZG,,PT,2023,,,4.0
-2017,A,0,Economic Survey,FM_LBL_BMNY_ZG,,PT,2023,,,9.6
-2018,A,0,Economic Survey,FM_LBL_BMNY_ZG,,PT,2023,,,10.1
-2019,A,0,Economic Survey,FM_LBL_BMNY_ZG,,PT,2023,,,5.6
-2020,A,0,Economic Survey,FM_LBL_BMNY_ZG,,PT,2023,,,13.2
-2021,A,0,Economic Survey,FM_LBL_BMNY_ZG,,PT,2023,,,6.1
-2022,A,0,Economic Survey,FM_LBL_BMNY_ZG,,PT,2023,,,7.5
-2023,A,0,Economic Survey,FM_LBL_BMNY_ZG,,PT,2023,,,19.9
-2014,A,0,KNBS,FP_CPI_TOTL_ZG,,IX,2023,Base; Feb 2019=100,,149.7
-2015,A,0,KNBS,FP_CPI_TOTL_ZG,,IX,2023,Base; Feb 2019=100,,159.6
-2016,A,0,KNBS,FP_CPI_TOTL_ZG,,IX,2023,Base; Feb 2019=100,,86.7
-2017,A,0,KNBS,FP_CPI_TOTL_ZG,,IX,2023,Base; Feb 2019=100,,93.6
-2018,A,0,KNBS,FP_CPI_TOTL_ZG,,IX,2023,Base; Feb 2019=100,,98.0
-2019,A,0,KNBS,FP_CPI_TOTL_ZG,,IX,2023,Base; Feb 2019=100,,103.2
-2020,A,0,KNBS,FP_CPI_TOTL_ZG,,IX,2023,Base; Feb 2019=100,,108.7
-2021,A,0,KNBS,FP_CPI_TOTL_ZG,,IX,2023,Base; Feb 2019=100,,115.3
-2022,A,0,KNBS,FP_CPI_TOTL_ZG,,IX,2023,Base; Feb 2019=100,,124.2
-2023,A,0,KNBS,FP_CPI_TOTL_ZG,,IX,2023,Base; Feb 2019=100,,133.7
-2014,A,0,Economic Survey,GC_TAX_TOTL_GD_ZS,,PT,2023,NationalTax revenue. GDP at Current Market price,,15.2
-2015,A,0,Economic Survey,GC_TAX_TOTL_GD_ZS,,PT,2023,NationalTax revenue. GDP at Current Market price,,14.8
-2016,A,0,Economic Survey,GC_TAX_TOTL_GD_ZS,,PT,2023,NationalTax revenue. GDP at Current Market price,,15.6
-2017,A,0,Economic Survey,GC_TAX_TOTL_GD_ZS,,PT,2023,NationalTax revenue. GDP at Current Market price,,15.9
-2018,A,0,Economic Survey,GC_TAX_TOTL_GD_ZS,,PT,2023,NationalTax revenue. GDP at Current Market price,,15.1
-2019,A,0,Economic Survey,GC_TAX_TOTL_GD_ZS,,PT,2023,NationalTax revenue. GDP at Current Market price,,16.5
-2020,A,0,Economic Survey,GC_TAX_TOTL_GD_ZS,,PT,2023,NationalTax revenue. GDP at Current Market price,,15.0
-2021,A,0,Economic Survey,GC_TAX_TOTL_GD_ZS,,PT,2023,NationalTax revenue. GDP at Current Market price,,15.2
-2022,A,0,Economic Survey,GC_TAX_TOTL_GD_ZS,,PT,2023,NationalTax revenue. GDP at Current Market price,,14.6
-2023,A,0,Economic Survey,GC_TAX_TOTL_GD_ZS,,PT,2023,NationalTax revenue. GDP at Current Market price,,13.6
-2014,A,0,Economic Survey,NE_CON_GOVT_KD_ZG,,PT,2023,,,3.8
-2015,A,0,Economic Survey,NE_CON_GOVT_KD_ZG,,PT,2023,,,13.6
-2016,A,0,Economic Survey,NE_CON_GOVT_KD_ZG,,PT,2023,,,5.3
-2017,A,0,Economic Survey,NE_CON_GOVT_KD_ZG,,PT,2023,,,6.2
-2018,A,0,Economic Survey,NE_CON_GOVT_KD_ZG,,PT,2023,,,7.0
-2019,A,0,Economic Survey,NE_CON_GOVT_KD_ZG,,PT,2023,,,5.6
-2020,A,0,Economic Survey,NE_CON_GOVT_KD_ZG,,PT,2023,,,3.1
-2021,A,0,Economic Survey,NE_CON_GOVT_KD_ZG,,PT,2023,,,6.0
-2022,A,0,Economic Survey,NE_CON_GOVT_KD_ZG,,PT,2023,,,8.1
-2023,A,0,Economic Survey,NE_CON_GOVT_KD_ZG,,PT,2023,,,3.5
-2014,A,0,Economic Survey,NE_CON_PRVT_KD_ZG,,PT,2023,Includes private final consumption and final consumption by NPISH,,4.3
-2015,A,0,Economic Survey,NE_CON_PRVT_KD_ZG,,PT,2023,Includes private final consumption and final consumption by NPISH,,6.1
-2016,A,0,Economic Survey,NE_CON_PRVT_KD_ZG,,PT,2023,Includes private final consumption and final consumption by NPISH,,4.5
-2017,A,0,Economic Survey,NE_CON_PRVT_KD_ZG,,PT,2023,Includes private final consumption and final consumption by NPISH,,4.9
-2018,A,0,Economic Survey,NE_CON_PRVT_KD_ZG,,PT,2023,Includes private final consumption and final consumption by NPISH,,4.7
-2019,A,0,Economic Survey,NE_CON_PRVT_KD_ZG,,PT,2023,Includes private final consumption and final consumption by NPISH,,5.0
-2020,A,0,Economic Survey,NE_CON_PRVT_KD_ZG,,PT,2023,Includes private final consumption and final consumption by NPISH,,-1.5
-2021,A,0,Economic Survey,NE_CON_PRVT_KD_ZG,,PT,2023,Includes private final consumption and final consumption by NPISH,,6.2
-2022,A,0,Economic Survey,NE_CON_PRVT_KD_ZG,,PT,2023,Includes private final consumption and final consumption by NPISH,,3.3
-2023,A,0,Economic Survey,NE_CON_PRVT_KD_ZG,,PT,2023,Includes private final consumption and final consumption by NPISH,,6.2
-2014,A,0,Economic Survey,NE_EXP_GNFS_KD_ZG,,PT,2023,,,1.9
-2015,A,0,Economic Survey,NE_EXP_GNFS_KD_ZG,,PT,2023,,,-2.2
-2016,A,0,Economic Survey,NE_EXP_GNFS_KD_ZG,,PT,2023,,,-6.6
-2017,A,0,Economic Survey,NE_EXP_GNFS_KD_ZG,,PT,2023,,,-1.0
-2018,A,0,Economic Survey,NE_EXP_GNFS_KD_ZG,,PT,2023,,,6.8
-2019,A,0,Economic Survey,NE_EXP_GNFS_KD_ZG,,PT,2023,,,-3.2
-2020,A,0,Economic Survey,NE_EXP_GNFS_KD_ZG,,PT,2023,,,-14.9
-2021,A,0,Economic Survey,NE_EXP_GNFS_KD_ZG,,PT,2023,,,15.3
-2022,A,0,Economic Survey,NE_EXP_GNFS_KD_ZG,,PT,2023,,,27.0
-2023,A,0,Economic Survey,NE_EXP_GNFS_KD_ZG,,PT,2023,,,7.4
-2014,A,0,Economic Survey,NE_GDI_TOTL_KD_ZG,,PT,2023,This includes Gross Fixed Capital Formation and Changes in Inventories,,19.9
-2015,A,0,Economic Survey,NE_GDI_TOTL_KD_ZG,,PT,2023,This includes Gross Fixed Capital Formation and Changes in Inventories,,0.1
-2016,A,0,Economic Survey,NE_GDI_TOTL_KD_ZG,,PT,2023,This includes Gross Fixed Capital Formation and Changes in Inventories,,-3.9
-2017,A,0,Economic Survey,NE_GDI_TOTL_KD_ZG,,PT,2023,This includes Gross Fixed Capital Formation and Changes in Inventories,,12.0
-2018,A,0,Economic Survey,NE_GDI_TOTL_KD_ZG,,PT,2023,This includes Gross Fixed Capital Formation and Changes in Inventories,,-2.3
-2019,A,0,Economic Survey,NE_GDI_TOTL_KD_ZG,,PT,2023,This includes Gross Fixed Capital Formation and Changes in Inventories,,5.3
-2020,A,0,Economic Survey,NE_GDI_TOTL_KD_ZG,,PT,2023,This includes Gross Fixed Capital Formation and Changes in Inventories,,2.2
-2021,A,0,Economic Survey,NE_GDI_TOTL_KD_ZG,,PT,2023,This includes Gross Fixed Capital Formation and Changes in Inventories,,13.4
-2022,A,0,Economic Survey,NE_GDI_TOTL_KD_ZG,,PT,2023,This includes Gross Fixed Capital Formation and Changes in Inventories,,-2.6
-2023,A,0,Economic Survey,NE_GDI_TOTL_KD_ZG,,PT,2023,This includes Gross Fixed Capital Formation and Changes in Inventories,,-5.5
-2014,A,0,Economic Survey,NE_IMP_GNFS_KD_ZG,,PT,2023,,,11.3
-2015,A,0,Economic Survey,NE_IMP_GNFS_KD_ZG,,PT,2023,,,-4.6
-2016,A,0,Economic Survey,NE_IMP_GNFS_KD_ZG,,PT,2023,,,-7.4
-2017,A,0,Economic Survey,NE_IMP_GNFS_KD_ZG,,PT,2023,,,12.4
-2018,A,0,Economic Survey,NE_IMP_GNFS_KD_ZG,,PT,2023,,,1.4
-2019,A,0,Economic Survey,NE_IMP_GNFS_KD_ZG,,PT,2023,,,1.8
-2020,A,0,Economic Survey,NE_IMP_GNFS_KD_ZG,,PT,2023,,,-9.4
-2021,A,0,Economic Survey,NE_IMP_GNFS_KD_ZG,,PT,2023,,,22.2
-2022,A,0,Economic Survey,NE_IMP_GNFS_KD_ZG,,PT,2023,,,20.2
-2023,A,0,Economic Survey,NE_IMP_GNFS_KD_ZG,,PT,2023,,,6.3
-2014,A,0,Economic Survey,NY_GDP_MKTP_KD_ZG,,PT,2023,,,5.4
-2015,A,0,Economic Survey,NY_GDP_MKTP_KD_ZG,,PT,2023,,,5.7
-2016,A,0,Economic Survey,NY_GDP_MKTP_KD_ZG,,PT,2023,,,4.2
-2017,A,0,Economic Survey,NY_GDP_MKTP_KD_ZG,,PT,2023,,,3.8
-2018,A,0,Economic Survey,NY_GDP_MKTP_KD_ZG,,PT,2023,,,5.6
-2019,A,0,Economic Survey,NY_GDP_MKTP_KD_ZG,,PT,2023,,,5.1
-2020,A,0,Economic Survey,NY_GDP_MKTP_KD_ZG,,PT,2023,,,-0.3
-2021,A,0,Economic Survey,NY_GDP_MKTP_KD_ZG,,PT,2023,,,7.6
-2022,A,0,Economic Survey,NY_GDP_MKTP_KD_ZG,,PT,2023,,,4.9
-2023,A,0,Economic Survey,NY_GDP_MKTP_KD_ZG,,PT,2023,,,5.6
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,COMMENT_OBS,GeoCode,Value
+2014,_L_KE_171301_01,,PT,A,0,2023,Economic Survey,,,2.3
+2015,_L_KE_171301_01,,PT,A,0,2023,Economic Survey,,,2.4
+2016,_L_KE_171301_01,,PT,A,0,2023,Economic Survey,,,2.5
+2017,_L_KE_171301_01,,PT,A,0,2023,Economic Survey,,,2.4
+2018,_L_KE_171301_01,,PT,A,0,2023,Economic Survey,,,3.0
+2019,_L_KE_171301_01,,PT,A,0,2023,Economic Survey,,,2.8
+2020,_L_KE_171301_01,,PT,A,0,2023,Economic Survey,,,3.1
+2021,_L_KE_171301_01,,PT,A,0,2023,Economic Survey,,,3.4
+2022,_L_KE_171301_01,,PT,A,0,2023,Economic Survey,,,3.6
+2023,_L_KE_171301_01,,PT,A,0,2023,Economic Survey,,,3.9
+2014,_L_KE_171301_02,,PT,A,0,2023,"Treasury, Economic Survey","Include debt service of IMF(repayments, repurchases and charges)",,15.2
+2015,_L_KE_171301_02,,PT,A,0,2023,"Treasury, Economic Survey","Include debt service of IMF(repayments, repurchases and charges)",,6.8
+2016,_L_KE_171301_02,,PT,A,0,2023,"Treasury, Economic Survey","Include debt service of IMF(repayments, repurchases and charges)",,9.0
+2017,_L_KE_171301_02,,PT,A,0,2023,"Treasury, Economic Survey","Include debt service of IMF(repayments, repurchases and charges)",,12.3
+2018,_L_KE_171301_02,,PT,A,0,2023,"Treasury, Economic Survey","Include debt service of IMF(repayments, repurchases and charges)",,19.8
+2019,_L_KE_171301_02,,PT,A,0,2023,"Treasury, Economic Survey","Include debt service of IMF(repayments, repurchases and charges)",,39.9
+2020,_L_KE_171301_02,,PT,A,0,2023,"Treasury, Economic Survey","Include debt service of IMF(repayments, repurchases and charges)",,24.9
+2021,_L_KE_171301_02,,PT,A,0,2023,"Treasury, Economic Survey","Include debt service of IMF(repayments, repurchases and charges)",,23.2
+2022,_L_KE_171301_02,,PT,A,0,2023,"Treasury, Economic Survey","Include debt service of IMF(repayments, repurchases and charges)",,24.7
+2023,_L_KE_171301_02,,PT,A,0,2023,"Treasury, Economic Survey","Include debt service of IMF(repayments, repurchases and charges)",,31.1
+2014,_L_KE_171301_03,,KES_TO_USD,A,0,2023,CBK,End Period Annual Average,,87.9
+2015,_L_KE_171301_03,,KES_TO_USD,A,0,2023,CBK,End Period Annual Average,,98.7
+2016,_L_KE_171301_03,,KES_TO_USD,A,0,2023,CBK,End Period Annual Average,,101.5
+2017,_L_KE_171301_03,,KES_TO_USD,A,0,2023,CBK,End Period Annual Average,,103.4
+2018,_L_KE_171301_03,,KES_TO_USD,A,0,2023,CBK,End Period Annual Average,,101.3
+2019,_L_KE_171301_03,,KES_TO_USD,A,0,2023,CBK,End Period Annual Average,,102.1
+2020,_L_KE_171301_03,,KES_TO_USD,A,0,2023,CBK,End Period Annual Average,,106.6
+2021,_L_KE_171301_03,,KES_TO_USD,A,0,2023,CBK,End Period Annual Average,,109.9
+2022,_L_KE_171301_03,,KES_TO_USD,A,0,2023,CBK,End Period Annual Average,,117.9
+2023,_L_KE_171301_03,,KES_TO_USD,A,0,2023,CBK,End Period Annual Average,,139.9
+2014,_L_KE_171301_04,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,73.1
+2015,_L_KE_171301_04,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,76.0
+2016,_L_KE_171301_04,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,78.8
+2017,_L_KE_171301_04,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,75.5
+2018,_L_KE_171301_04,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,68.0
+2019,_L_KE_171301_04,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,68.0
+2020,_L_KE_171301_04,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,74.9
+2021,_L_KE_171301_04,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,73.3
+2022,_L_KE_171301_04,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,75.3
+2023,_L_KE_171301_04,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,71.4
+2015,_L_KE_171301_05,,PT,A,0,2023,Economic Survey,,,6.8
+2016,_L_KE_171301_05,,PT,A,0,2023,Economic Survey,,,9.1
+2017,_L_KE_171301_05,,PT,A,0,2023,Economic Survey,,,10.6
+2018,_L_KE_171301_05,,PT,A,0,2023,Economic Survey,,,12.0
+2019,_L_KE_171301_05,,PT,A,0,2023,Economic Survey,,,12.0
+2020,_L_KE_171301_05,,PT,A,0,2023,Economic Survey,,,11.5
+2021,_L_KE_171301_05,,PT,A,0,2023,Economic Survey,,,14.3
+2022,_L_KE_171301_05,,PT,A,0,2023,Economic Survey,,,13.8
+2023,_L_KE_171301_05,,PT,A,0,2023,Economic Survey,,,12.3
+2014,_L_KE_171301_06,,PT,A,0,2023,Economic Survey,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-5.1
+2015,_L_KE_171301_06,,PT,A,0,2023,Economic Survey,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-7.8
+2016,_L_KE_171301_06,,PT,A,0,2023,Economic Survey,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-6.4
+2017,_L_KE_171301_06,,PT,A,0,2023,Economic Survey,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-6.8
+2018,_L_KE_171301_06,,PT,A,0,2023,Economic Survey,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-7.1
+2019,_L_KE_171301_06,,PT,A,0,2023,Economic Survey,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-7.1
+2020,_L_KE_171301_06,,PT,A,0,2023,Economic Survey,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-7.6
+2021,_L_KE_171301_06,,PT,A,0,2023,Economic Survey,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-8.4
+2022,_L_KE_171301_06,,PT,A,0,2023,Economic Survey,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-5.5
+2023,_L_KE_171301_06,,PT,A,0,2023,Economic Survey,Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price,,-6.3
+2014,_L_KE_171301_07,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,73.1
+2015,_L_KE_171301_07,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,76.0
+2016,_L_KE_171301_07,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,78.8
+2017,_L_KE_171301_07,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,75.5
+2018,_L_KE_171301_07,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,68.0
+2019,_L_KE_171301_07,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,68.0
+2020,_L_KE_171301_07,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,74.9
+2021,_L_KE_171301_07,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,73.3
+2022,_L_KE_171301_07,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,75.3
+2023,_L_KE_171301_07,,IX,A,0,2023,Economic Survey,Terms of Trade for all items,,71.4
+2014,_L_KE_171301_08,,PT,A,0,2022,"KPHC 2019, KCHSP 2020, KCHSP 2021",,,9.7
+2016,_L_KE_171301_08,,PT,A,0,2022,"KPHC 2019, KCHSP 2020, KCHSP 2021",,,7.4
+2019,_L_KE_171301_08,,PT,A,0,2022,"KPHC 2019, KCHSP 2020, KCHSP 2021",,,13.7
+2020,_L_KE_171301_08,,PT,A,0,2022,"KPHC 2019, KCHSP 2020, KCHSP 2021",,,7.2
+2021,_L_KE_171301_08,,PT,A,0,2022,"KPHC 2019, KCHSP 2020, KCHSP 2021",,,6.1
+2022,_L_KE_171301_08,,PT,A,0,2022,"KPHC 2019, KCHSP 2020, KCHSP 2021",,,5.8
+2014,_L_KE_171301_09,,MO,A,0,2023,CBK,,,5.0
+2015,_L_KE_171301_09,,MO,A,0,2023,CBK,,,4.8
+2016,_L_KE_171301_09,,MO,A,0,2023,CBK,,,5.0
+2017,_L_KE_171301_09,,MO,A,0,2023,CBK,,,5.0
+2018,_L_KE_171301_09,,MO,A,0,2023,CBK,,,5.3
+2019,_L_KE_171301_09,,MO,A,0,2023,CBK,,,5.5
+2020,_L_KE_171301_09,,MO,A,0,2023,CBK,,,5.1
+2021,_L_KE_171301_09,,MO,A,0,2023,CBK,,,5.7
+2022,_L_KE_171301_09,,MO,A,0,2023,CBK,,,4.5
+2023,_L_KE_171301_09,,MO,A,0,2023,CBK,,,3.9
+2014,BN_CAB_XOKA_GD_ZS,,PT,A,0,2023,Economic Survey,,,-10.4
+2015,BN_CAB_XOKA_GD_ZS,,PT,A,0,2023,Economic Survey,,,-6.9
+2016,BN_CAB_XOKA_GD_ZS,,PT,A,0,2023,Economic Survey,,,-5.8
+2017,BN_CAB_XOKA_GD_ZS,,PT,A,0,2023,Economic Survey,,,-7.0
+2018,BN_CAB_XOKA_GD_ZS,,PT,A,0,2023,Economic Survey,,,-5.4
+2019,BN_CAB_XOKA_GD_ZS,,PT,A,0,2023,Economic Survey,,,-5.2
+2020,BN_CAB_XOKA_GD_ZS,,PT,A,0,2023,Economic Survey,,,-4.8
+2021,BN_CAB_XOKA_GD_ZS,,PT,A,0,2023,Economic Survey,,,-5.2
+2022,BN_CAB_XOKA_GD_ZS,,PT,A,0,2023,Economic Survey,,,-5.2
+2023,BN_CAB_XOKA_GD_ZS,,PT,A,0,2023,Economic Survey,,,-4.0
+2014,BN_KLT_PTXL_CD,,USD,A,0,2023,Economic Survey,BOP,,-3716.9
+2015,BN_KLT_PTXL_CD,,USD,A,0,2023,Economic Survey,BOP,,155.1
+2016,BN_KLT_PTXL_CD,,USD,A,0,2023,Economic Survey,BOP,,377.5
+2017,BN_KLT_PTXL_CD,,USD,A,0,2023,Economic Survey,BOP,,731.1
+2018,BN_KLT_PTXL_CD,,USD,A,0,2023,Economic Survey,BOP,,-649.0
+2019,BN_KLT_PTXL_CD,,USD,A,0,2023,Economic Survey,BOP,,-458.1
+2020,BN_KLT_PTXL_CD,,USD,A,0,2023,Economic Survey,BOP,,1313.3
+2021,BN_KLT_PTXL_CD,,USD,A,0,2023,Economic Survey,BOP,,203.6
+2022,BN_KLT_PTXL_CD,,USD,A,0,2023,Economic Survey,BOP,,706.7
+2023,BN_KLT_PTXL_CD,,USD,A,0,2023,Economic Survey,BOP,,645.5
+2014,BX_KLT_DINV_WD_GD_ZS,,PT,A,0,2023,Economic Survey,BOP,,1.3
+2015,BX_KLT_DINV_WD_GD_ZS,,PT,A,0,2023,Economic Survey,BOP,,-0.6
+2016,BX_KLT_DINV_WD_GD_ZS,,PT,A,0,2023,Economic Survey,BOP,,-0.5
+2017,BX_KLT_DINV_WD_GD_ZS,,PT,A,0,2023,Economic Survey,BOP,,-1.5
+2018,BX_KLT_DINV_WD_GD_ZS,,PT,A,0,2023,Economic Survey,BOP,,-0.8
+2019,BX_KLT_DINV_WD_GD_ZS,,PT,A,0,2023,Economic Survey,BOP,,-0.4
+2020,BX_KLT_DINV_WD_GD_ZS,,PT,A,0,2023,Economic Survey,BOP,,-0.6
+2021,BX_KLT_DINV_WD_GD_ZS,,PT,A,0,2023,Economic Survey,BOP,,-0.1
+2022,BX_KLT_DINV_WD_GD_ZS,,PT,A,0,2023,Economic Survey,BOP,,0.7
+2023,BX_KLT_DINV_WD_GD_ZS,,PT,A,0,2023,Economic Survey,BOP,,0.7
+2014,DP_DOD_DLD2_CR_CG_Z1,,PT,A,0,2023,Economic Survey,GDP at Current Market price,,36.9
+2015,DP_DOD_DLD2_CR_CG_Z1,,PT,A,0,2023,Economic Survey,GDP at Current Market price,,37.8
+2016,DP_DOD_DLD2_CR_CG_Z1,,PT,A,0,2023,Economic Survey,GDP at Current Market price,,42.2
+2017,DP_DOD_DLD2_CR_CG_Z1,,PT,A,0,2023,Economic Survey,GDP at Current Market price,,47.3
+2018,DP_DOD_DLD2_CR_CG_Z1,,PT,A,0,2023,Economic Survey,GDP at Current Market price,,49.1
+2019,DP_DOD_DLD2_CR_CG_Z1,,PT,A,0,2023,Economic Survey,GDP at Current Market price,,51.9
+2020,DP_DOD_DLD2_CR_CG_Z1,,PT,A,0,2023,Economic Survey,GDP at Current Market price,,58.4
+2021,DP_DOD_DLD2_CR_CG_Z1,,PT,A,0,2023,Economic Survey,GDP at Current Market price,,59.4
+2022,DP_DOD_DLD2_CR_CG_Z1,,PT,A,0,2023,Economic Survey,GDP at Current Market price,,59.8
+2023,DP_DOD_DLD2_CR_CG_Z1,,PT,A,0,2023,Economic Survey,GDP at Current Market price,,63.7
+2014,DT_DOD_DECT_GN_ZS,,PT,A,0,2023,"Treasury, Economic Survey",Include private external debt,,10.3
+2015,DT_DOD_DECT_GN_ZS,,PT,A,0,2023,"Treasury, Economic Survey",Include private external debt,,26.2
+2016,DT_DOD_DECT_GN_ZS,,PT,A,0,2023,"Treasury, Economic Survey",Include private external debt,,25.5
+2017,DT_DOD_DECT_GN_ZS,,PT,A,0,2023,"Treasury, Economic Survey",Include private external debt,,28.6
+2018,DT_DOD_DECT_GN_ZS,,PT,A,0,2023,"Treasury, Economic Survey",Include private external debt,,29.9
+2019,DT_DOD_DECT_GN_ZS,,PT,A,0,2023,"Treasury, Economic Survey",Include private external debt,,31.1
+2020,DT_DOD_DECT_GN_ZS,,PT,A,0,2023,"Treasury, Economic Survey",Include private external debt,,36.3
+2021,DT_DOD_DECT_GN_ZS,,PT,A,0,2023,"Treasury, Economic Survey",Include private external debt,,35.6
+2022,DT_DOD_DECT_GN_ZS,,PT,A,0,2023,"Treasury, Economic Survey",Include private external debt,,70.8
+2023,DT_DOD_DECT_GN_ZS,,PT,A,0,2023,"Treasury, Economic Survey",Include private external debt,,81.1
+2015,FB_BNK_CAPA_ZS,,PT,A,0,2023,Economic Survey,,,15.2
+2016,FB_BNK_CAPA_ZS,,PT,A,0,2023,Economic Survey,,,16.3
+2017,FB_BNK_CAPA_ZS,,PT,A,0,2023,Economic Survey,,,14.1
+2018,FB_BNK_CAPA_ZS,,PT,A,0,2023,Economic Survey,,,14.7
+2019,FB_BNK_CAPA_ZS,,PT,A,0,2023,Economic Survey,,,14.8
+2020,FB_BNK_CAPA_ZS,,PT,A,0,2023,Economic Survey,,,15.4
+2021,FB_BNK_CAPA_ZS,,PT,A,0,2023,Economic Survey,,,16.6
+2022,FB_BNK_CAPA_ZS,,PT,A,0,2023,Economic Survey,,,16.1
+2023,FB_BNK_CAPA_ZS,,PT,A,0,2023,Economic Survey,,,21.9
+2015,FM_LBL_BMNY_IR_ZS,,PT,A,0,2021,Economic Survey,,,3.5
+2016,FM_LBL_BMNY_IR_ZS,,PT,A,0,2021,Economic Survey,,,3.7
+2017,FM_LBL_BMNY_IR_ZS,,PT,A,0,2021,Economic Survey,,,4.0
+2018,FM_LBL_BMNY_IR_ZS,,PT,A,0,2021,Economic Survey,,,3.9
+2019,FM_LBL_BMNY_IR_ZS,,PT,A,0,2021,Economic Survey,,,3.8
+2020,FM_LBL_BMNY_IR_ZS,,PT,A,0,2021,Economic Survey,,,4.1
+2021,FM_LBL_BMNY_IR_ZS,,PT,A,0,2021,Economic Survey,,,4.0
+2014,FM_LBL_BMNY_ZG,,PT,A,0,2023,Economic Survey,,,16.1
+2015,FM_LBL_BMNY_ZG,,PT,A,0,2023,Economic Survey,,,14.1
+2016,FM_LBL_BMNY_ZG,,PT,A,0,2023,Economic Survey,,,4.0
+2017,FM_LBL_BMNY_ZG,,PT,A,0,2023,Economic Survey,,,9.6
+2018,FM_LBL_BMNY_ZG,,PT,A,0,2023,Economic Survey,,,10.1
+2019,FM_LBL_BMNY_ZG,,PT,A,0,2023,Economic Survey,,,5.6
+2020,FM_LBL_BMNY_ZG,,PT,A,0,2023,Economic Survey,,,13.2
+2021,FM_LBL_BMNY_ZG,,PT,A,0,2023,Economic Survey,,,6.1
+2022,FM_LBL_BMNY_ZG,,PT,A,0,2023,Economic Survey,,,7.5
+2023,FM_LBL_BMNY_ZG,,PT,A,0,2023,Economic Survey,,,19.9
+2014,FP_CPI_TOTL_ZG,,IX,A,0,2023,KNBS,Base; Feb 2019=100,,149.7
+2015,FP_CPI_TOTL_ZG,,IX,A,0,2023,KNBS,Base; Feb 2019=100,,159.6
+2016,FP_CPI_TOTL_ZG,,IX,A,0,2023,KNBS,Base; Feb 2019=100,,86.7
+2017,FP_CPI_TOTL_ZG,,IX,A,0,2023,KNBS,Base; Feb 2019=100,,93.6
+2018,FP_CPI_TOTL_ZG,,IX,A,0,2023,KNBS,Base; Feb 2019=100,,98.0
+2019,FP_CPI_TOTL_ZG,,IX,A,0,2023,KNBS,Base; Feb 2019=100,,103.2
+2020,FP_CPI_TOTL_ZG,,IX,A,0,2023,KNBS,Base; Feb 2019=100,,108.7
+2021,FP_CPI_TOTL_ZG,,IX,A,0,2023,KNBS,Base; Feb 2019=100,,115.3
+2022,FP_CPI_TOTL_ZG,,IX,A,0,2023,KNBS,Base; Feb 2019=100,,124.2
+2023,FP_CPI_TOTL_ZG,,IX,A,0,2023,KNBS,Base; Feb 2019=100,,133.7
+2014,GC_TAX_TOTL_GD_ZS,,PT,A,0,2023,Economic Survey,NationalTax revenue. GDP at Current Market price,,15.2
+2015,GC_TAX_TOTL_GD_ZS,,PT,A,0,2023,Economic Survey,NationalTax revenue. GDP at Current Market price,,14.8
+2016,GC_TAX_TOTL_GD_ZS,,PT,A,0,2023,Economic Survey,NationalTax revenue. GDP at Current Market price,,15.6
+2017,GC_TAX_TOTL_GD_ZS,,PT,A,0,2023,Economic Survey,NationalTax revenue. GDP at Current Market price,,15.9
+2018,GC_TAX_TOTL_GD_ZS,,PT,A,0,2023,Economic Survey,NationalTax revenue. GDP at Current Market price,,15.1
+2019,GC_TAX_TOTL_GD_ZS,,PT,A,0,2023,Economic Survey,NationalTax revenue. GDP at Current Market price,,16.5
+2020,GC_TAX_TOTL_GD_ZS,,PT,A,0,2023,Economic Survey,NationalTax revenue. GDP at Current Market price,,15.0
+2021,GC_TAX_TOTL_GD_ZS,,PT,A,0,2023,Economic Survey,NationalTax revenue. GDP at Current Market price,,15.2
+2022,GC_TAX_TOTL_GD_ZS,,PT,A,0,2023,Economic Survey,NationalTax revenue. GDP at Current Market price,,14.6
+2023,GC_TAX_TOTL_GD_ZS,,PT,A,0,2023,Economic Survey,NationalTax revenue. GDP at Current Market price,,13.6
+2014,NE_CON_GOVT_KD_ZG,,PT,A,0,2023,Economic Survey,,,3.8
+2015,NE_CON_GOVT_KD_ZG,,PT,A,0,2023,Economic Survey,,,13.6
+2016,NE_CON_GOVT_KD_ZG,,PT,A,0,2023,Economic Survey,,,5.3
+2017,NE_CON_GOVT_KD_ZG,,PT,A,0,2023,Economic Survey,,,6.2
+2018,NE_CON_GOVT_KD_ZG,,PT,A,0,2023,Economic Survey,,,7.0
+2019,NE_CON_GOVT_KD_ZG,,PT,A,0,2023,Economic Survey,,,5.6
+2020,NE_CON_GOVT_KD_ZG,,PT,A,0,2023,Economic Survey,,,3.1
+2021,NE_CON_GOVT_KD_ZG,,PT,A,0,2023,Economic Survey,,,6.0
+2022,NE_CON_GOVT_KD_ZG,,PT,A,0,2023,Economic Survey,,,8.1
+2023,NE_CON_GOVT_KD_ZG,,PT,A,0,2023,Economic Survey,,,3.5
+2014,NE_CON_PRVT_KD_ZG,,PT,A,0,2023,Economic Survey,Includes private final consumption and final consumption by NPISH,,4.3
+2015,NE_CON_PRVT_KD_ZG,,PT,A,0,2023,Economic Survey,Includes private final consumption and final consumption by NPISH,,6.1
+2016,NE_CON_PRVT_KD_ZG,,PT,A,0,2023,Economic Survey,Includes private final consumption and final consumption by NPISH,,4.5
+2017,NE_CON_PRVT_KD_ZG,,PT,A,0,2023,Economic Survey,Includes private final consumption and final consumption by NPISH,,4.9
+2018,NE_CON_PRVT_KD_ZG,,PT,A,0,2023,Economic Survey,Includes private final consumption and final consumption by NPISH,,4.7
+2019,NE_CON_PRVT_KD_ZG,,PT,A,0,2023,Economic Survey,Includes private final consumption and final consumption by NPISH,,5.0
+2020,NE_CON_PRVT_KD_ZG,,PT,A,0,2023,Economic Survey,Includes private final consumption and final consumption by NPISH,,-1.5
+2021,NE_CON_PRVT_KD_ZG,,PT,A,0,2023,Economic Survey,Includes private final consumption and final consumption by NPISH,,6.2
+2022,NE_CON_PRVT_KD_ZG,,PT,A,0,2023,Economic Survey,Includes private final consumption and final consumption by NPISH,,3.3
+2023,NE_CON_PRVT_KD_ZG,,PT,A,0,2023,Economic Survey,Includes private final consumption and final consumption by NPISH,,6.2
+2014,NE_EXP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,1.9
+2015,NE_EXP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,-2.2
+2016,NE_EXP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,-6.6
+2017,NE_EXP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,-1.0
+2018,NE_EXP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,6.8
+2019,NE_EXP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,-3.2
+2020,NE_EXP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,-14.9
+2021,NE_EXP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,15.3
+2022,NE_EXP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,27.0
+2023,NE_EXP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,7.4
+2014,NE_GDI_TOTL_KD_ZG,,PT,A,0,2023,Economic Survey,This includes Gross Fixed Capital Formation and Changes in Inventories,,19.9
+2015,NE_GDI_TOTL_KD_ZG,,PT,A,0,2023,Economic Survey,This includes Gross Fixed Capital Formation and Changes in Inventories,,0.1
+2016,NE_GDI_TOTL_KD_ZG,,PT,A,0,2023,Economic Survey,This includes Gross Fixed Capital Formation and Changes in Inventories,,-3.9
+2017,NE_GDI_TOTL_KD_ZG,,PT,A,0,2023,Economic Survey,This includes Gross Fixed Capital Formation and Changes in Inventories,,12.0
+2018,NE_GDI_TOTL_KD_ZG,,PT,A,0,2023,Economic Survey,This includes Gross Fixed Capital Formation and Changes in Inventories,,-2.3
+2019,NE_GDI_TOTL_KD_ZG,,PT,A,0,2023,Economic Survey,This includes Gross Fixed Capital Formation and Changes in Inventories,,5.3
+2020,NE_GDI_TOTL_KD_ZG,,PT,A,0,2023,Economic Survey,This includes Gross Fixed Capital Formation and Changes in Inventories,,2.2
+2021,NE_GDI_TOTL_KD_ZG,,PT,A,0,2023,Economic Survey,This includes Gross Fixed Capital Formation and Changes in Inventories,,13.4
+2022,NE_GDI_TOTL_KD_ZG,,PT,A,0,2023,Economic Survey,This includes Gross Fixed Capital Formation and Changes in Inventories,,-2.6
+2023,NE_GDI_TOTL_KD_ZG,,PT,A,0,2023,Economic Survey,This includes Gross Fixed Capital Formation and Changes in Inventories,,-5.5
+2014,NE_IMP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,11.3
+2015,NE_IMP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,-4.6
+2016,NE_IMP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,-7.4
+2017,NE_IMP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,12.4
+2018,NE_IMP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,1.4
+2019,NE_IMP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,1.8
+2020,NE_IMP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,-9.4
+2021,NE_IMP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,22.2
+2022,NE_IMP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,20.2
+2023,NE_IMP_GNFS_KD_ZG,,PT,A,0,2023,Economic Survey,,,6.3
+2014,NY_GDP_MKTP_KD_ZG,,PT,A,0,2023,Economic Survey,,,5.4
+2015,NY_GDP_MKTP_KD_ZG,,PT,A,0,2023,Economic Survey,,,5.7
+2016,NY_GDP_MKTP_KD_ZG,,PT,A,0,2023,Economic Survey,,,4.2
+2017,NY_GDP_MKTP_KD_ZG,,PT,A,0,2023,Economic Survey,,,3.8
+2018,NY_GDP_MKTP_KD_ZG,,PT,A,0,2023,Economic Survey,,,5.6
+2019,NY_GDP_MKTP_KD_ZG,,PT,A,0,2023,Economic Survey,,,5.1
+2020,NY_GDP_MKTP_KD_ZG,,PT,A,0,2023,Economic Survey,,,-0.3
+2021,NY_GDP_MKTP_KD_ZG,,PT,A,0,2023,Economic Survey,,,7.6
+2022,NY_GDP_MKTP_KD_ZG,,PT,A,0,2023,Economic Survey,,,4.9
+2023,NY_GDP_MKTP_KD_ZG,,PT,A,0,2023,Economic Survey,,,5.6

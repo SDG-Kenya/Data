@@ -1,9 +1,9 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,Time period details,GeoCode,Value
-2014,Normal value,Units,MOH,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",2021,,27
-2015,Normal value,Units,MOH,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",2021,,11
-2016,Normal value,Units,MOH,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",2021,,14
-2017,Normal value,Units,MOH,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",2021,,9
-2018,Normal value,Units,MOH,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",2021,,8
-2019,Normal value,Units,MOH,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",2021,,8
-2020,Normal value,Units,MOH,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",2021,,8
-2021,Normal value,Units,MOH,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",2021,,8
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
+2014,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",Normal value,Units,2021,MOH,,27
+2015,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",Normal value,Units,2021,MOH,,11
+2016,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",Normal value,Units,2021,MOH,,14
+2017,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",Normal value,Units,2021,MOH,,9
+2018,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",Normal value,Units,2021,MOH,,8
+2019,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",Normal value,Units,2021,MOH,,8
+2020,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",Normal value,Units,2021,MOH,,8
+2021,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,"Per 100,000 population",Normal value,Units,2021,MOH,,8

@@ -1,81 +1,81 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Time period details,COMMENT_OBS,GeoCode,Value
-2014,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,2023,,,8882.0
-2015,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,2023,,,8993.2
-2016,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,2023,,,9791.9
-2017,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,2023,,,10118.2
-2018,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,2023,,,11721.7
-2019,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,2023,,,12011.0
-2020,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,2023,,,4450.1
-2021,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,2023,,,6703.0
-2022,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,2023,,,10239.0
-2023,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,2023,,,12206.0
-2014,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,2023,Data collected from Kenya seaward border points for foreigners,,1126.0
-2015,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,2023,Data collected from Kenya seaward border points for foreigners,,5072.0
-2016,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,2023,Data collected from Kenya seaward border points for foreigners,,2298.0
-2017,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,2023,Data collected from Kenya seaward border points for foreigners,,2342.0
-2018,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,2023,Data collected from Kenya seaward border points for foreigners,,3025.0
-2019,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,2023,Data collected from Kenya seaward border points for foreigners,,3165.0
-2020,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,2023,Data collected from Kenya seaward border points for foreigners,,1924.0
-2021,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,2023,Data collected from Kenya seaward border points for foreigners,,930.0
-2022,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,2023,Data collected from Kenya seaward border points for foreigners,,4731.0
-2023,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,2023,Data collected from Kenya seaward border points for foreigners,,3390.0
-2014,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,2023,,,3715.0
-2015,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,2023,,,2288.0
-2016,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,2023,,,2793.0
-2017,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,2023,,,3096.0
-2018,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,2023,,,4490.0
-2019,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,2023,,,5624.0
-2020,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,2023,,,2705.0
-2021,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,2023,,,6491.0
-2022,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,2023,,,5822.0
-2023,Normal value,Thousands,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,2023,,,6183.0
-2014,Normal value,Millions,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,Figures represent value of output of passengers/ freight,,313031.0
-2015,Normal value,Millions,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,Figures represent value of output of passengers/ freight,,322161.0
-2016,Normal value,Millions,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,Figures represent value of output of passengers/ freight,,333114.0
-2017,Normal value,Millions,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,Figures represent value of output of passengers/ freight,,727871.0
-2018,Normal value,Millions,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,Figures represent value of output of passengers/ freight,,835109.0
-2019,Normal value,Millions,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,Figures represent value of output of passengers/ freight,,926650.0
-2020,Normal value,Millions,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,Figures represent value of output of passengers/ freight,,928784.0
-2021,Normal value,Millions,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,Figures represent value of output of passengers/ freight,,993304.0
-2022,Normal value,Millions,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,Figures represent value of output of passengers/ freight,,1263157.0
-2023,Normal value,Millions,Economic Survey,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,Figures represent value of output of passengers/ freight,,1429139.0
-2014,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,2023,,,279.4
-2015,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,2023,,,263.0
-2016,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,2023,,,249.5
-2017,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,2023,,,290.8
-2018,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,2023,,,358.7
-2019,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,2023,,,374.7
-2020,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,2023,,,321.6
-2021,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,2023,,,375.8
-2022,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,2023,,,375.0
-2023,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,2023,,,380.0
-2014,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,2023,"Data from Mombasa, Lamu and Kisumu ports",,24875.0
-2015,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,2023,"Data from Mombasa, Lamu and Kisumu ports",,26732.0
-2016,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,2023,"Data from Mombasa, Lamu and Kisumu ports",,27384.0
-2017,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,2023,"Data from Mombasa, Lamu and Kisumu ports",,30245.0
-2018,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,2023,"Data from Mombasa, Lamu and Kisumu ports",,30934.0
-2019,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,2023,"Data from Mombasa, Lamu and Kisumu ports",,34458.0
-2020,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,2023,"Data from Mombasa, Lamu and Kisumu ports",,34162.0
-2021,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,2023,"Data from Mombasa, Lamu and Kisumu ports",,34605.2
-2022,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,2023,"Data from Mombasa, Lamu and Kisumu ports",,33939.0
-2023,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,2023,"Data from Mombasa, Lamu and Kisumu ports",,36143.0
-2014,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,2023,,,1509.0
-2015,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,2023,,,1542.0
-2016,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,2023,,,1380.0
-2017,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,2023,,,1147.0
-2018,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,2023,,,3544.0
-2019,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,2023,,,4826.0
-2020,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,2023,,,5063.0
-2021,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,2023,,,6051.0
-2022,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,2023,,,6877.0
-2023,Normal value,Thousands,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,2023,,,7534.0
-2014,Normal value,Millions,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,,,282695.0
-2015,Normal value,Millions,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,,,306884.0
-2016,Normal value,Millions,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,,,331370.0
-2017,Normal value,Millions,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,,,467128.0
-2018,Normal value,Millions,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,,,542029.0
-2019,Normal value,Millions,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,,,605340.0
-2020,Normal value,Millions,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,,,608618.0
-2021,Normal value,Millions,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,,,896624.0
-2022,Normal value,Millions,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,,,963064.0
-2023,Normal value,Millions,Economic Survey,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,2023,,,1134320.0
+Year,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,COMMENT_OBS,GeoCode,Value
+2014,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,2023,Economic Survey,,,8882.0
+2015,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,2023,Economic Survey,,,8993.2
+2016,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,2023,Economic Survey,,,9791.9
+2017,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,2023,Economic Survey,,,10118.2
+2018,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,2023,Economic Survey,,,11721.7
+2019,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,2023,Economic Survey,,,12011.0
+2020,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,2023,Economic Survey,,,4450.1
+2021,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,2023,Economic Survey,,,6703.0
+2022,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,2023,Economic Survey,,,10239.0
+2023,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,2023,Economic Survey,,,12206.0
+2014,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,2023,Economic Survey,Data collected from Kenya seaward border points for foreigners,,1126.0
+2015,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,2023,Economic Survey,Data collected from Kenya seaward border points for foreigners,,5072.0
+2016,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,2023,Economic Survey,Data collected from Kenya seaward border points for foreigners,,2298.0
+2017,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,2023,Economic Survey,Data collected from Kenya seaward border points for foreigners,,2342.0
+2018,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,2023,Economic Survey,Data collected from Kenya seaward border points for foreigners,,3025.0
+2019,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,2023,Economic Survey,Data collected from Kenya seaward border points for foreigners,,3165.0
+2020,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,2023,Economic Survey,Data collected from Kenya seaward border points for foreigners,,1924.0
+2021,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,2023,Economic Survey,Data collected from Kenya seaward border points for foreigners,,930.0
+2022,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,2023,Economic Survey,Data collected from Kenya seaward border points for foreigners,,4731.0
+2023,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,2023,Economic Survey,Data collected from Kenya seaward border points for foreigners,,3390.0
+2014,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,2023,Economic Survey,,,3715.0
+2015,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,2023,Economic Survey,,,2288.0
+2016,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,2023,Economic Survey,,,2793.0
+2017,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,2023,Economic Survey,,,3096.0
+2018,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,2023,Economic Survey,,,4490.0
+2019,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,2023,Economic Survey,,,5624.0
+2020,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,2023,Economic Survey,,,2705.0
+2021,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,2023,Economic Survey,,,6491.0
+2022,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,2023,Economic Survey,,,5822.0
+2023,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,2023,Economic Survey,,,6183.0
+2014,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,Figures represent value of output of passengers/ freight,,313031.0
+2015,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,Figures represent value of output of passengers/ freight,,322161.0
+2016,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,Figures represent value of output of passengers/ freight,,333114.0
+2017,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,Figures represent value of output of passengers/ freight,,727871.0
+2018,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,Figures represent value of output of passengers/ freight,,835109.0
+2019,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,Figures represent value of output of passengers/ freight,,926650.0
+2020,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,Figures represent value of output of passengers/ freight,,928784.0
+2021,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,Figures represent value of output of passengers/ freight,,993304.0
+2022,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,Figures represent value of output of passengers/ freight,,1263157.0
+2023,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,Figures represent value of output of passengers/ freight,,1429139.0
+2014,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,279.4
+2015,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,263.0
+2016,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,249.5
+2017,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,290.8
+2018,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,358.7
+2019,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,374.7
+2020,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,321.6
+2021,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,375.8
+2022,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,375.0
+2023,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,380.0
+2014,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,2023,Economic Survey,"Data from Mombasa, Lamu and Kisumu ports",,24875.0
+2015,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,2023,Economic Survey,"Data from Mombasa, Lamu and Kisumu ports",,26732.0
+2016,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,2023,Economic Survey,"Data from Mombasa, Lamu and Kisumu ports",,27384.0
+2017,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,2023,Economic Survey,"Data from Mombasa, Lamu and Kisumu ports",,30245.0
+2018,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,2023,Economic Survey,"Data from Mombasa, Lamu and Kisumu ports",,30934.0
+2019,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,2023,Economic Survey,"Data from Mombasa, Lamu and Kisumu ports",,34458.0
+2020,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,2023,Economic Survey,"Data from Mombasa, Lamu and Kisumu ports",,34162.0
+2021,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,2023,Economic Survey,"Data from Mombasa, Lamu and Kisumu ports",,34605.2
+2022,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,2023,Economic Survey,"Data from Mombasa, Lamu and Kisumu ports",,33939.0
+2023,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,2023,Economic Survey,"Data from Mombasa, Lamu and Kisumu ports",,36143.0
+2014,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,1509.0
+2015,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,1542.0
+2016,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,1380.0
+2017,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,1147.0
+2018,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,3544.0
+2019,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,4826.0
+2020,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,5063.0
+2021,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,6051.0
+2022,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,6877.0
+2023,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,2023,Economic Survey,,,7534.0
+2014,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,,,282695.0
+2015,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,,,306884.0
+2016,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,,,331370.0
+2017,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,,,467128.0
+2018,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,,,542029.0
+2019,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,,,605340.0
+2020,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,,,608618.0
+2021,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,,,896624.0
+2022,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,,,963064.0
+2023,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Road,Kenyan Shillings,Normal value,Millions,2023,Economic Survey,,,1134320.0
