@@ -51,6 +51,8 @@ inputs:
       - REPORTING_TYPE
       - NATURE
       - TIME_COVERAGE
+      - COMMENT_OBS
+      - SOURCE_DETAIL
     drop_singleton_dimensions: false
     import_series_attributes: true
     import_observation_attributes: false
