@@ -53,7 +53,7 @@ inputs:
       - TIME_COVERAGE
     drop_singleton_dimensions: false
     import_series_attributes: true
-    import_observation_attributes: true
+    import_observation_attributes: false
     import_codes: true
     request_params: 
       headers: 
