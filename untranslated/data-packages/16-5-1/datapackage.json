@@ -74,26 +74,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EACC; National Ethics and Corruption Survey Reports, 2021-2023",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },

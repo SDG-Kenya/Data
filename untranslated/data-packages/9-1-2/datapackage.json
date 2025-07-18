@@ -91,28 +91,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data collected from Kenya seaward border points for foreigners",
-                "Figures represent value of output of passengers/ freight",
-                "Data from Mombasa, Lamu and Kisumu ports",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },

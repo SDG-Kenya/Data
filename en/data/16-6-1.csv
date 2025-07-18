@@ -1,28 +1,28 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
-2015,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,Economic Survey,,97.9
-2016,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,Economic Survey,,98.8
-2017,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,Economic Survey,,95.5
-2018,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,Economic Survey,,98.9
-2019,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,Economic Survey,,121.9
-2020,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,Economic Survey,,86.7
-2021,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,Economic Survey,,121.7
-2022,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,Economic Survey,,112.5
-2023,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,Economic Survey,,119.6
-2015,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,Economic Survey,,83.6
-2016,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,Economic Survey,,70.7
-2017,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,Economic Survey,,82.2
-2018,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,Economic Survey,,73.4
-2019,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,Economic Survey,,104.4
-2020,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,Economic Survey,,102.2
-2021,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,Economic Survey,,86.3
-2022,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,Economic Survey,,73.7
-2023,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,Economic Survey,,63.8
-2015,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,Economic Survey,,93.2
-2016,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,Economic Survey,,90.3
-2017,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,Economic Survey,,91.5
-2018,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,Economic Survey,,92.7
-2019,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,Economic Survey,,118.0
-2020,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,Economic Survey,,89.9
-2021,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,Economic Survey,,112.0
-2022,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,Economic Survey,,103.6
-2023,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,Economic Survey,,106.8
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2015,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,,97.9
+2016,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,,98.8
+2017,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,,95.5
+2018,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,,98.9
+2019,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,,121.9
+2020,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,,86.7
+2021,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,,121.7
+2022,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,,112.5
+2023,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,2023,,119.6
+2015,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,,83.6
+2016,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,,70.7
+2017,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,,82.2
+2018,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,,73.4
+2019,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,,104.4
+2020,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,,102.2
+2021,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,,86.3
+2022,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,,73.7
+2023,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,2023,,63.8
+2015,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,,93.2
+2016,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,,90.3
+2017,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,,91.5
+2018,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,,92.7
+2019,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,,118.0
+2020,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,,89.9
+2021,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,,112.0
+2022,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,,103.6
+2023,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,2023,,106.8

@@ -104,40 +104,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                "Treasury, Economic Survey",
-                "CBK",
-                "KPHC 2019, KCHSP 2020, KCHSP 2021",
-                "KNBS",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Include debt service of IMF(repayments, repurchases and charges)",
-                "End Period Annual Average",
-                "Terms of Trade for all items",
-                "Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price",
-                "BOP",
-                "GDP at Current Market price",
-                "Include private external debt",
-                "Base; Feb 2019=100",
-                "NationalTax revenue. GDP at Current Market price",
-                "Includes private final consumption and final consumption by NPISH",
-                "This includes Gross Fixed Capital Formation and Changes in Inventories",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },

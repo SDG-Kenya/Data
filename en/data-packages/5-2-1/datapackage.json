@@ -125,30 +125,6 @@
             "title": "Time period details"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1. Figures are for physical or Sexual or physchological from Table 17.13.1 in 2022 KDHS vol 1 report 2.Indicator to be run for physical, sexual and/or psychological IPV (Data request done to Waweru)",
-                "1. Figures are for physical or Sexual from Table 17.13.1 in 2022 KDHS vol 1 report 2.Indicator to be run for physical and/or sexual IPV (Data request done to Waweru)",
-                "Covers women 15-49 years",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KDHS",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"

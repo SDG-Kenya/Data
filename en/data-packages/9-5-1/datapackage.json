@@ -81,28 +81,6 @@
             "title": "Time period details"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "The indicator is derived from GDP at current prices by the Kenya National Bureau of Statistics. Public expenditure on research and development is collected from different MDAs as reported from IFMIS system.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "The National Treasury, KNBS_IFMIS data",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"

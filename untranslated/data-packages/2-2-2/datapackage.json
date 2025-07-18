@@ -97,16 +97,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014:  KDHS                   2016:  KIHBS , 2022: KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },

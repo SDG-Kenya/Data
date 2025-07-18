@@ -81,28 +81,6 @@
             "title": "Time period details"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "AIA, loans and grants to livestock,crop and fisheries, aquatic and blue economy",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "External revenue estimates handbook - Agriculture",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"

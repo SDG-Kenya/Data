@@ -1,11 +1,11 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2014,ER_H2O_FWTL,,T,A,0,2023,Fish landed from freshwater bodies and marine is used as a proxy,Economic Survey Report,,182626
-2015,ER_H2O_FWTL,,T,A,0,2023,Fish landed from freshwater bodies and marine is used as a proxy,Economic Survey Report,,163824
-2016,ER_H2O_FWTL,,T,A,0,2023,Fish landed from freshwater bodies and marine is used as a proxy,Economic Survey Report,,147678
-2017,ER_H2O_FWTL,,T,A,0,2023,Fish landed from freshwater bodies and marine is used as a proxy,Economic Survey Report,,135100
-2018,ER_H2O_FWTL,,T,A,0,2023,Fish landed from freshwater bodies and marine is used as a proxy,Economic Survey Report,,151298
-2019,ER_H2O_FWTL,,T,A,0,2023,Fish landed from freshwater bodies and marine is used as a proxy,Economic Survey Report,,149320
-2020,ER_H2O_FWTL,,T,A,0,2023,Fish landed from freshwater bodies and marine is used as a proxy,Economic Survey Report,,151326
-2021,ER_H2O_FWTL,,T,A,0,2023,Fish landed from freshwater bodies and marine is used as a proxy,Economic Survey Report,,162369
-2022,ER_H2O_FWTL,,T,A,0,2023,Fish landed from freshwater bodies and marine is used as a proxy,Economic Survey Report,,173741
-2023,ER_H2O_FWTL,,T,A,0,2023,Fish landed from freshwater bodies and marine is used as a proxy,Economic Survey Report,,161307
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,GeoCode,Value
+2014,ER_H2O_FWTL,,T,A,0,2023,,182626
+2015,ER_H2O_FWTL,,T,A,0,2023,,163824
+2016,ER_H2O_FWTL,,T,A,0,2023,,147678
+2017,ER_H2O_FWTL,,T,A,0,2023,,135100
+2018,ER_H2O_FWTL,,T,A,0,2023,,151298
+2019,ER_H2O_FWTL,,T,A,0,2023,,149320
+2020,ER_H2O_FWTL,,T,A,0,2023,,151326
+2021,ER_H2O_FWTL,,T,A,0,2023,,162369
+2022,ER_H2O_FWTL,,T,A,0,2023,,173741
+2023,ER_H2O_FWTL,,T,A,0,2023,,161307

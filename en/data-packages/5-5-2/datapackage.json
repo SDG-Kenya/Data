@@ -104,17 +104,6 @@
             "title": "Time period details"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2010: Manpower Survey, 2016: KIHBS, 2019: KPHC, 2021: KCHS",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"

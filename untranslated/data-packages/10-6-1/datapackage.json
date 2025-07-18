@@ -75,26 +75,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ministry of Foreign and Diaspora Affairs",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },

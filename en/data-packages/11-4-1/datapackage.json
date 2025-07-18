@@ -81,17 +81,6 @@
             "title": "Time period details"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Refers to Public Expenditure on Recreation, Culture and Religion",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"

@@ -1,2 +1,2 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2016,Proportion of small-scale industries with a loan or line of credit [9.3.2],,Percent,Normal value,Units,2016,Imputed from the MSME 2016 data,2016 : MSME,,17.5
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2016,Proportion of small-scale industries with a loan or line of credit [9.3.2],,Percent,Normal value,Units,2016,,17.5

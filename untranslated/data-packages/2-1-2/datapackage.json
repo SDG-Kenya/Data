@@ -86,16 +86,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },

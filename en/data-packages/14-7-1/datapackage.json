@@ -81,17 +81,6 @@
             "title": "Time period details"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Value Added marine Fisheries used as a proxy",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"

@@ -1,32 +1,32 @@
-Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2016,FB_BNK_ACCSS,,,,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,75.3
-2018,FB_BNK_ACCSS,,,,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,81.0
-2019,FB_BNK_ACCSS,,,,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,82.9
-2021,FB_BNK_ACCSS,,,,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,83.7
-2016,FB_BNK_ACCSS,,,,R,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,69.0
-2019,FB_BNK_ACCSS,,,,R,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,77.3
-2021,FB_BNK_ACCSS,,,,R,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,79.2
-2016,FB_BNK_ACCSS,,,,U,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,86.3
-2019,FB_BNK_ACCSS,,,,U,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,91.2
-2021,FB_BNK_ACCSS,,,,U,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,91.7
-2016,FB_BNK_ACCSS,,,Y_GE56,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,62.2
-2019,FB_BNK_ACCSS,,,Y_GE56,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,73.9
-2021,FB_BNK_ACCSS,,,Y_GE56,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,78.9
-2016,FB_BNK_ACCSS,,,Y18T25,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,69.4
-2019,FB_BNK_ACCSS,,,Y18T25,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,75.5
-2021,FB_BNK_ACCSS,,,Y18T25,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,71.8
-2016,FB_BNK_ACCSS,,,Y26T35,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,82.5
-2019,FB_BNK_ACCSS,,,Y26T35,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,89.0
-2021,FB_BNK_ACCSS,,,Y26T35,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,90.8
-2016,FB_BNK_ACCSS,,,Y36T45,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,81.5
-2019,FB_BNK_ACCSS,,,Y36T45,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,87.8
-2021,FB_BNK_ACCSS,,,Y36T45,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,91.1
-2016,FB_BNK_ACCSS,,,Y46T55,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,78.2
-2019,FB_BNK_ACCSS,,,Y46T55,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,87.5
-2021,FB_BNK_ACCSS,,,Y46T55,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,89.9
-2016,FB_BNK_ACCSS,,F,,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,71.2
-2019,FB_BNK_ACCSS,,F,,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,80.4
-2021,FB_BNK_ACCSS,,F,,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,81.7
-2016,FB_BNK_ACCSS,,M,,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,79.7
-2019,FB_BNK_ACCSS,,M,,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,85.6
-2021,FB_BNK_ACCSS,,M,,,PT,A,0,2021,"Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",FinAcces Survey,,85.9
+Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,GeoCode,Value
+2016,FB_BNK_ACCSS,,,,,PT,A,0,2021,,75.3
+2018,FB_BNK_ACCSS,,,,,PT,A,0,2021,,81.0
+2019,FB_BNK_ACCSS,,,,,PT,A,0,2021,,82.9
+2021,FB_BNK_ACCSS,,,,,PT,A,0,2021,,83.7
+2016,FB_BNK_ACCSS,,,,R,PT,A,0,2021,,69.0
+2019,FB_BNK_ACCSS,,,,R,PT,A,0,2021,,77.3
+2021,FB_BNK_ACCSS,,,,R,PT,A,0,2021,,79.2
+2016,FB_BNK_ACCSS,,,,U,PT,A,0,2021,,86.3
+2019,FB_BNK_ACCSS,,,,U,PT,A,0,2021,,91.2
+2021,FB_BNK_ACCSS,,,,U,PT,A,0,2021,,91.7
+2016,FB_BNK_ACCSS,,,Y_GE56,,PT,A,0,2021,,62.2
+2019,FB_BNK_ACCSS,,,Y_GE56,,PT,A,0,2021,,73.9
+2021,FB_BNK_ACCSS,,,Y_GE56,,PT,A,0,2021,,78.9
+2016,FB_BNK_ACCSS,,,Y18T25,,PT,A,0,2021,,69.4
+2019,FB_BNK_ACCSS,,,Y18T25,,PT,A,0,2021,,75.5
+2021,FB_BNK_ACCSS,,,Y18T25,,PT,A,0,2021,,71.8
+2016,FB_BNK_ACCSS,,,Y26T35,,PT,A,0,2021,,82.5
+2019,FB_BNK_ACCSS,,,Y26T35,,PT,A,0,2021,,89.0
+2021,FB_BNK_ACCSS,,,Y26T35,,PT,A,0,2021,,90.8
+2016,FB_BNK_ACCSS,,,Y36T45,,PT,A,0,2021,,81.5
+2019,FB_BNK_ACCSS,,,Y36T45,,PT,A,0,2021,,87.8
+2021,FB_BNK_ACCSS,,,Y36T45,,PT,A,0,2021,,91.1
+2016,FB_BNK_ACCSS,,,Y46T55,,PT,A,0,2021,,78.2
+2019,FB_BNK_ACCSS,,,Y46T55,,PT,A,0,2021,,87.5
+2021,FB_BNK_ACCSS,,,Y46T55,,PT,A,0,2021,,89.9
+2016,FB_BNK_ACCSS,,F,,,PT,A,0,2021,,71.2
+2019,FB_BNK_ACCSS,,F,,,PT,A,0,2021,,80.4
+2021,FB_BNK_ACCSS,,F,,,PT,A,0,2021,,81.7
+2016,FB_BNK_ACCSS,,M,,,PT,A,0,2021,,79.7
+2019,FB_BNK_ACCSS,,M,,,PT,A,0,2021,,85.6
+2021,FB_BNK_ACCSS,,M,,,PT,A,0,2021,,85.9

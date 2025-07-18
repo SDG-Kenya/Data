@@ -1,5 +1,3 @@
 From,To
 Sex,Time period details
-SOURCE_DETAIL,Occupation
-Time period details,COMMENT_OBS
-COMMENT_OBS,SOURCE_DETAIL
+Time period details,Occupation

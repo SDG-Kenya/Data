@@ -1,8 +1,8 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2014,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,Normal value,Units,2022,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",,66.9
-2019,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,Normal value,Units,2022,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",,89.3
-2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,Normal value,Units,2022,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",,76.0
-2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Rural,Percent,Normal value,Units,2022,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",,73.2
-2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Urban,Percent,Normal value,Units,2022,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",,81.3
-2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Female,,Percent,Normal value,Units,2022,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",,75.6
-2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Male,,Percent,Normal value,Units,2022,Registration here refers to those whose birth was notified,"KPHC, MOH , Civil Registration",,76.3
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2014,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,Normal value,Units,2022,,66.9
+2019,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,Normal value,Units,2022,,89.3
+2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,Normal value,Units,2022,,76.0
+2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Rural,Percent,Normal value,Units,2022,,73.2
+2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Urban,Percent,Normal value,Units,2022,,81.3
+2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Female,,Percent,Normal value,Units,2022,,75.6
+2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Male,,Percent,Normal value,Units,2022,,76.3

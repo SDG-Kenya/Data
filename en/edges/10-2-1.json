@@ -1,1 +1,1 @@
-{"From":["SOURCE_DETAIL","SOURCE_DETAIL","Income or wealth quantile","Time period details","COMMENT_OBS"],"To":["Sex","Age","Time period details","COMMENT_OBS","SOURCE_DETAIL"]}
+{"From":["Time period details","Time period details","Income or wealth quantile"],"To":["Sex","Age","Time period details"]}

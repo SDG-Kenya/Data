@@ -1,5 +1,3 @@
 From,To
 Reference area,Degree of urbanisation
 Degree of urbanisation,Time period details
-Time period details,COMMENT_OBS
-COMMENT_OBS,SOURCE_DETAIL

@@ -1,24 +1,24 @@
-Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,GeoCode,Value
-2014,IT_USE_II99,,,,,PT,A,0,2019,Population aged 3 years and above,,6.3
-2016,IT_USE_II99,,,,,PT,A,0,2019,Population aged 3 years and above,,16.6
-2019,IT_USE_II99,,,,,PT,A,0,2019,Population aged 3 years and above,,22.7
-2019,IT_USE_II99,,,,R,PT,A,0,2019,Population aged 3 years and above,,13.8
-2019,IT_USE_II99,,,,U,PT,A,0,2019,Population aged 3 years and above,,42.6
-2019,IT_USE_II99,,,Y_GE75,,PT,A,0,2019,Population aged 3 years and above,,4.2
-2019,IT_USE_II99,,,Y10T14,,PT,A,0,2019,Population aged 3 years and above,,4.0
-2019,IT_USE_II99,,,Y15T19,,PT,A,0,2019,Population aged 3 years and above,,18.9
-2019,IT_USE_II99,,,Y20T24,,PT,A,0,2019,Population aged 3 years and above,,48.2
-2019,IT_USE_II99,,,Y25T29,,PT,A,0,2019,Population aged 3 years and above,,47.9
-2019,IT_USE_II99,,,Y30T34,,PT,A,0,2019,Population aged 3 years and above,,41.0
-2019,IT_USE_II99,,,Y35T39,,PT,A,0,2019,Population aged 3 years and above,,37.9
-2019,IT_USE_II99,,,Y3T4,,PT,A,0,2019,Population aged 3 years and above,,2.1
-2019,IT_USE_II99,,,Y40T44,,PT,A,0,2019,Population aged 3 years and above,,32.4
-2019,IT_USE_II99,,,Y45T49,,PT,A,0,2019,Population aged 3 years and above,,28.8
-2019,IT_USE_II99,,,Y50T54,,PT,A,0,2019,Population aged 3 years and above,,26.1
-2019,IT_USE_II99,,,Y55T59,,PT,A,0,2019,Population aged 3 years and above,,20.8
-2019,IT_USE_II99,,,Y5T9,,PT,A,0,2019,Population aged 3 years and above,,2.7
-2019,IT_USE_II99,,,Y60T64,,PT,A,0,2019,Population aged 3 years and above,,15.1
-2019,IT_USE_II99,,,Y65T69,,PT,A,0,2019,Population aged 3 years and above,,10.6
-2019,IT_USE_II99,,,Y70T74,,PT,A,0,2019,Population aged 3 years and above,,7.6
-2019,IT_USE_II99,,F,,,PT,A,0,2019,Population aged 3 years and above,,20.2
-2019,IT_USE_II99,,M,,,PT,A,0,2019,Population aged 3 years and above,,25.2
+Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,GeoCode,Value
+2014,IT_USE_II99,,,,,PT,A,0,2019,,6.3
+2016,IT_USE_II99,,,,,PT,A,0,2019,,16.6
+2019,IT_USE_II99,,,,,PT,A,0,2019,,22.7
+2019,IT_USE_II99,,,,R,PT,A,0,2019,,13.8
+2019,IT_USE_II99,,,,U,PT,A,0,2019,,42.6
+2019,IT_USE_II99,,,Y_GE75,,PT,A,0,2019,,4.2
+2019,IT_USE_II99,,,Y10T14,,PT,A,0,2019,,4.0
+2019,IT_USE_II99,,,Y15T19,,PT,A,0,2019,,18.9
+2019,IT_USE_II99,,,Y20T24,,PT,A,0,2019,,48.2
+2019,IT_USE_II99,,,Y25T29,,PT,A,0,2019,,47.9
+2019,IT_USE_II99,,,Y30T34,,PT,A,0,2019,,41.0
+2019,IT_USE_II99,,,Y35T39,,PT,A,0,2019,,37.9
+2019,IT_USE_II99,,,Y3T4,,PT,A,0,2019,,2.1
+2019,IT_USE_II99,,,Y40T44,,PT,A,0,2019,,32.4
+2019,IT_USE_II99,,,Y45T49,,PT,A,0,2019,,28.8
+2019,IT_USE_II99,,,Y50T54,,PT,A,0,2019,,26.1
+2019,IT_USE_II99,,,Y55T59,,PT,A,0,2019,,20.8
+2019,IT_USE_II99,,,Y5T9,,PT,A,0,2019,,2.7
+2019,IT_USE_II99,,,Y60T64,,PT,A,0,2019,,15.1
+2019,IT_USE_II99,,,Y65T69,,PT,A,0,2019,,10.6
+2019,IT_USE_II99,,,Y70T74,,PT,A,0,2019,,7.6
+2019,IT_USE_II99,,F,,,PT,A,0,2019,,20.2
+2019,IT_USE_II99,,M,,,PT,A,0,2019,,25.2

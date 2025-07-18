@@ -1,2 +1,2 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2017,"Hazardous waste generated, per capita (Kg) [12.4.2]",,Kilograms,Normal value,Units,2017,Harzadous waste from industries used  as a proxy for all harzadous waste.,2019:  CIP,,0.1
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2017,"Hazardous waste generated, per capita (Kg) [12.4.2]",,Kilograms,Normal value,Units,2017,,0.1

@@ -1,13 +1,13 @@
-Year,SERIES,REF_AREA,EDUCATION_LEV,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2014,SE_ACS_ELECT,,_L_KE_3,PT,A,0,2016,Proportion of Secondary Schools with access to Electricity.,Basic Education Statistical Booklets,,75.3
-2015,SE_ACS_ELECT,,_L_KE_3,PT,A,0,2016,Proportion of Secondary Schools with access to Electricity.,Basic Education Statistical Booklets,,83.3
-2016,SE_ACS_ELECT,,_L_KE_3,PT,A,0,2016,Proportion of Secondary Schools with access to Electricity.,Basic Education Statistical Booklets,,87.0
-2014,SE_ACS_ELECT,,ISCED11_1,PT,A,0,2023,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,,43.8
-2015,SE_ACS_ELECT,,ISCED11_1,PT,A,0,2023,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,,71.7
-2016,SE_ACS_ELECT,,ISCED11_1,PT,A,0,2023,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,,80.5
-2019,SE_ACS_ELECT,,ISCED11_1,PT,A,0,2023,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,,97.0
-2020,SE_ACS_ELECT,,ISCED11_1,PT,A,0,2023,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,,97.0
-2023,SE_ACS_ELECT,,ISCED11_1,PT,A,0,2023,Proportion of Schools with access to Electricity.,Basic Education Statistical Booklets,,87.4
-2020,SE_ACS_INTNT,,_L_KE_3,PT,A,0,2020,,,,34.0
-2020,SE_ACS_INTNT,,ISCED11_1,PT,A,0,2022,,Basic Education Statistical Booklets,,39.1
-2022,SE_ACS_INTNT,,ISCED11_1,PT,A,0,2022,,Basic Education Statistical Booklets,,42.9
+Year,SERIES,REF_AREA,EDUCATION_LEV,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,GeoCode,Value
+2014,SE_ACS_ELECT,,_L_KE_3,PT,A,0,2016,,75.3
+2015,SE_ACS_ELECT,,_L_KE_3,PT,A,0,2016,,83.3
+2016,SE_ACS_ELECT,,_L_KE_3,PT,A,0,2016,,87.0
+2014,SE_ACS_ELECT,,ISCED11_1,PT,A,0,2023,,43.8
+2015,SE_ACS_ELECT,,ISCED11_1,PT,A,0,2023,,71.7
+2016,SE_ACS_ELECT,,ISCED11_1,PT,A,0,2023,,80.5
+2019,SE_ACS_ELECT,,ISCED11_1,PT,A,0,2023,,97.0
+2020,SE_ACS_ELECT,,ISCED11_1,PT,A,0,2023,,97.0
+2023,SE_ACS_ELECT,,ISCED11_1,PT,A,0,2023,,87.4
+2020,SE_ACS_INTNT,,_L_KE_3,PT,A,0,2020,,34.0
+2020,SE_ACS_INTNT,,ISCED11_1,PT,A,0,2022,,39.1
+2022,SE_ACS_INTNT,,ISCED11_1,PT,A,0,2022,,42.9

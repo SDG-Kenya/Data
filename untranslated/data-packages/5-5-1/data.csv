@@ -1,38 +1,38 @@
-Year,SERIES,REF_AREA,SEX,OCCUPATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2017,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,33.9
-2018,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,34.2
-2019,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,33.6
-2020,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,33.7
-2021,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,33.6
-2022,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,33.7
-2023,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,33.5
-2014,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,0.0
-2015,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,0.0
-2016,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,0.0
-2017,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,6.4
-2018,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,6.4
-2019,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,4.3
-2020,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,6.4
-2021,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,6.4
-2022,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,14.9
-2023,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,14.9
-2014,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,19.2
-2015,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,19.2
-2016,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,19.2
-2017,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,14.9
-2018,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,14.9
-2019,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,17.4
-2020,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,16.3
-2021,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,16.3
-2022,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,17.0
-2023,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,17.0
-2014,SG_GEN_PARL,,F,,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,19.8
-2015,SG_GEN_PARL,,F,,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,19.8
-2016,SG_GEN_PARL,,F,,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,19.8
-2017,SG_GEN_PARL,,F,,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,21.5
-2018,SG_GEN_PARL,,F,,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,21.8
-2019,SG_GEN_PARL,,F,,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,21.8
-2020,SG_GEN_PARL,,F,,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,21.5
-2021,SG_GEN_PARL,,F,,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,21.5
-2022,SG_GEN_PARL,,F,,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,23.2
-2023,SG_GEN_PARL,,F,,PT,A,0,2023,Include both elected and nominated seats,Economic Survey,,23.5
+Year,SERIES,REF_AREA,SEX,OCCUPATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,GeoCode,Value
+2017,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,,33.9
+2018,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,,34.2
+2019,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,,33.6
+2020,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,,33.7
+2021,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,,33.6
+2022,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,,33.7
+2023,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_03,PT,A,0,2023,,33.5
+2014,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,,0.0
+2015,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,,0.0
+2016,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,,0.0
+2017,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,,6.4
+2018,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,,6.4
+2019,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,,4.3
+2020,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,,6.4
+2021,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,,6.4
+2022,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,,14.9
+2023,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_05,PT,A,0,2023,,14.9
+2014,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,,19.2
+2015,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,,19.2
+2016,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,,19.2
+2017,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,,14.9
+2018,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,,14.9
+2019,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,,17.4
+2020,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,,16.3
+2021,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,,16.3
+2022,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,,17.0
+2023,SG_GEN_LOCG,,F,_L_KE_ISCO08_1111_06,PT,A,0,2023,,17.0
+2014,SG_GEN_PARL,,F,,PT,A,0,2023,,19.8
+2015,SG_GEN_PARL,,F,,PT,A,0,2023,,19.8
+2016,SG_GEN_PARL,,F,,PT,A,0,2023,,19.8
+2017,SG_GEN_PARL,,F,,PT,A,0,2023,,21.5
+2018,SG_GEN_PARL,,F,,PT,A,0,2023,,21.8
+2019,SG_GEN_PARL,,F,,PT,A,0,2023,,21.8
+2020,SG_GEN_PARL,,F,,PT,A,0,2023,,21.5
+2021,SG_GEN_PARL,,F,,PT,A,0,2023,,21.5
+2022,SG_GEN_PARL,,F,,PT,A,0,2023,,23.2
+2023,SG_GEN_PARL,,F,,PT,A,0,2023,,23.5

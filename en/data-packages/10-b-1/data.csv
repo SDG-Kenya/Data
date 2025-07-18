@@ -1,21 +1,21 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2014,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",,6.4
-2015,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",,6.0
-2016,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",,8.5
-2017,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",,8.3
-2018,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",,8.2
-2019,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",,8.4
-2020,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",,8.4
-2021,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",,9.1
-2022,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",,8.0
-2023,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,Total cost of the transaction in percentage for sending US$ 200 to Kenya;,"Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org""",,8.3
-2014,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,External Grants,"KNBS, Economic Survey Report (Several  editions)",,26957.1
-2015,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,External Grants,"KNBS, Economic Survey Report (Several  editions)",,28117.5
-2016,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,External Grants,"KNBS, Economic Survey Report (Several  editions)",,29596.7
-2017,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,External Grants,"KNBS, Economic Survey Report (Several  editions)",,25904.0
-2018,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,External Grants,"KNBS, Economic Survey Report (Several  editions)",,27600.1
-2019,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,External Grants,"KNBS, Economic Survey Report (Several  editions)",,19701.8
-2020,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,External Grants,"KNBS, Economic Survey Report (Several  editions)",,19819.7
-2021,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,External Grants,"KNBS, Economic Survey Report (Several  editions)",,31320.4
-2022,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,External Grants,"KNBS, Economic Survey Report (Several  editions)",,31031.2
-2023,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,External Grants,"KNBS, Economic Survey Report (Several  editions)",,23083.5
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2014,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,,6.4
+2015,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,,6.0
+2016,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,,8.5
+2017,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,,8.3
+2018,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,,8.2
+2019,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,,8.4
+2020,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,,8.4
+2021,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,,9.1
+2022,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,,8.0
+2023,Remittance costs as a proportion of the amount remitted,,Percent,Normal value,Units,2023,,8.3
+2014,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,,26957.1
+2015,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,,28117.5
+2016,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,,29596.7
+2017,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,,25904.0
+2018,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,,27600.1
+2019,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,,19701.8
+2020,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,,19819.7
+2021,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,,31320.4
+2022,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,,31031.2
+2023,"Total resource flows for development, by recipient and donor countries [10.b.1]",,Kenyan Shillings,Normal value,Millions,2023,,23083.5

@@ -1,11 +1,11 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2014,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,Formal final energy consumption only.,Economic Survey,,54.8
-2015,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,Formal final energy consumption only.,Economic Survey,,56.7
-2016,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,Formal final energy consumption only.,Economic Survey,,56.6
-2017,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,Formal final energy consumption only.,Economic Survey,,52.8
-2018,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,Formal final energy consumption only.,Economic Survey,,57.7
-2019,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,Formal final energy consumption only.,Economic Survey,,54.9
-2020,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,Formal final energy consumption only.,Economic Survey,,46.1
-2021,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,Formal final energy consumption only.,Economic Survey,,48.2
-2022,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,Formal final energy consumption only.,Economic Survey,,56.0
-2023,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,Formal final energy consumption only.,Economic Survey,,53.6
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2014,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,,54.8
+2015,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,,56.7
+2016,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,,56.6
+2017,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,,52.8
+2018,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,,57.7
+2019,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,,54.9
+2020,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,,46.1
+2021,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,,48.2
+2022,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,,56.0
+2023,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,2023,,53.6

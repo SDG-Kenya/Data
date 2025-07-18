@@ -1,11 +1,11 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2014,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,Formal sector,Economic Survey,,12.1
-2015,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,Formal sector,Economic Survey,,12.9
-2016,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,Formal sector,Economic Survey,,12.7
-2017,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,Formal sector,Economic Survey,,12.3
-2018,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,Formal sector,Economic Survey,,12.2
-2019,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,Formal sector,Economic Survey,,12.1
-2020,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,Formal sector,Economic Survey,,11.6
-2021,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,Formal sector,Economic Survey,,11.6
-2022,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,Formal sector,Economic Survey,,11.7
-2023,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,Formal sector,Economic Survey,,11.5
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2014,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,,12.1
+2015,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,,12.9
+2016,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,,12.7
+2017,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,,12.3
+2018,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,,12.2
+2019,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,,12.1
+2020,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,,11.6
+2021,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,,11.6
+2022,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,,11.7
+2023,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,2023,,11.5

@@ -1,17 +1,17 @@
-Year,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2014,_L_KE_070102_01,,,PT,A,0,2019,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,11.9
-2016,_L_KE_070102_01,,,PT,A,0,2019,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,14.6
-2018,_L_KE_070102_01,,,PT,A,0,2019,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,19.8
-2019,_L_KE_070102_01,,,PT,A,0,2019,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,25.4
-2014,_L_KE_070102_01,,R,PT,A,0,2016,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,2.1
-2016,_L_KE_070102_01,,R,PT,A,0,2016,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,3.0
-2014,_L_KE_070102_01,,U,PT,A,0,2016,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,25.4
-2016,_L_KE_070102_01,,U,PT,A,0,2016,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,29.7
-2014,EG_EGY_CLEAN,,,PT,A,0,2022,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,12.3
-2016,EG_EGY_CLEAN,,,PT,A,0,2022,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,10.7
-2019,EG_EGY_CLEAN,,,PT,A,0,2022,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,25.1
-2022,EG_EGY_CLEAN,,,PT,A,0,2022,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,21.2
-2014,EG_EGY_CLEAN,,R,PT,A,0,2022,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,1.6
-2022,EG_EGY_CLEAN,,R,PT,A,0,2022,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,4.9
-2014,EG_EGY_CLEAN,,U,PT,A,0,2022,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,27.9
-2022,EG_EGY_CLEAN,,U,PT,A,0,2022,"Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS,,53.4
+Year,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,GeoCode,Value
+2014,_L_KE_070102_01,,,PT,A,0,2019,,11.9
+2016,_L_KE_070102_01,,,PT,A,0,2019,,14.6
+2018,_L_KE_070102_01,,,PT,A,0,2019,,19.8
+2019,_L_KE_070102_01,,,PT,A,0,2019,,25.4
+2014,_L_KE_070102_01,,R,PT,A,0,2016,,2.1
+2016,_L_KE_070102_01,,R,PT,A,0,2016,,3.0
+2014,_L_KE_070102_01,,U,PT,A,0,2016,,25.4
+2016,_L_KE_070102_01,,U,PT,A,0,2016,,29.7
+2014,EG_EGY_CLEAN,,,PT,A,0,2022,,12.3
+2016,EG_EGY_CLEAN,,,PT,A,0,2022,,10.7
+2019,EG_EGY_CLEAN,,,PT,A,0,2022,,25.1
+2022,EG_EGY_CLEAN,,,PT,A,0,2022,,21.2
+2014,EG_EGY_CLEAN,,R,PT,A,0,2022,,1.6
+2022,EG_EGY_CLEAN,,R,PT,A,0,2022,,4.9
+2014,EG_EGY_CLEAN,,U,PT,A,0,2022,,27.9
+2022,EG_EGY_CLEAN,,U,PT,A,0,2022,,53.4

@@ -1,4 +1,4 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2014,Stocks of intercepted wildlife products - Proxy,,Metric Tons,Normal value,Units,2017,Elephants Ivory and Rhino horns,KWS,,137.3
-2016,Stocks of intercepted wildlife products - Proxy,,Metric Tons,Normal value,Units,2017,Elephants Ivory and Rhino horns,KWS,,40.6
-2017,Stocks of intercepted wildlife products - Proxy,,Metric Tons,Normal value,Units,2017,Elephants Ivory and Rhino horns,KWS,,56.3
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2014,Stocks of intercepted wildlife products - Proxy,,Metric Tons,Normal value,Units,2017,,137.3
+2016,Stocks of intercepted wildlife products - Proxy,,Metric Tons,Normal value,Units,2017,,40.6
+2017,Stocks of intercepted wildlife products - Proxy,,Metric Tons,Normal value,Units,2017,,56.3

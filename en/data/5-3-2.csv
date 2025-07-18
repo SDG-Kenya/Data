@@ -1,21 +1,21 @@
-Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
-2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,,,Percent,Normal value,Units,2022,KDHS,,21.0
-2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,,,Percent,Normal value,Units,2022,KDHS,,14.8
-2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,,Rural,Percent,Normal value,Units,2022,KDHS,,14.1
-2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,,Rural,Percent,Normal value,Units,2022,KDHS,,18.4
-2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,,Urban,Percent,Normal value,Units,2022,KDHS,,27.0
-2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,,Urban,Percent,Normal value,Units,2022,KDHS,,9.7
-2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,15 to 19 years old,,Percent,Normal value,Units,2022,KDHS,,11.4
-2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,15 to 19 years old,,Percent,Normal value,Units,2022,KDHS,,9.1
-2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,20 to 24 years old,,Percent,Normal value,Units,2022,KDHS,,14.7
-2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,20 to 24 years old,,Percent,Normal value,Units,2022,KDHS,,9.9
-2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,25 to 29 years old,,Percent,Normal value,Units,2022,KDHS,,18.0
-2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,25 to 29 years old,,Percent,Normal value,Units,2022,KDHS,,13.2
-2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,30 to 34 years old,,Percent,Normal value,Units,2022,KDHS,,22.9
-2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,30 to 34 years old,,Percent,Normal value,Units,2022,KDHS,,16.1
-2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,35 to 39 years old,,Percent,Normal value,Units,2022,KDHS,,27.8
-2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,35 to 39 years old,,Percent,Normal value,Units,2022,KDHS,,18.7
-2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,40 to 44 years old,,Percent,Normal value,Units,2022,KDHS,,32.1
-2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,40 to 44 years old,,Percent,Normal value,Units,2022,KDHS,,23.8
-2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,45 to 49 years old,,Percent,Normal value,Units,2022,KDHS,,40.9
-2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,45 to 49 years old,,Percent,Normal value,Units,2022,KDHS,,23.1
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,,,Percent,Normal value,Units,2022,,21.0
+2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,,,Percent,Normal value,Units,2022,,14.8
+2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,,Rural,Percent,Normal value,Units,2022,,14.1
+2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,,Rural,Percent,Normal value,Units,2022,,18.4
+2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,,Urban,Percent,Normal value,Units,2022,,27.0
+2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,,Urban,Percent,Normal value,Units,2022,,9.7
+2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,15 to 19 years old,,Percent,Normal value,Units,2022,,11.4
+2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,15 to 19 years old,,Percent,Normal value,Units,2022,,9.1
+2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,20 to 24 years old,,Percent,Normal value,Units,2022,,14.7
+2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,20 to 24 years old,,Percent,Normal value,Units,2022,,9.9
+2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,25 to 29 years old,,Percent,Normal value,Units,2022,,18.0
+2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,25 to 29 years old,,Percent,Normal value,Units,2022,,13.2
+2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,30 to 34 years old,,Percent,Normal value,Units,2022,,22.9
+2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,30 to 34 years old,,Percent,Normal value,Units,2022,,16.1
+2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,35 to 39 years old,,Percent,Normal value,Units,2022,,27.8
+2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,35 to 39 years old,,Percent,Normal value,Units,2022,,18.7
+2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,40 to 44 years old,,Percent,Normal value,Units,2022,,32.1
+2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,40 to 44 years old,,Percent,Normal value,Units,2022,,23.8
+2014,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,45 to 49 years old,,Percent,Normal value,Units,2022,,40.9
+2022,"Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age (%) [5.3.2]",,Female,45 to 49 years old,,Percent,Normal value,Units,2022,,23.1

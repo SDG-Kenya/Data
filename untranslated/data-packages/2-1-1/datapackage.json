@@ -85,17 +85,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016:  KIHBS, 2019-21: KCHS",
-                "2016:  KIHBS , 2019-21: KCHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },

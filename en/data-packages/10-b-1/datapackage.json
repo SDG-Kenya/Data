@@ -84,30 +84,6 @@
             "title": "Time period details"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total cost of the transaction in percentage for sending US$ 200 to Kenya;",
-                "External Grants",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org\"",
-                "KNBS, Economic Survey Report (Several  editions)",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"

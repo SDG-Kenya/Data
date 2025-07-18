@@ -96,28 +96,6 @@
             "title": "Time period details"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DEGURBA tool was used to generate the  gridded population and the updated urban extents. These were data input for computing the ratio of LCR/PGR. The study period was between 2009 and 2020 based on data availability.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population data and Satellite Imagery i.e. Landsat datasets",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"

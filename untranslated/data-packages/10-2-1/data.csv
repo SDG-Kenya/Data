@@ -1,52 +1,52 @@
-Year,SERIES,REF_AREA,SEX,AGE,INCOME_WEALTH_QUANTILE,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2016,SI_POV_50MI,,,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,18.436463
-2019,SI_POV_50MI,,,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,18.4
-2020,SI_POV_50MI,,,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,14.6
-2021,SI_POV_50MI,,,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,11.6
-2022,SI_POV_50MI,,,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,12.3
-2016,SI_POV_50MI,,,Y_GE65,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,15.895684
-2019,SI_POV_50MI,,,Y_GE65,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,14.7
-2020,SI_POV_50MI,,,Y_GE65,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,10.0
-2021,SI_POV_50MI,,,Y_GE65,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,11.5
-2022,SI_POV_50MI,,,Y_GE65,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,12.2
-2016,SI_POV_50MI,,,Y0T17,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,20.159164
-2019,SI_POV_50MI,,,Y0T17,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,21.6
-2020,SI_POV_50MI,,,Y0T17,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,15.0
-2021,SI_POV_50MI,,,Y0T17,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,11.4
-2022,SI_POV_50MI,,,Y0T17,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,12.4
-2016,SI_POV_50MI,,,Y0T5,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,24.352123
-2019,SI_POV_50MI,,,Y0T5,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,28.4
-2020,SI_POV_50MI,,,Y0T5,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,19.3
-2021,SI_POV_50MI,,,Y0T5,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,14.7
-2022,SI_POV_50MI,,,Y0T5,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,15.9
-2016,SI_POV_50MI,,,Y14T17,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,23.776905
-2019,SI_POV_50MI,,,Y14T17,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,26.0
-2020,SI_POV_50MI,,,Y14T17,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,18.6
-2021,SI_POV_50MI,,,Y14T17,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,14.3
-2022,SI_POV_50MI,,,Y14T17,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,15.1
-2022,SI_POV_50MI,,,Y15T24,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,10.5
-2016,SI_POV_50MI,,,Y15T64,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,14.06327
-2019,SI_POV_50MI,,,Y15T64,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,15.3
-2020,SI_POV_50MI,,,Y15T64,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,11.3
-2021,SI_POV_50MI,,,Y15T64,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,8.4
-2022,SI_POV_50MI,,,Y15T64,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,9.7
-2016,SI_POV_50MI,,,Y18T34,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,12.600076
-2019,SI_POV_50MI,,,Y18T34,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,14.1
-2020,SI_POV_50MI,,,Y18T34,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,10.6
-2021,SI_POV_50MI,,,Y18T34,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,7.8
-2022,SI_POV_50MI,,,Y18T34,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,9.6
-2016,SI_POV_50MI,,,Y6T13,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,24.878459
-2019,SI_POV_50MI,,,Y6T13,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,26.4
-2020,SI_POV_50MI,,,Y6T13,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,19.8
-2021,SI_POV_50MI,,,Y6T13,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,15.3
-2022,SI_POV_50MI,,,Y6T13,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,15.8
-2016,SI_POV_50MI,,F,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,18.839249
-2019,SI_POV_50MI,,F,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,19.9
-2020,SI_POV_50MI,,F,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,14.4
-2021,SI_POV_50MI,,F,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,11.4
-2022,SI_POV_50MI,,F,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,12.0
-2016,SI_POV_50MI,,M,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,18.023139
-2019,SI_POV_50MI,,M,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,19.6
-2020,SI_POV_50MI,,M,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,14.3
-2021,SI_POV_50MI,,M,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,10.8
-2022,SI_POV_50MI,,M,,B50,PT,A,0,2022,"2015/16 National median per capita expenditure: KSh4,029",2016: KIHBS                 2019-22: KCHS,,12.3
+Year,SERIES,REF_AREA,SEX,AGE,INCOME_WEALTH_QUANTILE,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,GeoCode,Value
+2016,SI_POV_50MI,,,,B50,PT,A,0,2022,,18.436463
+2019,SI_POV_50MI,,,,B50,PT,A,0,2022,,18.4
+2020,SI_POV_50MI,,,,B50,PT,A,0,2022,,14.6
+2021,SI_POV_50MI,,,,B50,PT,A,0,2022,,11.6
+2022,SI_POV_50MI,,,,B50,PT,A,0,2022,,12.3
+2016,SI_POV_50MI,,,Y_GE65,B50,PT,A,0,2022,,15.895684
+2019,SI_POV_50MI,,,Y_GE65,B50,PT,A,0,2022,,14.7
+2020,SI_POV_50MI,,,Y_GE65,B50,PT,A,0,2022,,10.0
+2021,SI_POV_50MI,,,Y_GE65,B50,PT,A,0,2022,,11.5
+2022,SI_POV_50MI,,,Y_GE65,B50,PT,A,0,2022,,12.2
+2016,SI_POV_50MI,,,Y0T17,B50,PT,A,0,2022,,20.159164
+2019,SI_POV_50MI,,,Y0T17,B50,PT,A,0,2022,,21.6
+2020,SI_POV_50MI,,,Y0T17,B50,PT,A,0,2022,,15.0
+2021,SI_POV_50MI,,,Y0T17,B50,PT,A,0,2022,,11.4
+2022,SI_POV_50MI,,,Y0T17,B50,PT,A,0,2022,,12.4
+2016,SI_POV_50MI,,,Y0T5,B50,PT,A,0,2022,,24.352123
+2019,SI_POV_50MI,,,Y0T5,B50,PT,A,0,2022,,28.4
+2020,SI_POV_50MI,,,Y0T5,B50,PT,A,0,2022,,19.3
+2021,SI_POV_50MI,,,Y0T5,B50,PT,A,0,2022,,14.7
+2022,SI_POV_50MI,,,Y0T5,B50,PT,A,0,2022,,15.9
+2016,SI_POV_50MI,,,Y14T17,B50,PT,A,0,2022,,23.776905
+2019,SI_POV_50MI,,,Y14T17,B50,PT,A,0,2022,,26.0
+2020,SI_POV_50MI,,,Y14T17,B50,PT,A,0,2022,,18.6
+2021,SI_POV_50MI,,,Y14T17,B50,PT,A,0,2022,,14.3
+2022,SI_POV_50MI,,,Y14T17,B50,PT,A,0,2022,,15.1
+2022,SI_POV_50MI,,,Y15T24,B50,PT,A,0,2022,,10.5
+2016,SI_POV_50MI,,,Y15T64,B50,PT,A,0,2022,,14.06327
+2019,SI_POV_50MI,,,Y15T64,B50,PT,A,0,2022,,15.3
+2020,SI_POV_50MI,,,Y15T64,B50,PT,A,0,2022,,11.3
+2021,SI_POV_50MI,,,Y15T64,B50,PT,A,0,2022,,8.4
+2022,SI_POV_50MI,,,Y15T64,B50,PT,A,0,2022,,9.7
+2016,SI_POV_50MI,,,Y18T34,B50,PT,A,0,2022,,12.600076
+2019,SI_POV_50MI,,,Y18T34,B50,PT,A,0,2022,,14.1
+2020,SI_POV_50MI,,,Y18T34,B50,PT,A,0,2022,,10.6
+2021,SI_POV_50MI,,,Y18T34,B50,PT,A,0,2022,,7.8
+2022,SI_POV_50MI,,,Y18T34,B50,PT,A,0,2022,,9.6
+2016,SI_POV_50MI,,,Y6T13,B50,PT,A,0,2022,,24.878459
+2019,SI_POV_50MI,,,Y6T13,B50,PT,A,0,2022,,26.4
+2020,SI_POV_50MI,,,Y6T13,B50,PT,A,0,2022,,19.8
+2021,SI_POV_50MI,,,Y6T13,B50,PT,A,0,2022,,15.3
+2022,SI_POV_50MI,,,Y6T13,B50,PT,A,0,2022,,15.8
+2016,SI_POV_50MI,,F,,B50,PT,A,0,2022,,18.839249
+2019,SI_POV_50MI,,F,,B50,PT,A,0,2022,,19.9
+2020,SI_POV_50MI,,F,,B50,PT,A,0,2022,,14.4
+2021,SI_POV_50MI,,F,,B50,PT,A,0,2022,,11.4
+2022,SI_POV_50MI,,F,,B50,PT,A,0,2022,,12.0
+2016,SI_POV_50MI,,M,,B50,PT,A,0,2022,,18.023139
+2019,SI_POV_50MI,,M,,B50,PT,A,0,2022,,19.6
+2020,SI_POV_50MI,,M,,B50,PT,A,0,2022,,14.3
+2021,SI_POV_50MI,,M,,B50,PT,A,0,2022,,10.8
+2022,SI_POV_50MI,,M,,B50,PT,A,0,2022,,12.3

@@ -1,25 +1,25 @@
-Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2021,SL_DOM_TSPD,,,,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,12.2
-2021,SL_DOM_TSPD,,,,R,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,12.0
-2021,SL_DOM_TSPD,,,,U,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,12.5
-2021,SL_DOM_TSPD,,,Y_GE65,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,8.5
-2021,SL_DOM_TSPD,,,Y15T24,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,12.7
-2021,SL_DOM_TSPD,,,Y25T44,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,13.5
-2021,SL_DOM_TSPD,,,Y45T54,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,10.5
-2021,SL_DOM_TSPD,,,Y55T64,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,10.4
-2021,SL_DOM_TSPD,,F,,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,18.7
-2021,SL_DOM_TSPD,,F,,R,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,18.6
-2021,SL_DOM_TSPD,,F,,U,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,18.9
-2021,SL_DOM_TSPD,,F,Y_GE65,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,12.0
-2021,SL_DOM_TSPD,,F,Y15T24,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,19.1
-2021,SL_DOM_TSPD,,F,Y25T44,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,21.0
-2021,SL_DOM_TSPD,,F,Y45T54,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,16.4
-2021,SL_DOM_TSPD,,F,Y55T64,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,15.9
-2021,SL_DOM_TSPD,,M,,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,3.6
-2021,SL_DOM_TSPD,,M,,R,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,3.4
-2021,SL_DOM_TSPD,,M,,U,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,4.0
-2021,SL_DOM_TSPD,,M,Y_GE65,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,3.3
-2021,SL_DOM_TSPD,,M,Y15T24,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,4.2
-2021,SL_DOM_TSPD,,M,Y25T44,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,3.4
-2021,SL_DOM_TSPD,,M,Y45T54,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,3.6
-2021,SL_DOM_TSPD,,M,Y55T64,,PT,A,0,2021,Data available is for individuals aged 15 years and above,2021 Time Use Survey,,3.2
+Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,GeoCode,Value
+2021,SL_DOM_TSPD,,,,,PT,A,0,2021,,12.2
+2021,SL_DOM_TSPD,,,,R,PT,A,0,2021,,12.0
+2021,SL_DOM_TSPD,,,,U,PT,A,0,2021,,12.5
+2021,SL_DOM_TSPD,,,Y_GE65,,PT,A,0,2021,,8.5
+2021,SL_DOM_TSPD,,,Y15T24,,PT,A,0,2021,,12.7
+2021,SL_DOM_TSPD,,,Y25T44,,PT,A,0,2021,,13.5
+2021,SL_DOM_TSPD,,,Y45T54,,PT,A,0,2021,,10.5
+2021,SL_DOM_TSPD,,,Y55T64,,PT,A,0,2021,,10.4
+2021,SL_DOM_TSPD,,F,,,PT,A,0,2021,,18.7
+2021,SL_DOM_TSPD,,F,,R,PT,A,0,2021,,18.6
+2021,SL_DOM_TSPD,,F,,U,PT,A,0,2021,,18.9
+2021,SL_DOM_TSPD,,F,Y_GE65,,PT,A,0,2021,,12.0
+2021,SL_DOM_TSPD,,F,Y15T24,,PT,A,0,2021,,19.1
+2021,SL_DOM_TSPD,,F,Y25T44,,PT,A,0,2021,,21.0
+2021,SL_DOM_TSPD,,F,Y45T54,,PT,A,0,2021,,16.4
+2021,SL_DOM_TSPD,,F,Y55T64,,PT,A,0,2021,,15.9
+2021,SL_DOM_TSPD,,M,,,PT,A,0,2021,,3.6
+2021,SL_DOM_TSPD,,M,,R,PT,A,0,2021,,3.4
+2021,SL_DOM_TSPD,,M,,U,PT,A,0,2021,,4.0
+2021,SL_DOM_TSPD,,M,Y_GE65,,PT,A,0,2021,,3.3
+2021,SL_DOM_TSPD,,M,Y15T24,,PT,A,0,2021,,4.2
+2021,SL_DOM_TSPD,,M,Y25T44,,PT,A,0,2021,,3.4
+2021,SL_DOM_TSPD,,M,Y45T54,,PT,A,0,2021,,3.6
+2021,SL_DOM_TSPD,,M,Y55T64,,PT,A,0,2021,,3.2

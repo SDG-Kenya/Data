@@ -81,28 +81,6 @@
             "title": "Time period details"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya is a signatory to 4 Multilateral Environmental Agreements (MEAs) namely; 1.United Nations Convention on Biological Diversity (UNCBD); 2.United Nations Framework Convention on Climate Change (UNFCCC);  3.United Nations Convention on Combating Desertification (UNCCD);  4. Stockholm Convention on Persistent Organic Pollutants (POPs).  Kenya  implements these MEAs  and provides further information on each of them.",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "https://meas.nema.go.ke/",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"

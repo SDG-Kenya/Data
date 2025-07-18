@@ -1,8 +1,8 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2015,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,38.0
-2016,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,46.0
-2017,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,38.9
-2018,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,41.8
-2021,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,23.2
-2022,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,41.1
-2023,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,25.7
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2015,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,,38.0
+2016,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,,46.0
+2017,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,,38.9
+2018,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,,41.8
+2021,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,,23.2
+2022,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,,41.1
+2023,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,2023,,25.7

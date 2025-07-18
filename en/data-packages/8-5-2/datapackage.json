@@ -125,17 +125,6 @@
             "title": "Time period details"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014:  KDHS               2016:  KIHBS           2019:  KPHC              2020:  KCHS              2021:  KCHS                    2022       KCHS, ,",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"

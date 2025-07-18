@@ -1,8 +1,8 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2015,IU_COR_BRIB,,PT,A,0,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,38.0
-2016,IU_COR_BRIB,,PT,A,0,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,46.0
-2017,IU_COR_BRIB,,PT,A,0,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,38.9
-2018,IU_COR_BRIB,,PT,A,0,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,41.8
-2021,IU_COR_BRIB,,PT,A,0,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,23.2
-2022,IU_COR_BRIB,,PT,A,0,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,41.1
-2023,IU_COR_BRIB,,PT,A,0,2023,"Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes","EACC; National Ethics and Corruption Survey Reports, 2021-2023",,25.7
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,GeoCode,Value
+2015,IU_COR_BRIB,,PT,A,0,2023,,38.0
+2016,IU_COR_BRIB,,PT,A,0,2023,,46.0
+2017,IU_COR_BRIB,,PT,A,0,2023,,38.9
+2018,IU_COR_BRIB,,PT,A,0,2023,,41.8
+2021,IU_COR_BRIB,,PT,A,0,2023,,23.2
+2022,IU_COR_BRIB,,PT,A,0,2023,,41.1
+2023,IU_COR_BRIB,,PT,A,0,2023,,25.7

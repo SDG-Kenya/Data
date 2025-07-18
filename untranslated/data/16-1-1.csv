@@ -1,41 +1,41 @@
-Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2014,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,4.0
-2015,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,4.0
-2016,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,4.0
-2017,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,4.0
-2018,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,3.0
-2019,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,6.248384
-2020,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,6.264142
-2021,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,6.600935
-2022,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,6.145438
-2023,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,5.894157
-2019,VC_IHR_PSRC,,,Y_GE60,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,2.84618
-2020,VC_IHR_PSRC,,,Y_GE60,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,8.045948
-2021,VC_IHR_PSRC,,,Y_GE60,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,10.488346
-2022,VC_IHR_PSRC,,,Y_GE60,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,8.630603
-2023,VC_IHR_PSRC,,,Y_GE60,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,5.173989
-2019,VC_IHR_PSRC,,,Y0T17,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,4.502083
-2020,VC_IHR_PSRC,,,Y0T17,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,1.563778
-2021,VC_IHR_PSRC,,,Y0T17,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,1.90473
-2022,VC_IHR_PSRC,,,Y0T17,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,2.068044
-2023,VC_IHR_PSRC,,,Y0T17,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,1.237633
-2019,VC_IHR_PSRC,,,Y18T25,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,9.917627
-2020,VC_IHR_PSRC,,,Y18T25,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,8.839462
-2021,VC_IHR_PSRC,,,Y18T25,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,10.3637
-2022,VC_IHR_PSRC,,,Y18T25,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,10.985157
-2023,VC_IHR_PSRC,,,Y18T25,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,9.58398
-2019,VC_IHR_PSRC,,,Y25T59,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,7.71714
-2020,VC_IHR_PSRC,,,Y25T59,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,10.755018
-2021,VC_IHR_PSRC,,,Y25T59,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,10.167668
-2022,VC_IHR_PSRC,,,Y25T59,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,8.681089
-2023,VC_IHR_PSRC,,,Y25T59,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,9.89239
-2019,VC_IHR_PSRC,,F,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,4.792894
-2020,VC_IHR_PSRC,,F,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,4.405851
-2021,VC_IHR_PSRC,,F,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,3.595199
-2022,VC_IHR_PSRC,,F,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,3.444525
-2023,VC_IHR_PSRC,,F,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,3.372303
-2019,VC_IHR_PSRC,,M,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,7.733122
-2020,VC_IHR_PSRC,,M,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,8.371228
-2021,VC_IHR_PSRC,,M,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,9.655695
-2022,VC_IHR_PSRC,,M,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,8.679838
-2023,VC_IHR_PSRC,,M,,PER_100000_POP,A,0,2023,Data on victims by sex and age is awaiting validation,Economic Survey,,8.458162
+Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,GeoCode,Value
+2014,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,,4.0
+2015,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,,4.0
+2016,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,,4.0
+2017,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,,4.0
+2018,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,,3.0
+2019,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,,6.248384
+2020,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,,6.264142
+2021,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,,6.600935
+2022,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,,6.145438
+2023,VC_IHR_PSRC,,,,PER_100000_POP,A,0,2023,,5.894157
+2019,VC_IHR_PSRC,,,Y_GE60,PER_100000_POP,A,0,2023,,2.84618
+2020,VC_IHR_PSRC,,,Y_GE60,PER_100000_POP,A,0,2023,,8.045948
+2021,VC_IHR_PSRC,,,Y_GE60,PER_100000_POP,A,0,2023,,10.488346
+2022,VC_IHR_PSRC,,,Y_GE60,PER_100000_POP,A,0,2023,,8.630603
+2023,VC_IHR_PSRC,,,Y_GE60,PER_100000_POP,A,0,2023,,5.173989
+2019,VC_IHR_PSRC,,,Y0T17,PER_100000_POP,A,0,2023,,4.502083
+2020,VC_IHR_PSRC,,,Y0T17,PER_100000_POP,A,0,2023,,1.563778
+2021,VC_IHR_PSRC,,,Y0T17,PER_100000_POP,A,0,2023,,1.90473
+2022,VC_IHR_PSRC,,,Y0T17,PER_100000_POP,A,0,2023,,2.068044
+2023,VC_IHR_PSRC,,,Y0T17,PER_100000_POP,A,0,2023,,1.237633
+2019,VC_IHR_PSRC,,,Y18T25,PER_100000_POP,A,0,2023,,9.917627
+2020,VC_IHR_PSRC,,,Y18T25,PER_100000_POP,A,0,2023,,8.839462
+2021,VC_IHR_PSRC,,,Y18T25,PER_100000_POP,A,0,2023,,10.3637
+2022,VC_IHR_PSRC,,,Y18T25,PER_100000_POP,A,0,2023,,10.985157
+2023,VC_IHR_PSRC,,,Y18T25,PER_100000_POP,A,0,2023,,9.58398
+2019,VC_IHR_PSRC,,,Y25T59,PER_100000_POP,A,0,2023,,7.71714
+2020,VC_IHR_PSRC,,,Y25T59,PER_100000_POP,A,0,2023,,10.755018
+2021,VC_IHR_PSRC,,,Y25T59,PER_100000_POP,A,0,2023,,10.167668
+2022,VC_IHR_PSRC,,,Y25T59,PER_100000_POP,A,0,2023,,8.681089
+2023,VC_IHR_PSRC,,,Y25T59,PER_100000_POP,A,0,2023,,9.89239
+2019,VC_IHR_PSRC,,F,,PER_100000_POP,A,0,2023,,4.792894
+2020,VC_IHR_PSRC,,F,,PER_100000_POP,A,0,2023,,4.405851
+2021,VC_IHR_PSRC,,F,,PER_100000_POP,A,0,2023,,3.595199
+2022,VC_IHR_PSRC,,F,,PER_100000_POP,A,0,2023,,3.444525
+2023,VC_IHR_PSRC,,F,,PER_100000_POP,A,0,2023,,3.372303
+2019,VC_IHR_PSRC,,M,,PER_100000_POP,A,0,2023,,7.733122
+2020,VC_IHR_PSRC,,M,,PER_100000_POP,A,0,2023,,8.371228
+2021,VC_IHR_PSRC,,M,,PER_100000_POP,A,0,2023,,9.655695
+2022,VC_IHR_PSRC,,M,,PER_100000_POP,A,0,2023,,8.679838
+2023,VC_IHR_PSRC,,M,,PER_100000_POP,A,0,2023,,8.458162

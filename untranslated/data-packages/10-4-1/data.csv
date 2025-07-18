@@ -1,11 +1,11 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2014,SL_EMP_GTOTL,,PT,A,0,2023,Compensation of employees/GDP,Economic Survey,,27.0
-2015,SL_EMP_GTOTL,,PT,A,0,2023,Compensation of employees/GDP,Economic Survey,,26.9
-2016,SL_EMP_GTOTL,,PT,A,0,2023,Compensation of employees/GDP,Economic Survey,,28.1
-2017,SL_EMP_GTOTL,,PT,A,0,2023,Compensation of employees/GDP,Economic Survey,,28.2
-2018,SL_EMP_GTOTL,,PT,A,0,2023,Compensation of employees/GDP,Economic Survey,,28.9
-2019,SL_EMP_GTOTL,,PT,A,0,2023,Compensation of employees/GDP,Economic Survey,,28.9
-2020,SL_EMP_GTOTL,,PT,A,0,2023,Compensation of employees/GDP,Economic Survey,,28.5
-2021,SL_EMP_GTOTL,,PT,A,0,2023,Compensation of employees/GDP,Economic Survey,,27.9
-2022,SL_EMP_GTOTL,,PT,A,0,2023,Compensation of employees/GDP,Economic Survey,,27.1
-2023,SL_EMP_GTOTL,,PT,A,0,2023,Compensation of employees/GDP,Economic Survey,,26.3
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,GeoCode,Value
+2014,SL_EMP_GTOTL,,PT,A,0,2023,,27.0
+2015,SL_EMP_GTOTL,,PT,A,0,2023,,26.9
+2016,SL_EMP_GTOTL,,PT,A,0,2023,,28.1
+2017,SL_EMP_GTOTL,,PT,A,0,2023,,28.2
+2018,SL_EMP_GTOTL,,PT,A,0,2023,,28.9
+2019,SL_EMP_GTOTL,,PT,A,0,2023,,28.9
+2020,SL_EMP_GTOTL,,PT,A,0,2023,,28.5
+2021,SL_EMP_GTOTL,,PT,A,0,2023,,27.9
+2022,SL_EMP_GTOTL,,PT,A,0,2023,,27.1
+2023,SL_EMP_GTOTL,,PT,A,0,2023,,26.3

@@ -1,6 +1,6 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2017,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,2023,Note that the data was collected for 2021/22 FY,"EACC; National Ethics and Corruption Survey Report, 2021-2023",,59.4
-2018,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,2023,Note that the data was collected for 2021/22 FY,"EACC; National Ethics and Corruption Survey Report, 2021-2023",,55.7
-2021,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,2023,Note that the data was collected for 2021/22 FY,"EACC; National Ethics and Corruption Survey Report, 2021-2023",,44.0
-2022,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,2023,Note that the data was collected for 2021/22 FY,"EACC; National Ethics and Corruption Survey Report, 2021-2023",,28.9
-2023,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,2023,Note that the data was collected for 2021/22 FY,"EACC; National Ethics and Corruption Survey Report, 2021-2023",,40.0
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2017,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,2023,,59.4
+2018,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,2023,,55.7
+2021,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,2023,,44.0
+2022,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,2023,,28.9
+2023,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,2023,,40.0

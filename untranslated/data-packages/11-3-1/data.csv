@@ -1,5 +1,5 @@
-Year,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2020,EN_LND_CNSPOP,KE_KIS,CITY,PT,A,0,2020,DEGURBA tool was used to generate the  gridded population and the updated urban extents. These were data input for computing the ratio of LCR/PGR. The study period was between 2009 and 2020 based on data availability.,Population data and Satellite Imagery i.e. Landsat datasets,KE_KIS,3.0
-2020,EN_LND_CNSPOP,KE_MBA,CITY,PT,A,0,2020,DEGURBA tool was used to generate the  gridded population and the updated urban extents. These were data input for computing the ratio of LCR/PGR. The study period was between 2009 and 2020 based on data availability.,Population data and Satellite Imagery i.e. Landsat datasets,KE_MBA,2.67
-2020,EN_LND_CNSPOP,KE_NBO,CITY,PT,A,0,2020,DEGURBA tool was used to generate the  gridded population and the updated urban extents. These were data input for computing the ratio of LCR/PGR. The study period was between 2009 and 2020 based on data availability.,Population data and Satellite Imagery i.e. Landsat datasets,KE_NBO,1.33
-2020,EN_LND_CNSPOP,KE_NUU,CITY,PT,A,0,2020,DEGURBA tool was used to generate the  gridded population and the updated urban extents. These were data input for computing the ratio of LCR/PGR. The study period was between 2009 and 2020 based on data availability.,Population data and Satellite Imagery i.e. Landsat datasets,KE_NUU,3.0
+Year,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,GeoCode,Value
+2020,EN_LND_CNSPOP,KE_KIS,CITY,PT,A,0,2020,KE_KIS,3.0
+2020,EN_LND_CNSPOP,KE_MBA,CITY,PT,A,0,2020,KE_MBA,2.67
+2020,EN_LND_CNSPOP,KE_NBO,CITY,PT,A,0,2020,KE_NBO,1.33
+2020,EN_LND_CNSPOP,KE_NUU,CITY,PT,A,0,2020,KE_NUU,3.0

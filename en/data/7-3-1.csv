@@ -1,11 +1,11 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2014,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,Modern energy only,Economic Survey,,2e-05
-2015,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,Modern energy only,Economic Survey,,2.1e-05
-2016,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,Modern energy only,Economic Survey,,2e-05
-2017,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,Modern energy only,Economic Survey,,1.8e-05
-2018,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,Modern energy only,Economic Survey,,1.8e-05
-2019,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,Modern energy only,Economic Survey,,1.8e-05
-2020,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,Modern energy only,Economic Survey,,3.4e-05
-2021,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,Modern energy only,Economic Survey,,3.4e-05
-2022,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,Modern energy only,Economic Survey,,2e-05
-2023,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,Modern energy only,Economic Survey,,1.5e-05
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2014,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,,2e-05
+2015,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,,2.1e-05
+2016,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,,2e-05
+2017,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,,1.8e-05
+2018,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,,1.8e-05
+2019,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,,1.8e-05
+2020,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,,3.4e-05
+2021,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,,3.4e-05
+2022,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,,2e-05
+2023,Energy intensity level of primary energy [7.3.1],,Tonnes of Oil equivalent per USD,Normal value,Units,2023,,1.5e-05

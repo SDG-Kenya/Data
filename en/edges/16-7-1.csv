@@ -2,6 +2,4 @@ From,To
 Sex,Time period details
 Occupation,Age
 Occupation,Disability status
-SOURCE_DETAIL,Occupation
-Time period details,SOURCE_DETAIL
-SOURCE_DETAIL,COMMENT_OBS
+Time period details,Occupation

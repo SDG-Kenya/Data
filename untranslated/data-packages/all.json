@@ -79,16 +79,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Access to a handwashing station with soap and water at home",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -179,16 +169,6 @@
             "constraints": {
               "enum": [
                 "2021",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya National Disaster Operations Centre (NDOC)",
                 ""
               ]
             }
@@ -289,16 +269,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya National Disaster Operations Centre (NDOC)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -389,16 +359,6 @@
             "constraints": {
               "enum": [
                 "2021",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya National Disaster Operations Centre (NDOC)",
                 ""
               ]
             }
@@ -510,26 +470,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tertiary Education Gross Enrolment Rates (Population Age 18-22 Years)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019:  KPHC",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -624,16 +564,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -765,28 +695,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1. Figures are for physical or Sexual or physchological from Table 17.13.1 in 2022 KDHS vol 1 report 2.Indicator to be run for physical, sexual and/or psychological IPV (Data request done to Waweru)",
-                "1. Figures are for physical or Sexual from Table 17.13.1 in 2022 KDHS vol 1 report 2.Indicator to be run for physical and/or sexual IPV (Data request done to Waweru)",
-                "Covers women 15-49 years",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -897,27 +805,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016: Share of  households with legal documents of agricultural (crop only) land by sex of the household head 2022 KDHS Did not measure tenure system",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016:  KIHBS",
-                "2022 KCHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1010,26 +897,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "At least basic service which includes basic  and safely managed drinking water services",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: KDHS,   2016: KIHBS,  2022:KDHS",
                 ""
               ]
             }
@@ -1134,30 +1001,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "At least basic sanitation services which includes basic and safely managed sanitation services",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: KDHS,   2016: KIHBS,  2022:KDHS",
-                "2014: KDHS",
-                "2014: KDHS,     2016: KIHBS                2022: KDHS",
-                "2014: KDHS,      2016: KIHBS                2022: KDHS",
-                "2014: KDHS,        2016: KIHBS                2022: KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1238,16 +1081,6 @@
             "constraints": {
               "enum": [
                 "2021",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MWIS--SDG pilot Report",
                 ""
               ]
             }
@@ -1355,16 +1188,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: KDHS                 2016: KIHBS                 2018:                            2019: KPHC                 2020: KCHS                2021: KCHS                2022 KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1464,26 +1287,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Refers to percentage of Households/population using 'clean energy' for cooking which includes only Electricity, LPG, biogas & solar;",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: KDHS                  2016: KIHBS                2018:                            2019: KPHC                 2020: KCHS                2021: KCHS              2022 KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1565,26 +1368,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Used growth of accommodation and food services activity as a proxy",
                 ""
               ]
             }
@@ -1692,28 +1475,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data collected from Kenya seaward border points for foreigners",
-                "Figures represent value of output of passengers/ freight",
-                "Data from Mombasa, Lamu and Kisumu ports",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1796,26 +1557,6 @@
             "constraints": {
               "enum": [
                 "2016",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2015/16:  Fiscal Incidence, Inequality And Poverty In Kenya Report based on KIHBS",
                 ""
               ]
             }
@@ -1904,28 +1645,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total cost of the transaction in percentage for sending US$ 200 to Kenya;",
-                "External Grants",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org\"",
-                "KNBS, Economic Survey Report (Several  editions)",
                 ""
               ]
             }
@@ -2021,21 +1740,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of urban population living in a household that lacks one of the four housing conditions",
-                "Proportion of urban population living in a household that lacks two of the four housing conditions",
-                "Proportion of urban population living in a household that three of the four housing conditions",
-                "Proportion of urban population living in a household that lacks all the four housing conditions",
-                "Proportion of urban population lacking at least one of the one of the four housing conditions (Access to improved water; Access to improved sanitation facilities; Sufficient-living area, not overcrowded;housing durability)",
-                "Proportion of urban population living in informal settlements",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2116,26 +1820,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya is a signatory to 4 Multilateral Environmental Agreements (MEAs) namely; 1.United Nations Convention on Biological Diversity (UNCBD); 2.United Nations Framework Convention on Climate Change (UNFCCC);  3.United Nations Convention on Combating Desertification (UNCCD);  4. Stockholm Convention on Persistent Organic Pollutants (POPs).  Kenya  implements these MEAs  and provides further information on each of them.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "https://meas.nema.go.ke/",
                 ""
               ]
             }
@@ -2226,16 +1910,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National Climate Change Response Strategy 2010; National Climate Change Action Plan 2018-2022; Kenya Independent Nationally Determined Contribution(INDC) 2015; The Climate Change Act 2016; National Climate Change Framework policy 2016; Kenya National Adaptation Plan 2015-2030.",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2321,16 +1995,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ministry of Enviroment",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2411,26 +2075,6 @@
             "constraints": {
               "enum": [
                 "2017",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Elephants Ivory and Rhino horns",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KWS",
                 ""
               ]
             }
@@ -2606,26 +2250,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Elephants Ivory and Rhino horns",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KWS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2733,26 +2357,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "To be run for population aged 15 to 59 from 2022 KDHS",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2835,16 +2439,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -2984,28 +2578,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Parliamentary Service Commision; Council of Governors",
-                "Judiciary, SOJAR Report",
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Include both elected and nominated seats",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3092,26 +2664,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data was collected from 5 institutions dealing with Human Rights Defenders and Journalists : KNCHR; International Land Coalition; Defenders Coalition/Social Justice Centers Working Group; MUHURI; and Media Council of Kenya and verified by a committee led by KNCHR and KNBS",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KNCHR",
                 ""
               ]
             }
@@ -3206,26 +2758,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total national revenue ( Including grants. GDP used is at market price.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3310,26 +2842,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total Expenditures  with net acquisition of non financial assets",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -3535,40 +3047,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                "Treasury, Economic Survey",
-                "CBK",
-                "KPHC 2019, KCHSP 2020, KCHSP 2021",
-                "KNBS",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Include debt service of IMF(repayments, repurchases and charges)",
-                "End Period Annual Average",
-                "Terms of Trade for all items",
-                "Overall Fiscal Balances is taken to be equivalent to Net lending/ borrowing .GDP at Current Market price",
-                "BOP",
-                "GDP at Current Market price",
-                "Include private external debt",
-                "Base; Feb 2019=100",
-                "NationalTax revenue. GDP at Current Market price",
-                "Includes private final consumption and final consumption by NPISH",
-                "This includes Gross Fixed Capital Formation and Changes in Inventories",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3737,29 +3215,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Birth registration",
-                "Death registration",
-                "KPHC conducted in 2009 and 2019",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019: KPHC, Others: Civil Registration Services",
-                "KNBS",
                 ""
               ]
             }
@@ -4020,16 +3475,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4127,16 +3572,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016:  KIHBS               2020: Covid Wave 2       2021:  KCHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4222,16 +3657,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4312,26 +3737,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Balance of payments",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -4502,26 +3907,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "AIA, loans and grants to livestock,crop and fisheries, aquatic and blue economy",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "External revenue estimates handbook - Agriculture",
                 ""
               ]
             }
@@ -4867,26 +4252,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual External debt service",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4967,26 +4332,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Modern energy only",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -5077,26 +4422,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total installed capacity minus thermal = renewable energy",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5182,26 +4507,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total installed capacity minus thermal = renewable energy",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5282,26 +4587,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Formal final energy consumption only.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -5478,16 +4763,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MWIS/UN WATER",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5576,16 +4851,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MWIS/UN WATER",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5666,26 +4931,6 @@
             "constraints": {
               "enum": [
                 "2017",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Harzadous waste from industries used  as a proxy for all harzadous waste.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019:  CIP",
                 ""
               ]
             }
@@ -5790,26 +5035,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DEGURBA tool was used to generate the  gridded population and the updated urban extents. These were data input for computing the ratio of LCR/PGR. The study period was between 2009 and 2020 based on data availability.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population data and Satellite Imagery i.e. Landsat datasets",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "string"
           },
@@ -5890,16 +5115,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KMFRI",
                 ""
               ]
             }
@@ -6004,19 +5219,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kisumu County",
-                "Mombasa County",
-                "Nairobi City County",
-                "Nakuru Coutny",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "string"
           },
@@ -6097,16 +5299,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Value Added marine Fisheries used as a proxy",
                 ""
               ]
             }
@@ -6211,19 +5403,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kisumu County",
-                "Mombasa County",
-                "Nairobi City County",
-                "Nakuru Coutny",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "string"
           },
@@ -6304,16 +5483,6 @@
             "constraints": {
               "enum": [
                 "2020",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MWIS/UN WATER",
                 ""
               ]
             }
@@ -6416,16 +5585,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MWIS/UN WATER",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -6506,16 +5665,6 @@
             "constraints": {
               "enum": [
                 "2019",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KARLO",
                 ""
               ]
             }
@@ -6606,16 +5755,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MWIS--SDG pilot Report",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -6696,26 +5835,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fish landed from freshwater bodies and marine is used as a proxy",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey Report",
                 ""
               ]
             }
@@ -6806,16 +5925,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MWIS/UN WATER",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -6896,16 +6005,6 @@
             "constraints": {
               "enum": [
                 "2021",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ministry of Water, Sanitation and Irrigation, UN Water , FAO",
                 ""
               ]
             }
@@ -6996,16 +6095,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ministry of Water, Sanitation and Irrigation, UN Water , FAO",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -7091,16 +6180,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KWS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -7181,16 +6260,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KMFRI",
                 ""
               ]
             }
@@ -7282,16 +6351,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KWS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -7374,16 +6433,6 @@
               "enum": [
                 "2023",
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "CBK, KNBS",
                 ""
               ]
             }
@@ -7510,26 +6559,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Only applies to 18 and above. Includes acess to Formal Prudential, non-pridential and formal registered financial institution.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FinAcces Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -7610,26 +6639,6 @@
             "constraints": {
               "enum": [
                 "2016",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Imputed from the MSME 2016 data",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016 : MSME",
                 ""
               ]
             }
@@ -7726,16 +6735,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "CBK",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -7816,16 +6815,6 @@
             "constraints": {
               "enum": [
                 "2019",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019 : KPHC",
                 ""
               ]
             }
@@ -7916,16 +6905,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Refers to Public Expenditure on Recreation, Culture and Religion",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -8006,26 +6985,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "The indicator is derived from GDP at current prices by the Kenya National Bureau of Statistics. Public expenditure on research and development is collected from different MDAs as reported from IFMIS system.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "The National Treasury, KNBS_IFMIS data",
                 ""
               ]
             }
@@ -8137,16 +7096,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2010: Manpower Survey, 2016: KIHBS, 2019: KPHC, 2021: KCHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -8229,16 +7178,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -8351,16 +7290,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2010: ICT  Survey, 2016:  KIHBS, 2019: KPHC, , ,",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -8461,16 +7390,6 @@
               "enum": [
                 "2023",
                 "2018",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -8608,16 +7527,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Population aged 3 years and above",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -8698,26 +7607,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data captured is on the proportion who were asked to pay bribes, those expected to pay bribes and those who offered to pay bribes",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EACC; National Ethics and Corruption Survey Reports, 2021-2023",
                 ""
               ]
             }
@@ -8810,27 +7699,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "As a proportion of GDP",
-                "Per capita",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -8916,16 +7784,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KNBS : National Accounts",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -9006,16 +7864,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -9127,28 +7975,6 @@
             "constraints": {
               "enum": [
                 "2019",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "An individual is considered to be multi-dimensionally poor if she/he was deprived in 3 or more dimensions out of the 5 or 6 analysed (depending on the age group), based on Multiple Overlapping Deprivation Analysis (MODA) methodology",
-                "Based on KDHS 2014 data",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: Kenya Child Poverty Study (KNBS & Unicef)                       2019: Inequalities in Wellbeing in Kenya based on 2009 and 2019 KPHC-MODA Methodology",
-                "2014: KDHS",
                 ""
               ]
             }
@@ -9336,27 +8162,6 @@
                 "2023",
                 "2020",
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of Secondary Schools with access to Electricity.",
-                "Proportion of Schools with access to Electricity.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Basic Education Statistical Booklets",
                 ""
               ]
             }
@@ -9566,26 +8371,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Early Childhood Development (ECD) Net Enrolment Ratios (36 - 59 months)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey       Basic Statistical Booklets                2019: KPHC               2022: KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -9699,26 +8484,6 @@
             "constraints": {
               "enum": [
                 "2019",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2019: KPHC",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data indicated earlier was for Gross Intake Ratio to Last Grade of Primary Education. Also known as Primary Completion Rate (PCR)",
                 ""
               ]
             }
@@ -9851,20 +8616,6 @@
                 "2023",
                 "2018",
                 "2019",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Basic Education Statistics Booklet, 2015: Uwezo Kenya Sixth Learning Assessment Report, Monitoring Learner Achievement at Grade 2 Level of Primary School Education in Kenya: Early Grade Mathematics",
-                "2015: Uwezo Kenya Sixth Learning Assessment Report",
-                "Monitoring Learner Achievement at Form 2 Level of Secondary Education in Kenya: A Baseline Report; KNEC",
-                "Basic Education Statistics Booklet",
-                "Basic Education Statistics Booklet, Assessments for Minimum profficiency Levels a and b(AMPL-ab)",
                 ""
               ]
             }
@@ -10052,16 +8803,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Companies Act 2015, National Investment Policy, Tax Laws(amended) Bill (2018), Finance Act (2018), County Investment Handbook (2019), Economic Partnership Agreement, The Investment Promotion (Amendment) Bill 2020, Investment Climate Statement-Kenya, The Public-Private Partnership Act, 2021",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -10142,26 +8883,6 @@
             "constraints": {
               "enum": [
                 "2021",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya Citizenship and Immigration Regulation 2013",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Directorate on Immigration Services website",
                 ""
               ]
             }
@@ -10252,26 +8973,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National Disaster Reduction Strategy & Policy 2010, National Disaster Preparedness and Response Strategies",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya National Disaster Operations Centre (NDOC)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -10352,26 +9053,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National Disaster Reduction Strategy & Policy 2010, National Disaster Preparedness and Response Strategies",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya National Disaster Operations Centre (NDOC)",
                 ""
               ]
             }
@@ -10462,26 +9143,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National Disaster Reduction Strategy & Policy 2010, National Disaster Preparedness and Response Strategies",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya National Disaster Operations Centre (NDOC)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -10562,26 +9223,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2017: 11 out of 47 Counties                     2019: 29 out of 47 Counties                  2022: 38 out  of 47 counties",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya National Disaster Operations Centre (NDOC)",
                 ""
               ]
             }
@@ -10672,26 +9313,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2017: 11 out of 47 Counties                     2019: 29 out of 47 Counties                  2022: 38 out  of 47 counties",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya National Disaster Operations Centre (NDOC)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -10772,26 +9393,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2017: 11 out of 47 Counties                     2019: 29 out of 47 Counties                  2022: 38 out  of 47 counties",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya National Disaster Operations Centre (NDOC)",
                 ""
               ]
             }
@@ -10905,26 +9506,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Include both elected and nominated seats",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -11005,16 +9586,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Constitution of Kenya 2010; The Access to Information Act, 2016",
                 ""
               ]
             }
@@ -11106,26 +9677,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ministry of Foreign and Diaspora Affairs",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -11207,26 +9758,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kenya is a Member 11 institutions (UNGA, ECOSOC, IMF, IBRD, IFC, AfDB, WTO, FSB, ADB,IDB,UNAC.    63.6 per cent shows 7/11 institutions while 72.7 per cent shows 8/11 institutions",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ministry of Foreign and Diaspora Affairs",
                 ""
               ]
             }
@@ -11339,26 +9870,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Registration here refers to those whose birth was notified",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KPHC, MOH , Civil Registration",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -11439,16 +9950,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Green Economy Strategy and Implementation Plan (GESIP 2016-2030)",
                 ""
               ]
             }
@@ -11539,16 +10040,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Low level of implementation of the Sustainable Public Procurement (SPP) policies",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -11629,26 +10120,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Statistics Act, 2006",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KNBS",
                 ""
               ]
             }
@@ -11739,26 +10210,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KNBS Strategic Plan                                      (2013-2017)                                         (2018-2022)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KNBS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -11842,16 +10293,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: KDHS, 2022: KDHS",
                 ""
               ]
             }
@@ -11964,16 +10405,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: KDHS, 2019 KPHC, 2022: KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -12076,16 +10507,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: KDHS , 2022: KDHS",
                 ""
               ]
             }
@@ -12213,16 +10634,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -12339,26 +10750,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Currently married women of age 15 - 49",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: KDHS , 2022: KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -12439,16 +10830,6 @@
             "constraints": {
               "enum": [
                 "2021",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MOH",
                 ""
               ]
             }
@@ -12546,16 +10927,6 @@
               "enum": [
                 "2019",
                 "2018",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2018:  KENPHIA        2019:  KASF II",
                 ""
               ]
             }
@@ -12660,26 +11031,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sourced from the Health Regulatory Bodies in Kenya",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -12771,26 +11122,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: Male 15-54 years                                       2014: Female 15-49 years 2015: 18-69 years",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014:  KDHS                2015:  STEPS Survey, 2022: TADSAS",
                 ""
               ]
             }
@@ -12899,16 +11230,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: KDHS              2016: KIHBS, 2022: KDHS",
                 ""
               ]
             }
@@ -13036,16 +11357,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -13126,16 +11437,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Division of National Malaria Programme (DNMP), MoH",
                 ""
               ]
             }
@@ -13253,26 +11554,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deaths due to maternal deaths (complications from pregnancy or childbirth) per 100,000 live births",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: KDHS              2019: KPHC",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -13353,16 +11634,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Civil Registration Services",
                 ""
               ]
             }
@@ -13475,16 +11746,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014:  KDHS                   2016:  KIHBS , 2022: KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -13565,16 +11826,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -13688,16 +11939,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014:  KDHS                   2016:  KIHBS , 2022: KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -13778,16 +12019,6 @@
             "constraints": {
               "enum": [
                 "2016",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016: Kenya Tuberculosis Survey",
                 ""
               ]
             }
@@ -13874,26 +12105,6 @@
             "constraints": {
               "enum": [
                 "2018",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Inpatient and Outpatient expenses",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016: KIHBS,             2018:  KHHEUS",
                 ""
               ]
             }
@@ -13992,27 +12203,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beneficiary Households",
-                "Older Persons aged 70+ on Cash Transfer Programme",
                 ""
               ]
             }
@@ -14119,31 +12309,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                "2023 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                "2021 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                "2024 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                "2022 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                "2025 growth rate is over a 5-year period from 2015/16 and the 2021 growth rate is annual",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016: KIHBS                             2019-2022: KCHS",
                 ""
               ]
             }
@@ -14272,26 +12437,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2015/16 National median per capita expenditure: KSh4,029",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016: KIHBS                 2019-22: KCHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -14383,26 +12528,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "At 2.5 USD per day(2017 PPP terms)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "World Bank/KCHS",
                 ""
               ]
             }
@@ -14532,26 +12657,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Refers to individuals",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016: KIHBS                2019 - 2022: KCHSP",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -14673,26 +12778,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data available is for individuals aged 15 years and above",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2021 Time Use Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -14773,26 +12858,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Compensation of employees/GDP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -14883,26 +12948,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Employment excludes small scale farming and pastoralist activities.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -14988,16 +13033,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -15078,26 +13113,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "CBAs - Collective Bargaining Agreements used as a proxy",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -15224,26 +13239,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Refers to working children",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014:  KDHS               2016:  KIHBS                  2019:  KPHC , 2020:  KCHS, 2021:  KCHS, 2022:  KCHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -15324,26 +13319,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Formal sector",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -15451,26 +13426,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Refers to 15-34 years",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016:   KIHBS           2019:   KPHC , 2020:  KCHS, 2021 KCHS, 2022 KCHS",
                 ""
               ]
             }
@@ -15602,16 +13557,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014:  KDHS               2016:  KIHBS           2019:  KPHC              2020:  KCHS              2021:  KCHS                    2022       KCHS, ,",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -15692,26 +13637,6 @@
             "constraints": {
               "enum": [
                 "2021",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "To ask for data from Kenya Police to validate",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "International Organisation of Migrants (https://missingmigrants.iom.int/downloads)",
                 ""
               ]
             }
@@ -15813,17 +13738,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016:  KIHBS, 2019-21: KCHS",
-                "2016:  KIHBS , 2019-21: KCHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -15904,26 +13818,6 @@
             "constraints": {
               "enum": [
                 "2015",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Waiting for 2024/25 KIHBS",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016 : KIHBS",
                 ""
               ]
             }
@@ -16035,17 +13929,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                "2014: KDHS        Economic Survey , 2022: KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -16137,16 +14020,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2014: KDHS                  2018: PMA                    2022: KDHS",
                 ""
               ]
             }
@@ -16258,26 +14131,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of total adult women aged (18+ years) with legally recognized documentation",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2022 KCHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -16363,26 +14216,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Note that the data was collected for 2021/22 FY",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EACC; National Ethics and Corruption Survey Report, 2021-2023",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -16463,26 +14296,6 @@
             "constraints": {
               "enum": [
                 "2019",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Includes tarmac, graded, gravelled and earth-maintained roads in rural areas",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016 : KIHBS                          2019: KPHC",
                 ""
               ]
             }
@@ -16672,16 +14485,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Customs Authority",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -16767,26 +14570,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Values refer to Kenya's exports",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -16867,26 +14650,6 @@
             "constraints": {
               "enum": [
                 "2023",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Firearms recovered and surrendered",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
                 ""
               ]
             }
@@ -17001,26 +14764,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data on victims by sex and age is awaiting validation",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -17117,16 +14860,6 @@
             }
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Economic Survey",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -17207,26 +14940,6 @@
             "constraints": {
               "enum": [
                 "2016",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Waiting for Analysis of 2024 Kenya Housing Survey",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2016 : KIHBS",
                 ""
               ]
             }
@@ -17354,26 +15067,6 @@
             }
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Covers 15-49 years years",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KDHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -17465,16 +15158,6 @@
             "constraints": {
               "enum": [
                 "2022",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "KDHS",
                 ""
               ]
             }

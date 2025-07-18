@@ -1,5 +1,5 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2019,Participation rate in formal education and training,,,,Percent,Normal value,Units,2019,Tertiary Education Gross Enrolment Rates (Population Age 18-22 Years),2019:  KPHC,,21.9
-2019,Participation rate in formal education and training,,,Rural,Percent,Normal value,Units,2019,Tertiary Education Gross Enrolment Rates (Population Age 18-22 Years),2019:  KPHC,,14.6
-2019,Participation rate in formal education and training,,,Urban,Percent,Normal value,Units,2019,Tertiary Education Gross Enrolment Rates (Population Age 18-22 Years),2019:  KPHC,,20.4
-2019,Participation rate in formal education and training,,Female,,Percent,Normal value,Units,2019,Tertiary Education Gross Enrolment Rates (Population Age 18-22 Years),2019:  KPHC,,23.5
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2019,Participation rate in formal education and training,,,,Percent,Normal value,Units,2019,,21.9
+2019,Participation rate in formal education and training,,,Rural,Percent,Normal value,Units,2019,,14.6
+2019,Participation rate in formal education and training,,,Urban,Percent,Normal value,Units,2019,,20.4
+2019,Participation rate in formal education and training,,Female,,Percent,Normal value,Units,2019,,23.5

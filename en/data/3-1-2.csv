@@ -1,19 +1,19 @@
-Year,SERIES,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
-2014,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,61.8
-2016,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,70.2
-2022,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,89.3
-2014,Proportion of births attended by skilled health personnel [3.1.2],,,Rural,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,50.4
-2016,Proportion of births attended by skilled health personnel [3.1.2],,,Rural,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,61.1
-2022,Proportion of births attended by skilled health personnel [3.1.2],,,Rural,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,84.8
-2014,Proportion of births attended by skilled health personnel [3.1.2],,,Urban,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,82.4
-2016,Proportion of births attended by skilled health personnel [3.1.2],,,Urban,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,87.5
-2022,Proportion of births attended by skilled health personnel [3.1.2],,,Urban,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,97.3
-2014,Proportion of births attended by skilled health personnel [3.1.2],,15 to 19 years old,,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,62.1
-2016,Proportion of births attended by skilled health personnel [3.1.2],,15 to 19 years old,,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,76.2
-2022,Proportion of births attended by skilled health personnel [3.1.2],,15 to 19 years old,,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,88.1
-2014,Proportion of births attended by skilled health personnel [3.1.2],,20-34,,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,63.1
-2016,Proportion of births attended by skilled health personnel [3.1.2],,20-34,,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,72.6
-2022,Proportion of births attended by skilled health personnel [3.1.2],,20-34,,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,90.2
-2014,Proportion of births attended by skilled health personnel [3.1.2],,35 to 49 years old,,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,53.9
-2016,Proportion of births attended by skilled health personnel [3.1.2],,35 to 49 years old,,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,63.2
-2022,Proportion of births attended by skilled health personnel [3.1.2],,35 to 49 years old,,Percent,Normal value,Units,2022,"2014: KDHS              2016: KIHBS, 2022: KDHS",,85.2
+Year,SERIES,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2014,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,Normal value,Units,2022,,61.8
+2016,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,Normal value,Units,2022,,70.2
+2022,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,Normal value,Units,2022,,89.3
+2014,Proportion of births attended by skilled health personnel [3.1.2],,,Rural,Percent,Normal value,Units,2022,,50.4
+2016,Proportion of births attended by skilled health personnel [3.1.2],,,Rural,Percent,Normal value,Units,2022,,61.1
+2022,Proportion of births attended by skilled health personnel [3.1.2],,,Rural,Percent,Normal value,Units,2022,,84.8
+2014,Proportion of births attended by skilled health personnel [3.1.2],,,Urban,Percent,Normal value,Units,2022,,82.4
+2016,Proportion of births attended by skilled health personnel [3.1.2],,,Urban,Percent,Normal value,Units,2022,,87.5
+2022,Proportion of births attended by skilled health personnel [3.1.2],,,Urban,Percent,Normal value,Units,2022,,97.3
+2014,Proportion of births attended by skilled health personnel [3.1.2],,15 to 19 years old,,Percent,Normal value,Units,2022,,62.1
+2016,Proportion of births attended by skilled health personnel [3.1.2],,15 to 19 years old,,Percent,Normal value,Units,2022,,76.2
+2022,Proportion of births attended by skilled health personnel [3.1.2],,15 to 19 years old,,Percent,Normal value,Units,2022,,88.1
+2014,Proportion of births attended by skilled health personnel [3.1.2],,20-34,,Percent,Normal value,Units,2022,,63.1
+2016,Proportion of births attended by skilled health personnel [3.1.2],,20-34,,Percent,Normal value,Units,2022,,72.6
+2022,Proportion of births attended by skilled health personnel [3.1.2],,20-34,,Percent,Normal value,Units,2022,,90.2
+2014,Proportion of births attended by skilled health personnel [3.1.2],,35 to 49 years old,,Percent,Normal value,Units,2022,,53.9
+2016,Proportion of births attended by skilled health personnel [3.1.2],,35 to 49 years old,,Percent,Normal value,Units,2022,,63.2
+2022,Proportion of births attended by skilled health personnel [3.1.2],,35 to 49 years old,,Percent,Normal value,Units,2022,,85.2

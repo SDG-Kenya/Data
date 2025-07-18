@@ -1,11 +1,11 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,SOURCE_DETAIL,GeoCode,Value
-2014,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,Economic Survey,,84.7
-2015,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,Economic Survey,,81.6
-2016,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,Economic Survey,,81.9
-2017,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,Economic Survey,,82.2
-2018,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,Economic Survey,,82.6
-2019,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,Economic Survey,,83.0
-2020,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,Economic Survey,,83.4
-2021,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,Economic Survey,,83.3
-2022,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,Economic Survey,,83.4
-2023,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,Economic Survey,,85.0
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2014,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,,84.7
+2015,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,,81.6
+2016,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,,81.9
+2017,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,,82.2
+2018,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,,82.6
+2019,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,,83.0
+2020,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,,83.4
+2021,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,,83.3
+2022,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,,83.4
+2023,"Proportion of informal employment, by sector and sex - 13th ICLS [8.3.1]",,Percent,Normal value,Units,2023,,85.0

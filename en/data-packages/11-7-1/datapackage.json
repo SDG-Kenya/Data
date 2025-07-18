@@ -96,20 +96,6 @@
             "title": "Time period details"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kisumu County",
-                "Mombasa County",
-                "Nairobi City County",
-                "Nakuru Coutny",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"

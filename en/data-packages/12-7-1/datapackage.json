@@ -81,17 +81,6 @@
             "title": "Time period details"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Low level of implementation of the Sustainable Public Procurement (SPP) policies",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS"
-          },
-          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"

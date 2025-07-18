@@ -1,13 +1,13 @@
-Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,COMMENT_OBS,SOURCE_DETAIL,GeoCode,Value
-2016,Proportion of population below international poverty line [1.1.1],,,Percent,Normal value,Units,2022,At 2.5 USD per day(2017 PPP terms),World Bank/KCHS,,29.3
-2020,Proportion of population below international poverty line [1.1.1],,,Percent,Normal value,Units,2022,At 2.5 USD per day(2017 PPP terms),World Bank/KCHS,,35.2
-2021,Proportion of population below international poverty line [1.1.1],,,Percent,Normal value,Units,2022,At 2.5 USD per day(2017 PPP terms),World Bank/KCHS,,35.3
-2022,Proportion of population below international poverty line [1.1.1],,,Percent,Normal value,Units,2022,At 2.5 USD per day(2017 PPP terms),World Bank/KCHS,,35.0
-2016,Proportion of population below international poverty line [1.1.1],,Rural,Percent,Normal value,Units,2022,At 2.5 USD per day(2017 PPP terms),World Bank/KCHS,,37.2
-2020,Proportion of population below international poverty line [1.1.1],,Rural,Percent,Normal value,Units,2022,At 2.5 USD per day(2017 PPP terms),World Bank/KCHS,,45.3
-2021,Proportion of population below international poverty line [1.1.1],,Rural,Percent,Normal value,Units,2022,At 2.5 USD per day(2017 PPP terms),World Bank/KCHS,,45.5
-2022,Proportion of population below international poverty line [1.1.1],,Rural,Percent,Normal value,Units,2022,At 2.5 USD per day(2017 PPP terms),World Bank/KCHS,,46.0
-2016,Proportion of population below international poverty line [1.1.1],,Urban,Percent,Normal value,Units,2022,At 2.5 USD per day(2017 PPP terms),World Bank/KCHS,,9.6
-2020,Proportion of population below international poverty line [1.1.1],,Urban,Percent,Normal value,Units,2022,At 2.5 USD per day(2017 PPP terms),World Bank/KCHS,,13.6
-2021,Proportion of population below international poverty line [1.1.1],,Urban,Percent,Normal value,Units,2022,At 2.5 USD per day(2017 PPP terms),World Bank/KCHS,,13.6
-2022,Proportion of population below international poverty line [1.1.1],,Urban,Percent,Normal value,Units,2022,At 2.5 USD per day(2017 PPP terms),World Bank/KCHS,,11.6
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
+2016,Proportion of population below international poverty line [1.1.1],,,Percent,Normal value,Units,2022,,29.3
+2020,Proportion of population below international poverty line [1.1.1],,,Percent,Normal value,Units,2022,,35.2
+2021,Proportion of population below international poverty line [1.1.1],,,Percent,Normal value,Units,2022,,35.3
+2022,Proportion of population below international poverty line [1.1.1],,,Percent,Normal value,Units,2022,,35.0
+2016,Proportion of population below international poverty line [1.1.1],,Rural,Percent,Normal value,Units,2022,,37.2
+2020,Proportion of population below international poverty line [1.1.1],,Rural,Percent,Normal value,Units,2022,,45.3
+2021,Proportion of population below international poverty line [1.1.1],,Rural,Percent,Normal value,Units,2022,,45.5
+2022,Proportion of population below international poverty line [1.1.1],,Rural,Percent,Normal value,Units,2022,,46.0
+2016,Proportion of population below international poverty line [1.1.1],,Urban,Percent,Normal value,Units,2022,,9.6
+2020,Proportion of population below international poverty line [1.1.1],,Urban,Percent,Normal value,Units,2022,,13.6
+2021,Proportion of population below international poverty line [1.1.1],,Urban,Percent,Normal value,Units,2022,,13.6
+2022,Proportion of population below international poverty line [1.1.1],,Urban,Percent,Normal value,Units,2022,,11.6

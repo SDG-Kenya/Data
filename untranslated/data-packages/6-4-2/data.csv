@@ -1,9 +1,9 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,SOURCE_DETAIL,GeoCode,Value
-2014,ER_H2O_STRESS,,PT,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,26.5
-2015,ER_H2O_STRESS,,PT,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,26.6
-2016,ER_H2O_STRESS,,PT,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,33.2
-2017,ER_H2O_STRESS,,PT,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,33.2
-2018,ER_H2O_STRESS,,PT,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,33.2
-2019,ER_H2O_STRESS,,PT,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,33.2
-2020,ER_H2O_STRESS,,PT,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,33.2
-2021,ER_H2O_STRESS,,PT,A,0,2021,"Ministry of Water, Sanitation and Irrigation, UN Water , FAO",,33.2
+Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,TIME_DETAIL,GeoCode,Value
+2014,ER_H2O_STRESS,,PT,A,0,2021,,26.5
+2015,ER_H2O_STRESS,,PT,A,0,2021,,26.6
+2016,ER_H2O_STRESS,,PT,A,0,2021,,33.2
+2017,ER_H2O_STRESS,,PT,A,0,2021,,33.2
+2018,ER_H2O_STRESS,,PT,A,0,2021,,33.2
+2019,ER_H2O_STRESS,,PT,A,0,2021,,33.2
+2020,ER_H2O_STRESS,,PT,A,0,2021,,33.2
+2021,ER_H2O_STRESS,,PT,A,0,2021,,33.2
