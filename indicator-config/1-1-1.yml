@@ -8,7 +8,7 @@ indicator_name: >-
 graph_title: >-
   Proportion of the population living below the international poverty line by
   sex, age, employment status and geographic location (urban/rural)
-national_geographical_coverage: Kanya
+national_geographical_coverage: Kenya
 computation_units: 2.5 USD per day(2017 PPP terms)
 data_footnote: 2.5 USD per day(2017 PPP terms)
 publications:
