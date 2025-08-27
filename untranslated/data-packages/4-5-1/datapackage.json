@@ -41,6 +41,7 @@
                 "_L_KE_3",
                 "_L_KE_4",
                 "_L_KE_6",
+                "_L_KE_7",
                 "ISCED11_02",
                 "ISCED11_1",
                 ""
@@ -82,7 +83,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             }

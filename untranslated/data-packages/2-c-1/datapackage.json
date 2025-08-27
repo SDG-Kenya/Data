@@ -19,6 +19,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "_L_KE_020C01_01",
+                "_L_KE_020C01_02",
+                "_L_KE_020C01_03",
+                "_L_KE_020C01_04",
+                "_L_KE_020C01_05",
                 "AG_FPA_COMM",
                 ""
               ]
@@ -38,7 +43,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "IX",
                 ""
               ]
             }
@@ -68,6 +73,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2024",
                 "2023",
                 ""
               ]

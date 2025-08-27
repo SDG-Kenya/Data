@@ -19,6 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "SE_ACS_CMPTR",
                 "SE_ACS_ELECT",
                 "SE_ACS_INTNT",
                 ""
@@ -80,9 +81,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2016",
+                "2024",
                 "2023",
-                "2020",
                 "2022",
                 ""
               ]

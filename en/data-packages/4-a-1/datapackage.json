@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",
                 "Proportion of schools with access to electricity, by education level [4.a.1]",
                 "Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",
                 ""
@@ -87,9 +88,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2016",
+                "2024",
                 "2023",
-                "2020",
                 "2022",
                 ""
               ]

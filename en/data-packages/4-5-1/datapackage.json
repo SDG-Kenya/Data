@@ -44,6 +44,7 @@
                 "Secondary",
                 "Middle-Level Colleges",
                 "University",
+                "Junior School",
                 "Pre-primary education",
                 "Primary education",
                 ""
@@ -89,7 +90,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
