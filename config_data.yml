@@ -104,7 +104,7 @@ translations:
   #- class: TranslationInputSdmx
   #  source: 'Kenya-SDG-DSD-1.0.xml'
   - class: TranslationInputSdmx
-    source: https://ke.sdmx.afdb.org/ns-ws/rest/datastructure/KE1/SDG/1.0/?detail=Full&references=Descendants
+    source: https://ke.sdmx.afdb.org/ns-ws/rest/dataflow/KE1/DF_SDG_KE/1.0/?detail=Full&references=Descendants
     request_params:
       headers:
         User-Agent: Open-SDG-Build-1
