@@ -36,7 +36,7 @@ placeholder: ''
 precision: []
 progress_calculation_options: {}
 progress_status: ''
-proxy: ''
+proxy: proxy
 proxy_series: []
 publications: []
 related_indicators: []
