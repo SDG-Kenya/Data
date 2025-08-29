@@ -21,13 +21,13 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: global_indicators.1-4-1-title
+graph_title: global_indicators.16-10-1-title
 graph_titles: []
 graph_type: line
 graph_types: []
 indicator_available: ''
-indicator_name: global_indicators.1-4-1-title
-indicator_number: 1.4.1
+indicator_name: global_indicators.16-10-1-title
+indicator_number: 16.10.1
 indicator_tabs: {}
 national_geographical_coverage: ''
 page_content: ''
@@ -38,8 +38,22 @@ progress_calculation_options: {}
 progress_status: ''
 proxy: both
 proxy_series:
-  - Proportion of population using basic hygiene services
-  - Proportion of population using clean fuels and technologies
+  - >-
+    Number of verified cases of killing, kidnapping, enforced disappearance,
+    arbitrary detention and torture of journalists, associated media personnel,
+    trade unionists and human rights advocates in the previous 12 months
+  - >-
+    Number of cases of kidnappings of human rights defenders, journalists and
+    trade unionists 
+  - >-
+    Number of cases of arbitrary detentions of human rights defenders,
+    journalists and trade unionists 
+  - >-
+    Number of cases of torture of human rights defenders, journalists and trade
+    unionists 
+  - >-
+    Number of cases of violations of human rights of human rights defenders,
+    journalists and trade unionists 
 publications: []
 related_indicators: []
 reporting_status: complete

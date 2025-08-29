@@ -21,13 +21,13 @@ graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_target_lines: []
-graph_title: global_indicators.1-4-1-title
+graph_title: global_indicators.17-1-1-title
 graph_titles: []
 graph_type: line
 graph_types: []
 indicator_available: ''
-indicator_name: global_indicators.1-4-1-title
-indicator_number: 1.4.1
+indicator_name: global_indicators.17-1-1-title
+indicator_number: 17.1.1
 indicator_tabs: {}
 national_geographical_coverage: ''
 page_content: ''
@@ -38,8 +38,10 @@ progress_calculation_options: {}
 progress_status: ''
 proxy: both
 proxy_series:
-  - Proportion of population using basic hygiene services
-  - Proportion of population using clean fuels and technologies
+  - 'Government revenue from domestic taxes as a proportion of GDP '
+  - 'Government revenue from social contributions as a proportion of GDP '
+  - 'Government revenue from grants as a proportion of GDP '
+  - Government revenue from  other sources as a proportion of GDP
 publications: []
 related_indicators: []
 reporting_status: complete
