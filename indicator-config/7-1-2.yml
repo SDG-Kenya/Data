@@ -39,6 +39,9 @@ progress_status: ''
 proxy: both
 proxy_series:
   - Proportion of household with primary reliance on clean fuels and technology
+  - >-
+    Proportion of household with primary reliance on clean fuels and technology
+    for cooking 
 publications: []
 related_indicators: []
 reporting_status: complete
