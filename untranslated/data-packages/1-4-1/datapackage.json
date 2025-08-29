@@ -20,7 +20,6 @@
             "constraints": {
               "enum": [
                 "_L_KE_010401_01",
-                "_L_KE_010401_02",
                 "_L_KE_010401_03",
                 "SP_ACS_BSRVH2O",
                 "SP_ACS_BSRVSAN",

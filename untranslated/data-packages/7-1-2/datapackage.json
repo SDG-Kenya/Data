@@ -20,7 +20,6 @@
             "constraints": {
               "enum": [
                 "_L_KE_070102_01",
-                "_L_KE_070102_02",
                 "EG_CFT_COOK",
                 "EG_EGY_CLEAN",
                 ""
