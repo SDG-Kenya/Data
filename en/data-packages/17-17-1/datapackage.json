@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_171701_01",
+                "Amount in United States dollars committed to public-private partnerships for infrastructure",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -34,7 +34,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "UNIT_MEASURE",
@@ -45,29 +45,29 @@
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "6",
+                "Millions",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

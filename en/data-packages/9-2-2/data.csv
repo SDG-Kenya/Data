@@ -1,12 +1,12 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,SL_TLF_MANF,,PT,A,0,,12.1
-2015,SL_TLF_MANF,,PT,A,0,,12.9
-2016,SL_TLF_MANF,,PT,A,0,,12.7
-2017,SL_TLF_MANF,,PT,A,0,,12.3
-2018,SL_TLF_MANF,,PT,A,0,,12.2
-2019,SL_TLF_MANF,,PT,A,0,,12.1
-2020,SL_TLF_MANF,,PT,A,0,,11.6
-2021,SL_TLF_MANF,,PT,A,0,,11.6
-2022,SL_TLF_MANF,,PT,A,0,,11.7
-2023,SL_TLF_MANF,,PT,A,0,,11.5
-2024,SL_TLF_MANF,,PT,A,0,,11.5
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,,12.1
+2015,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,,12.9
+2016,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,,12.7
+2017,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,,12.3
+2018,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,,12.2
+2019,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,,12.1
+2020,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,,11.6
+2021,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,,11.6
+2022,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,,11.7
+2023,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,,11.5
+2024,Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2],,Percent,Normal value,Units,,11.5

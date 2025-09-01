@@ -1,1 +1,4 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,66.9,,Normal value,Units,Percent,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1]
+2019,89.3,,Normal value,Units,Percent,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1]
+2022,76.0,,Normal value,Units,Percent,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1]

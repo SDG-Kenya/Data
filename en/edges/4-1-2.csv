@@ -1,5 +1,3 @@
 From,To
-UNIT_MULT,SEX
-UNIT_MULT,URBANISATION
-EDUCATION_LEV,OBS_STATUS
-OBS_STATUS,UNIT_MULT
+Education level,Sex
+Education level,Degree of urbanisation

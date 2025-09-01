@@ -1,1 +1,7 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2019,0.501433,,Normal value,Units,Index,Indicator of Food Price Anomalies - Millet
+2020,-0.338966,,Normal value,Units,Index,Indicator of Food Price Anomalies - Millet
+2021,0.102964,,Normal value,Units,Index,Indicator of Food Price Anomalies - Millet
+2022,0.01914,,Normal value,Units,Index,Indicator of Food Price Anomalies - Millet
+2023,-1.078283,,Normal value,Units,Index,Indicator of Food Price Anomalies - Millet
+2024,-0.153896,,Normal value,Units,Index,Indicator of Food Price Anomalies - Millet

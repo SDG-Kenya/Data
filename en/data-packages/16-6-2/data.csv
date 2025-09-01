@@ -1,7 +1,7 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2017,SP_PSR_SATIS,,PT,A,0,,59.4
-2018,SP_PSR_SATIS,,PT,A,0,,55.7
-2021,SP_PSR_SATIS,,PT,A,0,,44.0
-2022,SP_PSR_SATIS,,PT,A,0,,28.9
-2023,SP_PSR_SATIS,,PT,A,0,,40.0
-2024,SP_PSR_SATIS,,PT,A,0,,15.0
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2017,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,,59.4
+2018,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,,55.7
+2021,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,,44.0
+2022,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,,28.9
+2023,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,,40.0
+2024,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,,15.0

@@ -20,35 +20,35 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_171301_01",
-                "_L_KE_171301_02",
-                "_L_KE_171301_03",
-                "_L_KE_171301_04",
-                "_L_KE_171301_05",
-                "_L_KE_171301_06",
-                "_L_KE_171301_07",
-                "_L_KE_171301_08",
-                "_L_KE_171301_09",
-                "BN_CAB_XOKA_GD_ZS",
-                "BN_KLT_PTXL_CD",
-                "BX_KLT_DINV_WD_GD_ZS",
-                "DP_DOD_DLD2_CR_CG_Z1",
-                "DT_DOD_DECT_GN_ZS",
-                "FB_BNK_CAPA_ZS",
-                "FM_LBL_BMNY_IR_ZS",
-                "FM_LBL_BMNY_ZG",
-                "FP_CPI_TOTL_ZG",
-                "GC_TAX_TOTL_GD_ZS",
-                "NE_CON_GOVT_KD_ZG",
-                "NE_CON_PRVT_KD_ZG",
-                "NE_EXP_GNFS_KD_ZG",
-                "NE_GDI_TOTL_KD_ZG",
-                "NE_IMP_GNFS_KD_ZG",
-                "NY_GDP_MKTP_KD_ZG",
+                "Personal transfers, received (% of GDP)",
+                "Debt service on external debt, total (% exports and primary income)",
+                "Official exchange rate (LCU per US$, period average annual)",
+                "Commodity Prices (Export/import)",
+                "Bank nonperforming loans to total gross loans (%)",
+                "Overall Fiscal Balance (% of GDP):",
+                "Commodity Prices (Export/import)",
+                "Unemployment rate",
+                "Total reserves in months of imports",
+                "Current account balance as a proportion of GDP (%) [17.13.1]",
+                "Portfolio investment, net (Balance of Payments, current United States dollars) [17.13.1]",
+                "Foreign direct investment, net inflows, as a proportion of GDP (%) [17.13.1]",
+                "Gross public sector debt, Central Government, as a proportion of GDP (%) [17.13.1]",
+                "External debt stocks as a proportion of GNI (%) [17.13.1]",
+                "Bank capital to assets ratio (%) [17.13.1]",
+                "Broad money to total reserves ratio [17.13.1]",
+                "Annual broad money growth (%) [17.13.1]",
+                "Annual inflation, consumer prices (%) [17.13.1]",
+                "Tax revenue as a proportion of GDP (%) [17.13.1]",
+                "Annual growth of the general government final consumption expenditure (%) [17.13.1]",
+                "Annual growth of households and NPISHs final consumption expenditure [17.13.1]",
+                "Annual growth of exports of goods and services (%) [17.13.1]",
+                "Annual growth of the gross capital formation (%) [17.13.1]",
+                "Annual growth of imports of goods and services (%) [17.13.1]",
+                "Annual GDP growth (%) [17.13.1]",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -58,44 +58,44 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
-                "KES_TO_USD",
-                "IX",
-                "MO",
+                "Percent",
+                "Kenyan Shillings to US Dollars",
+                "Index",
+                "Months",
                 "USD",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

@@ -1,10 +1,10 @@
-Year,SERIES,REF_AREA,SEX,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,SH_PRV_SMOK,,,PT,A,0,,11.6
-2015,SH_PRV_SMOK,,,PT,A,0,,13.3
-2022,SH_PRV_SMOK,,,PT,A,0,,9.0
-2014,SH_PRV_SMOK,,F,PT,A,0,,4.5
-2015,SH_PRV_SMOK,,F,PT,A,0,,4.1
-2022,SH_PRV_SMOK,,F,PT,A,0,,2.0
-2014,SH_PRV_SMOK,,M,PT,A,0,,19.1
-2015,SH_PRV_SMOK,,M,PT,A,0,,23.0
-2022,SH_PRV_SMOK,,M,PT,A,0,,16.0
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,Percent,Normal value,Units,,11.6
+2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,Percent,Normal value,Units,,13.3
+2022,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,Percent,Normal value,Units,,9.0
+2014,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Female,Percent,Normal value,Units,,4.5
+2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Female,Percent,Normal value,Units,,4.1
+2022,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Female,Percent,Normal value,Units,,2.0
+2014,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Male,Percent,Normal value,Units,,19.1
+2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Male,Percent,Normal value,Units,,23.0
+2022,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Male,Percent,Normal value,Units,,16.0

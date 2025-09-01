@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SP_DYN_MRBF15",
-                "SP_DYN_MRBF18",
+                "Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1]",
+                "Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1]",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -35,51 +35,51 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "Female",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Percent",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

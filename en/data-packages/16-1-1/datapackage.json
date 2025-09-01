@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "VC_IHR_PSRC",
+                "Number of victims of intentional homicide per 100,000 population [16.1.1]",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -34,66 +34,66 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE60",
-                "Y0T17",
-                "Y18T25",
-                "Y25T59",
+                "60 years old and over",
+                "under 18 years old",
+                "18-25",
+                "25-59",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_POP",
+                "Per 100,000 population",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

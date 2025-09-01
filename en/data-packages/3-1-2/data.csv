@@ -1,19 +1,19 @@
-Year,SERIES,REF_AREA,AGE,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,SH_STA_BRTC,,,,PT,A,0,,61.8
-2016,SH_STA_BRTC,,,,PT,A,0,,70.2
-2022,SH_STA_BRTC,,,,PT,A,0,,89.3
-2014,SH_STA_BRTC,,,R,PT,A,0,,50.4
-2016,SH_STA_BRTC,,,R,PT,A,0,,61.1
-2022,SH_STA_BRTC,,,R,PT,A,0,,84.8
-2014,SH_STA_BRTC,,,U,PT,A,0,,82.4
-2016,SH_STA_BRTC,,,U,PT,A,0,,87.5
-2022,SH_STA_BRTC,,,U,PT,A,0,,97.3
-2014,SH_STA_BRTC,,Y15T19,,PT,A,0,,62.1
-2016,SH_STA_BRTC,,Y15T19,,PT,A,0,,76.2
-2022,SH_STA_BRTC,,Y15T19,,PT,A,0,,88.1
-2014,SH_STA_BRTC,,Y20T34,,PT,A,0,,63.1
-2016,SH_STA_BRTC,,Y20T34,,PT,A,0,,72.6
-2022,SH_STA_BRTC,,Y20T34,,PT,A,0,,90.2
-2014,SH_STA_BRTC,,Y35T49,,PT,A,0,,53.9
-2016,SH_STA_BRTC,,Y35T49,,PT,A,0,,63.2
-2022,SH_STA_BRTC,,Y35T49,,PT,A,0,,85.2
+Year,SERIES,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,Normal value,Units,,61.8
+2016,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,Normal value,Units,,70.2
+2022,Proportion of births attended by skilled health personnel [3.1.2],,,,Percent,Normal value,Units,,89.3
+2014,Proportion of births attended by skilled health personnel [3.1.2],,,Rural,Percent,Normal value,Units,,50.4
+2016,Proportion of births attended by skilled health personnel [3.1.2],,,Rural,Percent,Normal value,Units,,61.1
+2022,Proportion of births attended by skilled health personnel [3.1.2],,,Rural,Percent,Normal value,Units,,84.8
+2014,Proportion of births attended by skilled health personnel [3.1.2],,,Urban,Percent,Normal value,Units,,82.4
+2016,Proportion of births attended by skilled health personnel [3.1.2],,,Urban,Percent,Normal value,Units,,87.5
+2022,Proportion of births attended by skilled health personnel [3.1.2],,,Urban,Percent,Normal value,Units,,97.3
+2014,Proportion of births attended by skilled health personnel [3.1.2],,15 to 19 years old,,Percent,Normal value,Units,,62.1
+2016,Proportion of births attended by skilled health personnel [3.1.2],,15 to 19 years old,,Percent,Normal value,Units,,76.2
+2022,Proportion of births attended by skilled health personnel [3.1.2],,15 to 19 years old,,Percent,Normal value,Units,,88.1
+2014,Proportion of births attended by skilled health personnel [3.1.2],,20-34,,Percent,Normal value,Units,,63.1
+2016,Proportion of births attended by skilled health personnel [3.1.2],,20-34,,Percent,Normal value,Units,,72.6
+2022,Proportion of births attended by skilled health personnel [3.1.2],,20-34,,Percent,Normal value,Units,,90.2
+2014,Proportion of births attended by skilled health personnel [3.1.2],,35 to 49 years old,,Percent,Normal value,Units,,53.9
+2016,Proportion of births attended by skilled health personnel [3.1.2],,35 to 49 years old,,Percent,Normal value,Units,,63.2
+2022,Proportion of births attended by skilled health personnel [3.1.2],,35 to 49 years old,,Percent,Normal value,Units,,85.2

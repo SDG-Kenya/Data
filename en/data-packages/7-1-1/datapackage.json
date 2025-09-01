@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_070101_01",
-                "_L_KE_070101_02",
-                "_L_KE_070101_03",
-                "EG_ACS_ELEC",
+                "Proportion of household with access to electricity",
+                "Proportion of households with access to electricity (Grid and Solar Systems)",
+                "Proportion of population with access to electricity (Grid and Solar Systems)",
+                "Proportion of population with access to electricity [7.1.1]",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -37,52 +37,52 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "R",
-                "U",
+                "Rural",
+                "Urban",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Percent",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

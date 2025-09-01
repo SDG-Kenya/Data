@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SE_TRA_GRDL",
+                "Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -34,53 +34,53 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "AGG_2_3",
-                "ISCED11_02",
-                "ISCED11_1",
+                "Secondary education (lower and upper secondary education)",
+                "Pre-primary education",
+                "Primary education",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Education level"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Percent",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

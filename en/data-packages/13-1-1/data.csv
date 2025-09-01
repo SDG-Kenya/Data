@@ -1,47 +1,47 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2015,_L_KE_010501_01,,PER_1000000_POP,A,0,,3151
-2018,_L_KE_010501_01,,PER_1000000_POP,A,0,,3019
-2019,_L_KE_010501_01,,PER_1000000_POP,A,0,,2759
-2021,_L_KE_010501_01,,PER_1000000_POP,A,0,,2399
-2015,_L_KE_010501_02,,NUMBER,A,0,,1500000
-2018,_L_KE_010501_02,,NUMBER,A,0,,1401058
-2019,_L_KE_010501_02,,NUMBER,A,0,,1313374
-2021,_L_KE_010501_02,,NUMBER,A,0,,1192393
-2023,_L_KE_010501_02,,NUMBER,A,0,,655327
-2024,_L_KE_010501_02,,NUMBER,A,0,,471238
-2018,_L_KE_010501_03,,NUMBER,A,0,,269515
-2019,_L_KE_010501_03,,NUMBER,A,0,,396855
-2021,_L_KE_010501_03,,NUMBER,A,0,,158472
-2023,_L_KE_010501_03,,NUMBER,A,0,,109581
-2024,_L_KE_010501_03,,NUMBER,A,0,,58641
-2018,_L_KE_010501_04,,NUMBER,A,0,,1131300
-2019,_L_KE_010501_04,,NUMBER,A,0,,916115
-2021,_L_KE_010501_04,,NUMBER,A,0,,1033764
-2023,_L_KE_010501_04,,NUMBER,A,0,,545595
-2024,_L_KE_010501_04,,NUMBER,A,0,,412263
-2018,_L_KE_010501_06,,NUMBER,A,0,,269515
-2019,_L_KE_010501_06,,NUMBER,A,0,,396855
-2021,_L_KE_010501_06,,NUMBER,A,0,,158472
-2023,_L_KE_010501_06,,NUMBER,A,0,,109581
-2024,_L_KE_010501_06,,NUMBER,A,0,,58641
-2018,_L_KE_010501_07,,NUMBER,A,0,,1131300
-2019,_L_KE_010501_07,,NUMBER,A,0,,916115
-2021,_L_KE_010501_07,,NUMBER,A,0,,1033764
-2023,_L_KE_010501_07,,NUMBER,A,0,,545595
-2024,_L_KE_010501_07,,NUMBER,A,0,,412263
-2018,_L_KE_130101_03,,NUMBER,A,0,,187
-2019,_L_KE_130101_03,,NUMBER,A,0,,305
-2021,_L_KE_130101_03,,NUMBER,A,0,,139
-2023,_L_KE_130101_03,,NUMBER,A,0,,175
-2024,_L_KE_130101_03,,NUMBER,A,0,,315
-2018,VC_DSR_IJILN,,NUMBER,A,0,,56
-2019,VC_DSR_IJILN,,NUMBER,A,0,,82
-2021,VC_DSR_IJILN,,NUMBER,A,0,,17
-2024,VC_DSR_IJILN,,NUMBER,A,0,,188
-2019,VC_DSR_MISS,,NUMBER,A,0,,17
-2021,VC_DSR_MISS,,NUMBER,A,0,,1
-2018,VC_DSR_MORT,,NUMBER,A,0,,187
-2019,VC_DSR_MORT,,NUMBER,A,0,,305
-2021,VC_DSR_MORT,,NUMBER,A,0,,139
-2023,VC_DSR_MORT,,NUMBER,A,0,,151
-2024,VC_DSR_MORT,,NUMBER,A,0,,146
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2015,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",,Per million population,Normal value,Units,,3151
+2018,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",,Per million population,Normal value,Units,,3019
+2019,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",,Per million population,Normal value,Units,,2759
+2021,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",,Per million population,Normal value,Units,,2399
+2015,"Number of deaths, missing persons and directly affected persons attributed to disasters",,Number,Normal value,Units,,1500000
+2018,"Number of deaths, missing persons and directly affected persons attributed to disasters",,Number,Normal value,Units,,1401058
+2019,"Number of deaths, missing persons and directly affected persons attributed to disasters",,Number,Normal value,Units,,1313374
+2021,"Number of deaths, missing persons and directly affected persons attributed to disasters",,Number,Normal value,Units,,1192393
+2023,"Number of deaths, missing persons and directly affected persons attributed to disasters",,Number,Normal value,Units,,655327
+2024,"Number of deaths, missing persons and directly affected persons attributed to disasters",,Number,Normal value,Units,,471238
+2018,Number of households displaced as a result of disaster,,Number,Normal value,Units,,269515
+2019,Number of households displaced as a result of disaster,,Number,Normal value,Units,,396855
+2021,Number of households displaced as a result of disaster,,Number,Normal value,Units,,158472
+2023,Number of households displaced as a result of disaster,,Number,Normal value,Units,,109581
+2024,Number of households displaced as a result of disaster,,Number,Normal value,Units,,58641
+2018,Number of households affected by disaster,,Number,Normal value,Units,,1131300
+2019,Number of households affected by disaster,,Number,Normal value,Units,,916115
+2021,Number of households affected by disaster,,Number,Normal value,Units,,1033764
+2023,Number of households affected by disaster,,Number,Normal value,Units,,545595
+2024,Number of households affected by disaster,,Number,Normal value,Units,,412263
+2018,Number of persons displaced attributed to disasters,,Number,Normal value,Units,,269515
+2019,Number of persons displaced attributed to disasters,,Number,Normal value,Units,,396855
+2021,Number of persons displaced attributed to disasters,,Number,Normal value,Units,,158472
+2023,Number of persons displaced attributed to disasters,,Number,Normal value,Units,,109581
+2024,Number of persons displaced attributed to disasters,,Number,Normal value,Units,,58641
+2018,Number of directly affected persons attributed to disasters,,Number,Normal value,Units,,1131300
+2019,Number of directly affected persons attributed to disasters,,Number,Normal value,Units,,916115
+2021,Number of directly affected persons attributed to disasters,,Number,Normal value,Units,,1033764
+2023,Number of directly affected persons attributed to disasters,,Number,Normal value,Units,,545595
+2024,Number of directly affected persons attributed to disasters,,Number,Normal value,Units,,412263
+2018,"Number of deaths from disaster per 100,000 people",,Number,Normal value,Units,,187
+2019,"Number of deaths from disaster per 100,000 people",,Number,Normal value,Units,,305
+2021,"Number of deaths from disaster per 100,000 people",,Number,Normal value,Units,,139
+2023,"Number of deaths from disaster per 100,000 people",,Number,Normal value,Units,,175
+2024,"Number of deaths from disaster per 100,000 people",,Number,Normal value,Units,,315
+2018,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,Number,Normal value,Units,,56
+2019,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,Number,Normal value,Units,,82
+2021,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,Number,Normal value,Units,,17
+2024,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,Number,Normal value,Units,,188
+2019,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,Normal value,Units,,17
+2021,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,Normal value,Units,,1
+2018,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,Normal value,Units,,187
+2019,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,Normal value,Units,,305
+2021,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,Normal value,Units,,139
+2023,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,Normal value,Units,,151
+2024,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,Number,Normal value,Units,,146

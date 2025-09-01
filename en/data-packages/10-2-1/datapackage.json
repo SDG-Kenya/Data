@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SI_POV_50MI",
+                "Proportion of people living below 50 percent of median income [10.2.1]",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -34,81 +34,81 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE65",
-                "Y0T17",
-                "Y0T5",
-                "Y14T17",
-                "Y15T24",
-                "Y15T64",
-                "Y18T34",
-                "Y6T13",
+                "65 years old and over",
+                "under 18 years old",
+                "under 6 years old",
+                "14-17 years",
+                "15 to 24 years old",
+                "15 to 64 years old",
+                "18-34 years",
+                "6-13 years",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "B50",
+                "Bottom 50%",
                 ""
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "Income or wealth quantile"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Percent",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

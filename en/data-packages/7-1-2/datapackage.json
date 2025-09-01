@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_070102_01",
-                "EG_CFT_COOK",
-                "EG_EGY_CLEAN",
+                "Proportion of household with primary reliance on clean fuels and technology",
+                "Proportion of population with primary reliance on clean fuels and technology for cooking [7.1.2]",
+                "Proportion of population with primary reliance on clean fuels and technology [7.1.2]",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -36,52 +36,52 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "R",
-                "U",
+                "Rural",
+                "Urban",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Percent",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

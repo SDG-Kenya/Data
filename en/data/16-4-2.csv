@@ -1,12 +1,12 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,VC_ARM_SZTRACE,,NUMBER,A,0,,392
-2015,VC_ARM_SZTRACE,,NUMBER,A,0,,331
-2016,VC_ARM_SZTRACE,,NUMBER,A,0,,444
-2017,VC_ARM_SZTRACE,,NUMBER,A,0,,186
-2018,VC_ARM_SZTRACE,,NUMBER,A,0,,185
-2019,VC_ARM_SZTRACE,,NUMBER,A,0,,988
-2020,VC_ARM_SZTRACE,,NUMBER,A,0,,236
-2021,VC_ARM_SZTRACE,,NUMBER,A,0,,114
-2022,VC_ARM_SZTRACE,,NUMBER,A,0,,610
-2023,VC_ARM_SZTRACE,,NUMBER,A,0,,296
-2024,VC_ARM_SZTRACE,,NUMBER,A,0,,135
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]",,Number,Normal value,Units,,392
+2015,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]",,Number,Normal value,Units,,331
+2016,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]",,Number,Normal value,Units,,444
+2017,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]",,Number,Normal value,Units,,186
+2018,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]",,Number,Normal value,Units,,185
+2019,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]",,Number,Normal value,Units,,988
+2020,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]",,Number,Normal value,Units,,236
+2021,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]",,Number,Normal value,Units,,114
+2022,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]",,Number,Normal value,Units,,610
+2023,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]",,Number,Normal value,Units,,296
+2024,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments [16.4.2]",,Number,Normal value,Units,,135

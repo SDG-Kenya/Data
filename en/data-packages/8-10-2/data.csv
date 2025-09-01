@@ -1,42 +1,42 @@
-Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2016,FB_BNK_ACCSS,,,,,PT,A,0,,75.3
-2018,FB_BNK_ACCSS,,,,,PT,A,0,,81.0
-2019,FB_BNK_ACCSS,,,,,PT,A,0,,82.9
-2021,FB_BNK_ACCSS,,,,,PT,A,0,,83.7
-2024,FB_BNK_ACCSS,,,,,PT,A,0,,84.8
-2016,FB_BNK_ACCSS,,,,R,PT,A,0,,69.0
-2019,FB_BNK_ACCSS,,,,R,PT,A,0,,77.3
-2021,FB_BNK_ACCSS,,,,R,PT,A,0,,79.2
-2024,FB_BNK_ACCSS,,,,R,PT,A,0,,80.2
-2016,FB_BNK_ACCSS,,,,U,PT,A,0,,86.3
-2019,FB_BNK_ACCSS,,,,U,PT,A,0,,91.2
-2021,FB_BNK_ACCSS,,,,U,PT,A,0,,91.7
-2024,FB_BNK_ACCSS,,,,U,PT,A,0,,91.3
-2016,FB_BNK_ACCSS,,,Y_GE56,,PT,A,0,,62.2
-2019,FB_BNK_ACCSS,,,Y_GE56,,PT,A,0,,73.9
-2021,FB_BNK_ACCSS,,,Y_GE56,,PT,A,0,,78.9
-2024,FB_BNK_ACCSS,,,Y_GE56,,PT,A,0,,84.1
-2016,FB_BNK_ACCSS,,,Y18T25,,PT,A,0,,69.4
-2019,FB_BNK_ACCSS,,,Y18T25,,PT,A,0,,75.5
-2021,FB_BNK_ACCSS,,,Y18T25,,PT,A,0,,71.8
-2024,FB_BNK_ACCSS,,,Y18T25,,PT,A,0,,69.1
-2016,FB_BNK_ACCSS,,,Y26T35,,PT,A,0,,82.5
-2019,FB_BNK_ACCSS,,,Y26T35,,PT,A,0,,89.0
-2021,FB_BNK_ACCSS,,,Y26T35,,PT,A,0,,90.8
-2024,FB_BNK_ACCSS,,,Y26T35,,PT,A,0,,92.9
-2016,FB_BNK_ACCSS,,,Y36T45,,PT,A,0,,81.5
-2019,FB_BNK_ACCSS,,,Y36T45,,PT,A,0,,87.8
-2021,FB_BNK_ACCSS,,,Y36T45,,PT,A,0,,91.1
-2024,FB_BNK_ACCSS,,,Y36T45,,PT,A,0,,92.7
-2016,FB_BNK_ACCSS,,,Y46T55,,PT,A,0,,78.2
-2019,FB_BNK_ACCSS,,,Y46T55,,PT,A,0,,87.5
-2021,FB_BNK_ACCSS,,,Y46T55,,PT,A,0,,89.9
-2024,FB_BNK_ACCSS,,,Y46T55,,PT,A,0,,91.9
-2016,FB_BNK_ACCSS,,F,,,PT,A,0,,71.2
-2019,FB_BNK_ACCSS,,F,,,PT,A,0,,80.4
-2021,FB_BNK_ACCSS,,F,,,PT,A,0,,81.7
-2024,FB_BNK_ACCSS,,F,,,PT,A,0,,84.1
-2016,FB_BNK_ACCSS,,M,,,PT,A,0,,79.7
-2019,FB_BNK_ACCSS,,M,,,PT,A,0,,85.6
-2021,FB_BNK_ACCSS,,M,,,PT,A,0,,85.9
-2024,FB_BNK_ACCSS,,M,,,PT,A,0,,85.7
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2016,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,,,Percent,Normal value,Units,,75.3
+2018,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,,,Percent,Normal value,Units,,81.0
+2019,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,,,Percent,Normal value,Units,,82.9
+2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,,,Percent,Normal value,Units,,83.7
+2024,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,,,Percent,Normal value,Units,,84.8
+2016,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,,Rural,Percent,Normal value,Units,,69.0
+2019,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,,Rural,Percent,Normal value,Units,,77.3
+2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,,Rural,Percent,Normal value,Units,,79.2
+2024,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,,Rural,Percent,Normal value,Units,,80.2
+2016,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,,Urban,Percent,Normal value,Units,,86.3
+2019,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,,Urban,Percent,Normal value,Units,,91.2
+2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,,Urban,Percent,Normal value,Units,,91.7
+2024,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,,Urban,Percent,Normal value,Units,,91.3
+2016,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,56 years old and over,,Percent,Normal value,Units,,62.2
+2019,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,56 years old and over,,Percent,Normal value,Units,,73.9
+2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,56 years old and over,,Percent,Normal value,Units,,78.9
+2024,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,56 years old and over,,Percent,Normal value,Units,,84.1
+2016,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,18-25,,Percent,Normal value,Units,,69.4
+2019,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,18-25,,Percent,Normal value,Units,,75.5
+2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,18-25,,Percent,Normal value,Units,,71.8
+2024,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,18-25,,Percent,Normal value,Units,,69.1
+2016,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,26-35,,Percent,Normal value,Units,,82.5
+2019,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,26-35,,Percent,Normal value,Units,,89.0
+2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,26-35,,Percent,Normal value,Units,,90.8
+2024,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,26-35,,Percent,Normal value,Units,,92.9
+2016,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,36-45,,Percent,Normal value,Units,,81.5
+2019,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,36-45,,Percent,Normal value,Units,,87.8
+2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,36-45,,Percent,Normal value,Units,,91.1
+2024,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,36-45,,Percent,Normal value,Units,,92.7
+2016,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,46-55,,Percent,Normal value,Units,,78.2
+2019,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,46-55,,Percent,Normal value,Units,,87.5
+2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,46-55,,Percent,Normal value,Units,,89.9
+2024,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,,46-55,,Percent,Normal value,Units,,91.9
+2016,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,Female,,,Percent,Normal value,Units,,71.2
+2019,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,Female,,,Percent,Normal value,Units,,80.4
+2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,Female,,,Percent,Normal value,Units,,81.7
+2024,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,Female,,,Percent,Normal value,Units,,84.1
+2016,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,Male,,,Percent,Normal value,Units,,79.7
+2019,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,Male,,,Percent,Normal value,Units,,85.6
+2021,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,Male,,,Percent,Normal value,Units,,85.9
+2024,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,Male,,,Percent,Normal value,Units,,85.7

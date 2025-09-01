@@ -1,16 +1,16 @@
-Year,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,SH_STA_STNT,,,,PT,A,0,,26.0
-2016,SH_STA_STNT,,,,PT,A,0,,34.7
-2022,SH_STA_STNT,,,,PT,A,0,,17.6
-2014,SH_STA_STNT,,,R,PT,A,0,,29.1
-2016,SH_STA_STNT,,,R,PT,A,0,,36.7
-2022,SH_STA_STNT,,,R,PT,A,0,,20.3
-2014,SH_STA_STNT,,,U,PT,A,0,,19.8
-2016,SH_STA_STNT,,,U,PT,A,0,,25.2
-2022,SH_STA_STNT,,,U,PT,A,0,,12.1
-2014,SH_STA_STNT,,F,,PT,A,0,,22.3
-2016,SH_STA_STNT,,F,,PT,A,0,,31.5
-2022,SH_STA_STNT,,F,,PT,A,0,,15.6
-2014,SH_STA_STNT,,M,,PT,A,0,,29.7
-2016,SH_STA_STNT,,M,,PT,A,0,,37.9
-2022,SH_STA_STNT,,M,,PT,A,0,,19.6
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,Normal value,Units,,26.0
+2016,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,Normal value,Units,,34.7
+2022,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,Normal value,Units,,17.6
+2014,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,Normal value,Units,,29.1
+2016,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,Normal value,Units,,36.7
+2022,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,Normal value,Units,,20.3
+2014,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,Normal value,Units,,19.8
+2016,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,Normal value,Units,,25.2
+2022,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,Normal value,Units,,12.1
+2014,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,Normal value,Units,,22.3
+2016,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,Normal value,Units,,31.5
+2022,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,Normal value,Units,,15.6
+2014,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,Normal value,Units,,29.7
+2016,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,Normal value,Units,,37.9
+2022,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,Normal value,Units,,19.6

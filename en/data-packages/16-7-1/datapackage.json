@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -20,18 +20,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_160701_01",
-                "_L_KE_160701_02",
-                "_L_KE_160701_03",
-                "_L_KE_160701_04",
-                "_L_KE_160701_05",
-                "_L_KE_160701_06",
-                "_L_KE_160701_07",
-                "SG_DMK_PARLMP_UC",
+                "Ratio for female members of legislature compared to the  National distribution",
+                "Ratio for female members of judiciary compared to the  National distribution",
+                "Ratio for female members of legislature compared to the  National distribution, Senate",
+                "Ratio for female members of legislature compared to the  National distribution, Parliament",
+                "Ratio for female members of legislature compared to the  National distribution, County Assembly",
+                "Ratio for female members of legislature compared to the  National distribution, Speakers",
+                "Ratio for female members of legislature compared to the  National distribution, Clerks",
+                "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -41,86 +41,86 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "Female",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "Sex"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y18T44",
+                "18 to 44 years old",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "Age"
           },
           {
             "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCO08_2612",
-                "ISCO08_2619R",
+                "Judges",
+                "Registrars included in 2619 - Legal Professionals Not Elsewhere Classified",
                 ""
               ]
             },
-            "title": "OCCUPATION"
+            "title": "Occupation"
           },
           {
             "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "PD",
+                "Persons with disability",
                 ""
               ]
             },
-            "title": "DISABILITY_STATUS"
+            "title": "Disability status"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "RO",
-                "PT",
+                "Ratio",
+                "Percent",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

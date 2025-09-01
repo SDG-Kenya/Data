@@ -1,1 +1,6 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2019,0.554832,,Normal value,Units,Index,Indicator of Food Price Anomalies - Wheat
+2020,-0.295069,,Normal value,Units,Index,Indicator of Food Price Anomalies - Wheat
+2021,1.740646,,Normal value,Units,Index,Indicator of Food Price Anomalies - Wheat
+2022,3.534038,,Normal value,Units,Index,Indicator of Food Price Anomalies - Wheat
+2023,-0.336193,,Normal value,Units,Index,Indicator of Food Price Anomalies - Wheat

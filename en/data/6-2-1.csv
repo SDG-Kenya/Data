@@ -1,46 +1,46 @@
-Year,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,_L_KE_060201_01,,,PT,A,0,,22.7
-2016,_L_KE_060201_01,,,PT,A,0,,28.3
-2022,_L_KE_060201_01,,,PT,A,0,,38.2
-2024,_L_KE_060201_01,,,PT,A,0,,71.0
-2014,_L_KE_060201_01,,R,PT,A,0,,25.5
-2016,_L_KE_060201_01,,R,PT,A,0,,29.5
-2022,_L_KE_060201_01,,R,PT,A,0,,36.6
-2024,_L_KE_060201_01,,R,PT,A,0,,57.7
-2014,_L_KE_060201_01,,U,PT,A,0,,20.6
-2016,_L_KE_060201_01,,U,PT,A,0,,27.9
-2022,_L_KE_060201_01,,U,PT,A,0,,40.7
-2024,_L_KE_060201_01,,U,PT,A,0,,87.7
-2014,_L_KE_060201_02,,,PT,A,0,,16.6
-2016,_L_KE_060201_02,,,PT,A,0,,19.4
-2022,_L_KE_060201_02,,,PT,A,0,,51.0
-2024,_L_KE_060201_02,,,PT,A,0,,24.2
-2014,_L_KE_060201_02,,R,PT,A,0,,25.7
-2016,_L_KE_060201_02,,R,PT,A,0,,29.7
-2022,_L_KE_060201_02,,R,PT,A,0,,41.3
-2024,_L_KE_060201_02,,R,PT,A,0,,19.9
-2014,_L_KE_060201_02,,U,PT,A,0,,10.1
-2016,_L_KE_060201_02,,U,PT,A,0,,11.4
-2022,_L_KE_060201_02,,U,PT,A,0,,65.3
-2024,_L_KE_060201_02,,U,PT,A,0,,29.6
-2016,SH_SAN_HNDWSH,,,PT,A,0,,17.4
-2022,SH_SAN_HNDWSH,,,PT,A,0,,51.3
-2024,SH_SAN_HNDWSH,,,PT,A,0,,22.9
-2016,SH_SAN_HNDWSH,,R,PT,A,0,,29.5
-2022,SH_SAN_HNDWSH,,R,PT,A,0,,43.0
-2024,SH_SAN_HNDWSH,,R,PT,A,0,,19.5
-2016,SH_SAN_HNDWSH,,U,PT,A,0,,10.6
-2022,SH_SAN_HNDWSH,,U,PT,A,0,,67.6
-2024,SH_SAN_HNDWSH,,U,PT,A,0,,30.0
-2014,SH_SAN_SAFE,,,PT,A,0,,24.7
-2016,SH_SAN_SAFE,,,PT,A,0,,30.5
-2022,SH_SAN_SAFE,,,PT,A,0,,40.9
-2024,SH_SAN_SAFE,,,PT,A,0,,68.9
-2014,SH_SAN_SAFE,,R,PT,A,0,,30.5
-2016,SH_SAN_SAFE,,R,PT,A,0,,28.4
-2022,SH_SAN_SAFE,,R,PT,A,0,,37.7
-2024,SH_SAN_SAFE,,R,PT,A,0,,57.6
-2014,SH_SAN_SAFE,,U,PT,A,0,,21.6
-2016,SH_SAN_SAFE,,U,PT,A,0,,34.9
-2022,SH_SAN_SAFE,,U,PT,A,0,,47.3
-2024,SH_SAN_SAFE,,U,PT,A,0,,92.5
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Proportion of households using safely managed sanitation services,,,Percent,Normal value,Units,,22.7
+2016,Proportion of households using safely managed sanitation services,,,Percent,Normal value,Units,,28.3
+2022,Proportion of households using safely managed sanitation services,,,Percent,Normal value,Units,,38.2
+2024,Proportion of households using safely managed sanitation services,,,Percent,Normal value,Units,,71.0
+2014,Proportion of households using safely managed sanitation services,,Rural,Percent,Normal value,Units,,25.5
+2016,Proportion of households using safely managed sanitation services,,Rural,Percent,Normal value,Units,,29.5
+2022,Proportion of households using safely managed sanitation services,,Rural,Percent,Normal value,Units,,36.6
+2024,Proportion of households using safely managed sanitation services,,Rural,Percent,Normal value,Units,,57.7
+2014,Proportion of households using safely managed sanitation services,,Urban,Percent,Normal value,Units,,20.6
+2016,Proportion of households using safely managed sanitation services,,Urban,Percent,Normal value,Units,,27.9
+2022,Proportion of households using safely managed sanitation services,,Urban,Percent,Normal value,Units,,40.7
+2024,Proportion of households using safely managed sanitation services,,Urban,Percent,Normal value,Units,,87.7
+2014,Proportion of households with basic handwashing facilities on premises,,,Percent,Normal value,Units,,16.6
+2016,Proportion of households with basic handwashing facilities on premises,,,Percent,Normal value,Units,,19.4
+2022,Proportion of households with basic handwashing facilities on premises,,,Percent,Normal value,Units,,51.0
+2024,Proportion of households with basic handwashing facilities on premises,,,Percent,Normal value,Units,,24.2
+2014,Proportion of households with basic handwashing facilities on premises,,Rural,Percent,Normal value,Units,,25.7
+2016,Proportion of households with basic handwashing facilities on premises,,Rural,Percent,Normal value,Units,,29.7
+2022,Proportion of households with basic handwashing facilities on premises,,Rural,Percent,Normal value,Units,,41.3
+2024,Proportion of households with basic handwashing facilities on premises,,Rural,Percent,Normal value,Units,,19.9
+2014,Proportion of households with basic handwashing facilities on premises,,Urban,Percent,Normal value,Units,,10.1
+2016,Proportion of households with basic handwashing facilities on premises,,Urban,Percent,Normal value,Units,,11.4
+2022,Proportion of households with basic handwashing facilities on premises,,Urban,Percent,Normal value,Units,,65.3
+2024,Proportion of households with basic handwashing facilities on premises,,Urban,Percent,Normal value,Units,,29.6
+2016,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,Normal value,Units,,17.4
+2022,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,Normal value,Units,,51.3
+2024,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,Normal value,Units,,22.9
+2016,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,Normal value,Units,,29.5
+2022,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,Normal value,Units,,43.0
+2024,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,Normal value,Units,,19.5
+2016,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,Normal value,Units,,10.6
+2022,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,Normal value,Units,,67.6
+2024,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,Normal value,Units,,30.0
+2014,Proportion of population using safely managed sanitation services [6.2.1],,,Percent,Normal value,Units,,24.7
+2016,Proportion of population using safely managed sanitation services [6.2.1],,,Percent,Normal value,Units,,30.5
+2022,Proportion of population using safely managed sanitation services [6.2.1],,,Percent,Normal value,Units,,40.9
+2024,Proportion of population using safely managed sanitation services [6.2.1],,,Percent,Normal value,Units,,68.9
+2014,Proportion of population using safely managed sanitation services [6.2.1],,Rural,Percent,Normal value,Units,,30.5
+2016,Proportion of population using safely managed sanitation services [6.2.1],,Rural,Percent,Normal value,Units,,28.4
+2022,Proportion of population using safely managed sanitation services [6.2.1],,Rural,Percent,Normal value,Units,,37.7
+2024,Proportion of population using safely managed sanitation services [6.2.1],,Rural,Percent,Normal value,Units,,57.6
+2014,Proportion of population using safely managed sanitation services [6.2.1],,Urban,Percent,Normal value,Units,,21.6
+2016,Proportion of population using safely managed sanitation services [6.2.1],,Urban,Percent,Normal value,Units,,34.9
+2022,Proportion of population using safely managed sanitation services [6.2.1],,Urban,Percent,Normal value,Units,,47.3
+2024,Proportion of population using safely managed sanitation services [6.2.1],,Urban,Percent,Normal value,Units,,92.5

@@ -1,1 +1,7 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2019,0.267181,,Normal value,Units,Index,Indicator of Food Price Anomalies - Maize
+2020,0.366321,,Normal value,Units,Index,Indicator of Food Price Anomalies - Maize
+2021,-0.451621,,Normal value,Units,Index,Indicator of Food Price Anomalies - Maize
+2022,0.732774,,Normal value,Units,Index,Indicator of Food Price Anomalies - Maize
+2023,-0.181758,,Normal value,Units,Index,Indicator of Food Price Anomalies - Maize
+2024,-1.497974,,Normal value,Units,Index,Indicator of Food Price Anomalies - Maize

@@ -1,92 +1,92 @@
-Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,_L_KE_050201_01,,F,,,PT,A,0,,32.7
-2022,_L_KE_050201_01,,F,,,PT,A,0,,28.1
-2014,_L_KE_050201_01,,F,,R,PT,A,0,,32.3
-2022,_L_KE_050201_01,,F,,R,PT,A,0,,24.1
-2014,_L_KE_050201_01,,F,,U,PT,A,0,,33.7
-2022,_L_KE_050201_01,,F,,U,PT,A,0,,30.9
-2014,_L_KE_050201_01,,F,Y15T19,,PT,A,0,,25.3
-2022,_L_KE_050201_01,,F,Y15T19,,PT,A,0,,21.3
-2014,_L_KE_050201_01,,F,Y20T24,,PT,A,0,,32.3
-2022,_L_KE_050201_01,,F,Y20T24,,PT,A,0,,26.7
-2014,_L_KE_050201_01,,F,Y25T29,,PT,A,0,,34.7
-2022,_L_KE_050201_01,,F,Y25T29,,PT,A,0,,30.5
-2014,_L_KE_050201_01,,F,Y30T34,,PT,A,0,,34.3
-2022,_L_KE_050201_01,,F,Y30T34,,PT,A,0,,30.3
-2014,_L_KE_050201_01,,F,Y35T39,,PT,A,0,,34.4
-2022,_L_KE_050201_01,,F,Y35T39,,PT,A,0,,30.3
-2014,_L_KE_050201_01,,F,Y40T44,,PT,A,0,,28.2
-2022,_L_KE_050201_01,,F,Y40T44,,PT,A,0,,26.7
-2014,_L_KE_050201_01,,F,Y45T49,,PT,A,0,,30.4
-2022,_L_KE_050201_01,,F,Y45T49,,PT,A,0,,26.7
-2014,VC_VAW_MARR,,F,,,PT,A,0,,25.4
-2022,VC_VAW_MARR,,F,,,PT,A,0,,18.8
-2014,VC_VAW_MARR,,F,,R,PT,A,0,,25.9
-2022,VC_VAW_MARR,,F,,R,PT,A,0,,20.8
-2014,VC_VAW_MARR,,F,,U,PT,A,0,,25.0
-2022,VC_VAW_MARR,,F,,U,PT,A,0,,16.0
-2014,VC_VAW_MARR,,F,Y15T19,,PT,A,0,,18.9
-2022,VC_VAW_MARR,,F,Y15T19,,PT,A,0,,13.8
-2014,VC_VAW_MARR,,F,Y20T24,,PT,A,0,,27.0
-2022,VC_VAW_MARR,,F,Y20T24,,PT,A,0,,18.6
-2014,VC_VAW_MARR,,F,Y25T29,,PT,A,0,,28.5
-2022,VC_VAW_MARR,,F,Y25T29,,PT,A,0,,20.8
-2014,VC_VAW_MARR,,F,Y30T34,,PT,A,0,,24.9
-2022,VC_VAW_MARR,,F,Y30T34,,PT,A,0,,20.6
-2014,VC_VAW_MARR,,F,Y35T39,,PT,A,0,,25.4
-2022,VC_VAW_MARR,,F,Y35T39,,PT,A,0,,20.6
-2014,VC_VAW_MARR,,F,Y40T44,,PT,A,0,,21.3
-2022,VC_VAW_MARR,,F,Y40T44,,PT,A,0,,16.6
-2014,VC_VAW_MARR,,F,Y45T49,,PT,A,0,,22.6
-2022,VC_VAW_MARR,,F,Y45T49,,PT,A,0,,16.6
-2014,VC_VAW_PHYV,,F,,,PT,A,0,,22.6
-2022,VC_VAW_PHYV,,F,,,PT,A,0,,16.0
-2014,VC_VAW_PHYV,,F,,R,PT,A,0,,23.2
-2022,VC_VAW_PHYV,,F,,R,PT,A,0,,17.5
-2014,VC_VAW_PHYV,,F,,U,PT,A,0,,21.8
-2022,VC_VAW_PHYV,,F,,U,PT,A,0,,13.8
-2014,VC_VAW_PHYV,,F,Y15T19,,PT,A,0,,16.4
-2022,VC_VAW_PHYV,,F,Y15T19,,PT,A,0,,9.6
-2014,VC_VAW_PHYV,,F,Y20T24,,PT,A,0,,23.0
-2022,VC_VAW_PHYV,,F,Y20T24,,PT,A,0,,16.0
-2014,VC_VAW_PHYV,,F,Y25T29,,PT,A,0,,25.3
-2022,VC_VAW_PHYV,,F,Y25T29,,PT,A,0,,18.2
-2014,VC_VAW_PHYV,,F,Y30T34,,PT,A,0,,22.9
-2022,VC_VAW_PHYV,,F,Y30T34,,PT,A,0,,17.9
-2014,VC_VAW_PHYV,,F,Y35T39,,PT,A,0,,22.2
-2022,VC_VAW_PHYV,,F,Y35T39,,PT,A,0,,17.9
-2014,VC_VAW_PHYV,,F,Y40T44,,PT,A,0,,8.6
-2022,VC_VAW_PHYV,,F,Y40T44,,PT,A,0,,13.6
-2014,VC_VAW_PHYV,,F,Y45T49,,PT,A,0,,20.8
-2022,VC_VAW_PHYV,,F,Y45T49,,PT,A,0,,13.6
-2014,VC_VAW_PSYV,,F,,,PT,A,0,,23.8
-2022,VC_VAW_PSYV,,F,,,PT,A,0,,22.1
-2014,VC_VAW_PSYV,,F,,R,PT,A,0,,23.4
-2022,VC_VAW_PSYV,,F,,R,PT,A,0,,24.3
-2014,VC_VAW_PSYV,,F,,U,PT,A,0,,24.6
-2022,VC_VAW_PSYV,,F,,U,PT,A,0,,19.0
-2014,VC_VAW_PSYV,,F,Y15T19,,PT,A,0,,16.0
-2022,VC_VAW_PSYV,,F,Y15T19,,PT,A,0,,13.0
-2014,VC_VAW_PSYV,,F,Y20T24,,PT,A,0,,22.5
-2022,VC_VAW_PSYV,,F,Y20T24,,PT,A,0,,19.6
-2014,VC_VAW_PSYV,,F,Y25T29,,PT,A,0,,24.8
-2022,VC_VAW_PSYV,,F,Y25T29,,PT,A,0,,23.8
-2014,VC_VAW_PSYV,,F,Y30T34,,PT,A,0,,24.1
-2022,VC_VAW_PSYV,,F,Y30T34,,PT,A,0,,25.0
-2014,VC_VAW_PSYV,,F,Y35T39,,PT,A,0,,26.1
-2022,VC_VAW_PSYV,,F,Y35T39,,PT,A,0,,25.0
-2014,VC_VAW_PSYV,,F,Y40T44,,PT,A,0,,23.2
-2022,VC_VAW_PSYV,,F,Y40T44,,PT,A,0,,22.5
-2014,VC_VAW_PSYV,,F,Y45T49,,PT,A,0,,22.6
-2022,VC_VAW_PSYV,,F,Y45T49,,PT,A,0,,22.5
-2014,VC_VAW_SEXV,,F,,,PT,A,0,,9.8
-2022,VC_VAW_SEXV,,F,,,PT,A,0,,7.1
-2022,VC_VAW_SEXV,,F,,R,PT,A,0,,8.0
-2022,VC_VAW_SEXV,,F,,U,PT,A,0,,5.7
-2022,VC_VAW_SEXV,,F,Y15T19,,PT,A,0,,6.1
-2022,VC_VAW_SEXV,,F,Y20T24,,PT,A,0,,6.3
-2022,VC_VAW_SEXV,,F,Y25T29,,PT,A,0,,7.5
-2022,VC_VAW_SEXV,,F,Y30T34,,PT,A,0,,7.7
-2022,VC_VAW_SEXV,,F,Y35T39,,PT,A,0,,7.7
-2022,VC_VAW_SEXV,,F,Y40T44,,PT,A,0,,6.7
-2022,VC_VAW_SEXV,,F,Y45T49,,PT,A,0,,6.7
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,,,Percent,Normal value,Units,,32.7
+2022,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,,,Percent,Normal value,Units,,28.1
+2014,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,,Rural,Percent,Normal value,Units,,32.3
+2022,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,,Rural,Percent,Normal value,Units,,24.1
+2014,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,,Urban,Percent,Normal value,Units,,33.7
+2022,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,,Urban,Percent,Normal value,Units,,30.9
+2014,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,15 to 19 years old,,Percent,Normal value,Units,,25.3
+2022,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,15 to 19 years old,,Percent,Normal value,Units,,21.3
+2014,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,20 to 24 years old,,Percent,Normal value,Units,,32.3
+2022,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,20 to 24 years old,,Percent,Normal value,Units,,26.7
+2014,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,25 to 29 years old,,Percent,Normal value,Units,,34.7
+2022,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,25 to 29 years old,,Percent,Normal value,Units,,30.5
+2014,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,30 to 34 years old,,Percent,Normal value,Units,,34.3
+2022,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,30 to 34 years old,,Percent,Normal value,Units,,30.3
+2014,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,35 to 39 years old,,Percent,Normal value,Units,,34.4
+2022,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,35 to 39 years old,,Percent,Normal value,Units,,30.3
+2014,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,40 to 44 years old,,Percent,Normal value,Units,,28.2
+2022,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,40 to 44 years old,,Percent,Normal value,Units,,26.7
+2014,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,45 to 49 years old,,Percent,Normal value,Units,,30.4
+2022,Proportion of ever-partnered women and girls subjected to any form of physical and/or sexual and/or psychological violence by a current or former intimate partner in the previous 12 months,,Female,45 to 49 years old,,Percent,Normal value,Units,,26.7
+2014,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,,Percent,Normal value,Units,,25.4
+2022,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,,Percent,Normal value,Units,,18.8
+2014,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Rural,Percent,Normal value,Units,,25.9
+2022,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Rural,Percent,Normal value,Units,,20.8
+2014,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Urban,Percent,Normal value,Units,,25.0
+2022,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Urban,Percent,Normal value,Units,,16.0
+2014,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,15 to 19 years old,,Percent,Normal value,Units,,18.9
+2022,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,15 to 19 years old,,Percent,Normal value,Units,,13.8
+2014,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,20 to 24 years old,,Percent,Normal value,Units,,27.0
+2022,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,20 to 24 years old,,Percent,Normal value,Units,,18.6
+2014,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,25 to 29 years old,,Percent,Normal value,Units,,28.5
+2022,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,25 to 29 years old,,Percent,Normal value,Units,,20.8
+2014,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,30 to 34 years old,,Percent,Normal value,Units,,24.9
+2022,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,30 to 34 years old,,Percent,Normal value,Units,,20.6
+2014,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,35 to 39 years old,,Percent,Normal value,Units,,25.4
+2022,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,35 to 39 years old,,Percent,Normal value,Units,,20.6
+2014,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,40 to 44 years old,,Percent,Normal value,Units,,21.3
+2022,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,40 to 44 years old,,Percent,Normal value,Units,,16.6
+2014,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,45 to 49 years old,,Percent,Normal value,Units,,22.6
+2022,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,45 to 49 years old,,Percent,Normal value,Units,,16.6
+2014,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,,Percent,Normal value,Units,,22.6
+2022,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,,Percent,Normal value,Units,,16.0
+2014,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Rural,Percent,Normal value,Units,,23.2
+2022,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Rural,Percent,Normal value,Units,,17.5
+2014,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Urban,Percent,Normal value,Units,,21.8
+2022,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Urban,Percent,Normal value,Units,,13.8
+2014,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,15 to 19 years old,,Percent,Normal value,Units,,16.4
+2022,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,15 to 19 years old,,Percent,Normal value,Units,,9.6
+2014,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,20 to 24 years old,,Percent,Normal value,Units,,23.0
+2022,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,20 to 24 years old,,Percent,Normal value,Units,,16.0
+2014,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,25 to 29 years old,,Percent,Normal value,Units,,25.3
+2022,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,25 to 29 years old,,Percent,Normal value,Units,,18.2
+2014,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,30 to 34 years old,,Percent,Normal value,Units,,22.9
+2022,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,30 to 34 years old,,Percent,Normal value,Units,,17.9
+2014,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,35 to 39 years old,,Percent,Normal value,Units,,22.2
+2022,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,35 to 39 years old,,Percent,Normal value,Units,,17.9
+2014,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,40 to 44 years old,,Percent,Normal value,Units,,8.6
+2022,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,40 to 44 years old,,Percent,Normal value,Units,,13.6
+2014,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,45 to 49 years old,,Percent,Normal value,Units,,20.8
+2022,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,45 to 49 years old,,Percent,Normal value,Units,,13.6
+2014,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,,Percent,Normal value,Units,,23.8
+2022,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,,Percent,Normal value,Units,,22.1
+2014,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Rural,Percent,Normal value,Units,,23.4
+2022,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Rural,Percent,Normal value,Units,,24.3
+2014,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Urban,Percent,Normal value,Units,,24.6
+2022,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Urban,Percent,Normal value,Units,,19.0
+2014,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,15 to 19 years old,,Percent,Normal value,Units,,16.0
+2022,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,15 to 19 years old,,Percent,Normal value,Units,,13.0
+2014,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,20 to 24 years old,,Percent,Normal value,Units,,22.5
+2022,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,20 to 24 years old,,Percent,Normal value,Units,,19.6
+2014,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,25 to 29 years old,,Percent,Normal value,Units,,24.8
+2022,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,25 to 29 years old,,Percent,Normal value,Units,,23.8
+2014,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,30 to 34 years old,,Percent,Normal value,Units,,24.1
+2022,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,30 to 34 years old,,Percent,Normal value,Units,,25.0
+2014,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,35 to 39 years old,,Percent,Normal value,Units,,26.1
+2022,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,35 to 39 years old,,Percent,Normal value,Units,,25.0
+2014,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,40 to 44 years old,,Percent,Normal value,Units,,23.2
+2022,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,40 to 44 years old,,Percent,Normal value,Units,,22.5
+2014,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,45 to 49 years old,,Percent,Normal value,Units,,22.6
+2022,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,45 to 49 years old,,Percent,Normal value,Units,,22.5
+2014,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,,Percent,Normal value,Units,,9.8
+2022,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,,Percent,Normal value,Units,,7.1
+2022,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Rural,Percent,Normal value,Units,,8.0
+2022,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,,Urban,Percent,Normal value,Units,,5.7
+2022,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,15 to 19 years old,,Percent,Normal value,Units,,6.1
+2022,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,20 to 24 years old,,Percent,Normal value,Units,,6.3
+2022,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,25 to 29 years old,,Percent,Normal value,Units,,7.5
+2022,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,30 to 34 years old,,Percent,Normal value,Units,,7.7
+2022,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,35 to 39 years old,,Percent,Normal value,Units,,7.7
+2022,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,40 to 44 years old,,Percent,Normal value,Units,,6.7
+2022,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,45 to 49 years old,,Percent,Normal value,Units,,6.7

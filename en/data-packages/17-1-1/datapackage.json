@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_170101_01",
-                "_L_KE_170101_02",
-                "_L_KE_170101_03",
-                "_L_KE_170101_04",
-                "GR_G14_GDP",
+                "Government revenue from domestic taxes as a proportion of GDP",
+                "Government revenue from social contributions as a proportion of GDP",
+                "Government revenue from grants as a proportion of GDP",
+                "Government revenue from  other sources as a proportion of GDP",
+                "Total government revenue as a proportion of GDP [17.1.1]",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -38,40 +38,40 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Percent",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

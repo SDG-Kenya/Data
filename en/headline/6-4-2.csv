@@ -1,1 +1,10 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,26.5,,Normal value,Units,Percent,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2]
+2015,26.6,,Normal value,Units,Percent,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2]
+2016,33.2,,Normal value,Units,Percent,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2]
+2017,33.2,,Normal value,Units,Percent,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2]
+2018,33.2,,Normal value,Units,Percent,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2]
+2019,33.2,,Normal value,Units,Percent,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2]
+2020,33.2,,Normal value,Units,Percent,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2]
+2021,33.2,,Normal value,Units,Percent,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2]
+2024,33.0,,Normal value,Units,Percent,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2]

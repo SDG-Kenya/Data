@@ -1,11 +1,11 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,SH_ACS_DTP3,,PT,A,0,,74.9
-2015,SH_ACS_DTP3,,PT,A,0,,79.5
-2016,SH_ACS_DTP3,,PT,A,0,,78.3
-2017,SH_ACS_DTP3,,PT,A,0,,68.4
-2018,SH_ACS_DTP3,,PT,A,0,,81.6
-2022,SH_ACS_DTP3,,PT,A,0,,89.2
-2022,SH_ACS_MCV2,,PT,A,0,,66.8
-2022,SH_ACS_PCV3,,PT,A,0,,91.2
-2014,SH_ACS_VACN,,PT,A,0,,79.4
-2022,SH_ACS_VACN,,PT,A,0,,80.1
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,Percent,Normal value,Units,,74.9
+2015,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,Percent,Normal value,Units,,79.5
+2016,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,Percent,Normal value,Units,,78.3
+2017,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,Percent,Normal value,Units,,68.4
+2018,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,Percent,Normal value,Units,,81.6
+2022,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,Percent,Normal value,Units,,89.2
+2022,Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1],,Percent,Normal value,Units,,66.8
+2022,Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1],,Percent,Normal value,Units,,91.2
+2014,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,Percent,Normal value,Units,,79.4
+2022,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,Percent,Normal value,Units,,80.1

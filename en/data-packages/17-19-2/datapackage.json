@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_171902_01",
-                "_L_KE_171902_02",
-                "SG_REG_CENSUSN",
+                "Percentage birth registration",
+                "Percentage death registration",
+                "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -36,41 +36,41 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
-                "BOOL",
+                "Percent",
+                "Boolean or binary measure",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

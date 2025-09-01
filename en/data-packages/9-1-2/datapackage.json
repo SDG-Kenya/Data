@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_090102_01",
-                "_L_KE_090102_02",
+                "Passenger volumes, by mode of transport (000 Passenger)",
+                "Freight volumes, by mode of transport (000 Passenger)",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -35,54 +35,54 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "MOT_AIR",
-                "MOT_IWW_SEA",
-                "MOT_RAI",
+                "Mode of Transport: Air",
+                "Water",
+                "Mode of Transport: Rail",
                 ""
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
-                "T",
+                "Number",
+                "Metric Tons",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "3",
+                "Thousands",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

@@ -1,11 +1,11 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2015,_L_KE_171201_01,,PT,A,0,,9.0
-2016,_L_KE_171201_01,,PT,A,0,,10.0
-2017,_L_KE_171201_01,,PT,A,0,,9.8
-2018,_L_KE_171201_01,,PT,A,0,,10.6
-2019,_L_KE_171201_01,,PT,A,0,,11.1
-2020,_L_KE_171201_01,,PT,A,0,,10.8
-2021,_L_KE_171201_01,,PT,A,0,,10.0
-2022,_L_KE_171201_01,,PT,A,0,,9.1
-2023,_L_KE_171201_01,,PT,A,0,,11.5
-2024,_L_KE_171201_01,,PT,A,0,,10.5
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2015,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,,9.0
+2016,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,,10.0
+2017,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,,9.8
+2018,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,,10.6
+2019,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,,11.1
+2020,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,,10.8
+2021,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,,10.0
+2022,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,,9.1
+2023,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,,11.5
+2024,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States",,Percent,Normal value,Units,,10.5

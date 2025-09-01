@@ -1,46 +1,46 @@
-Year,SERIES,REF_AREA,OCCUPATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,SH_MED_DEN,,ISCO08_221,PER_100000_POP,A,0,,21.0
-2015,SH_MED_DEN,,ISCO08_221,PER_100000_POP,A,0,,21.0
-2016,SH_MED_DEN,,ISCO08_221,PER_100000_POP,A,0,,23.4
-2017,SH_MED_DEN,,ISCO08_221,PER_100000_POP,A,0,,24.1
-2018,SH_MED_DEN,,ISCO08_221,PER_100000_POP,A,0,,25.1
-2019,SH_MED_DEN,,ISCO08_221,PER_100000_POP,A,0,,18.0
-2020,SH_MED_DEN,,ISCO08_221,PER_100000_POP,A,0,,19.0
-2021,SH_MED_DEN,,ISCO08_221,PER_100000_POP,A,0,,19.0
-2022,SH_MED_DEN,,ISCO08_221,PER_100000_POP,A,0,,19.0
-2023,SH_MED_DEN,,ISCO08_221,PER_100000_POP,A,0,,19.0
-2014,SH_MED_DEN,,ISCO08_2221_3221,PER_100000_POP,A,0,,165.0
-2015,SH_MED_DEN,,ISCO08_2221_3221,PER_100000_POP,A,0,,151.0
-2016,SH_MED_DEN,,ISCO08_2221_3221,PER_100000_POP,A,0,,167.4
-2017,SH_MED_DEN,,ISCO08_2221_3221,PER_100000_POP,A,0,,174.6
-2018,SH_MED_DEN,,ISCO08_2221_3221,PER_100000_POP,A,0,,187.9
-2019,SH_MED_DEN,,ISCO08_2221_3221,PER_100000_POP,A,0,,91.0
-2020,SH_MED_DEN,,ISCO08_2221_3221,PER_100000_POP,A,0,,81.0
-2021,SH_MED_DEN,,ISCO08_2221_3221,PER_100000_POP,A,0,,99.0
-2022,SH_MED_DEN,,ISCO08_2221_3221,PER_100000_POP,A,0,,99.0
-2023,SH_MED_DEN,,ISCO08_2221_3221,PER_100000_POP,A,0,,125.0
-2014,SH_MED_DEN,,ISCO08_2261,PER_100000_POP,A,0,,3.0
-2015,SH_MED_DEN,,ISCO08_2261,PER_100000_POP,A,0,,2.0
-2016,SH_MED_DEN,,ISCO08_2261,PER_100000_POP,A,0,,2.6
-2017,SH_MED_DEN,,ISCO08_2261,PER_100000_POP,A,0,,2.7
-2018,SH_MED_DEN,,ISCO08_2261,PER_100000_POP,A,0,,2.7
-2019,SH_MED_DEN,,ISCO08_2261,PER_100000_POP,A,0,,2.0
-2020,SH_MED_DEN,,ISCO08_2261,PER_100000_POP,A,0,,2.0
-2021,SH_MED_DEN,,ISCO08_2261,PER_100000_POP,A,0,,2.0
-2022,SH_MED_DEN,,ISCO08_2261,PER_100000_POP,A,0,,2.0
-2023,SH_MED_DEN,,ISCO08_2261,PER_100000_POP,A,0,,2.0
-2014,SH_MED_DEN,,ISCO08_2262,PER_100000_POP,A,0,,5.0
-2015,SH_MED_DEN,,ISCO08_2262,PER_100000_POP,A,0,,7.0
-2016,SH_MED_DEN,,ISCO08_2262,PER_100000_POP,A,0,,7.1
-2017,SH_MED_DEN,,ISCO08_2262,PER_100000_POP,A,0,,7.4
-2018,SH_MED_DEN,,ISCO08_2262,PER_100000_POP,A,0,,7.6
-2019,SH_MED_DEN,,ISCO08_2262,PER_100000_POP,A,0,,3.0
-2020,SH_MED_DEN,,ISCO08_2262,PER_100000_POP,A,0,,3.0
-2021,SH_MED_DEN,,ISCO08_2262,PER_100000_POP,A,0,,3.0
-2022,SH_MED_DEN,,ISCO08_2262,PER_100000_POP,A,0,,3.0
-2023,SH_MED_DEN,,ISCO08_2262,PER_100000_POP,A,0,,3.0
-2019,SH_MED_DEN,,ISCO08_3213,PER_100000_POP,A,0,,14.0
-2020,SH_MED_DEN,,ISCO08_3213,PER_100000_POP,A,0,,14.0
-2021,SH_MED_DEN,,ISCO08_3213,PER_100000_POP,A,0,,14.0
-2022,SH_MED_DEN,,ISCO08_3213,PER_100000_POP,A,0,,14.0
-2023,SH_MED_DEN,,ISCO08_3213,PER_100000_POP,A,0,,14.0
+Year,SERIES,Reference area,Occupation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Medical doctors,"Per 100,000 population",Normal value,Units,,21.0
+2015,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Medical doctors,"Per 100,000 population",Normal value,Units,,21.0
+2016,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Medical doctors,"Per 100,000 population",Normal value,Units,,23.4
+2017,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Medical doctors,"Per 100,000 population",Normal value,Units,,24.1
+2018,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Medical doctors,"Per 100,000 population",Normal value,Units,,25.1
+2019,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Medical doctors,"Per 100,000 population",Normal value,Units,,18.0
+2020,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Medical doctors,"Per 100,000 population",Normal value,Units,,19.0
+2021,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Medical doctors,"Per 100,000 population",Normal value,Units,,19.0
+2022,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Medical doctors,"Per 100,000 population",Normal value,Units,,19.0
+2023,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Medical doctors,"Per 100,000 population",Normal value,Units,,19.0
+2014,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Nursing personnel,"Per 100,000 population",Normal value,Units,,165.0
+2015,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Nursing personnel,"Per 100,000 population",Normal value,Units,,151.0
+2016,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Nursing personnel,"Per 100,000 population",Normal value,Units,,167.4
+2017,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Nursing personnel,"Per 100,000 population",Normal value,Units,,174.6
+2018,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Nursing personnel,"Per 100,000 population",Normal value,Units,,187.9
+2019,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Nursing personnel,"Per 100,000 population",Normal value,Units,,91.0
+2020,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Nursing personnel,"Per 100,000 population",Normal value,Units,,81.0
+2021,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Nursing personnel,"Per 100,000 population",Normal value,Units,,99.0
+2022,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Nursing personnel,"Per 100,000 population",Normal value,Units,,99.0
+2023,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Nursing personnel,"Per 100,000 population",Normal value,Units,,125.0
+2014,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Dentists,"Per 100,000 population",Normal value,Units,,3.0
+2015,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Dentists,"Per 100,000 population",Normal value,Units,,2.0
+2016,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Dentists,"Per 100,000 population",Normal value,Units,,2.6
+2017,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Dentists,"Per 100,000 population",Normal value,Units,,2.7
+2018,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Dentists,"Per 100,000 population",Normal value,Units,,2.7
+2019,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Dentists,"Per 100,000 population",Normal value,Units,,2.0
+2020,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Dentists,"Per 100,000 population",Normal value,Units,,2.0
+2021,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Dentists,"Per 100,000 population",Normal value,Units,,2.0
+2022,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Dentists,"Per 100,000 population",Normal value,Units,,2.0
+2023,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Dentists,"Per 100,000 population",Normal value,Units,,2.0
+2014,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmacists,"Per 100,000 population",Normal value,Units,,5.0
+2015,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmacists,"Per 100,000 population",Normal value,Units,,7.0
+2016,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmacists,"Per 100,000 population",Normal value,Units,,7.1
+2017,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmacists,"Per 100,000 population",Normal value,Units,,7.4
+2018,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmacists,"Per 100,000 population",Normal value,Units,,7.6
+2019,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmacists,"Per 100,000 population",Normal value,Units,,3.0
+2020,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmacists,"Per 100,000 population",Normal value,Units,,3.0
+2021,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmacists,"Per 100,000 population",Normal value,Units,,3.0
+2022,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmacists,"Per 100,000 population",Normal value,Units,,3.0
+2023,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmacists,"Per 100,000 population",Normal value,Units,,3.0
+2019,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmaceutical Technologists,"Per 100,000 population",Normal value,Units,,14.0
+2020,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmaceutical Technologists,"Per 100,000 population",Normal value,Units,,14.0
+2021,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmaceutical Technologists,"Per 100,000 population",Normal value,Units,,14.0
+2022,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmaceutical Technologists,"Per 100,000 population",Normal value,Units,,14.0
+2023,"Health worker density, by type of occupation (per 10,000 population) [3.c.1]",,Pharmaceutical Technologists,"Per 100,000 population",Normal value,Units,,14.0

@@ -1,4 +1,2 @@
 From,To
-SEX,URBANISATION
-UNIT_MULT,SEX
-OBS_STATUS,UNIT_MULT
+Sex,Degree of urbanisation

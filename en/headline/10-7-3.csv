@@ -1,1 +1,11 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2015,2,,Normal value,Units,Number,Total deaths and disappearances recorded during migration [10.7.3]
+2016,2,,Normal value,Units,Number,Total deaths and disappearances recorded during migration [10.7.3]
+2017,5,,Normal value,Units,Number,Total deaths and disappearances recorded during migration [10.7.3]
+2018,6,,Normal value,Units,Number,Total deaths and disappearances recorded during migration [10.7.3]
+2019,3,,Normal value,Units,Number,Total deaths and disappearances recorded during migration [10.7.3]
+2020,0,,Normal value,Units,Number,Total deaths and disappearances recorded during migration [10.7.3]
+2021,0,,Normal value,Units,Number,Total deaths and disappearances recorded during migration [10.7.3]
+2022,0,,Normal value,Units,Number,Total deaths and disappearances recorded during migration [10.7.3]
+2023,0,,Normal value,Units,Number,Total deaths and disappearances recorded during migration [10.7.3]
+2024,1,,Normal value,Units,Number,Total deaths and disappearances recorded during migration [10.7.3]

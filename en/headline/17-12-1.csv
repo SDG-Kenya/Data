@@ -1,1 +1,11 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2015,9.0,,Normal value,Units,Percent,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+2016,10.0,,Normal value,Units,Percent,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+2017,9.8,,Normal value,Units,Percent,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+2018,10.6,,Normal value,Units,Percent,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+2019,11.1,,Normal value,Units,Percent,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+2020,10.8,,Normal value,Units,Percent,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+2021,10.0,,Normal value,Units,Percent,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+2022,9.1,,Normal value,Units,Percent,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+2023,11.5,,Normal value,Units,Percent,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+2024,10.5,,Normal value,Units,Percent,"Weighted average tariffs faced by developing countries, least developed countries and small island developing States"

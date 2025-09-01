@@ -1,5 +1,5 @@
-Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2022,SE_ADT_FUNS,,F,Y15T24,PT,A,0,,95.3
-2022,SE_ADT_FUNS,,F,Y15T49,PT,A,0,,91.0
-2022,SE_ADT_FUNS,,M,Y15T24,PT,A,0,,96.3
-2022,SE_ADT_FUNS,,M,Y15T49,PT,A,0,,93.9
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2022,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,15 to 24 years old,Percent,Normal value,Units,,95.3
+2022,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,15 to 49 years old,Percent,Normal value,Units,,91.0
+2022,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,15 to 24 years old,Percent,Normal value,Units,,96.3
+2022,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,15 to 49 years old,Percent,Normal value,Units,,93.9

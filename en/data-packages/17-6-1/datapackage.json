@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IT_NET_BBND",
+                "Fixed broadband subscriptions per 100 inhabitants [17.6.1]",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -34,60 +34,60 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "IS_100MT1G",
-                "IS_10MT30M",
-                "IS_1MT2M",
-                "IS_256K",
-                "IS_2M",
-                "IS_2MT10M",
-                "IS_30MT100M",
-                "IS_512K",
-                "IS_GE1G",
-                "IS_GE2M",
+                "> 100 Mbps - 1 Gbps",
+                ">10 Mbps - <30 Mbps",
+                "1 Mbps (< 2 mbps)",
+                "256 Kbps",
+                "2 Mbps",
+                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
+                ">30 Mbps - <100 Mbps",
+                "512 Kbps",
+                "> 1 Gbps",
+                ">2Mbps",
                 ""
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "Composite breakdown"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100_POP",
+                "Per 100 population",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

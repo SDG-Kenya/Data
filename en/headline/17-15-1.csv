@@ -1,1 +1,3 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2018,57,,Normal value,Units,Percent,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1]
+2020,47,,Normal value,Units,Percent,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1]

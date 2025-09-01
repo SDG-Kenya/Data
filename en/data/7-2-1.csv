@@ -1,12 +1,12 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,EG_FEC_RNEW,,PT,A,0,,54.8
-2015,EG_FEC_RNEW,,PT,A,0,,56.7
-2016,EG_FEC_RNEW,,PT,A,0,,56.6
-2017,EG_FEC_RNEW,,PT,A,0,,52.8
-2018,EG_FEC_RNEW,,PT,A,0,,57.7
-2019,EG_FEC_RNEW,,PT,A,0,,54.9
-2020,EG_FEC_RNEW,,PT,A,0,,46.1
-2021,EG_FEC_RNEW,,PT,A,0,,48.2
-2022,EG_FEC_RNEW,,PT,A,0,,56.0
-2023,EG_FEC_RNEW,,PT,A,0,,53.6
-2024,EG_FEC_RNEW,,PT,A,0,,56.0
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,,54.8
+2015,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,,56.7
+2016,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,,56.6
+2017,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,,52.8
+2018,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,,57.7
+2019,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,,54.9
+2020,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,,46.1
+2021,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,,48.2
+2022,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,,56.0
+2023,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,,53.6
+2024,Renewable energy share in the total final energy consumption [7.2.1],,Percent,Normal value,Units,,56.0

@@ -1,1 +1,8 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,9.7,,Normal value,Units,Percent,"Unemployment rate, by sex and age - 13th ICLS (%) [8.5.2]"
+2016,7.4,,Normal value,Units,Percent,"Unemployment rate, by sex and age - 13th ICLS (%) [8.5.2]"
+2019,5.3,,Normal value,Units,Percent,"Unemployment rate, by sex and age - 13th ICLS (%) [8.5.2]"
+2020,7.2,,Normal value,Units,Percent,"Unemployment rate, by sex and age - 13th ICLS (%) [8.5.2]"
+2021,5.6,,Normal value,Units,Percent,"Unemployment rate, by sex and age - 13th ICLS (%) [8.5.2]"
+2022,5.8,,Normal value,Units,Percent,"Unemployment rate, by sex and age - 13th ICLS (%) [8.5.2]"
+2024,9.1,,Normal value,Units,Percent,"Unemployment rate, by sex and age - 13th ICLS (%) [8.5.2]"

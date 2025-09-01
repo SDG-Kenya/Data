@@ -1,6 +1,6 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2019,_L_KE_020C01_04,,IX,A,0,,0.554832
-2020,_L_KE_020C01_04,,IX,A,0,,-0.295069
-2021,_L_KE_020C01_04,,IX,A,0,,1.740646
-2022,_L_KE_020C01_04,,IX,A,0,,3.534038
-2023,_L_KE_020C01_04,,IX,A,0,,-0.336193
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2019,Indicator of Food Price Anomalies - Wheat,,Index,Normal value,Units,,0.554832
+2020,Indicator of Food Price Anomalies - Wheat,,Index,Normal value,Units,,-0.295069
+2021,Indicator of Food Price Anomalies - Wheat,,Index,Normal value,Units,,1.740646
+2022,Indicator of Food Price Anomalies - Wheat,,Index,Normal value,Units,,3.534038
+2023,Indicator of Food Price Anomalies - Wheat,,Index,Normal value,Units,,-0.336193

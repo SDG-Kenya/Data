@@ -1,12 +1,12 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,SG_SCP_CORMEC,,BOOL,A,0,,0
-2015,SG_SCP_CORMEC,,BOOL,A,0,,0
-2016,SG_SCP_CORMEC,,BOOL,A,0,,1
-2017,SG_SCP_CORMEC,,BOOL,A,0,,1
-2018,SG_SCP_CORMEC,,BOOL,A,0,,1
-2019,SG_SCP_CORMEC,,BOOL,A,0,,1
-2020,SG_SCP_CORMEC,,BOOL,A,0,,1
-2021,SG_SCP_CORMEC,,BOOL,A,0,,1
-2022,SG_SCP_CORMEC,,BOOL,A,0,,1
-2023,SG_SCP_CORMEC,,BOOL,A,0,,1
-2024,SG_SCP_CORMEC,,BOOL,A,0,,1
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],,Boolean or binary measure,Normal value,Units,,0
+2015,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],,Boolean or binary measure,Normal value,Units,,0
+2016,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],,Boolean or binary measure,Normal value,Units,,1
+2017,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],,Boolean or binary measure,Normal value,Units,,1
+2018,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],,Boolean or binary measure,Normal value,Units,,1
+2019,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],,Boolean or binary measure,Normal value,Units,,1
+2020,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],,Boolean or binary measure,Normal value,Units,,1
+2021,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],,Boolean or binary measure,Normal value,Units,,1
+2022,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],,Boolean or binary measure,Normal value,Units,,1
+2023,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],,Boolean or binary measure,Normal value,Units,,1
+2024,Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1],,Boolean or binary measure,Normal value,Units,,1

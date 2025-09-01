@@ -1,19 +1,19 @@
-Year,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,SE_PRE_PARTN,,,,PT,A,0,,71.8
-2015,SE_PRE_PARTN,,,,PT,A,0,,74.6
-2016,SE_PRE_PARTN,,,,PT,A,0,,74.9
-2017,SE_PRE_PARTN,,,,PT,A,0,,76.9
-2018,SE_PRE_PARTN,,,,PT,A,0,,77.2
-2019,SE_PRE_PARTN,,,,PT,A,0,,73.8
-2022,SE_PRE_PARTN,,,,PT,A,0,,87.9
-2024,SE_PRE_PARTN,,,,PT,A,0,,87.6
-2019,SE_PRE_PARTN,,,R,PT,A,0,,70.9
-2024,SE_PRE_PARTN,,,R,PT,A,0,,86.0
-2019,SE_PRE_PARTN,,,U,PT,A,0,,81.9
-2024,SE_PRE_PARTN,,,U,PT,A,0,,91.3
-2019,SE_PRE_PARTN,,F,,PT,A,0,,73.8
-2022,SE_PRE_PARTN,,F,,PT,A,0,,88.8
-2024,SE_PRE_PARTN,,F,,PT,A,0,,89.2
-2019,SE_PRE_PARTN,,M,,PT,A,0,,73.9
-2022,SE_PRE_PARTN,,M,,PT,A,0,,86.9
-2024,SE_PRE_PARTN,,M,,PT,A,0,,86.2
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,,Percent,Normal value,Units,,71.8
+2015,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,,Percent,Normal value,Units,,74.6
+2016,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,,Percent,Normal value,Units,,74.9
+2017,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,,Percent,Normal value,Units,,76.9
+2018,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,,Percent,Normal value,Units,,77.2
+2019,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,,Percent,Normal value,Units,,73.8
+2022,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,,Percent,Normal value,Units,,87.9
+2024,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,,Percent,Normal value,Units,,87.6
+2019,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Rural,Percent,Normal value,Units,,70.9
+2024,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Rural,Percent,Normal value,Units,,86.0
+2019,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Urban,Percent,Normal value,Units,,81.9
+2024,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Urban,Percent,Normal value,Units,,91.3
+2019,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,,Percent,Normal value,Units,,73.8
+2022,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,,Percent,Normal value,Units,,88.8
+2024,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,,Percent,Normal value,Units,,89.2
+2019,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,,Percent,Normal value,Units,,73.9
+2022,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,,Percent,Normal value,Units,,86.9
+2024,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,,Percent,Normal value,Units,,86.2

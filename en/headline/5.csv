@@ -1,1 +1,7 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2019,-1.15004,,Normal value,Units,Index,Indicator of Food Price Anomalies - Rice
+2020,-0.591863,,Normal value,Units,Index,Indicator of Food Price Anomalies - Rice
+2021,0.161907,,Normal value,Units,Index,Indicator of Food Price Anomalies - Rice
+2022,2.998686,,Normal value,Units,Index,Indicator of Food Price Anomalies - Rice
+2023,0.93641,,Normal value,Units,Index,Indicator of Food Price Anomalies - Rice
+2024,0.414964,,Normal value,Units,Index,Indicator of Food Price Anomalies - Rice

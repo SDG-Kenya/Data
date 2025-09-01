@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_H2O_GRAMBQ",
-                "EN_H2O_OPAMBQ",
-                "EN_H2O_RVAMBQ",
-                "EN_H2O_WBAMBQ",
+                "Proportion of groundwater bodies with good ambient water quality [6.3.2]",
+                "Proportion of open water bodies with good ambient water quality [6.3.2]",
+                "Proportion of river water bodies with good ambient water quality [6.3.2]",
+                "Proportion of bodies of water with good ambient water quality [6.3.2]",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -37,40 +37,40 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Percent",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

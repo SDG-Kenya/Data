@@ -1,9 +1,9 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2015,IU_COR_BRIB,,PT,A,0,,38.0
-2016,IU_COR_BRIB,,PT,A,0,,46.0
-2017,IU_COR_BRIB,,PT,A,0,,38.9
-2018,IU_COR_BRIB,,PT,A,0,,41.8
-2021,IU_COR_BRIB,,PT,A,0,,23.2
-2022,IU_COR_BRIB,,PT,A,0,,41.1
-2023,IU_COR_BRIB,,PT,A,0,,25.7
-2024,IU_COR_BRIB,,PT,A,0,,43.0
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2015,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,38.0
+2016,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,46.0
+2017,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,38.9
+2018,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,41.8
+2021,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,23.2
+2022,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,41.1
+2023,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,25.7
+2024,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,43.0

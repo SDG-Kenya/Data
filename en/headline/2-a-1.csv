@@ -1,1 +1,12 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,0.09,,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2015,0.069752,,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2016,0.116966,,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2017,0.103218,,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2018,0.153435,,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2019,0.142765,,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2020,0.143621,,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2021,0.136944,,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2022,0.144711,,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2023,0.178688,,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]
+2024,0.174833,,Normal value,Units,Index,Agriculture orientation index for government expenditures [2.a.1]

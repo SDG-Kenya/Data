@@ -1,4 +1,4 @@
-Year,SERIES,REF_AREA,SEX,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,VC_VAW_SXVLN,,F,PT,A,0,,9.5
-2022,VC_VAW_SXVLN,,F,PT,A,0,,4.9
-2022,VC_VAW_SXVLN,,M,PT,A,0,,2.6
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Female,Percent,Normal value,Units,,9.5
+2022,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Female,Percent,Normal value,Units,,4.9
+2022,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Male,Percent,Normal value,Units,,2.6

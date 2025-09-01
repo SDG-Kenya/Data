@@ -1,19 +1,19 @@
-Year,SERIES,REF_AREA,URBANISATION,INCOME_WEALTH_QUANTILE,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2020,SI_HEI_TOTL,,,,PT,A,0,,-2.0
-2021,SI_HEI_TOTL,,,,PT,A,0,,-0.3
-2022,SI_HEI_TOTL,,,,PT,A,0,,-0.49
-2020,SI_HEI_TOTL,,,B40,PT,A,0,,-0.3
-2021,SI_HEI_TOTL,,,B40,PT,A,0,,0.5
-2022,SI_HEI_TOTL,,,B40,PT,A,0,,0.1
-2020,SI_HEI_TOTL,,R,,PT,A,0,,-1.3
-2021,SI_HEI_TOTL,,R,,PT,A,0,,-1.3
-2022,SI_HEI_TOTL,,R,,PT,A,0,,-1.38
-2020,SI_HEI_TOTL,,R,B40,PT,A,0,,-0.4
-2021,SI_HEI_TOTL,,R,B40,PT,A,0,,0.4
-2022,SI_HEI_TOTL,,R,B40,PT,A,0,,0.04
-2020,SI_HEI_TOTL,,U,,PT,A,0,,-3.9
-2021,SI_HEI_TOTL,,U,,PT,A,0,,-0.3
-2022,SI_HEI_TOTL,,U,,PT,A,0,,-0.47
-2020,SI_HEI_TOTL,,U,B40,PT,A,0,,-2.3
-2021,SI_HEI_TOTL,,U,B40,PT,A,0,,-0.4
-2022,SI_HEI_TOTL,,U,B40,PT,A,0,,-0.03
+Year,SERIES,Reference area,Degree of urbanisation,Income or wealth quantile,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2020,Growth rates of household expenditure or income per capita [10.1.1],,,,Percent,Normal value,Units,,-2.0
+2021,Growth rates of household expenditure or income per capita [10.1.1],,,,Percent,Normal value,Units,,-0.3
+2022,Growth rates of household expenditure or income per capita [10.1.1],,,,Percent,Normal value,Units,,-0.49
+2020,Growth rates of household expenditure or income per capita [10.1.1],,,Bottom 40%,Percent,Normal value,Units,,-0.3
+2021,Growth rates of household expenditure or income per capita [10.1.1],,,Bottom 40%,Percent,Normal value,Units,,0.5
+2022,Growth rates of household expenditure or income per capita [10.1.1],,,Bottom 40%,Percent,Normal value,Units,,0.1
+2020,Growth rates of household expenditure or income per capita [10.1.1],,Rural,,Percent,Normal value,Units,,-1.3
+2021,Growth rates of household expenditure or income per capita [10.1.1],,Rural,,Percent,Normal value,Units,,-1.3
+2022,Growth rates of household expenditure or income per capita [10.1.1],,Rural,,Percent,Normal value,Units,,-1.38
+2020,Growth rates of household expenditure or income per capita [10.1.1],,Rural,Bottom 40%,Percent,Normal value,Units,,-0.4
+2021,Growth rates of household expenditure or income per capita [10.1.1],,Rural,Bottom 40%,Percent,Normal value,Units,,0.4
+2022,Growth rates of household expenditure or income per capita [10.1.1],,Rural,Bottom 40%,Percent,Normal value,Units,,0.04
+2020,Growth rates of household expenditure or income per capita [10.1.1],,Urban,,Percent,Normal value,Units,,-3.9
+2021,Growth rates of household expenditure or income per capita [10.1.1],,Urban,,Percent,Normal value,Units,,-0.3
+2022,Growth rates of household expenditure or income per capita [10.1.1],,Urban,,Percent,Normal value,Units,,-0.47
+2020,Growth rates of household expenditure or income per capita [10.1.1],,Urban,Bottom 40%,Percent,Normal value,Units,,-2.3
+2021,Growth rates of household expenditure or income per capita [10.1.1],,Urban,Bottom 40%,Percent,Normal value,Units,,-0.4
+2022,Growth rates of household expenditure or income per capita [10.1.1],,Urban,Bottom 40%,Percent,Normal value,Units,,-0.03

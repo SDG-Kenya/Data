@@ -1,12 +1,12 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,NV_IND_TECH,,PT,A,0,,12.4
-2015,NV_IND_TECH,,PT,A,0,,14.5
-2016,NV_IND_TECH,,PT,A,0,,13.0
-2017,NV_IND_TECH,,PT,A,0,,12.6
-2018,NV_IND_TECH,,PT,A,0,,13.2
-2019,NV_IND_TECH,,PT,A,0,,13.4
-2020,NV_IND_TECH,,PT,A,0,,15.1
-2021,NV_IND_TECH,,PT,A,0,,15.2
-2022,NV_IND_TECH,,PT,A,0,,19.4
-2023,NV_IND_TECH,,PT,A,0,,23.7
-2024,NV_IND_TECH,,PT,A,0,,21.1
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,Normal value,Units,,12.4
+2015,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,Normal value,Units,,14.5
+2016,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,Normal value,Units,,13.0
+2017,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,Normal value,Units,,12.6
+2018,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,Normal value,Units,,13.2
+2019,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,Normal value,Units,,13.4
+2020,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,Normal value,Units,,15.1
+2021,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,Normal value,Units,,15.2
+2022,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,Normal value,Units,,19.4
+2023,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,Normal value,Units,,23.7
+2024,Proportion of medium and high-tech manufacturing value added in total value added [9.b.1],,Percent,Normal value,Units,,21.1

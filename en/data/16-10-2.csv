@@ -1,11 +1,11 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,SG_INF_ACCSS,,BOOL,A,0,,1
-2015,SG_INF_ACCSS,,BOOL,A,0,,1
-2016,SG_INF_ACCSS,,BOOL,A,0,,1
-2017,SG_INF_ACCSS,,BOOL,A,0,,1
-2018,SG_INF_ACCSS,,BOOL,A,0,,1
-2019,SG_INF_ACCSS,,BOOL,A,0,,1
-2020,SG_INF_ACCSS,,BOOL,A,0,,1
-2021,SG_INF_ACCSS,,BOOL,A,0,,1
-2022,SG_INF_ACCSS,,BOOL,A,0,,1
-2023,SG_INF_ACCSS,,BOOL,A,0,,1
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information [16.10.2]",,Boolean or binary measure,Normal value,Units,,1
+2015,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information [16.10.2]",,Boolean or binary measure,Normal value,Units,,1
+2016,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information [16.10.2]",,Boolean or binary measure,Normal value,Units,,1
+2017,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information [16.10.2]",,Boolean or binary measure,Normal value,Units,,1
+2018,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information [16.10.2]",,Boolean or binary measure,Normal value,Units,,1
+2019,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information [16.10.2]",,Boolean or binary measure,Normal value,Units,,1
+2020,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information [16.10.2]",,Boolean or binary measure,Normal value,Units,,1
+2021,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information [16.10.2]",,Boolean or binary measure,Normal value,Units,,1
+2022,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information [16.10.2]",,Boolean or binary measure,Normal value,Units,,1
+2023,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information [16.10.2]",,Boolean or binary measure,Normal value,Units,,1

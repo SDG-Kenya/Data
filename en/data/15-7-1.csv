@@ -1,4 +1,4 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,ER_WLD_TRPOACH,,T,A,0,,137.3
-2016,ER_WLD_TRPOACH,,T,A,0,,40.6
-2017,ER_WLD_TRPOACH,,T,A,0,,56.3
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,"Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1,15.c.1]",,Metric Tons,Normal value,Units,,137.3
+2016,"Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1,15.c.1]",,Metric Tons,Normal value,Units,,40.6
+2017,"Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1,15.c.1]",,Metric Tons,Normal value,Units,,56.3

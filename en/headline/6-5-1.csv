@@ -1,1 +1,4 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2017,52.6,,Normal value,Units,Percent,Degree of integrated water resources management implementation (%) [6.5.1]
+2020,59.0,,Normal value,Units,Percent,Degree of integrated water resources management implementation (%) [6.5.1]
+2023,62.0,,Normal value,Units,Percent,Degree of integrated water resources management implementation (%) [6.5.1]

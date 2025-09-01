@@ -1,1 +1,1 @@
-{"From":["SEX","OCCUPATION","OCCUPATION","UNIT_MULT","OBS_STATUS"],"To":["OBS_STATUS","AGE","DISABILITY_STATUS","OCCUPATION","UNIT_MULT"]}
+{"From":["Sex","Occupation","Occupation"],"To":["Occupation","Age","Disability status"]}

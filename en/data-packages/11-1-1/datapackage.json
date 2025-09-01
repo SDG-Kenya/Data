@@ -20,16 +20,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_110101_01",
-                "_L_KE_110101_02",
-                "_L_KE_110101_03",
-                "_L_KE_110101_04",
-                "_L_KE_110101_05",
-                "EN_LND_SLUM",
+                "Proportion of urban population living in slums (One Shelter Deprivation)",
+                "Proportion of urban population living in slums (Two Shelter Deprivation)",
+                "Proportion of urban population living in slums(Three Shelter Deprivation)",
+                "Proportion of urban population living in slums (Four Shelter Deprivation)",
+                "Proportion of urban population living in slums (Any Shelter Deprivation) - Slum dwellers",
+                "Proportion of urban population living in slums [11.1.1]",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -39,40 +39,40 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Percent",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

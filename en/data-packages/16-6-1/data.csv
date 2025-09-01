@@ -1,31 +1,31 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2015,_L_KE_160601_01,,PT,A,0,,97.9
-2016,_L_KE_160601_01,,PT,A,0,,98.8
-2017,_L_KE_160601_01,,PT,A,0,,95.5
-2018,_L_KE_160601_01,,PT,A,0,,98.9
-2019,_L_KE_160601_01,,PT,A,0,,121.9
-2020,_L_KE_160601_01,,PT,A,0,,86.7
-2021,_L_KE_160601_01,,PT,A,0,,121.7
-2022,_L_KE_160601_01,,PT,A,0,,112.5
-2023,_L_KE_160601_01,,PT,A,0,,119.6
-2024,_L_KE_160601_01,,PT,A,0,,115.0
-2015,_L_KE_160601_02,,PT,A,0,,83.6
-2016,_L_KE_160601_02,,PT,A,0,,70.7
-2017,_L_KE_160601_02,,PT,A,0,,82.2
-2018,_L_KE_160601_02,,PT,A,0,,73.4
-2019,_L_KE_160601_02,,PT,A,0,,104.4
-2020,_L_KE_160601_02,,PT,A,0,,102.2
-2021,_L_KE_160601_02,,PT,A,0,,86.3
-2022,_L_KE_160601_02,,PT,A,0,,73.7
-2023,_L_KE_160601_02,,PT,A,0,,63.8
-2024,_L_KE_160601_02,,PT,A,0,,100.0
-2015,GF_XPD_GBPC,,PT,A,0,,93.2
-2016,GF_XPD_GBPC,,PT,A,0,,90.3
-2017,GF_XPD_GBPC,,PT,A,0,,91.5
-2018,GF_XPD_GBPC,,PT,A,0,,92.7
-2019,GF_XPD_GBPC,,PT,A,0,,118.0
-2020,GF_XPD_GBPC,,PT,A,0,,89.9
-2021,GF_XPD_GBPC,,PT,A,0,,112.0
-2022,GF_XPD_GBPC,,PT,A,0,,103.6
-2023,GF_XPD_GBPC,,PT,A,0,,106.8
-2024,GF_XPD_GBPC,,PT,A,0,,113.0
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2015,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,,97.9
+2016,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,,98.8
+2017,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,,95.5
+2018,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,,98.9
+2019,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,,121.9
+2020,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,,86.7
+2021,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,,121.7
+2022,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,,112.5
+2023,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,,119.6
+2024,Primary government expenditures as a proportion of original approved budget- Recurrent,,Percent,Normal value,Units,,115.0
+2015,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,,83.6
+2016,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,,70.7
+2017,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,,82.2
+2018,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,,73.4
+2019,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,,104.4
+2020,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,,102.2
+2021,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,,86.3
+2022,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,,73.7
+2023,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,,63.8
+2024,Primary government expenditures as a proportion of original approved budget- Development,,Percent,Normal value,Units,,100.0
+2015,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,,93.2
+2016,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,,90.3
+2017,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,,91.5
+2018,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,,92.7
+2019,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,,118.0
+2020,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,,89.9
+2021,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,,112.0
+2022,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,,103.6
+2023,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,,106.8
+2024,Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,Normal value,Units,,113.0

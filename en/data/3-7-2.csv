@@ -1,5 +1,5 @@
-Year,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,SP_DYN_ADKL,,F,Y10T14,PER_1000_POP,A,0,,2
-2022,SP_DYN_ADKL,,F,Y10T14,PER_1000_POP,A,0,,2
-2014,SP_DYN_ADKL,,F,Y15T19,PER_1000_POP,A,0,,96
-2022,SP_DYN_ADKL,,F,Y15T19,PER_1000_POP,A,0,,73
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,10 to 14 years old,"Per 1,000 population",Normal value,Units,,2
+2022,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,10 to 14 years old,"Per 1,000 population",Normal value,Units,,2
+2014,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",Normal value,Units,,96
+2022,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",Normal value,Units,,73

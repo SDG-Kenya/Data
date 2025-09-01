@@ -1,1 +1,12 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,54.8,,Normal value,Units,Percent,Renewable energy share in the total final energy consumption [7.2.1]
+2015,56.7,,Normal value,Units,Percent,Renewable energy share in the total final energy consumption [7.2.1]
+2016,56.6,,Normal value,Units,Percent,Renewable energy share in the total final energy consumption [7.2.1]
+2017,52.8,,Normal value,Units,Percent,Renewable energy share in the total final energy consumption [7.2.1]
+2018,57.7,,Normal value,Units,Percent,Renewable energy share in the total final energy consumption [7.2.1]
+2019,54.9,,Normal value,Units,Percent,Renewable energy share in the total final energy consumption [7.2.1]
+2020,46.1,,Normal value,Units,Percent,Renewable energy share in the total final energy consumption [7.2.1]
+2021,48.2,,Normal value,Units,Percent,Renewable energy share in the total final energy consumption [7.2.1]
+2022,56.0,,Normal value,Units,Percent,Renewable energy share in the total final energy consumption [7.2.1]
+2023,53.6,,Normal value,Units,Percent,Renewable energy share in the total final energy consumption [7.2.1]
+2024,56.0,,Normal value,Units,Percent,Renewable energy share in the total final energy consumption [7.2.1]

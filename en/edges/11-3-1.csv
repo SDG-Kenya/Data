@@ -1,4 +1,2 @@
 From,To
-REF_AREA,URBANISATION
-URBANISATION,OBS_STATUS
-OBS_STATUS,UNIT_MULT
+Reference area,Degree of urbanisation

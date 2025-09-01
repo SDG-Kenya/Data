@@ -1,1 +1,34 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,70.2,,Normal value,Units,Percent,Percentage birth registration
+2015,65.8,,Normal value,Units,Percent,Percentage birth registration
+2016,64.1,,Normal value,Units,Percent,Percentage birth registration
+2017,60.9,,Normal value,Units,Percent,Percentage birth registration
+2018,73.4,,Normal value,Units,Percent,Percentage birth registration
+2019,76.2,,Normal value,Units,Percent,Percentage birth registration
+2020,79.9,,Normal value,Units,Percent,Percentage birth registration
+2021,83.2,,Normal value,Units,Percent,Percentage birth registration
+2022,80.6,,Normal value,Units,Percent,Percentage birth registration
+2023,76.6,,Normal value,Units,Percent,Percentage birth registration
+2024,70.3,,Normal value,Units,Percent,Percentage birth registration
+2014,45.8,,Normal value,Units,Percent,Percentage death registration
+2015,45.2,,Normal value,Units,Percent,Percentage death registration
+2016,41.9,,Normal value,Units,Percent,Percentage death registration
+2017,41.2,,Normal value,Units,Percent,Percentage death registration
+2018,40.5,,Normal value,Units,Percent,Percentage death registration
+2019,39.1,,Normal value,Units,Percent,Percentage death registration
+2020,42.3,,Normal value,Units,Percent,Percentage death registration
+2021,52.3,,Normal value,Units,Percent,Percentage death registration
+2022,47.6,,Normal value,Units,Percent,Percentage death registration
+2023,45.2,,Normal value,Units,Percent,Percentage death registration
+2024,44.8,,Normal value,Units,Percent,Percentage death registration
+2014,1.0,,Normal value,Units,Boolean or binary measure,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]
+2015,1.0,,Normal value,Units,Boolean or binary measure,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]
+2016,1.0,,Normal value,Units,Boolean or binary measure,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]
+2017,1.0,,Normal value,Units,Boolean or binary measure,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]
+2018,1.0,,Normal value,Units,Boolean or binary measure,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]
+2019,1.0,,Normal value,Units,Boolean or binary measure,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]
+2020,1.0,,Normal value,Units,Boolean or binary measure,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]
+2021,1.0,,Normal value,Units,Boolean or binary measure,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]
+2022,1.0,,Normal value,Units,Boolean or binary measure,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]
+2023,1.0,,Normal value,Units,Boolean or binary measure,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]
+2024,1.0,,Normal value,Units,Boolean or binary measure,Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]

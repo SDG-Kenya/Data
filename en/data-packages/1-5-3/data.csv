@@ -1,12 +1,12 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,SG_DSR_SFDRR,,BOOL,A,0,,1
-2015,SG_DSR_SFDRR,,BOOL,A,0,,1
-2016,SG_DSR_SFDRR,,BOOL,A,0,,1
-2017,SG_DSR_SFDRR,,BOOL,A,0,,1
-2018,SG_DSR_SFDRR,,BOOL,A,0,,1
-2019,SG_DSR_SFDRR,,BOOL,A,0,,1
-2020,SG_DSR_SFDRR,,BOOL,A,0,,1
-2021,SG_DSR_SFDRR,,BOOL,A,0,,1
-2022,SG_DSR_SFDRR,,BOOL,A,0,,1
-2023,SG_DSR_SFDRR,,BOOL,A,0,,1
-2024,SG_DSR_SFDRR,,BOOL,A,0,,1
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,"Countries that reported having a National DRR Strategy which is aligned to the Sendai Framework to a certain extent (1 = YES; 0 = NO) [1.5.3, 11.b.1, 13.1.2]",,Boolean or binary measure,Normal value,Units,,1
+2015,"Countries that reported having a National DRR Strategy which is aligned to the Sendai Framework to a certain extent (1 = YES; 0 = NO) [1.5.3, 11.b.1, 13.1.2]",,Boolean or binary measure,Normal value,Units,,1
+2016,"Countries that reported having a National DRR Strategy which is aligned to the Sendai Framework to a certain extent (1 = YES; 0 = NO) [1.5.3, 11.b.1, 13.1.2]",,Boolean or binary measure,Normal value,Units,,1
+2017,"Countries that reported having a National DRR Strategy which is aligned to the Sendai Framework to a certain extent (1 = YES; 0 = NO) [1.5.3, 11.b.1, 13.1.2]",,Boolean or binary measure,Normal value,Units,,1
+2018,"Countries that reported having a National DRR Strategy which is aligned to the Sendai Framework to a certain extent (1 = YES; 0 = NO) [1.5.3, 11.b.1, 13.1.2]",,Boolean or binary measure,Normal value,Units,,1
+2019,"Countries that reported having a National DRR Strategy which is aligned to the Sendai Framework to a certain extent (1 = YES; 0 = NO) [1.5.3, 11.b.1, 13.1.2]",,Boolean or binary measure,Normal value,Units,,1
+2020,"Countries that reported having a National DRR Strategy which is aligned to the Sendai Framework to a certain extent (1 = YES; 0 = NO) [1.5.3, 11.b.1, 13.1.2]",,Boolean or binary measure,Normal value,Units,,1
+2021,"Countries that reported having a National DRR Strategy which is aligned to the Sendai Framework to a certain extent (1 = YES; 0 = NO) [1.5.3, 11.b.1, 13.1.2]",,Boolean or binary measure,Normal value,Units,,1
+2022,"Countries that reported having a National DRR Strategy which is aligned to the Sendai Framework to a certain extent (1 = YES; 0 = NO) [1.5.3, 11.b.1, 13.1.2]",,Boolean or binary measure,Normal value,Units,,1
+2023,"Countries that reported having a National DRR Strategy which is aligned to the Sendai Framework to a certain extent (1 = YES; 0 = NO) [1.5.3, 11.b.1, 13.1.2]",,Boolean or binary measure,Normal value,Units,,1
+2024,"Countries that reported having a National DRR Strategy which is aligned to the Sendai Framework to a certain extent (1 = YES; 0 = NO) [1.5.3, 11.b.1, 13.1.2]",,Boolean or binary measure,Normal value,Units,,1

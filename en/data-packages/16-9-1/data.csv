@@ -1,8 +1,8 @@
-Year,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,SG_REG_BRTH,,,,PT,A,0,,66.9
-2019,SG_REG_BRTH,,,,PT,A,0,,89.3
-2022,SG_REG_BRTH,,,,PT,A,0,,76.0
-2022,SG_REG_BRTH,,,R,PT,A,0,,73.2
-2022,SG_REG_BRTH,,,U,PT,A,0,,81.3
-2022,SG_REG_BRTH,,F,,PT,A,0,,75.6
-2022,SG_REG_BRTH,,M,,PT,A,0,,76.3
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,Normal value,Units,,66.9
+2019,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,Normal value,Units,,89.3
+2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,Normal value,Units,,76.0
+2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Rural,Percent,Normal value,Units,,73.2
+2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,Urban,Percent,Normal value,Units,,81.3
+2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Female,,Percent,Normal value,Units,,75.6
+2022,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Male,,Percent,Normal value,Units,,76.3

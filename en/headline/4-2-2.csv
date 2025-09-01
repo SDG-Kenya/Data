@@ -1,1 +1,9 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,71.8,,Normal value,Units,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
+2015,74.6,,Normal value,Units,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
+2016,74.9,,Normal value,Units,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
+2017,76.9,,Normal value,Units,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
+2018,77.2,,Normal value,Units,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
+2019,73.8,,Normal value,Units,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
+2022,87.9,,Normal value,Units,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]
+2024,87.6,,Normal value,Units,Percent,Participation rate in organized learning (one year before the official primary entry age) [4.2.2]

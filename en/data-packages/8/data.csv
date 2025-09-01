@@ -1,7 +1,7 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2019,_L_KE_020C01_05,,IX,A,0,,1.372354
-2020,_L_KE_020C01_05,,IX,A,0,,-0.346259
-2021,_L_KE_020C01_05,,IX,A,0,,-1.350883
-2022,_L_KE_020C01_05,,IX,A,0,,-0.30607
-2023,_L_KE_020C01_05,,IX,A,0,,0.596598
-2024,_L_KE_020C01_05,,IX,A,0,,9.2e-05
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2019,Indicator of Food Price Anomalies - Sorghum,,Index,Normal value,Units,,1.372354
+2020,Indicator of Food Price Anomalies - Sorghum,,Index,Normal value,Units,,-0.346259
+2021,Indicator of Food Price Anomalies - Sorghum,,Index,Normal value,Units,,-1.350883
+2022,Indicator of Food Price Anomalies - Sorghum,,Index,Normal value,Units,,-0.30607
+2023,Indicator of Food Price Anomalies - Sorghum,,Index,Normal value,Units,,0.596598
+2024,Indicator of Food Price Anomalies - Sorghum,,Index,Normal value,Units,,9.2e-05

@@ -1,1 +1,8 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2018,124.7,,Normal value,Millions,USD,Amount in United States dollars committed to public-private partnerships for infrastructure
+2019,125.3,,Normal value,Millions,USD,Amount in United States dollars committed to public-private partnerships for infrastructure
+2020,116.3,,Normal value,Millions,USD,Amount in United States dollars committed to public-private partnerships for infrastructure
+2021,112.3,,Normal value,Millions,USD,Amount in United States dollars committed to public-private partnerships for infrastructure
+2022,924.0,,Normal value,Millions,USD,Amount in United States dollars committed to public-private partnerships for infrastructure
+2023,900.5,,Normal value,Millions,USD,Amount in United States dollars committed to public-private partnerships for infrastructure
+2024,1215.1,,Normal value,Millions,USD,Amount in United States dollars committed to public-private partnerships for infrastructure

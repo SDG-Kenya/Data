@@ -1,25 +1,25 @@
-Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2021,SL_DOM_TSPD,,,,,PT,A,0,,12.2
-2021,SL_DOM_TSPD,,,,R,PT,A,0,,12.0
-2021,SL_DOM_TSPD,,,,U,PT,A,0,,12.5
-2021,SL_DOM_TSPD,,,Y_GE65,,PT,A,0,,8.5
-2021,SL_DOM_TSPD,,,Y15T24,,PT,A,0,,12.7
-2021,SL_DOM_TSPD,,,Y25T44,,PT,A,0,,13.5
-2021,SL_DOM_TSPD,,,Y45T54,,PT,A,0,,10.5
-2021,SL_DOM_TSPD,,,Y55T64,,PT,A,0,,10.4
-2021,SL_DOM_TSPD,,F,,,PT,A,0,,18.7
-2021,SL_DOM_TSPD,,F,,R,PT,A,0,,18.6
-2021,SL_DOM_TSPD,,F,,U,PT,A,0,,18.9
-2021,SL_DOM_TSPD,,F,Y_GE65,,PT,A,0,,12.0
-2021,SL_DOM_TSPD,,F,Y15T24,,PT,A,0,,19.1
-2021,SL_DOM_TSPD,,F,Y25T44,,PT,A,0,,21.0
-2021,SL_DOM_TSPD,,F,Y45T54,,PT,A,0,,16.4
-2021,SL_DOM_TSPD,,F,Y55T64,,PT,A,0,,15.9
-2021,SL_DOM_TSPD,,M,,,PT,A,0,,3.6
-2021,SL_DOM_TSPD,,M,,R,PT,A,0,,3.4
-2021,SL_DOM_TSPD,,M,,U,PT,A,0,,4.0
-2021,SL_DOM_TSPD,,M,Y_GE65,,PT,A,0,,3.3
-2021,SL_DOM_TSPD,,M,Y15T24,,PT,A,0,,4.2
-2021,SL_DOM_TSPD,,M,Y25T44,,PT,A,0,,3.4
-2021,SL_DOM_TSPD,,M,Y45T54,,PT,A,0,,3.6
-2021,SL_DOM_TSPD,,M,Y55T64,,PT,A,0,,3.2
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,,,Percent,Normal value,Units,,12.2
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,,Rural,Percent,Normal value,Units,,12.0
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,,Urban,Percent,Normal value,Units,,12.5
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,65 years old and over,,Percent,Normal value,Units,,8.5
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,15 to 24 years old,,Percent,Normal value,Units,,12.7
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,25 to 44 years old,,Percent,Normal value,Units,,13.5
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,45 to 54 years old,,Percent,Normal value,Units,,10.5
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,,55 to 64 years old,,Percent,Normal value,Units,,10.4
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,,,Percent,Normal value,Units,,18.7
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,,Rural,Percent,Normal value,Units,,18.6
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,,Urban,Percent,Normal value,Units,,18.9
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,65 years old and over,,Percent,Normal value,Units,,12.0
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,15 to 24 years old,,Percent,Normal value,Units,,19.1
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,25 to 44 years old,,Percent,Normal value,Units,,21.0
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,45 to 54 years old,,Percent,Normal value,Units,,16.4
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Female,55 to 64 years old,,Percent,Normal value,Units,,15.9
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,,,Percent,Normal value,Units,,3.6
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,,Rural,Percent,Normal value,Units,,3.4
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,,Urban,Percent,Normal value,Units,,4.0
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,65 years old and over,,Percent,Normal value,Units,,3.3
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,15 to 24 years old,,Percent,Normal value,Units,,4.2
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,25 to 44 years old,,Percent,Normal value,Units,,3.4
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,45 to 54 years old,,Percent,Normal value,Units,,3.6
+2021,Proportion of time spent on unpaid domestic chores and care work [5.4.1],,Male,55 to 64 years old,,Percent,Normal value,Units,,3.2

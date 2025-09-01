@@ -1,12 +1,12 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,AG_PRD_ORTIND,,IX,A,0,,0.09
-2015,AG_PRD_ORTIND,,IX,A,0,,0.069752
-2016,AG_PRD_ORTIND,,IX,A,0,,0.116966
-2017,AG_PRD_ORTIND,,IX,A,0,,0.103218
-2018,AG_PRD_ORTIND,,IX,A,0,,0.153435
-2019,AG_PRD_ORTIND,,IX,A,0,,0.142765
-2020,AG_PRD_ORTIND,,IX,A,0,,0.143621
-2021,AG_PRD_ORTIND,,IX,A,0,,0.136944
-2022,AG_PRD_ORTIND,,IX,A,0,,0.144711
-2023,AG_PRD_ORTIND,,IX,A,0,,0.178688
-2024,AG_PRD_ORTIND,,IX,A,0,,0.174833
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Agriculture orientation index for government expenditures [2.a.1],,Index,Normal value,Units,,0.09
+2015,Agriculture orientation index for government expenditures [2.a.1],,Index,Normal value,Units,,0.069752
+2016,Agriculture orientation index for government expenditures [2.a.1],,Index,Normal value,Units,,0.116966
+2017,Agriculture orientation index for government expenditures [2.a.1],,Index,Normal value,Units,,0.103218
+2018,Agriculture orientation index for government expenditures [2.a.1],,Index,Normal value,Units,,0.153435
+2019,Agriculture orientation index for government expenditures [2.a.1],,Index,Normal value,Units,,0.142765
+2020,Agriculture orientation index for government expenditures [2.a.1],,Index,Normal value,Units,,0.143621
+2021,Agriculture orientation index for government expenditures [2.a.1],,Index,Normal value,Units,,0.136944
+2022,Agriculture orientation index for government expenditures [2.a.1],,Index,Normal value,Units,,0.144711
+2023,Agriculture orientation index for government expenditures [2.a.1],,Index,Normal value,Units,,0.178688
+2024,Agriculture orientation index for government expenditures [2.a.1],,Index,Normal value,Units,,0.174833

@@ -1,8 +1,8 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2018,DC_TOF_INFRAL,,KES,A,6,,160450.2
-2019,DC_TOF_INFRAL,,KES,A,6,,151993.6
-2020,DC_TOF_INFRAL,,KES,A,6,,173340.7
-2021,DC_TOF_INFRAL,,KES,A,6,,143135.9
-2022,DC_TOF_INFRAL,,KES,A,6,,134109.3
-2023,DC_TOF_INFRAL,,KES,A,6,,139045.1
-2024,DC_TOF_INFRAL,,KES,A,6,,112423.0
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2018,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Kenyan Shillings,Normal value,Millions,,160450.2
+2019,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Kenyan Shillings,Normal value,Millions,,151993.6
+2020,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Kenyan Shillings,Normal value,Millions,,173340.7
+2021,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Kenyan Shillings,Normal value,Millions,,143135.9
+2022,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Kenyan Shillings,Normal value,Millions,,134109.3
+2023,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Kenyan Shillings,Normal value,Millions,,139045.1
+2024,"Total official flows for infrastructure, by recipient countries [9.a.1]",,Kenyan Shillings,Normal value,Millions,,112423.0

@@ -1,1 +1,2 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2021,12.2,,Normal value,Units,Percent,Proportion of time spent on unpaid domestic chores and care work [5.4.1]

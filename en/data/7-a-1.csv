@@ -1,7 +1,7 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2018,EG_IFF_RANDN,,KES,A,6,,2330
-2019,EG_IFF_RANDN,,KES,A,6,,1348
-2020,EG_IFF_RANDN,,KES,A,6,,380
-2021,EG_IFF_RANDN,,KES,A,6,,2700
-2022,EG_IFF_RANDN,,KES,A,6,,5400
-2024,EG_IFF_RANDN,,KES,A,6,,5400
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2018,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems [7.a.1]",,Kenyan Shillings,Normal value,Millions,,2330
+2019,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems [7.a.1]",,Kenyan Shillings,Normal value,Millions,,1348
+2020,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems [7.a.1]",,Kenyan Shillings,Normal value,Millions,,380
+2021,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems [7.a.1]",,Kenyan Shillings,Normal value,Millions,,2700
+2022,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems [7.a.1]",,Kenyan Shillings,Normal value,Millions,,5400
+2024,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems [7.a.1]",,Kenyan Shillings,Normal value,Millions,,5400

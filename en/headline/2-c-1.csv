@@ -1,1 +1,12 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,8.7,,Normal value,Units,Index,Indicator of Food Price Anomalies (IFPA) [2.c.1]
+2015,11.4,,Normal value,Units,Index,Indicator of Food Price Anomalies (IFPA) [2.c.1]
+2016,10.1,,Normal value,Units,Index,Indicator of Food Price Anomalies (IFPA) [2.c.1]
+2017,13.4,,Normal value,Units,Index,Indicator of Food Price Anomalies (IFPA) [2.c.1]
+2018,1.4,,Normal value,Units,Index,Indicator of Food Price Anomalies (IFPA) [2.c.1]
+2019,0.346487,,Normal value,Units,Index,Indicator of Food Price Anomalies (IFPA) [2.c.1]
+2020,0.179337,,Normal value,Units,Index,Indicator of Food Price Anomalies (IFPA) [2.c.1]
+2021,0.117423,,Normal value,Units,Index,Indicator of Food Price Anomalies (IFPA) [2.c.1]
+2022,2.339365,,Normal value,Units,Index,Indicator of Food Price Anomalies (IFPA) [2.c.1]
+2023,-0.194503,,Normal value,Units,Index,Indicator of Food Price Anomalies (IFPA) [2.c.1]
+2024,-0.423766,,Normal value,Units,Index,Indicator of Food Price Anomalies (IFPA) [2.c.1]

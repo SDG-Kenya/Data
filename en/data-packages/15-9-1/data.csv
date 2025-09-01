@@ -1,23 +1,23 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,ER_BDY_ABT2NP,,BOOL,A,0,,1
-2015,ER_BDY_ABT2NP,,BOOL,A,0,,1
-2016,ER_BDY_ABT2NP,,BOOL,A,0,,1
-2017,ER_BDY_ABT2NP,,BOOL,A,0,,1
-2018,ER_BDY_ABT2NP,,BOOL,A,0,,1
-2019,ER_BDY_ABT2NP,,BOOL,A,0,,1
-2020,ER_BDY_ABT2NP,,BOOL,A,0,,1
-2021,ER_BDY_ABT2NP,,BOOL,A,0,,1
-2022,ER_BDY_ABT2NP,,BOOL,A,0,,1
-2023,ER_BDY_ABT2NP,,BOOL,A,0,,1
-2024,ER_BDY_ABT2NP,,BOOL,A,0,,1
-2014,ER_BDY_SEEA,,BOOL,A,0,,0
-2015,ER_BDY_SEEA,,BOOL,A,0,,0
-2016,ER_BDY_SEEA,,BOOL,A,0,,0
-2017,ER_BDY_SEEA,,BOOL,A,0,,0
-2018,ER_BDY_SEEA,,BOOL,A,0,,0
-2019,ER_BDY_SEEA,,BOOL,A,0,,0
-2020,ER_BDY_SEEA,,BOOL,A,0,,0
-2021,ER_BDY_SEEA,,BOOL,A,0,,0
-2022,ER_BDY_SEEA,,BOOL,A,0,,0
-2023,ER_BDY_SEEA,,BOOL,A,0,,0
-2024,ER_BDY_SEEA,,BOOL,A,0,,0
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],,Boolean or binary measure,Normal value,Units,,1
+2015,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],,Boolean or binary measure,Normal value,Units,,1
+2016,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],,Boolean or binary measure,Normal value,Units,,1
+2017,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],,Boolean or binary measure,Normal value,Units,,1
+2018,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],,Boolean or binary measure,Normal value,Units,,1
+2019,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],,Boolean or binary measure,Normal value,Units,,1
+2020,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],,Boolean or binary measure,Normal value,Units,,1
+2021,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],,Boolean or binary measure,Normal value,Units,,1
+2022,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],,Boolean or binary measure,Normal value,Units,,1
+2023,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],,Boolean or binary measure,Normal value,Units,,1
+2024,Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1],,Boolean or binary measure,Normal value,Units,,1
+2014,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",,Boolean or binary measure,Normal value,Units,,0
+2015,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",,Boolean or binary measure,Normal value,Units,,0
+2016,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",,Boolean or binary measure,Normal value,Units,,0
+2017,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",,Boolean or binary measure,Normal value,Units,,0
+2018,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",,Boolean or binary measure,Normal value,Units,,0
+2019,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",,Boolean or binary measure,Normal value,Units,,0
+2020,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",,Boolean or binary measure,Normal value,Units,,0
+2021,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",,Boolean or binary measure,Normal value,Units,,0
+2022,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",,Boolean or binary measure,Normal value,Units,,0
+2023,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",,Boolean or binary measure,Normal value,Units,,0
+2024,"Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",,Boolean or binary measure,Normal value,Units,,0

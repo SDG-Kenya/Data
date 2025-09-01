@@ -1,1 +1,23 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,6.4,,Normal value,Units,Percent,Remittance costs as a proportion of the amount remitted
+2015,6.0,,Normal value,Units,Percent,Remittance costs as a proportion of the amount remitted
+2016,8.5,,Normal value,Units,Percent,Remittance costs as a proportion of the amount remitted
+2017,8.3,,Normal value,Units,Percent,Remittance costs as a proportion of the amount remitted
+2018,8.2,,Normal value,Units,Percent,Remittance costs as a proportion of the amount remitted
+2019,8.4,,Normal value,Units,Percent,Remittance costs as a proportion of the amount remitted
+2020,8.4,,Normal value,Units,Percent,Remittance costs as a proportion of the amount remitted
+2021,9.1,,Normal value,Units,Percent,Remittance costs as a proportion of the amount remitted
+2022,8.0,,Normal value,Units,Percent,Remittance costs as a proportion of the amount remitted
+2023,8.3,,Normal value,Units,Percent,Remittance costs as a proportion of the amount remitted
+2024,10.6,,Normal value,Units,Percent,Remittance costs as a proportion of the amount remitted
+2014,26957.1,,Normal value,Millions,Kenyan Shillings,"Total resource flows for development, by recipient and donor countries [10.b.1]"
+2015,28117.5,,Normal value,Millions,Kenyan Shillings,"Total resource flows for development, by recipient and donor countries [10.b.1]"
+2016,29596.7,,Normal value,Millions,Kenyan Shillings,"Total resource flows for development, by recipient and donor countries [10.b.1]"
+2017,25904.0,,Normal value,Millions,Kenyan Shillings,"Total resource flows for development, by recipient and donor countries [10.b.1]"
+2018,27600.1,,Normal value,Millions,Kenyan Shillings,"Total resource flows for development, by recipient and donor countries [10.b.1]"
+2019,19701.8,,Normal value,Millions,Kenyan Shillings,"Total resource flows for development, by recipient and donor countries [10.b.1]"
+2020,19819.7,,Normal value,Millions,Kenyan Shillings,"Total resource flows for development, by recipient and donor countries [10.b.1]"
+2021,31320.4,,Normal value,Millions,Kenyan Shillings,"Total resource flows for development, by recipient and donor countries [10.b.1]"
+2022,31031.2,,Normal value,Millions,Kenyan Shillings,"Total resource flows for development, by recipient and donor countries [10.b.1]"
+2023,23083.5,,Normal value,Millions,Kenyan Shillings,"Total resource flows for development, by recipient and donor countries [10.b.1]"
+2024,22037.2,,Normal value,Millions,Kenyan Shillings,"Total resource flows for development, by recipient and donor countries [10.b.1]"

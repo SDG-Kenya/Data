@@ -1,5 +1,5 @@
-Year,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2024,SP_LGL_LNDDOC,,,,PT,A,0,,66.0
-2022,SP_LGL_LNDDOC,,F,,PT,A,0,,7.3
-2022,SP_LGL_LNDDOC,,F,R,PT,A,0,,8.4
-2022,SP_LGL_LNDDOC,,F,U,PT,A,0,,5.1
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2024,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,,,Percent,Normal value,Units,,66.0
+2022,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,Female,,Percent,Normal value,Units,,7.3
+2022,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,Female,Rural,Percent,Normal value,Units,,8.4
+2022,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,Female,Urban,Percent,Normal value,Units,,5.1

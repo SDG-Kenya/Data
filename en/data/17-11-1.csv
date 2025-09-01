@@ -1,12 +1,12 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,OBS_STATUS,UNIT_MULT,GeoCode,Value
-2014,TX_EXP_GBSVR,,KES,A,6,,537236.0
-2015,TX_EXP_GBSVR,,KES,A,6,,581045.0
-2016,TX_EXP_GBSVR,,KES,A,6,,578067.0
-2017,TX_EXP_GBSVR,,KES,A,6,,597904.0
-2018,TX_EXP_GBSVR,,KES,A,6,,614316.0
-2019,TX_EXP_GBSVR,,KES,A,6,,596677.0
-2020,TX_EXP_GBSVR,,KES,A,6,,643706.2
-2021,TX_EXP_GBSVR,,KES,A,6,,743671.1
-2022,TX_EXP_GBSVR,,KES,A,6,,873144.6
-2023,TX_EXP_GBSVR,,KES,A,6,,1007919.3
-2024,TX_EXP_GBSVR,,KES,A,6,,1112310.3
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,,537236.0
+2015,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,,581045.0
+2016,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,,578067.0
+2017,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,,597904.0
+2018,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,,614316.0
+2019,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,,596677.0
+2020,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,,643706.2
+2021,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,,743671.1
+2022,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,,873144.6
+2023,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,,1007919.3
+2024,Developing countries’ and least developed countries’ share of global services exports [17.11.1],,Kenyan Shillings,Normal value,Millions,,1112310.3

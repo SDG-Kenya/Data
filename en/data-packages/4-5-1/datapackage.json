@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_040501_01",
+                "Parity indices for all education indicators",
                 ""
               ]
             },
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -34,56 +34,56 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_3",
-                "_L_KE_4",
-                "_L_KE_6",
-                "_L_KE_7",
-                "ISCED11_02",
-                "ISCED11_1",
+                "Secondary",
+                "Middle-Level Colleges",
+                "University",
+                "Junior School",
+                "Pre-primary education",
+                "Primary education",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Education level"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "RO",
+                "Ratio",
                 ""
               ]
             },
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "Normal value",
                 ""
               ]
             },
-            "title": "OBS_STATUS"
+            "title": "Observation status"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "Units",
                 ""
               ]
             },
-            "title": "UNIT_MULT"
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",
