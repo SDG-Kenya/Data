@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4]",
+                "SH_MDD_WMN_NPRG",
                 ""
               ]
             },
-            "title": "SDG Series"
+            "title": "SERIES"
           },
           {
             "name": "REF_AREA",
@@ -34,62 +34,62 @@
                 ""
               ]
             },
-            "title": "Reference area"
+            "title": "REF_AREA"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
+                "F",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 49 years old",
+                "Y15T49",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "PT",
                 ""
               ]
             },
-            "title": "Unit of measure"
+            "title": "UNIT_MEASURE"
           },
           {
             "name": "OBS_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Normal value",
+                "A",
                 ""
               ]
             },
-            "title": "Observation status"
+            "title": "OBS_STATUS"
           },
           {
             "name": "UNIT_MULT",
             "type": "string",
             "constraints": {
               "enum": [
-                "Units",
+                "0",
                 ""
               ]
             },
-            "title": "Unit multiplier"
+            "title": "UNIT_MULT"
           },
           {
             "name": "TIME_DETAIL",
@@ -100,7 +100,7 @@
                 ""
               ]
             },
-            "title": "Time period details"
+            "title": "TIME_DETAIL"
           },
           {
             "name": "GeoCode",

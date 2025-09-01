@@ -1,5 +1,1 @@
-Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
-2016,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,,Percent,Normal value,Units,2024,,70.4
-2024,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,,Percent,Normal value,Units,2024,,61.0
-2024,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,Rural,Percent,Normal value,Units,2024,,65.0
-2024,Proportion of population that feel safe walking alone around the area they live in [16.1.4],,Urban,Percent,Normal value,Units,2024,,53.0
+Year,Value

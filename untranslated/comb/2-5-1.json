@@ -1,1 +1,1 @@
-{"data":{"Year":[2016,2019],"SERIES":["ER_GRF_PLNTSTOR","ER_GRF_PLNTSTOR"],"REF_AREA":[null,null],"UNIT_MEASURE":["NUMBER","NUMBER"],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"TIME_DETAIL":["2019","2019"],"GeoCode":[null,null],"Value":[50323,51405]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","TIME_DETAIL"]}}
+{"data":[],"edges":[]}

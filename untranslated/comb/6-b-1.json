@@ -1,1 +1,1 @@
-{"data":{"Year":[2016,2018,2019,2020],"SERIES":["ER_H20_LCMGM","ER_H20_LCMGM","ER_H20_LCMGM","ER_H20_LCMGM"],"REF_AREA":[null,null,null,null],"UNIT_MEASURE":["PT","PT","PT","PT"],"OBS_STATUS":["A","A","A","A"],"UNIT_MULT":["0","0","0","0"],"TIME_DETAIL":["2020","2020","2020","2020"],"GeoCode":[null,null,null,null],"Value":[17.0,59.0,60.0,62.3]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","TIME_DETAIL"]}}
+{"data":[],"edges":[]}

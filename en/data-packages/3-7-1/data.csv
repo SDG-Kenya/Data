@@ -1,7 +1,1 @@
-Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
-2014,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Female,15 to 49 years old,,Percent,Normal value,Units,2022,,70.7
-2022,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Female,15 to 49 years old,,Percent,Normal value,Units,2022,,74.7
-2014,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Female,15 to 49 years old,Rural,Percent,Normal value,Units,2022,,66.7
-2022,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Female,15 to 49 years old,Rural,Percent,Normal value,Units,2022,,74.0
-2014,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Female,15 to 49 years old,Urban,Percent,Normal value,Units,2022,,76.7
-2022,Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Female,15 to 49 years old,Urban,Percent,Normal value,Units,2022,,75.7
+Year,Value

@@ -1,9 +1,1 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
-2014,Neonatal mortality rate [3.2.2],,,,"Per 1,000 live births",Normal value,Units,2022,,22
-2022,Neonatal mortality rate [3.2.2],,,,"Per 1,000 live births",Normal value,Units,2022,,21
-2014,Neonatal mortality rate [3.2.2],,,Rural,"Per 1,000 live births",Normal value,Units,2022,,21
-2022,Neonatal mortality rate [3.2.2],,,Rural,"Per 1,000 live births",Normal value,Units,2022,,22
-2014,Neonatal mortality rate [3.2.2],,,Urban,"Per 1,000 live births",Normal value,Units,2022,,26
-2022,Neonatal mortality rate [3.2.2],,,Urban,"Per 1,000 live births",Normal value,Units,2022,,21
-2022,Neonatal mortality rate [3.2.2],,Female,,"Per 1,000 live births",Normal value,Units,2022,,19
-2022,Neonatal mortality rate [3.2.2],,Male,,"Per 1,000 live births",Normal value,Units,2022,,24
+Year,Value

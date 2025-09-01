@@ -1,14 +1,1 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
-2014,Under-five mortality rate [3.2.1],,,,"Per 1,000 live births",Normal value,Units,2022,,52
-2019,Under-five mortality rate [3.2.1],,,,"Per 1,000 live births",Normal value,Units,2022,,52
-2022,Under-five mortality rate [3.2.1],,,,"Per 1,000 live births",Normal value,Units,2022,,41
-2014,Under-five mortality rate [3.2.1],,,Rural,"Per 1,000 live births",Normal value,Units,2022,,56
-2019,Under-five mortality rate [3.2.1],,,Rural,"Per 1,000 live births",Normal value,Units,2022,,42
-2022,Under-five mortality rate [3.2.1],,,Rural,"Per 1,000 live births",Normal value,Units,2022,,41
-2014,Under-five mortality rate [3.2.1],,,Urban,"Per 1,000 live births",Normal value,Units,2022,,57
-2019,Under-five mortality rate [3.2.1],,,Urban,"Per 1,000 live births",Normal value,Units,2022,,50
-2022,Under-five mortality rate [3.2.1],,,Urban,"Per 1,000 live births",Normal value,Units,2022,,41
-2022,Under-five mortality rate [3.2.1],,Female,,"Per 1,000 live births",Normal value,Units,2022,,38
-2014,Under-five mortality rate [3.2.1],,Male,,"Per 1,000 live births",Normal value,Units,2022,,57
-2019,Under-five mortality rate [3.2.1],,Male,,"Per 1,000 live births",Normal value,Units,2022,,50
-2022,Under-five mortality rate [3.2.1],,Male,,"Per 1,000 live births",Normal value,Units,2022,,45
+Year,Value

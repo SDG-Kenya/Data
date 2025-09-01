@@ -1,3 +1,5 @@
 From,To
-Sex,Age
-Age,Time period details
+SEX,AGE
+AGE,OBS_STATUS
+OBS_STATUS,UNIT_MULT
+UNIT_MULT,TIME_DETAIL

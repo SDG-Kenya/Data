@@ -1,12 +1,1 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
-2014,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2024,,7.0
-2015,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2024,,5.0
-2016,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2024,,7.0
-2017,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2024,,9.0
-2018,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2024,,2.0
-2019,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2024,,8.0
-2020,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2024,,6.8
-2021,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2024,,5.8
-2022,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2024,,6.5
-2023,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2024,,8.2
-2024,Suicide mortality rate [3.4.2],,"Per 100,000 population",Normal value,Units,2024,,5.8
+Year,Value

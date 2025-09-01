@@ -1,1 +1,1 @@
-{"data":{"Year":[2017],"SERIES":["EN_HAZ_PCAP"],"REF_AREA":[null],"UNIT_MEASURE":["KG"],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"TIME_DETAIL":["2017"],"GeoCode":[null],"Value":[0.1]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","TIME_DETAIL"]}}
+{"data":[],"edges":[]}

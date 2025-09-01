@@ -1,14 +1,1 @@
-Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
-2016,Prevalence of undernourishment [2.1.1],,,Percent,Normal value,Units,2022,,24.2
-2019,Prevalence of undernourishment [2.1.1],,,Percent,Normal value,Units,2022,,30.5
-2020,Prevalence of undernourishment [2.1.1],,,Percent,Normal value,Units,2022,,34.4
-2021,Prevalence of undernourishment [2.1.1],,,Percent,Normal value,Units,2022,,30.5
-2022,Prevalence of undernourishment [2.1.1],,,Percent,Normal value,Units,2022,,31.7
-2019,Prevalence of undernourishment [2.1.1],,Rural,Percent,Normal value,Units,2022,,34.0
-2020,Prevalence of undernourishment [2.1.1],,Rural,Percent,Normal value,Units,2022,,35.1
-2021,Prevalence of undernourishment [2.1.1],,Rural,Percent,Normal value,Units,2022,,32.2
-2022,Prevalence of undernourishment [2.1.1],,Rural,Percent,Normal value,Units,2022,,33.2
-2019,Prevalence of undernourishment [2.1.1],,Urban,Percent,Normal value,Units,2022,,22.5
-2020,Prevalence of undernourishment [2.1.1],,Urban,Percent,Normal value,Units,2022,,33.0
-2021,Prevalence of undernourishment [2.1.1],,Urban,Percent,Normal value,Units,2022,,26.8
-2022,Prevalence of undernourishment [2.1.1],,Urban,Percent,Normal value,Units,2022,,28.6
+Year,Value

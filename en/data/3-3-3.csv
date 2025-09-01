@@ -1,11 +1,1 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,Time period details,GeoCode,Value
-2014,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,2023,,225.0
-2015,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,2023,,120.0
-2016,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,2023,,111.0
-2017,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,2023,,87.0
-2018,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,2023,,89.2
-2019,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,2023,,102.9
-2020,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,2023,,87.3
-2021,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,2023,,91.3
-2022,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,2023,,92.9
-2023,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,2023,,104.4
+Year,Value
