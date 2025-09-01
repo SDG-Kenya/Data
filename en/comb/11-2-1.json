@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2019,2019,2019,2019],"SERIES":["SP_TRN_PUBL","SP_TRN_PUBL","SP_TRN_PUBL","SP_TRN_PUBL"],"REF_AREA":["KE_KIS","KE_MBA","KE_NBO","KE_NUU"],"URBANISATION":["CITY","CITY","CITY","CITY"],"UNIT_MEASURE":["PT","PT","PT","PT"],"OBS_STATUS":["A","A","A","A"],"UNIT_MULT":["0","0","0","0"],"GeoCode":["KE_KIS","KE_MBA","KE_NBO","KE_NUU"],"Value":[10,20,66,16]},"edges":{"From":["REF_AREA","URBANISATION","OBS_STATUS"],"To":["URBANISATION","OBS_STATUS","UNIT_MULT"]}}

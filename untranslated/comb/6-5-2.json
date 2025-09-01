@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2017,2020,2023,2017,2020,2023],"SERIES":["EG_TBA_H2CO","EG_TBA_H2CO","EG_TBA_H2CO","EG_TBA_H2CORL","EG_TBA_H2CORL","EG_TBA_H2CORL"],"REF_AREA":[null,null,null,null,null,null],"UNIT_MEASURE":["PT","PT","PT","PT","PT","PT"],"OBS_STATUS":["A","A","A","A","A","A"],"UNIT_MULT":["0","0","0","0","0","0"],"GeoCode":[null,null,null,null,null,null],"Value":[26.8,27.0,35.8,35.9,35.9,55.0]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}

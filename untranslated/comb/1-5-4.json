@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2019,2022,2024],"SERIES":["SG_DSR_SILS","SG_DSR_SILS","SG_DSR_SILS"],"REF_AREA":[null,null,null],"UNIT_MEASURE":["PT","PT","PT"],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"GeoCode":[null,null,null],"Value":[61.7,80.9,82.978723]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}
