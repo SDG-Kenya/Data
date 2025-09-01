@@ -34,6 +34,17 @@
             }
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "R",
+                "U",
+                ""
+              ]
+            }
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
@@ -68,7 +79,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2016",
+                "2024",
                 ""
               ]
             }

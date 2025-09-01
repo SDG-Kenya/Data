@@ -1,6 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
 M6T23,1,1
-Y0T17,4,4
+Y0T17,5,5
 Y0T5,2,2
 Y10T14,3,3
 Y14T17,2,2
@@ -36,6 +36,7 @@ Y60T64,2,2
 Y65T69,1,1
 Y6T13,2,2
 Y70T74,1,1
+Y_GE18,1,1
 Y_GE56,1,1
 Y_GE60,2,2
 Y_GE65,5,3

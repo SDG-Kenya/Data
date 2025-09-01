@@ -61,7 +61,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "Per 100 population",
                 ""
               ]
             },

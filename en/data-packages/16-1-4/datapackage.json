@@ -37,6 +37,18 @@
             "title": "Reference area"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
@@ -74,7 +86,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2016",
+                "2024",
                 ""
               ]
             },

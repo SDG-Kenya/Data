@@ -2174,7 +2174,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -2286,6 +2286,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2024",
                 "2023",
                 ""
               ]
@@ -2403,6 +2404,100 @@
       "title": "Redistributive impact of fiscal policy on the Gini index"
     },
     {
+      "path": "11/data.csv",
+      "name": "11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of the population who are refugees, by country of origin",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2024",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "10-b-1/data.csv",
       "name": "10-b-1",
       "profile": "tabular-data-resource",
@@ -2479,7 +2574,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -2672,7 +2767,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -2766,7 +2861,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2024",
                 ""
               ]
             },
@@ -2901,6 +2996,7 @@
             "constraints": {
               "enum": [
                 "Stocks of intercepted wildlife products - Proxy",
+                "Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1,15.c.1]",
                 ""
               ]
             },
@@ -3048,7 +3144,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2024",
                 ""
               ]
             },
@@ -3089,6 +3185,7 @@
             "constraints": {
               "enum": [
                 "Stocks of intercepted wildlife products - Proxy",
+                "Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1,15.c.1]",
                 ""
               ]
             },
@@ -3356,7 +3453,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -3503,7 +3600,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
                 "2024",
                 ""
               ]
@@ -3604,7 +3700,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2024",
                 ""
               ]
             },
@@ -3894,7 +3990,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -4016,9 +4112,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
-                "2022",
-                "2021",
+                "2024",
                 ""
               ]
             },
@@ -4037,6 +4131,100 @@
         ]
       },
       "title": "Macroeconomic Dashboard"
+    },
+    {
+      "path": "10/data.csv",
+      "name": "10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent of use of country-owned planning tools by providers of development cooperation - data by provider",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "17-17-1/data.csv",
@@ -4079,7 +4267,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kenyan Shillings",
+                "USD",
                 ""
               ]
             },
@@ -4112,7 +4300,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2024",
                 ""
               ]
             },
@@ -4209,7 +4397,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -4397,7 +4585,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2024",
                 ""
               ]
             },
@@ -4491,7 +4679,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -5162,7 +5350,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -6419,7 +6607,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -6844,6 +7032,101 @@
       "title": "Proportion of domestic and industrial wastewater flows safely treated"
     },
     {
+      "path": "15-9-1/data.csv",
+      "name": "15-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO) [15.9.1]",
+                "Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO) [15.9.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boolean or binary measure",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2024",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Number of countries that have established national targets in accordance with or similar to Kunming-Montreal Global Biodiversity Framework Target 14 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
+    },
+    {
       "path": "2-5-1/data.csv",
       "name": "2-5-1",
       "profile": "tabular-data-resource",
@@ -7105,7 +7388,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -7481,7 +7764,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -7575,7 +7858,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2024",
                 ""
               ]
             },
@@ -7670,7 +7953,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -7689,6 +7972,100 @@
         ]
       },
       "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
+    },
+    {
+      "path": "15-4-1/data.csv",
+      "name": "15-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2024",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Coverage by protected areas of important sites for mountain biodiversity"
     },
     {
       "path": "8-10-1/data.csv",
@@ -7765,8 +8142,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
-                "2022",
+                "2024",
                 ""
               ]
             },
@@ -7899,7 +8275,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2021",
+                "2024",
                 ""
               ]
             },
@@ -8092,8 +8468,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
-                "2022",
+                "2024",
                 ""
               ]
             },
@@ -8281,7 +8656,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -8375,7 +8750,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -8588,7 +8963,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -8787,7 +9162,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "Per 100 population",
                 ""
               ]
             },
@@ -8965,7 +9340,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2019",
+                "2023",
                 ""
               ]
             },
@@ -9059,7 +9434,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -9155,7 +9530,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -9249,7 +9624,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -9343,7 +9718,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -10583,7 +10958,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2021",
+                "2024",
                 ""
               ]
             },
@@ -11455,7 +11830,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -11550,7 +11925,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -11569,6 +11944,100 @@
         ]
       },
       "title": "Proportion of members and voting rights of developing countries in international organizations"
+    },
+    {
+      "path": "17-15-1/data.csv",
+      "name": "17-15-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
     },
     {
       "path": "16-9-1/data.csv",
@@ -11762,7 +12231,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -11950,7 +12419,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -12044,7 +12513,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -15190,7 +15659,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -15284,7 +15753,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -15378,7 +15847,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -15472,7 +15941,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -15699,7 +16168,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -15817,7 +16286,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2024",
                 ""
               ]
             },
@@ -15955,7 +16424,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2024",
                 ""
               ]
             },
@@ -16049,7 +16518,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2021",
+                "2024",
                 ""
               ]
             },
@@ -16684,7 +17153,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -16981,7 +17450,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -17075,7 +17544,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -17169,7 +17638,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -17188,6 +17657,124 @@
         ]
       },
       "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
+    },
+    {
+      "path": "16-2-2/data.csv",
+      "name": "16-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 years old and over",
+                "under 18 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 1,000 population",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "TIME_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2024",
+                ""
+              ]
+            },
+            "title": "Time period details"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
     },
     {
       "path": "16-1-1/data.csv",
@@ -17289,7 +17876,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -17395,7 +17982,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2023",
+                "2024",
                 ""
               ]
             },
@@ -17452,6 +18039,18 @@
             "title": "Reference area"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
@@ -17489,7 +18088,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2016",
+                "2024",
                 ""
               ]
             },
@@ -18542,30 +19141,6 @@
       "title": "Worldwide weighted tariff-average"
     },
     {
-      "path": "16-2-2/data.csv",
-      "name": "16-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
-    },
-    {
       "path": "1-b-1/data.csv",
       "name": "1-b-1",
       "profile": "tabular-data-resource",
@@ -18974,30 +19549,6 @@
       "title": "Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources"
     },
     {
-      "path": "17-15-1/data.csv",
-      "name": "17-15-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
-    },
-    {
       "path": "17-9-1/data.csv",
       "name": "17-9-1",
       "profile": "tabular-data-resource",
@@ -19044,30 +19595,6 @@
         ]
       },
       "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
-    },
-    {
-      "path": "15-9-1/data.csv",
-      "name": "15-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Number of countries that have established national targets in accordance with or similar to Kunming-Montreal Global Biodiversity Framework Target 14 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
     },
     {
       "path": "3-d-2/data.csv",
@@ -19284,30 +19811,6 @@
         ]
       },
       "title": "Proportion of total research budget allocated to research in the field of marine technology"
-    },
-    {
-      "path": "15-4-1/data.csv",
-      "name": "15-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Coverage by protected areas of important sites for mountain biodiversity"
     },
     {
       "path": "1-5-2/data.csv",

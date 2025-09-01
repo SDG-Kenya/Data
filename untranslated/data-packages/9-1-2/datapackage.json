@@ -85,6 +85,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "2024",
                 "2023",
                 ""
               ]

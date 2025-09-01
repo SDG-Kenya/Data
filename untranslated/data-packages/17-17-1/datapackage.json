@@ -38,7 +38,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KES",
+                "USD",
                 ""
               ]
             }
@@ -68,7 +68,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "2022",
+                "2024",
                 ""
               ]
             }
