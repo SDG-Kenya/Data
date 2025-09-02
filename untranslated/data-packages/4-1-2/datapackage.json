@@ -60,8 +60,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_3",
                 "ISCED11A_1",
+                "_L_KE_3",
                 ""
               ]
             }
@@ -72,26 +72,6 @@
             "constraints": {
               "enum": [
                 "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
                 ""
               ]
             }

@@ -1,12 +1,12 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2014,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,Normal value,Units,,182626
-2015,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,Normal value,Units,,163824
-2016,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,Normal value,Units,,147678
-2017,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,Normal value,Units,,135100
-2018,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,Normal value,Units,,151298
-2019,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,Normal value,Units,,149320
-2020,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,Normal value,Units,,151326
-2021,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,Normal value,Units,,162369
-2022,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,Normal value,Units,,173741
-2023,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,Normal value,Units,,161307
-2024,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,Normal value,Units,,168424
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,,182626
+2015,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,,163824
+2016,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,,147678
+2017,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,,135100
+2018,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,,151298
+2019,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,,149320
+2020,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,,151326
+2021,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,,162369
+2022,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,,173741
+2023,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,,161307
+2024,Proportion of fish stocks within biologically sustainable levels (not overexploited) [14.4.1],,Metric Tons,,168424

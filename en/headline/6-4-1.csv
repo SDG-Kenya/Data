@@ -1,9 +1,9 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2014,16.0,,Normal value,Units,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
-2015,16.5,,Normal value,Units,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
-2016,13.6,,Normal value,Units,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
-2017,13.9,,Normal value,Units,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
-2018,14.7,,Normal value,Units,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
-2019,15.3,,Normal value,Units,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
-2020,14.9,,Normal value,Units,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
-2021,16.2,,Normal value,Units,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2014,16.0,,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
+2015,16.5,,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
+2016,13.6,,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
+2017,13.9,,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
+2018,14.7,,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
+2019,15.3,,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
+2020,14.9,,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
+2021,16.2,,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]

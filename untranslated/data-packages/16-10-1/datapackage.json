@@ -20,12 +20,12 @@
             "constraints": {
               "enum": [
                 "_L_KE_161001_01",
+                "VC_VAW_MTUHRA",
                 "_L_KE_161001_02",
+                "VC_VOC_ENFDIS",
                 "_L_KE_161001_03",
                 "_L_KE_161001_04",
                 "_L_KE_161001_05",
-                "VC_VAW_MTUHRA",
-                "VC_VOC_ENFDIS",
                 ""
               ]
             }
@@ -45,26 +45,6 @@
             "constraints": {
               "enum": [
                 "NUMBER",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
                 ""
               ]
             }

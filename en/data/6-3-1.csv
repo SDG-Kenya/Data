@@ -1,6 +1,6 @@
-Year,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2020,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,Domestic,Percent,Normal value,Units,,9.4
-2022,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,Domestic,Percent,Normal value,Units,,11.0
-2020,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,Domestic (Sewer),Percent,Normal value,Units,,53.3
-2022,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,Domestic (Sewer),Percent,Normal value,Units,,50.0
-2022,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,Domestic (Septic tank),Percent,Normal value,Units,,39.1
+Year,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
+2020,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,Domestic,Percent,,9.4
+2022,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,Domestic,Percent,,11.0
+2020,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,Domestic (Sewer),Percent,,53.3
+2022,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,Domestic (Sewer),Percent,,50.0
+2022,"Proportion of wastewater safely treated, by activity and location (%) [6.3.1]",,Domestic (Septic tank),Percent,,39.1

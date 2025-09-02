@@ -1,29 +1,29 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2014,Proportion of children moderately or severely wasted [2.2.2],,,,Percent,Normal value,Units,,4.0
-2016,Proportion of children moderately or severely wasted [2.2.2],,,,Percent,Normal value,Units,,6.3
-2022,Proportion of children moderately or severely wasted [2.2.2],,,,Percent,Normal value,Units,,4.9
-2014,Proportion of children moderately or severely wasted [2.2.2],,,Rural,Percent,Normal value,Units,,4.4
-2016,Proportion of children moderately or severely wasted [2.2.2],,,Rural,Percent,Normal value,Units,,6.5
-2022,Proportion of children moderately or severely wasted [2.2.2],,,Rural,Percent,Normal value,Units,,5.3
-2014,Proportion of children moderately or severely wasted [2.2.2],,,Urban,Percent,Normal value,Units,,3.4
-2016,Proportion of children moderately or severely wasted [2.2.2],,,Urban,Percent,Normal value,Units,,5.1
-2022,Proportion of children moderately or severely wasted [2.2.2],,,Urban,Percent,Normal value,Units,,4.0
-2014,Proportion of children moderately or severely wasted [2.2.2],,Female,,Percent,Normal value,Units,,3.7
-2016,Proportion of children moderately or severely wasted [2.2.2],,Female,,Percent,Normal value,Units,,5.8
-2022,Proportion of children moderately or severely wasted [2.2.2],,Female,,Percent,Normal value,Units,,4.3
-2014,Proportion of children moderately or severely wasted [2.2.2],,Male,,Percent,Normal value,Units,,4.4
-2016,Proportion of children moderately or severely wasted [2.2.2],,Male,,Percent,Normal value,Units,,6.7
-2022,Proportion of children moderately or severely wasted [2.2.2],,Male,,Percent,Normal value,Units,,5.4
-2014,Proportion of children moderately or severely overweight [2.2.2],,,,Percent,Normal value,Units,,22.7
-2016,Proportion of children moderately or severely overweight [2.2.2],,,,Percent,Normal value,Units,,4.9
-2022,Proportion of children moderately or severely overweight [2.2.2],,,,Percent,Normal value,Units,,3.2
-2014,Proportion of children moderately or severely overweight [2.2.2],,,Rural,Percent,Normal value,Units,,18.8
-2022,Proportion of children moderately or severely overweight [2.2.2],,,Rural,Percent,Normal value,Units,,2.8
-2014,Proportion of children moderately or severely overweight [2.2.2],,,Urban,Percent,Normal value,Units,,28.6
-2022,Proportion of children moderately or severely overweight [2.2.2],,,Urban,Percent,Normal value,Units,,4.0
-2014,Proportion of children moderately or severely overweight [2.2.2],,Female,,Percent,Normal value,Units,,3.5
-2016,Proportion of children moderately or severely overweight [2.2.2],,Female,,Percent,Normal value,Units,,6.5
-2022,Proportion of children moderately or severely overweight [2.2.2],,Female,,Percent,Normal value,Units,,3.6
-2014,Proportion of children moderately or severely overweight [2.2.2],,Male,,Percent,Normal value,Units,,4.7
-2016,Proportion of children moderately or severely overweight [2.2.2],,Male,,Percent,Normal value,Units,,4.7
-2022,Proportion of children moderately or severely overweight [2.2.2],,Male,,Percent,Normal value,Units,,2.9
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2014,Proportion of children moderately or severely wasted [2.2.2],,,,Percent,,4.0
+2016,Proportion of children moderately or severely wasted [2.2.2],,,,Percent,,6.3
+2022,Proportion of children moderately or severely wasted [2.2.2],,,,Percent,,4.9
+2014,Proportion of children moderately or severely wasted [2.2.2],,,Rural,Percent,,4.4
+2016,Proportion of children moderately or severely wasted [2.2.2],,,Rural,Percent,,6.5
+2022,Proportion of children moderately or severely wasted [2.2.2],,,Rural,Percent,,5.3
+2014,Proportion of children moderately or severely wasted [2.2.2],,,Urban,Percent,,3.4
+2016,Proportion of children moderately or severely wasted [2.2.2],,,Urban,Percent,,5.1
+2022,Proportion of children moderately or severely wasted [2.2.2],,,Urban,Percent,,4.0
+2014,Proportion of children moderately or severely wasted [2.2.2],,Female,,Percent,,3.7
+2016,Proportion of children moderately or severely wasted [2.2.2],,Female,,Percent,,5.8
+2022,Proportion of children moderately or severely wasted [2.2.2],,Female,,Percent,,4.3
+2014,Proportion of children moderately or severely wasted [2.2.2],,Male,,Percent,,4.4
+2016,Proportion of children moderately or severely wasted [2.2.2],,Male,,Percent,,6.7
+2022,Proportion of children moderately or severely wasted [2.2.2],,Male,,Percent,,5.4
+2014,Proportion of children moderately or severely overweight [2.2.2],,,,Percent,,22.7
+2016,Proportion of children moderately or severely overweight [2.2.2],,,,Percent,,4.9
+2022,Proportion of children moderately or severely overweight [2.2.2],,,,Percent,,3.2
+2014,Proportion of children moderately or severely overweight [2.2.2],,,Rural,Percent,,18.8
+2022,Proportion of children moderately or severely overweight [2.2.2],,,Rural,Percent,,2.8
+2014,Proportion of children moderately or severely overweight [2.2.2],,,Urban,Percent,,28.6
+2022,Proportion of children moderately or severely overweight [2.2.2],,,Urban,Percent,,4.0
+2014,Proportion of children moderately or severely overweight [2.2.2],,Female,,Percent,,3.5
+2016,Proportion of children moderately or severely overweight [2.2.2],,Female,,Percent,,6.5
+2022,Proportion of children moderately or severely overweight [2.2.2],,Female,,Percent,,3.6
+2014,Proportion of children moderately or severely overweight [2.2.2],,Male,,Percent,,4.7
+2016,Proportion of children moderately or severely overweight [2.2.2],,Male,,Percent,,4.7
+2022,Proportion of children moderately or severely overweight [2.2.2],,Male,,Percent,,2.9

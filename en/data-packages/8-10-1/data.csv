@@ -1,23 +1,23 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2014,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,Normal value,Units,,12.0
-2015,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,Normal value,Units,,12.0
-2016,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,Normal value,Units,,11.0
-2017,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,Normal value,Units,,12.0
-2018,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,Normal value,Units,,11.0
-2019,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,Normal value,Units,,11.0
-2020,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,Normal value,Units,,10.0
-2021,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,Normal value,Units,,11.0
-2022,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,Normal value,Units,,8.0
-2023,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,Normal value,Units,,8.0
-2024,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,Normal value,Units,,9.0
-2014,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,Normal value,Units,,5.0
-2015,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,Normal value,Units,,7.0
-2016,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,Normal value,Units,,7.0
-2017,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,Normal value,Units,,6.0
-2018,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,Normal value,Units,,6.0
-2019,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,Normal value,Units,,6.0
-2020,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,Normal value,Units,,6.0
-2021,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,Normal value,Units,,6.0
-2022,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,Normal value,Units,,5.1
-2023,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,Normal value,Units,,6.2
-2024,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,Normal value,Units,,6.1
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,,5.0
+2015,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,,7.0
+2016,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,,7.0
+2017,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,,6.0
+2018,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,,6.0
+2019,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,,6.0
+2020,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,,6.0
+2021,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,,6.0
+2022,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,,5.1
+2023,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,,6.2
+2024,"Number of commercial bank branches per 100,000 adults [8.10.1]",,Number,,6.1
+2014,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,,12.0
+2015,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,,12.0
+2016,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,,11.0
+2017,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,,12.0
+2018,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,,11.0
+2019,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,,11.0
+2020,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,,10.0
+2021,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,,11.0
+2022,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,,8.0
+2023,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,,8.0
+2024,"Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",,Number,,9.0

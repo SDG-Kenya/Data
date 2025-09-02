@@ -1,8 +1,8 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2018,160450.2,,Normal value,Millions,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"
-2019,151993.6,,Normal value,Millions,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"
-2020,173340.7,,Normal value,Millions,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"
-2021,143135.9,,Normal value,Millions,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"
-2022,134109.3,,Normal value,Millions,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"
-2023,139045.1,,Normal value,Millions,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"
-2024,112423.0,,Normal value,Millions,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2018,160450.2,,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"
+2019,151993.6,,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"
+2020,173340.7,,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"
+2021,143135.9,,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"
+2022,134109.3,,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"
+2023,139045.1,,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"
+2024,112423.0,,Kenyan Shillings,"Total official flows for infrastructure, by recipient countries [9.a.1]"

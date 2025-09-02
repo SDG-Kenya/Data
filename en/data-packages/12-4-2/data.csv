@@ -1,2 +1,2 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2017,"Hazardous waste generated, per capita (Kg) [12.4.2]",,Kilograms,Normal value,Units,,0.1
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2017,"Hazardous waste generated, per capita (Kg) [12.4.2]",,Kilograms,,0.1

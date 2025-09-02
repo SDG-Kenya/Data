@@ -1,10 +1,10 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2014,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,Normal value,Units,,7641.3
-2015,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,Normal value,Units,,7695.4
-2016,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,Normal value,Units,,7735.9
-2017,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,Normal value,Units,,7766.2
-2018,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,Normal value,Units,,7777.4
-2019,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,Normal value,Units,,7794.9
-2020,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,Normal value,Units,,7801.5
-2021,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,Normal value,Units,,7844.8
-2022,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,Normal value,Units,,7913.9
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,,7641.3
+2015,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,,7695.4
+2016,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,,7735.9
+2017,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,,7766.2
+2018,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,,7777.4
+2019,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,,7794.9
+2020,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,,7801.5
+2021,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,,7844.8
+2022,Water body extent (permanent) (% of total land area) [6.6.1],,Square kilometers,,7913.9

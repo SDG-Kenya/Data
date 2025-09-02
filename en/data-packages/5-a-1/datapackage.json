@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of men among owners or rights-bearers of agricultural land, by type of tenure",
-                "Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",
                 "Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1]",
+                "Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",
+                "Share of men among owners or rights-bearers of agricultural land, by type of tenure",
                 ""
               ]
             },
@@ -43,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             },
@@ -72,28 +72,6 @@
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

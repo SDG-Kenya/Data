@@ -20,10 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population using basic hygiene services",
-                "Proportion of population using clean fuels and technologies",
                 "Proportion of population using basic drinking water services [1.4.1]",
                 "Proportion of population using basic sanitation services [1.4.1]",
+                "Proportion of population using basic hygiene services",
+                "Proportion of population with access to electricity",
+                "Proportion of population using clean fuels and technologies",
                 ""
               ]
             },
@@ -49,28 +50,6 @@
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

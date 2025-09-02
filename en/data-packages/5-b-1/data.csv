@@ -1,19 +1,19 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2014,Proportion of individuals who own a mobile telephone [5.b.1],,,,Percent,Normal value,Units,,33.0
-2016,Proportion of individuals who own a mobile telephone [5.b.1],,,,Percent,Normal value,Units,,44.4
-2019,Proportion of individuals who own a mobile telephone [5.b.1],,,,Percent,Normal value,Units,,47.3
-2024,Proportion of individuals who own a mobile telephone [5.b.1],,,,Percent,Normal value,Units,,53.7
-2016,Proportion of individuals who own a mobile telephone [5.b.1],,,Rural,Percent,Normal value,Units,,36.3
-2019,Proportion of individuals who own a mobile telephone [5.b.1],,,Rural,Percent,Normal value,Units,,40.5
-2024,Proportion of individuals who own a mobile telephone [5.b.1],,,Rural,Percent,Normal value,Units,,48.6
-2016,Proportion of individuals who own a mobile telephone [5.b.1],,,Urban,Percent,Normal value,Units,,58.7
-2019,Proportion of individuals who own a mobile telephone [5.b.1],,,Urban,Percent,Normal value,Units,,62.6
-2024,Proportion of individuals who own a mobile telephone [5.b.1],,,Urban,Percent,Normal value,Units,,64.6
-2014,Proportion of individuals who own a mobile telephone [5.b.1],,Female,,Percent,Normal value,Units,,30.2
-2016,Proportion of individuals who own a mobile telephone [5.b.1],,Female,,Percent,Normal value,Units,,43.2
-2019,Proportion of individuals who own a mobile telephone [5.b.1],,Female,,Percent,Normal value,Units,,47.0
-2024,Proportion of individuals who own a mobile telephone [5.b.1],,Female,,Percent,Normal value,Units,,52.9
-2014,Proportion of individuals who own a mobile telephone [5.b.1],,Male,,Percent,Normal value,Units,,35.7
-2016,Proportion of individuals who own a mobile telephone [5.b.1],,Male,,Percent,Normal value,Units,,45.5
-2019,Proportion of individuals who own a mobile telephone [5.b.1],,Male,,Percent,Normal value,Units,,47.6
-2024,Proportion of individuals who own a mobile telephone [5.b.1],,Male,,Percent,Normal value,Units,,54.5
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2014,Proportion of individuals who own a mobile telephone [5.b.1],,,,Percent,,33.0
+2016,Proportion of individuals who own a mobile telephone [5.b.1],,,,Percent,,44.4
+2019,Proportion of individuals who own a mobile telephone [5.b.1],,,,Percent,,47.3
+2024,Proportion of individuals who own a mobile telephone [5.b.1],,,,Percent,,53.7
+2016,Proportion of individuals who own a mobile telephone [5.b.1],,,Rural,Percent,,36.3
+2019,Proportion of individuals who own a mobile telephone [5.b.1],,,Rural,Percent,,40.5
+2024,Proportion of individuals who own a mobile telephone [5.b.1],,,Rural,Percent,,48.6
+2016,Proportion of individuals who own a mobile telephone [5.b.1],,,Urban,Percent,,58.7
+2019,Proportion of individuals who own a mobile telephone [5.b.1],,,Urban,Percent,,62.6
+2024,Proportion of individuals who own a mobile telephone [5.b.1],,,Urban,Percent,,64.6
+2014,Proportion of individuals who own a mobile telephone [5.b.1],,Female,,Percent,,30.2
+2016,Proportion of individuals who own a mobile telephone [5.b.1],,Female,,Percent,,43.2
+2019,Proportion of individuals who own a mobile telephone [5.b.1],,Female,,Percent,,47.0
+2024,Proportion of individuals who own a mobile telephone [5.b.1],,Female,,Percent,,52.9
+2014,Proportion of individuals who own a mobile telephone [5.b.1],,Male,,Percent,,35.7
+2016,Proportion of individuals who own a mobile telephone [5.b.1],,Male,,Percent,,45.5
+2019,Proportion of individuals who own a mobile telephone [5.b.1],,Male,,Percent,,47.6
+2024,Proportion of individuals who own a mobile telephone [5.b.1],,Male,,Percent,,54.5

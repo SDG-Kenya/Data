@@ -1,29 +1,29 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2014,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,Normal value,Units,,91
-2016,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,Normal value,Units,,95
-2017,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,Normal value,Units,,95
-2018,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,Normal value,Units,,95
-2019,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,Normal value,Units,,96
-2020,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,Normal value,Units,,96
-2021,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,Normal value,Units,,96
-2022,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,Normal value,Units,,96
-2023,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,Normal value,Units,,97
-2024,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,Normal value,Units,,98
-2014,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,Normal value,Units,,61
-2016,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,Normal value,Units,,78
-2017,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,Normal value,Units,,85
-2018,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,Normal value,Units,,86
-2019,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,Normal value,Units,,93
-2020,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,Normal value,Units,,94
-2021,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,Normal value,Units,,95
-2022,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,Normal value,Units,,98
-2023,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,Normal value,Units,,98
-2024,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,Normal value,Units,,98
-2017,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,Normal value,Units,,25
-2018,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,Normal value,Units,,35
-2019,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,Normal value,Units,,57
-2020,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,Normal value,Units,,77
-2021,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,Normal value,Units,,94
-2022,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,Normal value,Units,,97
-2023,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,Normal value,Units,,98
-2024,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,Normal value,Units,,97
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,,91
+2016,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,,95
+2017,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,,95
+2018,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,,95
+2019,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,,96
+2020,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,,96
+2021,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,,96
+2022,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,,96
+2023,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,,97
+2024,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,,98
+2014,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,,61
+2016,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,,78
+2017,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,,85
+2018,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,,86
+2019,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,,93
+2020,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,,94
+2021,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,,95
+2022,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,,98
+2023,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,,98
+2024,Proportion of population covered by at least a 3G mobile network [9.c.1],,Percent,,98
+2017,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,,25
+2018,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,,35
+2019,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,,57
+2020,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,,77
+2021,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,,94
+2022,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,,97
+2023,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,,98
+2024,Proportion of population covered by at least a 4G mobile network [9.c.1],,Percent,,97

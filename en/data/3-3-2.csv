@@ -1,2 +1,2 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2016,Tuberculosis incidence [3.3.2],,"Per 100,000 population",Normal value,Units,,348
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2016,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,348

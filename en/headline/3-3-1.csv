@@ -1,4 +1,4 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2014,5.0,,Normal value,Units,"Per 1,000 uninfected population","Number of new HIV infections per 1,000 uninfected population [3.3.1]"
-2018,1.4,,Normal value,Units,"Per 1,000 uninfected population","Number of new HIV infections per 1,000 uninfected population [3.3.1]"
-2019,1.2,,Normal value,Units,"Per 1,000 uninfected population","Number of new HIV infections per 1,000 uninfected population [3.3.1]"
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2014,5.0,,"Per 1,000 uninfected population","Number of new HIV infections per 1,000 uninfected population [3.3.1]"
+2018,1.4,,"Per 1,000 uninfected population","Number of new HIV infections per 1,000 uninfected population [3.3.1]"
+2019,1.2,,"Per 1,000 uninfected population","Number of new HIV infections per 1,000 uninfected population [3.3.1]"

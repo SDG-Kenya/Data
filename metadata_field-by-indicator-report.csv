@@ -1,5 +1,4 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
-#1,complete,,,,,,line
 #1-1-1,complete,World Bank (WB),,,Kenya,2.5 USD per day(2017 PPP terms),line
 #1-2-1,complete,World Bank,,,,,line
 #1-2-2,complete,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,,,,line
@@ -14,7 +13,6 @@ WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (
 #1-a-1,notstarted,OECD,,,,,line
 #1-a-2,complete,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
 #1-b-1,notstarted,"United Nations Children&#x2019;s Fund (UNICEF), Save the Children",,,,,line
-#10,complete,,,,,,line
 #10-1-1,complete,World Bank (WB),,,,,line
 #10-2-1,complete,World Bank (WB),,,,,line
 #10-3-1,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
@@ -32,7 +30,6 @@ United Nations Conference on Trade and Development (UNCTAD)
 The World Trade Organization (WTO)",,,,,line
 #10-b-1,complete,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #10-c-1,complete,World Bank,,,,,line
-#11,complete,,,,,,line
 #11-1-1,complete,United Nations Human Settlements Programme (UN-Habitat) ,,,,,line
 #11-2-1,complete,United Nations Human Settlements Programme (UN-Habitat),,,,Percentage (%),line
 #11-3-1,complete,United Nations Human Settlements Programme (UN-Habitat),,,,,line
@@ -167,7 +164,6 @@ United Nations Development Programme (UNDP)",,,,,line
 #17-7-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #17-8-1,complete,International Telecommunication Union (ITU),,,,,line
 #17-9-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#2,complete,,,,,,line
 #2-1-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #2-1-2,complete,Food and Agriculture Organisation of the United Nations (FAO),,,,,line
 #2-2-1,complete,"United Nations Children&apos;s Fund (UNICEF)
@@ -186,7 +182,6 @@ World Health Organization (WHO)",,,,,line
 #2-a-2,complete,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #2-b-1,notstarted,The World Trade Organization (WTO),,,,,line
 #2-c-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#3,complete,,,,,,line
 #3-1-1,complete,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,,line
 #3-1-2,complete,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,,line
 #3-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,,line
@@ -218,7 +213,6 @@ United Nations Population Fund (UNFPA)",,,,,line
 #3-c-1,complete,"Health Workforce Department, World Health Organization (WHO)",,,,,line
 #3-d-1,notstarted,World Health Organization (WHO),,,,,line
 #3-d-2,notstarted,World Health Organization (WHO),,,,,line
-#4,complete,,,,,,line
 #4-1-1,complete,UNESCO Institute of Statistics (UIS),,,,,line
 #4-1-2,complete,UNESCO Institute for Statistics (UIS),,,,,line
 #4-1-4,notstarted,,True,,,,line
@@ -234,7 +228,6 @@ Global Education Monitoring Report",,,,,line
 #4-a-1,complete,UNESCO Institute for Statistics (UIS),,,,,line
 #4-b-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #4-c-1,complete,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
-#5,complete,,,,,,line
 #5-1-1,notstarted,"UN Women, World Bank Group, OECD Development Centre",,,,,line
 #5-2-1,complete,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)
@@ -258,7 +251,6 @@ United Nations Population Fund (UNFPA)",,,,,line
 #5-a-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #5-b-1,complete,International Telecommunication Union (ITU),,,,,line
 #5-c-1,notstarted,United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) in collaboration with Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP),,,,,line
-#6,complete,,,,,,line
 #6-1-1,complete,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)",,,,,line
 #6-2-1,complete,"World Health Organization (WHO)
@@ -279,7 +271,6 @@ Organisation for Economic Co-operation and Development (OECD)",,,,,line
 #6-b-1,complete,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
 Organisation for Economic Co-operation and Development (OECD)",,,,,line
-#7,complete,,,,,,line
 #7-1-1,complete,World Bank Group,,,,,line
 #7-1-2,complete,World Health Organization (WHO),,,,,line
 #7-2-1,complete,"International Energy Agency (IEA) 
@@ -289,7 +280,6 @@ International Renewable Energy Agency (IRENA)",,,,,line
 United Nations Statistics Division (UNSD)",,,,,line
 #7-a-1,complete,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
 #7-b-1,complete,International Renewable Energy Agency (IRENA),,,,,line
-#8,complete,,,,,,line
 #8-1-1,complete,United Nations Statistics Division (UNSD),,,,,line
 #8-10-1,complete,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,,line
 #8-10-2,complete,World Bank ,,,,,line
@@ -308,7 +298,6 @@ International Labour Organization (ILO)",,,,,line
 #8-9-2,notstarted,World Tourism Organization (UN Tourism) with the collaboration of the International Labour Organization (ILO).,True,,,,line
 #8-a-1,complete,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
 #8-b-1,notstarted,International Labour Organization (ILO),,,,,line
-#9,complete,,,,,,line
 #9-1-1,complete,World Bank,,,,,line
 #9-1-2,complete,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); UN Trade and Development (UNCTAD).,,,,,line
 #9-2-1,complete,United Nations Industrial Development Organization (UNIDO),,,,,line

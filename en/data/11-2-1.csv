@@ -1,5 +1,5 @@
-Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2019,Proportion of population that has convenient access to public transport [11.2.1],Kisumu,City,Percent,Normal value,Units,KE_KIS,10
-2019,Proportion of population that has convenient access to public transport [11.2.1],Mombasa,City,Percent,Normal value,Units,KE_MBA,20
-2019,Proportion of population that has convenient access to public transport [11.2.1],Nairobi,City,Percent,Normal value,Units,KE_NBO,66
-2019,Proportion of population that has convenient access to public transport [11.2.1],Nakuru,City,Percent,Normal value,Units,KE_NUU,16
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2019,Proportion of population that has convenient access to public transport [11.2.1],Nairobi,City,Percent,KE_NBO,66
+2019,Proportion of population that has convenient access to public transport [11.2.1],Mombasa,City,Percent,KE_MBA,20
+2019,Proportion of population that has convenient access to public transport [11.2.1],Kisumu,City,Percent,KE_KIS,10
+2019,Proportion of population that has convenient access to public transport [11.2.1],Nakuru,City,Percent,KE_NUU,16

@@ -1,76 +1,76 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,Education level,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,47.1
-2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,71.1
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,67.0
-2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,76.1
-2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,88.6
-2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Reading,Percent,Normal value,Units,,39.9
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Reading,Percent,Normal value,Units,,52.7
-2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Reading,Percent,Normal value,Units,,78.4
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Lower secondary education,Skill: Mathematics,Percent,Normal value,Units,,6.2
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Lower secondary education,Skill: Reading,Percent,Normal value,Units,,39.9
-2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,56.2
-2016,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,45.4
-2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,51.1
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,43.1
-2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,49.1
-2020,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,54.9
-2021,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,49.6
-2022,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,47.5
-2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,36.9
-2014,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,47.6
-2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,52.8
-2016,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,53.0
-2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,52.2
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,52.7
-2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,51.5
-2020,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,52.8
-2021,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,53.2
-2022,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,53.1
-2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,25.5
-2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Rural,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,71.9
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Rural,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,62.2
-2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Rural,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,73.2
-2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Urban,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,82.5
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Urban,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,75.7
-2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Urban,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,83.1
-2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,49.0
-2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,72.5
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,66.4
-2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,75.9
-2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,89.4
-2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Reading,Percent,Normal value,Units,,43.4
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Reading,Percent,Normal value,Units,,58.5
-2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Reading,Percent,Normal value,Units,,81.8
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Lower secondary education,Skill: Mathematics,Percent,Normal value,Units,,4.3
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Lower secondary education,Skill: Reading,Percent,Normal value,Units,,43.5
-2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,49.6
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,42.1
-2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,47.7
-2020,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,52.2
-2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,37.9
-2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,47.8
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,54.8
-2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,53.5
-2020,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,53.8
-2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,27.2
-2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,45.2
-2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,69.8
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,67.7
-2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,76.1
-2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Mathematics,Percent,Normal value,Units,,87.6
-2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Reading,Percent,Normal value,Units,,36.3
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Reading,Percent,Normal value,Units,,47.4
-2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Reading,Percent,Normal value,Units,,75.1
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Lower secondary education,Skill: Mathematics,Percent,Normal value,Units,,8.0
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Lower secondary education,Skill: Reading,Percent,Normal value,Units,,36.3
-2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,52.7
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,44.1
-2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,50.8
-2020,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,57.6
-2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,Normal value,Units,,36.0
-2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,47.4
-2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,54.6
-2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,53.8
-2020,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,53.2
-2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Reading,Percent,Normal value,Units,,23.9
+Year,SERIES,Reference area,Sex,Degree of urbanisation,Education level,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
+2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Reading,Percent,,39.9
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Reading,Percent,,52.7
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Reading,Percent,,78.4
+2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Reading,Percent,,43.4
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Reading,Percent,,58.5
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Reading,Percent,,81.8
+2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Reading,Percent,,36.3
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Reading,Percent,,47.4
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Reading,Percent,,75.1
+2014,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,47.6
+2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,52.8
+2016,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,53.0
+2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,52.2
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,52.7
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,51.5
+2020,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,52.8
+2021,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,53.2
+2022,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,53.1
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,25.5
+2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,47.8
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,54.8
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,53.5
+2020,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,53.8
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,27.2
+2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,47.4
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,54.6
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,53.8
+2020,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,53.2
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Reading,Percent,,23.9
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Lower secondary education,Skill: Reading,Percent,,39.9
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Lower secondary education,Skill: Reading,Percent,,43.5
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Lower secondary education,Skill: Reading,Percent,,36.3
+2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Mathematics,Percent,,47.1
+2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Mathematics,Percent,,71.1
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Mathematics,Percent,,67.0
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Mathematics,Percent,,76.1
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Grade 2/3,Skill: Mathematics,Percent,,88.6
+2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Rural,Grade 2/3,Skill: Mathematics,Percent,,71.9
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Rural,Grade 2/3,Skill: Mathematics,Percent,,62.2
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Rural,Grade 2/3,Skill: Mathematics,Percent,,73.2
+2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Urban,Grade 2/3,Skill: Mathematics,Percent,,82.5
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Urban,Grade 2/3,Skill: Mathematics,Percent,,75.7
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Urban,Grade 2/3,Skill: Mathematics,Percent,,83.1
+2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Mathematics,Percent,,49.0
+2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Mathematics,Percent,,72.5
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Mathematics,Percent,,66.4
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Mathematics,Percent,,75.9
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Grade 2/3,Skill: Mathematics,Percent,,89.4
+2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Mathematics,Percent,,45.2
+2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Mathematics,Percent,,69.8
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Mathematics,Percent,,67.7
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Mathematics,Percent,,76.1
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Grade 2/3,Skill: Mathematics,Percent,,87.6
+2015,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,56.2
+2016,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,45.4
+2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,51.1
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,43.1
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,49.1
+2020,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,54.9
+2021,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,49.6
+2022,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,47.5
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,36.9
+2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,49.6
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,42.1
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,47.7
+2020,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,52.2
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,37.9
+2017,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,52.7
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,44.1
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,50.8
+2020,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,57.6
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,"Primary education, sufficient for level completion",Skill: Mathematics,Percent,,36.0
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Lower secondary education,Skill: Mathematics,Percent,,6.2
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Lower secondary education,Skill: Mathematics,Percent,,4.3
+2018,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Lower secondary education,Skill: Mathematics,Percent,,8.0

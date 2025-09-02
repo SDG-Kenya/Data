@@ -1,11 +1,11 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2019,Participation rate in formal education and training,,,,Percent,Normal value,Units,,21.9
-2024,Participation rate in formal education and training,,,,Percent,Normal value,Units,,55.9
-2019,Participation rate in formal education and training,,,Rural,Percent,Normal value,Units,,14.6
-2024,Participation rate in formal education and training,,,Rural,Percent,Normal value,Units,,58.7
-2019,Participation rate in formal education and training,,,Urban,Percent,Normal value,Units,,36.5
-2024,Participation rate in formal education and training,,,Urban,Percent,Normal value,Units,,50.0
-2019,Participation rate in formal education and training,,Female,,Percent,Normal value,Units,,20.4
-2024,Participation rate in formal education and training,,Female,,Percent,Normal value,Units,,53.8
-2019,Participation rate in formal education and training,,Male,,Percent,Normal value,Units,,23.5
-2024,Participation rate in formal education and training,,Male,,Percent,Normal value,Units,,58.2
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2019,Participation rate in formal education and training,,,,Percent,,21.9
+2024,Participation rate in formal education and training,,,,Percent,,55.9
+2019,Participation rate in formal education and training,,,Rural,Percent,,14.6
+2024,Participation rate in formal education and training,,,Rural,Percent,,58.7
+2019,Participation rate in formal education and training,,,Urban,Percent,,36.5
+2024,Participation rate in formal education and training,,,Urban,Percent,,50.0
+2019,Participation rate in formal education and training,,Female,,Percent,,20.4
+2024,Participation rate in formal education and training,,Female,,Percent,,53.8
+2019,Participation rate in formal education and training,,Male,,Percent,,23.5
+2024,Participation rate in formal education and training,,Male,,Percent,,58.2

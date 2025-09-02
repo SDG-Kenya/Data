@@ -1,11 +1,11 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2015,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,Normal value,Units,,36.9
-2016,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,Normal value,Units,,37.1
-2017,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,Normal value,Units,,37.3
-2018,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,Normal value,Units,,34.4
-2019,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,Normal value,Units,,35.4
-2020,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,Normal value,Units,,37.4
-2021,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,Normal value,Units,,37.8
-2022,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,Normal value,Units,,39.7
-2023,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,Normal value,Units,,32.4
-2024,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,Normal value,Units,,29.4
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,,36.9
+2016,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,,37.1
+2017,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,,37.3
+2018,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,,34.4
+2019,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,,35.4
+2020,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,,37.4
+2021,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,,37.8
+2022,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,,39.7
+2023,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,,32.4
+2024,Proportion of tariff lines applied to imports with zero-tariff [10.a.1],,Percent,,29.4

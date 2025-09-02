@@ -1,2 +1,2 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2022,78.0,,Normal value,Units,Percent,"Proportion of children who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning [4.2.1]"
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2022,78.0,,Percent,"Proportion of children who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning [4.2.1]"

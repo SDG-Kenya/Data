@@ -1,9 +1,9 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2015,Proportion of land that is degraded over total land area [15.3.1],,Percent,Normal value,Units,,9.8
-2017,Proportion of land that is degraded over total land area [15.3.1],,Percent,Normal value,Units,,11.4
-2018,Proportion of land that is degraded over total land area [15.3.1],,Percent,Normal value,Units,,11.4
-2019,Proportion of land that is degraded over total land area [15.3.1],,Percent,Normal value,Units,,19.4
-2020,Proportion of land that is degraded over total land area [15.3.1],,Percent,Normal value,Units,,11.4
-2021,Proportion of land that is degraded over total land area [15.3.1],,Percent,Normal value,Units,,11.4
-2022,Proportion of land that is degraded over total land area [15.3.1],,Percent,Normal value,Units,,11.4
-2024,Proportion of land that is degraded over total land area [15.3.1],,Percent,Normal value,Units,,11.4
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,Proportion of land that is degraded over total land area [15.3.1],,Percent,,9.8
+2017,Proportion of land that is degraded over total land area [15.3.1],,Percent,,11.4
+2018,Proportion of land that is degraded over total land area [15.3.1],,Percent,,11.4
+2019,Proportion of land that is degraded over total land area [15.3.1],,Percent,,19.4
+2020,Proportion of land that is degraded over total land area [15.3.1],,Percent,,11.4
+2021,Proportion of land that is degraded over total land area [15.3.1],,Percent,,11.4
+2022,Proportion of land that is degraded over total land area [15.3.1],,Percent,,11.4
+2024,Proportion of land that is degraded over total land area [15.3.1],,Percent,,11.4

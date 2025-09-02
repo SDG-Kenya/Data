@@ -1,8 +1,8 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2018,197.32099,,Normal value,Millions,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity
-2019,395.016,,Normal value,Millions,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity
-2020,269.0,,Normal value,Millions,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity
-2021,208.0,,Normal value,Millions,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity
-2022,300.0,,Normal value,Millions,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity
-2023,1000.0,,Normal value,Millions,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity
-2024,330.0,,Normal value,Millions,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2018,197.32099,,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity
+2019,395.016,,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity
+2020,269.0,,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity
+2021,208.0,,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity
+2022,300.0,,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity
+2023,1000.0,,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity
+2024,330.0,,Kenyan Shillings,Official development assistance on conservation and sustainable use of biodiversity

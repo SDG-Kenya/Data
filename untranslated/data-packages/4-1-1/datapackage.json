@@ -61,8 +61,8 @@
             "constraints": {
               "enum": [
                 "_L_KE_1",
-                "ISCED11_2",
                 "ISCED11A_1",
+                "ISCED11_2",
                 ""
               ]
             }
@@ -72,8 +72,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SKILL_MATH",
                 "SKILL_READ",
+                "SKILL_MATH",
                 ""
               ]
             }
@@ -84,26 +84,6 @@
             "constraints": {
               "enum": [
                 "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
                 ""
               ]
             }

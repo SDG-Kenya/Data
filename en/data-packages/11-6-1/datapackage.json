@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kisumu",
-                "Mombasa",
                 "Nairobi",
+                "Mombasa",
+                "Kisumu",
                 "Nakuru",
                 ""
               ]
@@ -61,28 +61,6 @@
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

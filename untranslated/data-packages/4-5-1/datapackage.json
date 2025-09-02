@@ -38,12 +38,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ISCED11_02",
+                "ISCED11_1",
+                "_L_KE_7",
                 "_L_KE_3",
                 "_L_KE_4",
                 "_L_KE_6",
-                "_L_KE_7",
-                "ISCED11_02",
-                "ISCED11_1",
                 ""
               ]
             }
@@ -54,26 +54,6 @@
             "constraints": {
               "enum": [
                 "RO",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
                 ""
               ]
             }

@@ -66,8 +66,8 @@
             "constraints": {
               "enum": [
                 "Grade 2/3",
-                "Lower secondary education",
                 "Primary education, sufficient for level completion",
+                "Lower secondary education",
                 ""
               ]
             },
@@ -78,8 +78,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Skill: Mathematics",
                 "Skill: Reading",
+                "Skill: Mathematics",
                 ""
               ]
             },
@@ -95,28 +95,6 @@
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

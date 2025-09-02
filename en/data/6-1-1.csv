@@ -1,25 +1,25 @@
-Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2014,Proportion of household using safely managed drinking water services,,,Percent,Normal value,Units,,63.0
-2016,Proportion of household using safely managed drinking water services,,,Percent,Normal value,Units,,55.9
-2022,Proportion of household using safely managed drinking water services,,,Percent,Normal value,Units,,64.3
-2024,Proportion of household using safely managed drinking water services,,,Percent,Normal value,Units,,76.6
-2014,Proportion of household using safely managed drinking water services,,Rural,Percent,Normal value,Units,,49.9
-2016,Proportion of household using safely managed drinking water services,,Rural,Percent,Normal value,Units,,51.2
-2022,Proportion of household using safely managed drinking water services,,Rural,Percent,Normal value,Units,,58.7
-2024,Proportion of household using safely managed drinking water services,,Rural,Percent,Normal value,Units,,64.1
-2014,Proportion of household using safely managed drinking water services,,Urban,Percent,Normal value,Units,,81.2
-2016,Proportion of household using safely managed drinking water services,,Urban,Percent,Normal value,Units,,61.9
-2022,Proportion of household using safely managed drinking water services,,Urban,Percent,Normal value,Units,,72.7
-2024,Proportion of household using safely managed drinking water services,,Urban,Percent,Normal value,Units,,92.4
-2014,Proportion of population using safely managed drinking water services [6.1.1],,,Percent,Normal value,Units,,60.3
-2016,Proportion of population using safely managed drinking water services [6.1.1],,,Percent,Normal value,Units,,52.4
-2022,Proportion of population using safely managed drinking water services [6.1.1],,,Percent,Normal value,Units,,67.9
-2024,Proportion of population using safely managed drinking water services [6.1.1],,,Percent,Normal value,Units,,74.7
-2014,Proportion of population using safely managed drinking water services [6.1.1],,Rural,Percent,Normal value,Units,,48.1
-2016,Proportion of population using safely managed drinking water services [6.1.1],,Rural,Percent,Normal value,Units,,48.6
-2022,Proportion of population using safely managed drinking water services [6.1.1],,Rural,Percent,Normal value,Units,,56.3
-2024,Proportion of population using safely managed drinking water services [6.1.1],,Rural,Percent,Normal value,Units,,64.4
-2014,Proportion of population using safely managed drinking water services [6.1.1],,Urban,Percent,Normal value,Units,,78.0
-2016,Proportion of population using safely managed drinking water services [6.1.1],,Urban,Percent,Normal value,Units,,60.0
-2022,Proportion of population using safely managed drinking water services [6.1.1],,Urban,Percent,Normal value,Units,,90.6
-2024,Proportion of population using safely managed drinking water services [6.1.1],,Urban,Percent,Normal value,Units,,96.5
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2014,Proportion of household using safely managed drinking water services,,,Percent,,63.0
+2016,Proportion of household using safely managed drinking water services,,,Percent,,55.9
+2022,Proportion of household using safely managed drinking water services,,,Percent,,64.3
+2024,Proportion of household using safely managed drinking water services,,,Percent,,76.6
+2014,Proportion of household using safely managed drinking water services,,Rural,Percent,,49.9
+2016,Proportion of household using safely managed drinking water services,,Rural,Percent,,51.2
+2022,Proportion of household using safely managed drinking water services,,Rural,Percent,,58.7
+2024,Proportion of household using safely managed drinking water services,,Rural,Percent,,64.1
+2014,Proportion of household using safely managed drinking water services,,Urban,Percent,,81.2
+2016,Proportion of household using safely managed drinking water services,,Urban,Percent,,61.9
+2022,Proportion of household using safely managed drinking water services,,Urban,Percent,,72.7
+2024,Proportion of household using safely managed drinking water services,,Urban,Percent,,92.4
+2014,Proportion of population using safely managed drinking water services [6.1.1],,,Percent,,60.3
+2016,Proportion of population using safely managed drinking water services [6.1.1],,,Percent,,52.4
+2022,Proportion of population using safely managed drinking water services [6.1.1],,,Percent,,67.9
+2024,Proportion of population using safely managed drinking water services [6.1.1],,,Percent,,74.7
+2014,Proportion of population using safely managed drinking water services [6.1.1],,Rural,Percent,,48.1
+2016,Proportion of population using safely managed drinking water services [6.1.1],,Rural,Percent,,48.6
+2022,Proportion of population using safely managed drinking water services [6.1.1],,Rural,Percent,,56.3
+2024,Proportion of population using safely managed drinking water services [6.1.1],,Rural,Percent,,64.4
+2014,Proportion of population using safely managed drinking water services [6.1.1],,Urban,Percent,,78.0
+2016,Proportion of population using safely managed drinking water services [6.1.1],,Urban,Percent,,60.0
+2022,Proportion of population using safely managed drinking water services [6.1.1],,Urban,Percent,,90.6
+2024,Proportion of population using safely managed drinking water services [6.1.1],,Urban,Percent,,96.5

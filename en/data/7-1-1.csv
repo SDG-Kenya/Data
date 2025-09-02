@@ -1,33 +1,33 @@
-Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2014,Proportion of household with access to electricity,,,Percent,Normal value,Units,,36.0
-2016,Proportion of household with access to electricity,,,Percent,Normal value,Units,,41.5
-2018,Proportion of household with access to electricity,,,Percent,Normal value,Units,,46.0
-2019,Proportion of household with access to electricity,,,Percent,Normal value,Units,,50.4
-2022,Proportion of household with access to electricity,,,Percent,Normal value,Units,,49.6
-2024,Proportion of household with access to electricity,,,Percent,Normal value,Units,,58.1
-2014,Proportion of household with access to electricity,,Rural,Percent,Normal value,Units,,12.6
-2016,Proportion of household with access to electricity,,Rural,Percent,Normal value,Units,,17.4
-2022,Proportion of household with access to electricity,,Rural,Percent,Normal value,Units,,29.9
-2024,Proportion of household with access to electricity,,Rural,Percent,Normal value,Units,,37.3
-2014,Proportion of household with access to electricity,,Urban,Percent,Normal value,Units,,68.4
-2016,Proportion of household with access to electricity,,Urban,Percent,Normal value,Units,,73.4
-2022,Proportion of household with access to electricity,,Urban,Percent,Normal value,Units,,88.6
-2024,Proportion of household with access to electricity,,Urban,Percent,Normal value,Units,,91.0
-2019,Proportion of households with access to electricity (Grid and Solar Systems),,,Percent,Normal value,Units,,69.8
-2024,Proportion of households with access to electricity (Grid and Solar Systems),,,Percent,Normal value,Units,,65.5
-2024,Proportion of households with access to electricity (Grid and Solar Systems),,Rural,Percent,Normal value,Units,,48.9
-2024,Proportion of households with access to electricity (Grid and Solar Systems),,Urban,Percent,Normal value,Units,,91.8
-2022,Proportion of population with access to electricity (Grid and Solar Systems),,,Percent,Normal value,Units,,49.6
-2024,Proportion of population with access to electricity (Grid and Solar Systems),,,Percent,Normal value,Units,,60.6
-2022,Proportion of population with access to electricity (Grid and Solar Systems),,Rural,Percent,Normal value,Units,,29.9
-2024,Proportion of population with access to electricity (Grid and Solar Systems),,Rural,Percent,Normal value,Units,,46.5
-2022,Proportion of population with access to electricity (Grid and Solar Systems),,Urban,Percent,Normal value,Units,,88.6
-2024,Proportion of population with access to electricity (Grid and Solar Systems),,Urban,Percent,Normal value,Units,,90.9
-2014,Proportion of population with access to electricity [7.1.1],,,Percent,Normal value,Units,,35.3
-2016,Proportion of population with access to electricity [7.1.1],,,Percent,Normal value,Units,,33.8
-2019,Proportion of population with access to electricity [7.1.1],,,Percent,Normal value,Units,,49.7
-2024,Proportion of population with access to electricity [7.1.1],,,Percent,Normal value,Units,,51.5
-2014,Proportion of population with access to electricity [7.1.1],,Rural,Percent,Normal value,Units,,11.5
-2024,Proportion of population with access to electricity [7.1.1],,Rural,Percent,Normal value,Units,,33.6
-2014,Proportion of population with access to electricity [7.1.1],,Urban,Percent,Normal value,Units,,69.7
-2024,Proportion of population with access to electricity [7.1.1],,Urban,Percent,Normal value,Units,,90.0
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2014,Proportion of household with access to electricity,,,Percent,,36.0
+2016,Proportion of household with access to electricity,,,Percent,,41.5
+2018,Proportion of household with access to electricity,,,Percent,,46.0
+2019,Proportion of household with access to electricity,,,Percent,,50.4
+2022,Proportion of household with access to electricity,,,Percent,,49.6
+2024,Proportion of household with access to electricity,,,Percent,,58.1
+2014,Proportion of household with access to electricity,,Rural,Percent,,12.6
+2016,Proportion of household with access to electricity,,Rural,Percent,,17.4
+2022,Proportion of household with access to electricity,,Rural,Percent,,29.9
+2024,Proportion of household with access to electricity,,Rural,Percent,,37.3
+2014,Proportion of household with access to electricity,,Urban,Percent,,68.4
+2016,Proportion of household with access to electricity,,Urban,Percent,,73.4
+2022,Proportion of household with access to electricity,,Urban,Percent,,88.6
+2024,Proportion of household with access to electricity,,Urban,Percent,,91.0
+2014,Proportion of population with access to electricity [7.1.1],,,Percent,,35.3
+2016,Proportion of population with access to electricity [7.1.1],,,Percent,,33.8
+2019,Proportion of population with access to electricity [7.1.1],,,Percent,,49.7
+2024,Proportion of population with access to electricity [7.1.1],,,Percent,,51.5
+2014,Proportion of population with access to electricity [7.1.1],,Rural,Percent,,11.5
+2024,Proportion of population with access to electricity [7.1.1],,Rural,Percent,,33.6
+2014,Proportion of population with access to electricity [7.1.1],,Urban,Percent,,69.7
+2024,Proportion of population with access to electricity [7.1.1],,Urban,Percent,,90.0
+2019,Proportion of households with access to electricity (Grid and Solar Systems),,,Percent,,69.8
+2024,Proportion of households with access to electricity (Grid and Solar Systems),,,Percent,,65.5
+2024,Proportion of households with access to electricity (Grid and Solar Systems),,Rural,Percent,,48.9
+2024,Proportion of households with access to electricity (Grid and Solar Systems),,Urban,Percent,,91.8
+2022,Proportion of population with access to electricity (Grid and Solar Systems),,,Percent,,49.6
+2024,Proportion of population with access to electricity (Grid and Solar Systems),,,Percent,,60.6
+2022,Proportion of population with access to electricity (Grid and Solar Systems),,Rural,Percent,,29.9
+2024,Proportion of population with access to electricity (Grid and Solar Systems),,Rural,Percent,,46.5
+2022,Proportion of population with access to electricity (Grid and Solar Systems),,Urban,Percent,,88.6
+2024,Proportion of population with access to electricity (Grid and Solar Systems),,Urban,Percent,,90.9

@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2017,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,,59.4
-2018,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,,55.7
-2021,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,,44.0
-2022,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,,28.9
-2023,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,,40.0
-2024,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,Normal value,Units,,15.0
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2017,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,,59.4
+2018,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,,55.7
+2021,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,,44.0
+2022,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,,28.9
+2023,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,,40.0
+2024,Proportion of population satisfied with their last experience of public services [16.6.2],,Percent,,15.0

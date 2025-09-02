@@ -1,2 +1,2 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2022,38,,Normal value,Units,Percent,Countries implementing sustainable public procurement policies and action plans  (1 = YES; 0 = NO) [12.7.1]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2022,38,,Percent,Countries implementing sustainable public procurement policies and action plans  (1 = YES; 0 = NO) [12.7.1]

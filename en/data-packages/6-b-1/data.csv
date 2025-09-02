@@ -1,5 +1,5 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2016,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management [6.b.1],,Percent,Normal value,Units,,17.0
-2018,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management [6.b.1],,Percent,Normal value,Units,,59.0
-2019,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management [6.b.1],,Percent,Normal value,Units,,60.0
-2020,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management [6.b.1],,Percent,Normal value,Units,,62.3
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2016,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management [6.b.1],,Percent,,17.0
+2018,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management [6.b.1],,Percent,,59.0
+2019,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management [6.b.1],,Percent,,60.0
+2020,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management [6.b.1],,Percent,,62.3

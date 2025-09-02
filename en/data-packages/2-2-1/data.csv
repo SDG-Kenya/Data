@@ -1,16 +1,16 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2014,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,Normal value,Units,,26.0
-2016,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,Normal value,Units,,34.7
-2022,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,Normal value,Units,,17.6
-2014,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,Normal value,Units,,29.1
-2016,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,Normal value,Units,,36.7
-2022,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,Normal value,Units,,20.3
-2014,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,Normal value,Units,,19.8
-2016,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,Normal value,Units,,25.2
-2022,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,Normal value,Units,,12.1
-2014,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,Normal value,Units,,22.3
-2016,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,Normal value,Units,,31.5
-2022,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,Normal value,Units,,15.6
-2014,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,Normal value,Units,,29.7
-2016,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,Normal value,Units,,37.9
-2022,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,Normal value,Units,,19.6
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2014,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,26.0
+2016,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,34.7
+2022,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,17.6
+2014,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,,29.1
+2016,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,,36.7
+2022,Proportion of children moderately or severely stunted [2.2.1],,,Rural,Percent,,20.3
+2014,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,,19.8
+2016,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,,25.2
+2022,Proportion of children moderately or severely stunted [2.2.1],,,Urban,Percent,,12.1
+2014,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,,22.3
+2016,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,,31.5
+2022,Proportion of children moderately or severely stunted [2.2.1],,Female,,Percent,,15.6
+2014,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,,29.7
+2016,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,,37.9
+2022,Proportion of children moderately or severely stunted [2.2.1],,Male,,Percent,,19.6

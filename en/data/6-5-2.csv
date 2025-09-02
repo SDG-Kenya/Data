@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2017,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2],,Percent,Normal value,Units,,26.8
-2020,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2],,Percent,Normal value,Units,,27.0
-2023,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2],,Percent,Normal value,Units,,35.8
-2017,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation [6.5.2],,Percent,Normal value,Units,,35.9
-2020,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation [6.5.2],,Percent,Normal value,Units,,35.9
-2023,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation [6.5.2],,Percent,Normal value,Units,,55.0
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2017,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2],,Percent,,26.8
+2020,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2],,Percent,,27.0
+2023,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2],,Percent,,35.8
+2017,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation [6.5.2],,Percent,,35.9
+2020,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation [6.5.2],,Percent,,35.9
+2023,Proportion of transboundary river and lake basins with an operational arrangement for water cooperation [6.5.2],,Percent,,55.0

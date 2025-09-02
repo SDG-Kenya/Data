@@ -1,5 +1,5 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2024,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,,,Percent,Normal value,Units,,66.0
-2022,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,Female,,Percent,Normal value,Units,,7.3
-2022,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,Female,Rural,Percent,Normal value,Units,,8.4
-2022,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,Female,Urban,Percent,Normal value,Units,,5.1
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2024,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,,,Percent,,66.0
+2022,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,Female,,Percent,,7.3
+2022,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,Female,Rural,Percent,,8.4
+2022,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,Female,Urban,Percent,,5.1

@@ -19,10 +19,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_010401_01",
-                "_L_KE_010401_03",
                 "SP_ACS_BSRVH2O",
                 "SP_ACS_BSRVSAN",
+                "_L_KE_010401_01",
+                "_L_KE_010401_02",
+                "_L_KE_010401_03",
                 ""
               ]
             }
@@ -42,26 +43,6 @@
             "constraints": {
               "enum": [
                 "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
                 ""
               ]
             }

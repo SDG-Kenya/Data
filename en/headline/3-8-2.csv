@@ -1,7 +1,7 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2014,12.7,,Normal value,Units,Percent,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2]
-2016,8.6,,Normal value,Units,Percent,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2]
-2018,8.0,,Normal value,Units,Percent,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2]
-2014,6.2,,Normal value,Units,Percent,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]
-2016,4.8,,Normal value,Units,Percent,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]
-2018,4.9,,Normal value,Units,Percent,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2014,12.7,,Percent,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2]
+2016,8.6,,Percent,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2]
+2018,8.0,,Percent,Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditure or income [3.8.2]
+2014,6.2,,Percent,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]
+2016,4.8,,Percent,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]
+2018,4.9,,Percent,Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]

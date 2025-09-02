@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "GF_XPD_GBPC",
                 "_L_KE_160601_01",
                 "_L_KE_160601_02",
-                "GF_XPD_GBPC",
                 ""
               ]
             }
@@ -41,26 +41,6 @@
             "constraints": {
               "enum": [
                 "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
                 ""
               ]
             }

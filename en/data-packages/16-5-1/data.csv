@@ -1,9 +1,9 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2015,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,38.0
-2016,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,46.0
-2017,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,38.9
-2018,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,41.8
-2021,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,23.2
-2022,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,41.1
-2023,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,25.7
-2024,Prevalence rate of bribery [16.5.1],,Percent,Normal value,Units,,43.0
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,Prevalence rate of bribery [16.5.1],,Percent,,38.0
+2016,Prevalence rate of bribery [16.5.1],,Percent,,46.0
+2017,Prevalence rate of bribery [16.5.1],,Percent,,38.9
+2018,Prevalence rate of bribery [16.5.1],,Percent,,41.8
+2021,Prevalence rate of bribery [16.5.1],,Percent,,23.2
+2022,Prevalence rate of bribery [16.5.1],,Percent,,41.1
+2023,Prevalence rate of bribery [16.5.1],,Percent,,25.7
+2024,Prevalence rate of bribery [16.5.1],,Percent,,43.0

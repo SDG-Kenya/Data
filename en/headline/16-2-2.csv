@@ -1,6 +1,6 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2020,0.268346,,Normal value,Units,"Per 1,000 population","Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]"
-2021,0.897019,,Normal value,Units,"Per 1,000 population","Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]"
-2022,0.971892,,Normal value,Units,"Per 1,000 population","Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]"
-2023,0.774372,,Normal value,Units,"Per 1,000 population","Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]"
-2024,1.22453,,Normal value,Units,"Per 1,000 population","Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]"
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2020,0.268346,,"Per 1,000 population","Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]"
+2021,0.897019,,"Per 1,000 population","Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]"
+2022,0.971892,,"Per 1,000 population","Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]"
+2023,0.774372,,"Per 1,000 population","Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]"
+2024,1.22453,,"Per 1,000 population","Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]"

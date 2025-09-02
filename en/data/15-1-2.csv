@@ -1,23 +1,23 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2014,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,38.268
-2015,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,38.268
-2016,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,38.268
-2017,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,38.268
-2018,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,38.268
-2019,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,38.268
-2020,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,38.272
-2021,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,38.272
-2022,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,38.272
-2023,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,38.272
-2024,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,38.272
-2014,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,34.576
-2015,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,34.576
-2016,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,34.576
-2017,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,34.576
-2018,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,34.576
-2019,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,34.576
-2020,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,34.577
-2021,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,34.577
-2022,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,34.577
-2023,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,34.577
-2024,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,Normal value,Units,,34.577
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,34.576
+2015,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,34.576
+2016,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,34.576
+2017,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,34.576
+2018,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,34.576
+2019,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,34.576
+2020,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,34.577
+2021,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,34.577
+2022,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,34.577
+2023,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,34.577
+2024,Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,34.577
+2014,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,38.268
+2015,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,38.268
+2016,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,38.268
+2017,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,38.268
+2018,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,38.268
+2019,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,38.268
+2020,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,38.272
+2021,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,38.272
+2022,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,38.272
+2023,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,38.272
+2024,Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2],,Percent,,38.272

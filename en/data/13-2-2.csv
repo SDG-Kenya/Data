@@ -1,5 +1,5 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2018,Total greenhouse gas emissions per year,,Tonnes of CO2-equivalent,Normal value,Units,,96
-2019,Total greenhouse gas emissions per year,,Tonnes of CO2-equivalent,Normal value,Units,,97
-2020,Total greenhouse gas emissions per year,,Tonnes of CO2-equivalent,Normal value,Units,,98
-2021,Total greenhouse gas emissions per year,,Tonnes of CO2-equivalent,Normal value,Units,,100
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2018,Total greenhouse gas emissions per year,,Tonnes of CO2-equivalent,,96
+2019,Total greenhouse gas emissions per year,,Tonnes of CO2-equivalent,,97
+2020,Total greenhouse gas emissions per year,,Tonnes of CO2-equivalent,,98
+2021,Total greenhouse gas emissions per year,,Tonnes of CO2-equivalent,,100

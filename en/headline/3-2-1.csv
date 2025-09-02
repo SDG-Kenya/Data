@@ -1,4 +1,4 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2014,52,,Normal value,Units,"Per 1,000 live births",Under-five mortality rate [3.2.1]
-2019,52,,Normal value,Units,"Per 1,000 live births",Under-five mortality rate [3.2.1]
-2022,41,,Normal value,Units,"Per 1,000 live births",Under-five mortality rate [3.2.1]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2014,52,,"Per 1,000 live births",Under-five mortality rate [3.2.1]
+2019,52,,"Per 1,000 live births",Under-five mortality rate [3.2.1]
+2022,41,,"Per 1,000 live births",Under-five mortality rate [3.2.1]

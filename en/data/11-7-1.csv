@@ -1,5 +1,5 @@
-Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2019,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Kisumu,City,Percent,Normal value,Units,KE_KIS,67.1
-2019,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Mombasa,City,Percent,Normal value,Units,KE_MBA,9.5
-2019,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Nairobi,City,Percent,Normal value,Units,KE_NBO,16.4
-2019,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Nakuru,City,Percent,Normal value,Units,KE_NUU,0.1
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2019,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Nairobi,City,Percent,KE_NBO,16.4
+2019,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Mombasa,City,Percent,KE_MBA,9.5
+2019,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Kisumu,City,Percent,KE_KIS,67.1
+2019,Average share of the built-up area of cities that is open space for public use for all [11.7.1],Nakuru,City,Percent,KE_NUU,0.1

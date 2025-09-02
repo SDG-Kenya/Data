@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]",
                 "Percentage birth registration",
                 "Percentage death registration",
-                "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]",
                 ""
               ]
             },
@@ -43,34 +43,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
                 "Boolean or binary measure",
+                "Percent",
                 ""
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

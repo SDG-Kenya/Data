@@ -1,4 +1,4 @@
-Year,SERIES,Reference area,Sex,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2014,Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2],,Female,,Percent,Normal value,Units,,22.2
-2014,Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2],,Female,Private Sector,Percent,Normal value,Units,,22.6
-2014,Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2],,Female,Public Sector,Percent,Normal value,Units,,19.4
+Year,SERIES,Reference area,Sex,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
+2014,Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2],,Female,,Percent,,22.2
+2014,Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2],,Female,Public Sector,Percent,,19.4
+2014,Proportion of women in senior and middle management positions - 19th ICLS (%) [5.5.2],,Female,Private Sector,Percent,,22.6

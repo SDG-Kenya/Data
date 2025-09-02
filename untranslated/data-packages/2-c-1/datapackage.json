@@ -20,6 +20,11 @@
             "constraints": {
               "enum": [
                 "AG_FPA_COMM",
+                "_L_KE_020C01_01",
+                "_L_KE_020C01_02",
+                "_L_KE_020C01_03",
+                "_L_KE_020C01_04",
+                "_L_KE_020C01_05",
                 ""
               ]
             }
@@ -39,26 +44,6 @@
             "constraints": {
               "enum": [
                 "IX",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
                 ""
               ]
             }

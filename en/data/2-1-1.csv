@@ -1,14 +1,14 @@
-Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2016,Prevalence of undernourishment [2.1.1],,,Percent,Normal value,Units,,24.2
-2019,Prevalence of undernourishment [2.1.1],,,Percent,Normal value,Units,,30.5
-2020,Prevalence of undernourishment [2.1.1],,,Percent,Normal value,Units,,34.4
-2021,Prevalence of undernourishment [2.1.1],,,Percent,Normal value,Units,,30.5
-2022,Prevalence of undernourishment [2.1.1],,,Percent,Normal value,Units,,31.7
-2019,Prevalence of undernourishment [2.1.1],,Rural,Percent,Normal value,Units,,34.0
-2020,Prevalence of undernourishment [2.1.1],,Rural,Percent,Normal value,Units,,35.1
-2021,Prevalence of undernourishment [2.1.1],,Rural,Percent,Normal value,Units,,32.2
-2022,Prevalence of undernourishment [2.1.1],,Rural,Percent,Normal value,Units,,33.2
-2019,Prevalence of undernourishment [2.1.1],,Urban,Percent,Normal value,Units,,22.5
-2020,Prevalence of undernourishment [2.1.1],,Urban,Percent,Normal value,Units,,33.0
-2021,Prevalence of undernourishment [2.1.1],,Urban,Percent,Normal value,Units,,26.8
-2022,Prevalence of undernourishment [2.1.1],,Urban,Percent,Normal value,Units,,28.6
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2016,Prevalence of undernourishment [2.1.1],,,Percent,,24.2
+2019,Prevalence of undernourishment [2.1.1],,,Percent,,30.5
+2020,Prevalence of undernourishment [2.1.1],,,Percent,,34.4
+2021,Prevalence of undernourishment [2.1.1],,,Percent,,30.5
+2022,Prevalence of undernourishment [2.1.1],,,Percent,,31.7
+2019,Prevalence of undernourishment [2.1.1],,Rural,Percent,,34.0
+2020,Prevalence of undernourishment [2.1.1],,Rural,Percent,,35.1
+2021,Prevalence of undernourishment [2.1.1],,Rural,Percent,,32.2
+2022,Prevalence of undernourishment [2.1.1],,Rural,Percent,,33.2
+2019,Prevalence of undernourishment [2.1.1],,Urban,Percent,,22.5
+2020,Prevalence of undernourishment [2.1.1],,Urban,Percent,,33.0
+2021,Prevalence of undernourishment [2.1.1],,Urban,Percent,,26.8
+2022,Prevalence of undernourishment [2.1.1],,Urban,Percent,,28.6

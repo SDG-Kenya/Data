@@ -1,12 +1,12 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2014,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,Normal value,Units,,19.9
-2015,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,Normal value,Units,,19.5
-2016,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,Normal value,Units,,19.1
-2017,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,Normal value,Units,,18.8
-2018,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,Normal value,Units,,26.1
-2019,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,Normal value,Units,,25.5
-2020,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,Normal value,Units,,43.0
-2021,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,Normal value,Units,,46.8
-2022,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,Normal value,Units,,52.1
-2023,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,Normal value,Units,,51.1
-2024,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,Normal value,Units,,49.3
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,,19.9
+2015,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,,19.5
+2016,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,,19.1
+2017,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,,18.8
+2018,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,,26.1
+2019,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,,25.5
+2020,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,,43.0
+2021,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,,46.8
+2022,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,,52.1
+2023,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,,51.1
+2024,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,,49.3

@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1]",
+                "Extent of use of country-owned planning tools by providers of development cooperation - data by provider",
                 ""
               ]
             },
@@ -48,35 +49,13 @@
             "title": "Unit of measure"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

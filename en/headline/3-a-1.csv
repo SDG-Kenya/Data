@@ -1,4 +1,4 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2014,11.6,,Normal value,Units,Percent,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1]
-2015,13.3,,Normal value,Units,Percent,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1]
-2022,9.0,,Normal value,Units,Percent,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2014,11.6,,Percent,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1]
+2015,13.3,,Percent,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1]
+2022,9.0,,Percent,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1]

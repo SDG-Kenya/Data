@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_H2O_GRAMBQ",
+                "EN_H2O_WBAMBQ",
                 "EN_H2O_OPAMBQ",
                 "EN_H2O_RVAMBQ",
-                "EN_H2O_WBAMBQ",
+                "EN_H2O_GRAMBQ",
                 ""
               ]
             }
@@ -42,26 +42,6 @@
             "constraints": {
               "enum": [
                 "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
                 ""
               ]
             }

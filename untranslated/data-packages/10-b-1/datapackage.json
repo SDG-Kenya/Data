@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_KE_100b01_01",
                 "DC_TRF_TFDV",
+                "_L_KE_100b01_01",
                 ""
               ]
             }
@@ -39,29 +39,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
                 "KES",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                "6",
+                "PT",
                 ""
               ]
             }

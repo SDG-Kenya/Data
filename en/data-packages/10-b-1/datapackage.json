@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Remittance costs as a proportion of the amount remitted",
                 "Total resource flows for development, by recipient and donor countries [10.b.1]",
+                "Remittance costs as a proportion of the amount remitted",
                 ""
               ]
             },
@@ -42,35 +42,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
                 "Kenyan Shillings",
+                "Percent",
                 ""
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                "Millions",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of seats held by women in local governments (% of total number of seats) [5.5.1]",
                 "Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]",
+                "Proportion of seats held by women in local governments (% of total number of seats) [5.5.1]",
                 ""
               ]
             },
@@ -53,9 +53,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Members of County Assembly",
                 "Governors",
                 "Deputy Governors",
+                "Members of County Assembly",
                 ""
               ]
             },
@@ -71,28 +71,6 @@
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

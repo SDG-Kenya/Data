@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of domestic budget funded by domestic taxes [17.1.2]",
                 "Proportion of domestic budget funded by tax on income",
                 "Proportion of domestic budget funded by value added tax",
                 "Proportion of domestic budget funded by tax on other goods and services",
                 "Proportion of domestic budget funded by taxes on international trade",
-                "Proportion of domestic budget funded by domestic taxes [17.1.2]",
                 ""
               ]
             },
@@ -50,28 +50,6 @@
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

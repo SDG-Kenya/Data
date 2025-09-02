@@ -1,9 +1,9 @@
-Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
-2016,56.5,,Normal value,Units,Percent,Prevalence of moderate or severe food insecurity in the population [2.1.2]
-2020,60.3,,Normal value,Units,Percent,Prevalence of moderate or severe food insecurity in the population [2.1.2]
-2021,57.5,,Normal value,Units,Percent,Prevalence of moderate or severe food insecurity in the population [2.1.2]
-2022,62.4,,Normal value,Units,Percent,Prevalence of moderate or severe food insecurity in the population [2.1.2]
-2016,19.1,,Normal value,Units,Percent,Prevalence of severe food insecurity in the population [2.1.2]
-2020,17.0,,Normal value,Units,Percent,Prevalence of severe food insecurity in the population [2.1.2]
-2021,19.7,,Normal value,Units,Percent,Prevalence of severe food insecurity in the population [2.1.2]
-2022,30.5,,Normal value,Units,Percent,Prevalence of severe food insecurity in the population [2.1.2]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2016,56.5,,Percent,Prevalence of moderate or severe food insecurity in the population [2.1.2]
+2020,60.3,,Percent,Prevalence of moderate or severe food insecurity in the population [2.1.2]
+2021,57.5,,Percent,Prevalence of moderate or severe food insecurity in the population [2.1.2]
+2022,62.4,,Percent,Prevalence of moderate or severe food insecurity in the population [2.1.2]
+2016,19.1,,Percent,Prevalence of severe food insecurity in the population [2.1.2]
+2020,17.0,,Percent,Prevalence of severe food insecurity in the population [2.1.2]
+2021,19.7,,Percent,Prevalence of severe food insecurity in the population [2.1.2]
+2022,30.5,,Percent,Prevalence of severe food insecurity in the population [2.1.2]

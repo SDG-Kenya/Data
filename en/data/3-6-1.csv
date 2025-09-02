@@ -1,12 +1,12 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
-2014,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",Normal value,Units,,11.0
-2015,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",Normal value,Units,,12.4
-2016,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",Normal value,Units,,10.6
-2017,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",Normal value,Units,,6.4
-2018,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",Normal value,Units,,6.8
-2019,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",Normal value,Units,,7.5
-2020,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",Normal value,Units,,8.2
-2021,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",Normal value,Units,,9.2
-2022,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",Normal value,Units,,9.3
-2023,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",Normal value,Units,,8.8
-2024,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",Normal value,Units,,9.1
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,11.0
+2015,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,12.4
+2016,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,10.6
+2017,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,6.4
+2018,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,6.8
+2019,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,7.5
+2020,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,8.2
+2021,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,9.2
+2022,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,9.3
+2023,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,8.8
+2024,Death rate due to road traffic injuries [3.6.1],,"Per 100,000 population",,9.1

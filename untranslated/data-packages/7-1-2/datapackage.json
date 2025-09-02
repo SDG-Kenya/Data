@@ -20,8 +20,9 @@
             "constraints": {
               "enum": [
                 "_L_KE_070102_01",
-                "EG_CFT_COOK",
                 "EG_EGY_CLEAN",
+                "_L_KE_070102_02",
+                "EG_CFT_COOK",
                 ""
               ]
             }
@@ -52,26 +53,6 @@
             "constraints": {
               "enum": [
                 "PT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
                 ""
               ]
             }

@@ -41,9 +41,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Secondary education (lower and upper secondary education)",
                 "Pre-primary education",
                 "Primary education",
+                "Secondary education (lower and upper secondary education)",
                 ""
               ]
             },
@@ -59,28 +59,6 @@
               ]
             },
             "title": "Unit of measure"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",
