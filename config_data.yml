@@ -57,6 +57,8 @@ inputs:
     import_series_attributes: true
     import_observation_attributes: false
     import_codes: true
+    indicator_id_map:
+     AG_FLS_IDX: 12-3-1
     #request_params: 
      #headers: 
       #  User-Agent: Open-SDG-Build-1 
