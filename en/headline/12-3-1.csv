@@ -1,1 +1,11 @@
-Year,Value
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,100.0,,Index,Global food loss index [12.3.1]
+2016,87.5,,Index,Global food loss index [12.3.1]
+2017,91.6,,Index,Global food loss index [12.3.1]
+2018,97.8,,Index,Global food loss index [12.3.1]
+2019,99.8,,Index,Global food loss index [12.3.1]
+2020,100.5,,Index,Global food loss index [12.3.1]
+2021,98.5,,Index,Global food loss index [12.3.1]
+2022,100.1,,Index,Global food loss index [12.3.1]
+2023,98.0,,Index,Global food loss index [12.3.1]
+2024,100.3,,Index,Global food loss index [12.3.1]
