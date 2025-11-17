@@ -22,6 +22,7 @@
               "enum": [
                 "Proportion of household with primary reliance on clean fuels and technology",
                 "Proportion of population with primary reliance on clean fuels and technology [7.1.2]",
+                "Proportion of household with primary reliance on clean fuels and technology for cooking",
                 "Proportion of population with primary reliance on clean fuels and technology for cooking [7.1.2]",
                 ""
               ]

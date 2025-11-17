@@ -20,6 +20,7 @@
             "constraints": {
               "enum": [
                 "SG_PLN_PRPOLRES",
+                "_L_KE_171501_01",
                 ""
               ]
             }

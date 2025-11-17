@@ -21,6 +21,9 @@ Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
 2014,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Urban,Percent,,27.9
 2022,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Urban,Percent,,53.4
 2024,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,Urban,Percent,,64.9
+2024,Proportion of household with primary reliance on clean fuels and technology for cooking,,,Percent,,33.3
+2024,Proportion of household with primary reliance on clean fuels and technology for cooking,,Rural,Percent,,10.6
+2024,Proportion of household with primary reliance on clean fuels and technology for cooking,,Urban,Percent,,69.5
 2024,Proportion of population with primary reliance on clean fuels and technology for cooking [7.1.2],,,Percent,,25.0
 2024,Proportion of population with primary reliance on clean fuels and technology for cooking [7.1.2],,Rural,Percent,,7.6
 2024,Proportion of population with primary reliance on clean fuels and technology for cooking [7.1.2],,Urban,Percent,,62.5
