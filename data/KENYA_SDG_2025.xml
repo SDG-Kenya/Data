@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v11.4.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KE1:SDG(1.0):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>IREF1756704833162</message:ID>
+    <message:ID>IREF1761890033581</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2025-09-01T00:00:00Z</message:Prepared>
+    <message:Prepared>2025-10-31T00:00:00Z</message:Prepared>
     <message:Sender id="BIS"/>
     <message:Structure structureID="KE1_SDG_1_0" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=KE1:SDG(1.0):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
       <common:Structure>
@@ -2973,7 +2973,7 @@
     <Obs TIME_PERIOD="2023" OBS_VALUE="23083.5" OBS_STATUS="A" UNIT_MULT="6" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="KNBS, Economic Survey Report (Several  editions)" SOURCE_DETAIL="22037.2"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="22037.2" OBS_STATUS="A" UNIT_MULT="6" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="KNBS, Economic Survey Report (Several  editions)" SOURCE_DETAIL="22037.2"/>
   </Series>
-  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KE_100b01_01" REF_AREA="KE" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_KE_100C01_01" REF_AREA="KE" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2014" OBS_VALUE="6.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="Baseline Data          (2009-2014)" COMMENT_OBS="Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org&quot;" SOURCE_DETAIL="10.6"/>
     <Obs TIME_PERIOD="2015" OBS_VALUE="6.0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2015" COMMENT_OBS="Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org&quot;" SOURCE_DETAIL="10.6"/>
     <Obs TIME_PERIOD="2016" OBS_VALUE="8.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2016" COMMENT_OBS="Source: The World Bank, Remittance Prices Worldwide, available at http://remittanceprices.worldbank.org&quot;" SOURCE_DETAIL="10.6"/>
@@ -3123,7 +3123,7 @@
     <Obs TIME_PERIOD="2023" OBS_VALUE="1" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Green Economy Strategy and Implementation Plan (GESIP 2016-2030)" SOURCE_DETAIL="1"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="1" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Green Economy Strategy and Implementation Plan (GESIP 2016-2030)" SOURCE_DETAIL="1"/>
   </Series>
-  <Series FREQ="A" REPORTING_TYPE="N" SERIES="AG_FLS_IDX" REF_AREA="KE" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="AG_FLS_INDEX" REF_AREA="KE" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
     <Obs TIME_PERIOD="2015" OBS_VALUE="100" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2015" COMMENT_OBS="Economic Survey" SOURCE_DETAIL="100.3"/>
     <Obs TIME_PERIOD="2016" OBS_VALUE="87.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2016" COMMENT_OBS="Economic Survey" SOURCE_DETAIL="100.3"/>
     <Obs TIME_PERIOD="2017" OBS_VALUE="91.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Economic Survey" SOURCE_DETAIL="100.3"/>
