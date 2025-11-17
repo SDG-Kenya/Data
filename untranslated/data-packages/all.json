@@ -333,7 +333,6 @@
                 "SP_ACS_BSRVH2O",
                 "SP_ACS_BSRVSAN",
                 "_L_KE_010401_01",
-                "_L_KE_010401_02",
                 "_L_KE_010401_03",
                 ""
               ]
@@ -369,6 +368,61 @@
         ]
       },
       "title": "Proportion of population living in households with access to basic services"
+    },
+    {
+      "path": "3/data.csv",
+      "name": "3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_010401_02",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "1-4-2/data.csv",
@@ -1317,8 +1371,8 @@
       "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
     },
     {
-      "path": "2-2-4/data.csv",
-      "name": "2-2-4",
+      "path": "2/data.csv",
+      "name": "2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1336,6 +1390,70 @@
             "constraints": {
               "enum": [
                 "SH_MDD_CHLD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M6T23",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "1/data.csv",
+      "name": "1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "SH_MDD_WMN_NPRG",
                 ""
               ]
@@ -1365,7 +1483,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "M6T23",
                 "Y15T49",
                 ""
               ]
@@ -1391,7 +1508,7 @@
           }
         ]
       },
-      "title": "Prevalence of minimum dietary diversity, by population group (children aged 6 to 23.9 months and non-pregnant women aged 15 to 49 years)"
+      "title": ""
     },
     {
       "path": "2-5-1/data.csv",
@@ -1578,11 +1695,6 @@
             "constraints": {
               "enum": [
                 "AG_FPA_COMM",
-                "_L_KE_020C01_01",
-                "_L_KE_020C01_02",
-                "_L_KE_020C01_03",
-                "_L_KE_020C01_04",
-                "_L_KE_020C01_05",
                 ""
               ]
             }
@@ -1617,6 +1729,281 @@
         ]
       },
       "title": "Indicator of food price anomalies"
+    },
+    {
+      "path": "4/data.csv",
+      "name": "4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_020C01_01",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IX",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5/data.csv",
+      "name": "5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_020C01_02",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IX",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "6/data.csv",
+      "name": "6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_020C01_03",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IX",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "7/data.csv",
+      "name": "7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_020C01_04",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IX",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8/data.csv",
+      "name": "8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_020C01_05",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IX",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "3-1-1/data.csv",
@@ -5109,7 +5496,6 @@
               "enum": [
                 "_L_KE_070102_01",
                 "EG_EGY_CLEAN",
-                "_L_KE_070102_02",
                 "EG_CFT_COOK",
                 ""
               ]
@@ -5156,6 +5542,72 @@
         ]
       },
       "title": "Proportion of population with primary reliance on clean fuels and technology"
+    },
+    {
+      "path": "9/data.csv",
+      "name": "9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_070102_02",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "R",
+                "U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "7-2-1/data.csv",
@@ -7306,8 +7758,8 @@
       "title": "Number of people who died or disappeared in the process of migration towards an international destinationi"
     },
     {
-      "path": "10-7-4/data.csv",
-      "name": "10-7-4",
+      "path": "11/data.csv",
+      "name": "11",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -7358,7 +7810,7 @@
           }
         ]
       },
-      "title": "Proportion of the population who are refugees, by country of origin"
+      "title": ""
     },
     {
       "path": "10-a-1/data.csv",
@@ -7435,7 +7887,6 @@
             "constraints": {
               "enum": [
                 "DC_TRF_TFDV",
-                "_L_KE_100b01_01",
                 ""
               ]
             }
@@ -7455,7 +7906,6 @@
             "constraints": {
               "enum": [
                 "KES",
-                "PT",
                 ""
               ]
             }
@@ -7471,6 +7921,61 @@
         ]
       },
       "title": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)"
+    },
+    {
+      "path": "10-c-1/data.csv",
+      "name": "10-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_100C01_01",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Remittance costs as a proportion of the amount remitted"
     },
     {
       "path": "11-1-1/data.csv",
@@ -7937,7 +8442,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "AG_FLS_IDX",
+                "AG_FLS_INDEX",
                 ""
               ]
             }
@@ -10594,7 +11099,6 @@
             "constraints": {
               "enum": [
                 "SG_PLN_PRPOLRES",
-                "_L_KE_171501_01",
                 ""
               ]
             }
@@ -10629,6 +11133,61 @@
         ]
       },
       "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
+    },
+    {
+      "path": "10/data.csv",
+      "name": "10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_KE_171501_01",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "17-17-1/data.csv",
@@ -10876,28 +11435,6 @@
       "title": "2-2-2a"
     },
     {
-      "path": "10-c-1/data.csv",
-      "name": "10-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Remittance costs as a proportion of the amount remitted"
-    },
-    {
       "path": "4-1-4/data.csv",
       "name": "4-1-4",
       "profile": "tabular-data-resource",
@@ -10940,6 +11477,28 @@
         ]
       },
       "title": "Existence of independent national human rights institutions in compliance with the Paris Principles"
+    },
+    {
+      "path": "10-7-4/data.csv",
+      "name": "10-7-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of the population who are refugees, by country of origin"
     },
     {
       "path": "5-6-2/data.csv",
@@ -12458,6 +13017,28 @@
         ]
       },
       "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+    },
+    {
+      "path": "2-2-4/data.csv",
+      "name": "2-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Prevalence of minimum dietary diversity, by population group (children aged 6 to 23.9 months and non-pregnant women aged 15 to 49 years)"
     },
     {
       "path": "13-b-1/data.csv",

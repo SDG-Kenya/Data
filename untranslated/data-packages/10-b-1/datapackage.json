@@ -20,7 +20,6 @@
             "constraints": {
               "enum": [
                 "DC_TRF_TFDV",
-                "_L_KE_100b01_01",
                 ""
               ]
             }
@@ -40,7 +39,6 @@
             "constraints": {
               "enum": [
                 "KES",
-                "PT",
                 ""
               ]
             }

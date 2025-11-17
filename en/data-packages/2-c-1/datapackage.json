@@ -21,11 +21,6 @@
             "constraints": {
               "enum": [
                 "Indicator of Food Price Anomalies (IFPA) [2.c.1]",
-                "Indicator of Food Price Anomalies - Maize",
-                "Indicator of Food Price Anomalies - Rice",
-                "Indicator of Food Price Anomalies - Millet",
-                "Indicator of Food Price Anomalies - Wheat",
-                "Indicator of Food Price Anomalies - Sorghum",
                 ""
               ]
             },

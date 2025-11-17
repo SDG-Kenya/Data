@@ -21,7 +21,6 @@
             "constraints": {
               "enum": [
                 "Total resource flows for development, by recipient and donor countries [10.b.1]",
-                "Remittance costs as a proportion of the amount remitted",
                 ""
               ]
             },
@@ -43,7 +42,6 @@
             "constraints": {
               "enum": [
                 "Kenyan Shillings",
-                "Percent",
                 ""
               ]
             },
