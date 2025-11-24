@@ -1,52 +1,52 @@
-Year,SERIES,Reference area,Sex,Age,Income or wealth quantile,UNIT_MEASURE,GeoCode,Value
-2016,Proportion of people living below 50 percent of median income [10.2.1],,,,Bottom 50%,Percent,,18.436463
-2019,Proportion of people living below 50 percent of median income [10.2.1],,,,Bottom 50%,Percent,,18.4
-2020,Proportion of people living below 50 percent of median income [10.2.1],,,,Bottom 50%,Percent,,14.6
-2021,Proportion of people living below 50 percent of median income [10.2.1],,,,Bottom 50%,Percent,,11.6
-2022,Proportion of people living below 50 percent of median income [10.2.1],,,,Bottom 50%,Percent,,12.3
-2016,Proportion of people living below 50 percent of median income [10.2.1],,Female,,Bottom 50%,Percent,,18.839249
-2019,Proportion of people living below 50 percent of median income [10.2.1],,Female,,Bottom 50%,Percent,,19.9
-2020,Proportion of people living below 50 percent of median income [10.2.1],,Female,,Bottom 50%,Percent,,14.4
-2021,Proportion of people living below 50 percent of median income [10.2.1],,Female,,Bottom 50%,Percent,,11.4
-2022,Proportion of people living below 50 percent of median income [10.2.1],,Female,,Bottom 50%,Percent,,12.0
-2016,Proportion of people living below 50 percent of median income [10.2.1],,Male,,Bottom 50%,Percent,,18.023139
-2019,Proportion of people living below 50 percent of median income [10.2.1],,Male,,Bottom 50%,Percent,,19.6
-2020,Proportion of people living below 50 percent of median income [10.2.1],,Male,,Bottom 50%,Percent,,14.3
-2021,Proportion of people living below 50 percent of median income [10.2.1],,Male,,Bottom 50%,Percent,,10.8
-2022,Proportion of people living below 50 percent of median income [10.2.1],,Male,,Bottom 50%,Percent,,12.3
-2016,Proportion of people living below 50 percent of median income [10.2.1],,,under 6 years old,Bottom 50%,Percent,,24.352123
-2019,Proportion of people living below 50 percent of median income [10.2.1],,,under 6 years old,Bottom 50%,Percent,,28.4
-2020,Proportion of people living below 50 percent of median income [10.2.1],,,under 6 years old,Bottom 50%,Percent,,19.3
-2021,Proportion of people living below 50 percent of median income [10.2.1],,,under 6 years old,Bottom 50%,Percent,,14.7
-2022,Proportion of people living below 50 percent of median income [10.2.1],,,under 6 years old,Bottom 50%,Percent,,15.9
-2016,Proportion of people living below 50 percent of median income [10.2.1],,,6-13 years,Bottom 50%,Percent,,24.878459
-2019,Proportion of people living below 50 percent of median income [10.2.1],,,6-13 years,Bottom 50%,Percent,,26.4
-2020,Proportion of people living below 50 percent of median income [10.2.1],,,6-13 years,Bottom 50%,Percent,,19.8
-2021,Proportion of people living below 50 percent of median income [10.2.1],,,6-13 years,Bottom 50%,Percent,,15.3
-2022,Proportion of people living below 50 percent of median income [10.2.1],,,6-13 years,Bottom 50%,Percent,,15.8
-2016,Proportion of people living below 50 percent of median income [10.2.1],,,under 18 years old,Bottom 50%,Percent,,20.159164
-2019,Proportion of people living below 50 percent of median income [10.2.1],,,under 18 years old,Bottom 50%,Percent,,21.6
-2020,Proportion of people living below 50 percent of median income [10.2.1],,,under 18 years old,Bottom 50%,Percent,,15.0
-2021,Proportion of people living below 50 percent of median income [10.2.1],,,under 18 years old,Bottom 50%,Percent,,11.4
-2022,Proportion of people living below 50 percent of median income [10.2.1],,,under 18 years old,Bottom 50%,Percent,,12.4
-2016,Proportion of people living below 50 percent of median income [10.2.1],,,14-17 years,Bottom 50%,Percent,,23.776905
-2019,Proportion of people living below 50 percent of median income [10.2.1],,,14-17 years,Bottom 50%,Percent,,26.0
-2020,Proportion of people living below 50 percent of median income [10.2.1],,,14-17 years,Bottom 50%,Percent,,18.6
-2021,Proportion of people living below 50 percent of median income [10.2.1],,,14-17 years,Bottom 50%,Percent,,14.3
-2022,Proportion of people living below 50 percent of median income [10.2.1],,,14-17 years,Bottom 50%,Percent,,15.1
-2022,Proportion of people living below 50 percent of median income [10.2.1],,,15 to 24 years old,Bottom 50%,Percent,,10.5
-2016,Proportion of people living below 50 percent of median income [10.2.1],,,18-34 years,Bottom 50%,Percent,,12.600076
-2019,Proportion of people living below 50 percent of median income [10.2.1],,,18-34 years,Bottom 50%,Percent,,14.1
-2020,Proportion of people living below 50 percent of median income [10.2.1],,,18-34 years,Bottom 50%,Percent,,10.6
-2021,Proportion of people living below 50 percent of median income [10.2.1],,,18-34 years,Bottom 50%,Percent,,7.8
-2022,Proportion of people living below 50 percent of median income [10.2.1],,,18-34 years,Bottom 50%,Percent,,9.6
-2016,Proportion of people living below 50 percent of median income [10.2.1],,,15 to 64 years old,Bottom 50%,Percent,,14.06327
-2019,Proportion of people living below 50 percent of median income [10.2.1],,,15 to 64 years old,Bottom 50%,Percent,,15.3
-2020,Proportion of people living below 50 percent of median income [10.2.1],,,15 to 64 years old,Bottom 50%,Percent,,11.3
-2021,Proportion of people living below 50 percent of median income [10.2.1],,,15 to 64 years old,Bottom 50%,Percent,,8.4
-2022,Proportion of people living below 50 percent of median income [10.2.1],,,15 to 64 years old,Bottom 50%,Percent,,9.7
-2016,Proportion of people living below 50 percent of median income [10.2.1],,,65 years old and over,Bottom 50%,Percent,,15.895684
-2019,Proportion of people living below 50 percent of median income [10.2.1],,,65 years old and over,Bottom 50%,Percent,,14.7
-2020,Proportion of people living below 50 percent of median income [10.2.1],,,65 years old and over,Bottom 50%,Percent,,10.0
-2021,Proportion of people living below 50 percent of median income [10.2.1],,,65 years old and over,Bottom 50%,Percent,,11.5
-2022,Proportion of people living below 50 percent of median income [10.2.1],,,65 years old and over,Bottom 50%,Percent,,12.2
+Year,SERIES,Reference area,Sex,Age,Income or wealth quantile,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2016,Proportion of people living below 50 percent of median income [10.2.1],,,,Bottom 50%,Percent,Normal value,Units,,18.436463
+2019,Proportion of people living below 50 percent of median income [10.2.1],,,,Bottom 50%,Percent,Normal value,Units,,18.4
+2020,Proportion of people living below 50 percent of median income [10.2.1],,,,Bottom 50%,Percent,Normal value,Units,,14.6
+2021,Proportion of people living below 50 percent of median income [10.2.1],,,,Bottom 50%,Percent,Normal value,Units,,11.6
+2022,Proportion of people living below 50 percent of median income [10.2.1],,,,Bottom 50%,Percent,Normal value,Units,,12.3
+2016,Proportion of people living below 50 percent of median income [10.2.1],,,65 years old and over,Bottom 50%,Percent,Normal value,Units,,15.895684
+2019,Proportion of people living below 50 percent of median income [10.2.1],,,65 years old and over,Bottom 50%,Percent,Normal value,Units,,14.7
+2020,Proportion of people living below 50 percent of median income [10.2.1],,,65 years old and over,Bottom 50%,Percent,Normal value,Units,,10.0
+2021,Proportion of people living below 50 percent of median income [10.2.1],,,65 years old and over,Bottom 50%,Percent,Normal value,Units,,11.5
+2022,Proportion of people living below 50 percent of median income [10.2.1],,,65 years old and over,Bottom 50%,Percent,Normal value,Units,,12.2
+2016,Proportion of people living below 50 percent of median income [10.2.1],,,under 18 years old,Bottom 50%,Percent,Normal value,Units,,20.159164
+2019,Proportion of people living below 50 percent of median income [10.2.1],,,under 18 years old,Bottom 50%,Percent,Normal value,Units,,21.6
+2020,Proportion of people living below 50 percent of median income [10.2.1],,,under 18 years old,Bottom 50%,Percent,Normal value,Units,,15.0
+2021,Proportion of people living below 50 percent of median income [10.2.1],,,under 18 years old,Bottom 50%,Percent,Normal value,Units,,11.4
+2022,Proportion of people living below 50 percent of median income [10.2.1],,,under 18 years old,Bottom 50%,Percent,Normal value,Units,,12.4
+2016,Proportion of people living below 50 percent of median income [10.2.1],,,under 6 years old,Bottom 50%,Percent,Normal value,Units,,24.352123
+2019,Proportion of people living below 50 percent of median income [10.2.1],,,under 6 years old,Bottom 50%,Percent,Normal value,Units,,28.4
+2020,Proportion of people living below 50 percent of median income [10.2.1],,,under 6 years old,Bottom 50%,Percent,Normal value,Units,,19.3
+2021,Proportion of people living below 50 percent of median income [10.2.1],,,under 6 years old,Bottom 50%,Percent,Normal value,Units,,14.7
+2022,Proportion of people living below 50 percent of median income [10.2.1],,,under 6 years old,Bottom 50%,Percent,Normal value,Units,,15.9
+2016,Proportion of people living below 50 percent of median income [10.2.1],,,14-17 years,Bottom 50%,Percent,Normal value,Units,,23.776905
+2019,Proportion of people living below 50 percent of median income [10.2.1],,,14-17 years,Bottom 50%,Percent,Normal value,Units,,26.0
+2020,Proportion of people living below 50 percent of median income [10.2.1],,,14-17 years,Bottom 50%,Percent,Normal value,Units,,18.6
+2021,Proportion of people living below 50 percent of median income [10.2.1],,,14-17 years,Bottom 50%,Percent,Normal value,Units,,14.3
+2022,Proportion of people living below 50 percent of median income [10.2.1],,,14-17 years,Bottom 50%,Percent,Normal value,Units,,15.1
+2022,Proportion of people living below 50 percent of median income [10.2.1],,,15 to 24 years old,Bottom 50%,Percent,Normal value,Units,,10.5
+2016,Proportion of people living below 50 percent of median income [10.2.1],,,15 to 64 years old,Bottom 50%,Percent,Normal value,Units,,14.06327
+2019,Proportion of people living below 50 percent of median income [10.2.1],,,15 to 64 years old,Bottom 50%,Percent,Normal value,Units,,15.3
+2020,Proportion of people living below 50 percent of median income [10.2.1],,,15 to 64 years old,Bottom 50%,Percent,Normal value,Units,,11.3
+2021,Proportion of people living below 50 percent of median income [10.2.1],,,15 to 64 years old,Bottom 50%,Percent,Normal value,Units,,8.4
+2022,Proportion of people living below 50 percent of median income [10.2.1],,,15 to 64 years old,Bottom 50%,Percent,Normal value,Units,,9.7
+2016,Proportion of people living below 50 percent of median income [10.2.1],,,18-34 years,Bottom 50%,Percent,Normal value,Units,,12.600076
+2019,Proportion of people living below 50 percent of median income [10.2.1],,,18-34 years,Bottom 50%,Percent,Normal value,Units,,14.1
+2020,Proportion of people living below 50 percent of median income [10.2.1],,,18-34 years,Bottom 50%,Percent,Normal value,Units,,10.6
+2021,Proportion of people living below 50 percent of median income [10.2.1],,,18-34 years,Bottom 50%,Percent,Normal value,Units,,7.8
+2022,Proportion of people living below 50 percent of median income [10.2.1],,,18-34 years,Bottom 50%,Percent,Normal value,Units,,9.6
+2016,Proportion of people living below 50 percent of median income [10.2.1],,,6-13 years,Bottom 50%,Percent,Normal value,Units,,24.878459
+2019,Proportion of people living below 50 percent of median income [10.2.1],,,6-13 years,Bottom 50%,Percent,Normal value,Units,,26.4
+2020,Proportion of people living below 50 percent of median income [10.2.1],,,6-13 years,Bottom 50%,Percent,Normal value,Units,,19.8
+2021,Proportion of people living below 50 percent of median income [10.2.1],,,6-13 years,Bottom 50%,Percent,Normal value,Units,,15.3
+2022,Proportion of people living below 50 percent of median income [10.2.1],,,6-13 years,Bottom 50%,Percent,Normal value,Units,,15.8
+2016,Proportion of people living below 50 percent of median income [10.2.1],,Female,,Bottom 50%,Percent,Normal value,Units,,18.839249
+2019,Proportion of people living below 50 percent of median income [10.2.1],,Female,,Bottom 50%,Percent,Normal value,Units,,19.9
+2020,Proportion of people living below 50 percent of median income [10.2.1],,Female,,Bottom 50%,Percent,Normal value,Units,,14.4
+2021,Proportion of people living below 50 percent of median income [10.2.1],,Female,,Bottom 50%,Percent,Normal value,Units,,11.4
+2022,Proportion of people living below 50 percent of median income [10.2.1],,Female,,Bottom 50%,Percent,Normal value,Units,,12.0
+2016,Proportion of people living below 50 percent of median income [10.2.1],,Male,,Bottom 50%,Percent,Normal value,Units,,18.023139
+2019,Proportion of people living below 50 percent of median income [10.2.1],,Male,,Bottom 50%,Percent,Normal value,Units,,19.6
+2020,Proportion of people living below 50 percent of median income [10.2.1],,Male,,Bottom 50%,Percent,Normal value,Units,,14.3
+2021,Proportion of people living below 50 percent of median income [10.2.1],,Male,,Bottom 50%,Percent,Normal value,Units,,10.8
+2022,Proportion of people living below 50 percent of median income [10.2.1],,Male,,Bottom 50%,Percent,Normal value,Units,,12.3

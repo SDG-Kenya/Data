@@ -65,8 +65,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary education, sufficient for level completion",
                 "Secondary",
+                "Primary education, sufficient for level completion",
                 ""
               ]
             },
@@ -82,6 +82,28 @@
               ]
             },
             "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

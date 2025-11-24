@@ -1,5 +1,5 @@
-Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
-2022,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,15 to 24 years old,Percent,,95.3
-2022,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,15 to 24 years old,Percent,,96.3
-2022,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,15 to 49 years old,Percent,,91.0
-2022,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,15 to 49 years old,Percent,,93.9
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2022,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,15 to 24 years old,Percent,Normal value,Units,,95.3
+2022,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Female,15 to 49 years old,Percent,Normal value,Units,,91.0
+2022,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,15 to 24 years old,Percent,Normal value,Units,,96.3
+2022,Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],,Male,15 to 49 years old,Percent,Normal value,Units,,93.9

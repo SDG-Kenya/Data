@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of urban population living in slums [11.1.1]",
                 "Proportion of urban population living in slums (One Shelter Deprivation)",
                 "Proportion of urban population living in slums (Two Shelter Deprivation)",
                 "Proportion of urban population living in slums(Three Shelter Deprivation)",
                 "Proportion of urban population living in slums (Four Shelter Deprivation)",
                 "Proportion of urban population living in slums (Any Shelter Deprivation) - Slum dwellers",
+                "Proportion of urban population living in slums [11.1.1]",
                 ""
               ]
             },
@@ -51,6 +51,28 @@
               ]
             },
             "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

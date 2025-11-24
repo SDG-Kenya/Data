@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total government revenue as a proportion of GDP [17.1.1]",
                 "Government revenue from domestic taxes as a proportion of GDP",
                 "Government revenue from social contributions as a proportion of GDP",
                 "Government revenue from grants as a proportion of GDP",
                 "Government revenue from  other sources as a proportion of GDP",
+                "Total government revenue as a proportion of GDP [17.1.1]",
                 ""
               ]
             },
@@ -50,6 +50,28 @@
               ]
             },
             "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

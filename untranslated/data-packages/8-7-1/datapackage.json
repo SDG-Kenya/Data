@@ -50,9 +50,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y5T9",
                 "Y10T14",
                 "Y15T17",
+                "Y5T9",
                 ""
               ]
             }
@@ -75,6 +75,26 @@
               "enum": [
                 "PT",
                 "NUMBER",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
                 ""
               ]
             }

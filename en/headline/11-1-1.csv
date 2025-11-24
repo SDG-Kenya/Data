@@ -1,13 +1,13 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2014,7.9,,Percent,Proportion of urban population living in slums [11.1.1]
-2019,6.9,,Percent,Proportion of urban population living in slums [11.1.1]
-2014,34.9,,Percent,Proportion of urban population living in slums (One Shelter Deprivation)
-2019,37.2,,Percent,Proportion of urban population living in slums (One Shelter Deprivation)
-2014,23.2,,Percent,Proportion of urban population living in slums (Two Shelter Deprivation)
-2019,14.9,,Percent,Proportion of urban population living in slums (Two Shelter Deprivation)
-2014,10.6,,Percent,Proportion of urban population living in slums(Three Shelter Deprivation)
-2019,4.2,,Percent,Proportion of urban population living in slums(Three Shelter Deprivation)
-2014,2.7,,Percent,Proportion of urban population living in slums (Four Shelter Deprivation)
-2019,0.9,,Percent,Proportion of urban population living in slums (Four Shelter Deprivation)
-2014,71.4,,Percent,Proportion of urban population living in slums (Any Shelter Deprivation) - Slum dwellers
-2019,57.3,,Percent,Proportion of urban population living in slums (Any Shelter Deprivation) - Slum dwellers
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,34.9,,Normal value,Units,Percent,Proportion of urban population living in slums (One Shelter Deprivation)
+2019,37.2,,Normal value,Units,Percent,Proportion of urban population living in slums (One Shelter Deprivation)
+2014,23.2,,Normal value,Units,Percent,Proportion of urban population living in slums (Two Shelter Deprivation)
+2019,14.9,,Normal value,Units,Percent,Proportion of urban population living in slums (Two Shelter Deprivation)
+2014,10.6,,Normal value,Units,Percent,Proportion of urban population living in slums(Three Shelter Deprivation)
+2019,4.2,,Normal value,Units,Percent,Proportion of urban population living in slums(Three Shelter Deprivation)
+2014,2.7,,Normal value,Units,Percent,Proportion of urban population living in slums (Four Shelter Deprivation)
+2019,0.9,,Normal value,Units,Percent,Proportion of urban population living in slums (Four Shelter Deprivation)
+2014,71.4,,Normal value,Units,Percent,Proportion of urban population living in slums (Any Shelter Deprivation) - Slum dwellers
+2019,57.3,,Normal value,Units,Percent,Proportion of urban population living in slums (Any Shelter Deprivation) - Slum dwellers
+2014,7.9,,Normal value,Units,Percent,Proportion of urban population living in slums [11.1.1]
+2019,6.9,,Normal value,Units,Percent,Proportion of urban population living in slums [11.1.1]

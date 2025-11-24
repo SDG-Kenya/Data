@@ -1,9 +1,9 @@
-Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2017,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,,35.5
-2020,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,,86.5
-2024,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,,87.0
-2020,Proportion of open water bodies with good ambient water quality [6.3.2],,Percent,,33.3
-2017,Proportion of river water bodies with good ambient water quality [6.3.2],,Percent,,30.5
-2020,Proportion of river water bodies with good ambient water quality [6.3.2],,Percent,,90.4
-2017,Proportion of groundwater bodies with good ambient water quality [6.3.2],,Percent,,42.2
-2020,Proportion of groundwater bodies with good ambient water quality [6.3.2],,Percent,,90.3
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2017,Proportion of groundwater bodies with good ambient water quality [6.3.2],,Percent,Normal value,Units,,42.2
+2020,Proportion of groundwater bodies with good ambient water quality [6.3.2],,Percent,Normal value,Units,,90.3
+2020,Proportion of open water bodies with good ambient water quality [6.3.2],,Percent,Normal value,Units,,33.3
+2017,Proportion of river water bodies with good ambient water quality [6.3.2],,Percent,Normal value,Units,,30.5
+2020,Proportion of river water bodies with good ambient water quality [6.3.2],,Percent,Normal value,Units,,90.4
+2017,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,Normal value,Units,,35.5
+2020,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,Normal value,Units,,86.5
+2024,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,Normal value,Units,,87.0

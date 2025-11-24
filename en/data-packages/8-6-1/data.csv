@@ -1,27 +1,27 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2016,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,,18.6
-2019,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,,20.2
-2020,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,,21.6
-2021,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,,18.1
-2022,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,,19.9
-2024,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,,20.6
-2019,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Rural,Percent,,15.3
-2020,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Rural,Percent,,16.5
-2021,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Rural,Percent,,14.8
-2022,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Rural,Percent,,17.7
-2024,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Rural,Percent,,17.8
-2019,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Urban,Percent,,29.1
-2020,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Urban,Percent,,32.6
-2021,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Urban,Percent,,25.1
-2022,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Urban,Percent,,24.6
-2024,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Urban,Percent,,26.7
-2019,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Female,,Percent,,24.1
-2020,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Female,,Percent,,26.3
-2021,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Female,,Percent,,26.2
-2022,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Female,,Percent,,24.9
-2024,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Female,,Percent,,24.8
-2019,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Male,,Percent,,16.2
-2020,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Male,,Percent,,16.8
-2021,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Male,,Percent,,9.8
-2022,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Male,,Percent,,14.8
-2024,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Male,,Percent,,16.3
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2016,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,Normal value,Units,,18.6
+2019,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,Normal value,Units,,20.2
+2020,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,Normal value,Units,,21.6
+2021,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,Normal value,Units,,18.1
+2022,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,Normal value,Units,,19.9
+2024,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,,Percent,Normal value,Units,,20.6
+2019,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Rural,Percent,Normal value,Units,,15.3
+2020,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Rural,Percent,Normal value,Units,,16.5
+2021,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Rural,Percent,Normal value,Units,,14.8
+2022,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Rural,Percent,Normal value,Units,,17.7
+2024,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Rural,Percent,Normal value,Units,,17.8
+2019,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Urban,Percent,Normal value,Units,,29.1
+2020,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Urban,Percent,Normal value,Units,,32.6
+2021,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Urban,Percent,Normal value,Units,,25.1
+2022,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Urban,Percent,Normal value,Units,,24.6
+2024,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,,Urban,Percent,Normal value,Units,,26.7
+2019,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Female,,Percent,Normal value,Units,,24.1
+2020,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Female,,Percent,Normal value,Units,,26.3
+2021,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Female,,Percent,Normal value,Units,,26.2
+2022,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Female,,Percent,Normal value,Units,,24.9
+2024,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Female,,Percent,Normal value,Units,,24.8
+2019,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Male,,Percent,Normal value,Units,,16.2
+2020,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Male,,Percent,Normal value,Units,,16.8
+2021,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Male,,Percent,Normal value,Units,,9.8
+2022,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Male,,Percent,Normal value,Units,,14.8
+2024,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,Male,,Percent,Normal value,Units,,16.3

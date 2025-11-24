@@ -1,9 +1,9 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2017,17,,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
-2018,17,,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
-2019,17,,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
-2020,17,,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
-2021,17,,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
-2022,17,,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
-2023,17,,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
-2024,17,,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2017,17,,Normal value,Units,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
+2018,17,,Normal value,Units,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
+2019,17,,Normal value,Units,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
+2020,17,,Normal value,Units,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
+2021,17,,Normal value,Units,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
+2022,17,,Normal value,Units,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
+2023,17,,Normal value,Units,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
+2024,17,,Normal value,Units,Percent,Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]

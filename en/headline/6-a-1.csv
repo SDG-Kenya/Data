@@ -1,10 +1,10 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2014,204.8,,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
-2015,172.6,,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
-2016,220.5,,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
-2017,244.3,,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
-2018,295.3,,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
-2019,217.2,,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
-2020,206.9,,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
-2021,247.1,,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
-2023,261.0,,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,204.8,,Normal value,Millions,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
+2015,172.6,,Normal value,Millions,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
+2016,220.5,,Normal value,Millions,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
+2017,244.3,,Normal value,Millions,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
+2018,295.3,,Normal value,Millions,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
+2019,217.2,,Normal value,Millions,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
+2020,206.9,,Normal value,Millions,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
+2021,247.1,,Normal value,Millions,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
+2023,261.0,,Normal value,Millions,USD,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan

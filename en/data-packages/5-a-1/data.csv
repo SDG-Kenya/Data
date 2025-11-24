@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2024,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,,,Percent,,66.0
-2022,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,Female,,Percent,,25.4
-2022,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,Female,Rural,Percent,,33.4
-2022,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,Female,Urban,Percent,,10.0
-2016,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,Female,,Percent,,31.7
-2016,"Share of men among owners or rights-bearers of agricultural land, by type of tenure",,Male,,Percent,,68.3
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2016,"Share of men among owners or rights-bearers of agricultural land, by type of tenure",,Male,,Percent,Normal value,Units,,68.3
+2016,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,Female,,Percent,Normal value,Units,,31.7
+2024,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,,,Percent,Normal value,Units,,66.0
+2022,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,Female,,Percent,Normal value,Units,,25.4
+2022,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,Female,Rural,Percent,Normal value,Units,,33.4
+2022,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,Female,Urban,Percent,Normal value,Units,,10.0

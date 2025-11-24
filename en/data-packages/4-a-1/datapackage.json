@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",
                 "Proportion of schools with access to electricity, by education level [4.a.1]",
                 "Proportion of schools with access to the internet for pedagogical purposes, by education level [4.a.1]",
-                "Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",
                 ""
               ]
             },
@@ -43,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary education",
                 "Secondary",
+                "Primary education",
                 ""
               ]
             },
@@ -60,6 +60,28 @@
               ]
             },
             "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

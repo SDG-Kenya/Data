@@ -1,5 +1,5 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2014,45.0,,Percent,Proportion of children living in child-specific multidimensional poverty [1.2.2]
-2019,47.7,,Percent,Proportion of children living in child-specific multidimensional poverty [1.2.2]
-2014,38.9,,Percent,Proportion of population living in multidimensional poverty [1.2.2]
-2019,50.8,,Percent,Proportion of population living in multidimensional poverty [1.2.2]
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,45.0,,Normal value,Units,Percent,Proportion of children living in child-specific multidimensional poverty [1.2.2]
+2019,47.7,,Normal value,Units,Percent,Proportion of children living in child-specific multidimensional poverty [1.2.2]
+2014,38.9,,Normal value,Units,Percent,Proportion of population living in multidimensional poverty [1.2.2]
+2019,50.8,,Normal value,Units,Percent,Proportion of population living in multidimensional poverty [1.2.2]

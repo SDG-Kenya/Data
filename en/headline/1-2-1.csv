@@ -1,7 +1,7 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2014,46.6,,Percent,Proportion of population living below the national poverty line [1.2.1]
-2016,36.1,,Percent,Proportion of population living below the national poverty line [1.2.1]
-2019,33.6,,Percent,Proportion of population living below the national poverty line [1.2.1]
-2020,42.9,,Percent,Proportion of population living below the national poverty line [1.2.1]
-2021,38.6,,Percent,Proportion of population living below the national poverty line [1.2.1]
-2022,39.8,,Percent,Proportion of population living below the national poverty line [1.2.1]
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,46.6,,Normal value,Units,Percent,Proportion of population living below the national poverty line [1.2.1]
+2016,36.1,,Normal value,Units,Percent,Proportion of population living below the national poverty line [1.2.1]
+2019,33.6,,Normal value,Units,Percent,Proportion of population living below the national poverty line [1.2.1]
+2020,42.9,,Normal value,Units,Percent,Proportion of population living below the national poverty line [1.2.1]
+2021,38.6,,Normal value,Units,Percent,Proportion of population living below the national poverty line [1.2.1]
+2022,39.8,,Normal value,Units,Percent,Proportion of population living below the national poverty line [1.2.1]

@@ -21,9 +21,9 @@
             "constraints": {
               "enum": [
                 "Proportion of households using safely managed sanitation services",
-                "Proportion of population using safely managed sanitation services [6.2.1]",
                 "Proportion of households with basic handwashing facilities on premises",
                 "Proportion of population with basic handwashing facilities on premises [6.2.1]",
+                "Proportion of population using safely managed sanitation services [6.2.1]",
                 ""
               ]
             },
@@ -61,6 +61,28 @@
               ]
             },
             "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

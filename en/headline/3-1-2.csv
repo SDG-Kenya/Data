@@ -1,4 +1,4 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2014,61.8,,Percent,Proportion of births attended by skilled health personnel [3.1.2]
-2016,70.2,,Percent,Proportion of births attended by skilled health personnel [3.1.2]
-2022,89.3,,Percent,Proportion of births attended by skilled health personnel [3.1.2]
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2014,61.8,,Normal value,Units,Percent,Proportion of births attended by skilled health personnel [3.1.2]
+2016,70.2,,Normal value,Units,Percent,Proportion of births attended by skilled health personnel [3.1.2]
+2022,89.3,,Normal value,Units,Percent,Proportion of births attended by skilled health personnel [3.1.2]

@@ -1,5 +1,5 @@
-Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2018,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1],,Percent,,57.0
-2020,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1],,Percent,,47.0
-2018,Extent of use of country-owned planning tools by providers of development cooperation - data by provider,,Percent,,70.0
-2020,Extent of use of country-owned planning tools by providers of development cooperation - data by provider,,Percent,,99.0
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2018,Extent of use of country-owned planning tools by providers of development cooperation - data by provider,,Percent,Normal value,Units,,70
+2020,Extent of use of country-owned planning tools by providers of development cooperation - data by provider,,Percent,Normal value,Units,,99
+2018,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1],,Percent,Normal value,Units,,57
+2020,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1],,Percent,Normal value,Units,,47

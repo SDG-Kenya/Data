@@ -1,45 +1,45 @@
-Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2014,Proportion of individuals using the Internet [17.8.1],,,,,Percent,,6.3
-2016,Proportion of individuals using the Internet [17.8.1],,,,,Percent,,16.6
-2019,Proportion of individuals using the Internet [17.8.1],,,,,Percent,,22.7
-2023,Proportion of individuals using the Internet [17.8.1],,,,,Percent,,35.0
-2019,Proportion of individuals using the Internet [17.8.1],,,,Rural,Percent,,13.8
-2023,Proportion of individuals using the Internet [17.8.1],,,,Rural,Percent,,25.0
-2019,Proportion of individuals using the Internet [17.8.1],,,,Urban,Percent,,42.6
-2023,Proportion of individuals using the Internet [17.8.1],,,,Urban,Percent,,56.6
-2019,Proportion of individuals using the Internet [17.8.1],,Female,,,Percent,,20.2
-2023,Proportion of individuals using the Internet [17.8.1],,Female,,,Percent,,32.2
-2019,Proportion of individuals using the Internet [17.8.1],,Male,,,Percent,,25.2
-2023,Proportion of individuals using the Internet [17.8.1],,Male,,,Percent,,37.8
-2019,Proportion of individuals using the Internet [17.8.1],,,(3-4),,Percent,,2.1
-2023,Proportion of individuals using the Internet [17.8.1],,,(3-4),,Percent,,6.2
-2019,Proportion of individuals using the Internet [17.8.1],,,5 to 9 years old,,Percent,,2.7
-2023,Proportion of individuals using the Internet [17.8.1],,,5 to 9 years old,,Percent,,8.9
-2019,Proportion of individuals using the Internet [17.8.1],,,10 to 14 years old,,Percent,,4.0
-2023,Proportion of individuals using the Internet [17.8.1],,,10 to 14 years old,,Percent,,11.1
-2019,Proportion of individuals using the Internet [17.8.1],,,15 to 19 years old,,Percent,,18.9
-2023,Proportion of individuals using the Internet [17.8.1],,,15 to 19 years old,,Percent,,30.6
-2019,Proportion of individuals using the Internet [17.8.1],,,20 to 24 years old,,Percent,,48.2
-2023,Proportion of individuals using the Internet [17.8.1],,,20 to 24 years old,,Percent,,64.0
-2019,Proportion of individuals using the Internet [17.8.1],,,25 to 29 years old,,Percent,,47.9
-2023,Proportion of individuals using the Internet [17.8.1],,,25 to 29 years old,,Percent,,61.8
-2019,Proportion of individuals using the Internet [17.8.1],,,30 to 34 years old,,Percent,,41.0
-2023,Proportion of individuals using the Internet [17.8.1],,,30 to 34 years old,,Percent,,56.2
-2019,Proportion of individuals using the Internet [17.8.1],,,35 to 39 years old,,Percent,,37.9
-2023,Proportion of individuals using the Internet [17.8.1],,,35 to 39 years old,,Percent,,48.1
-2019,Proportion of individuals using the Internet [17.8.1],,,40 to 44 years old,,Percent,,32.4
-2023,Proportion of individuals using the Internet [17.8.1],,,40 to 44 years old,,Percent,,46.0
-2019,Proportion of individuals using the Internet [17.8.1],,,45 to 49 years old,,Percent,,28.8
-2023,Proportion of individuals using the Internet [17.8.1],,,45 to 49 years old,,Percent,,41.8
-2019,Proportion of individuals using the Internet [17.8.1],,,50 to 54 years old,,Percent,,26.1
-2023,Proportion of individuals using the Internet [17.8.1],,,50 to 54 years old,,Percent,,38.5
-2019,Proportion of individuals using the Internet [17.8.1],,,55 to 59 years old,,Percent,,20.8
-2023,Proportion of individuals using the Internet [17.8.1],,,55 to 59 years old,,Percent,,35.0
-2019,Proportion of individuals using the Internet [17.8.1],,,60 to 64 years old,,Percent,,15.1
-2023,Proportion of individuals using the Internet [17.8.1],,,60 to 64 years old,,Percent,,26.0
-2019,Proportion of individuals using the Internet [17.8.1],,,65 to 69 years old,,Percent,,10.6
-2023,Proportion of individuals using the Internet [17.8.1],,,65 to 69 years old,,Percent,,20.4
-2019,Proportion of individuals using the Internet [17.8.1],,,70 to 74 years old,,Percent,,7.6
-2023,Proportion of individuals using the Internet [17.8.1],,,70 to 74 years old,,Percent,,12.4
-2019,Proportion of individuals using the Internet [17.8.1],,,75 years old and over,,Percent,,4.2
-2023,Proportion of individuals using the Internet [17.8.1],,,75 years old and over,,Percent,,6.9
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Proportion of individuals using the Internet [17.8.1],,,,,Percent,Normal value,Units,,6.3
+2016,Proportion of individuals using the Internet [17.8.1],,,,,Percent,Normal value,Units,,16.6
+2019,Proportion of individuals using the Internet [17.8.1],,,,,Percent,Normal value,Units,,22.7
+2023,Proportion of individuals using the Internet [17.8.1],,,,,Percent,Normal value,Units,,35.0
+2019,Proportion of individuals using the Internet [17.8.1],,,,Rural,Percent,Normal value,Units,,13.8
+2023,Proportion of individuals using the Internet [17.8.1],,,,Rural,Percent,Normal value,Units,,25.0
+2019,Proportion of individuals using the Internet [17.8.1],,,,Urban,Percent,Normal value,Units,,42.6
+2023,Proportion of individuals using the Internet [17.8.1],,,,Urban,Percent,Normal value,Units,,56.6
+2019,Proportion of individuals using the Internet [17.8.1],,,75 years old and over,,Percent,Normal value,Units,,4.2
+2023,Proportion of individuals using the Internet [17.8.1],,,75 years old and over,,Percent,Normal value,Units,,6.9
+2019,Proportion of individuals using the Internet [17.8.1],,,10 to 14 years old,,Percent,Normal value,Units,,4.0
+2023,Proportion of individuals using the Internet [17.8.1],,,10 to 14 years old,,Percent,Normal value,Units,,11.1
+2019,Proportion of individuals using the Internet [17.8.1],,,15 to 19 years old,,Percent,Normal value,Units,,18.9
+2023,Proportion of individuals using the Internet [17.8.1],,,15 to 19 years old,,Percent,Normal value,Units,,30.6
+2019,Proportion of individuals using the Internet [17.8.1],,,20 to 24 years old,,Percent,Normal value,Units,,48.2
+2023,Proportion of individuals using the Internet [17.8.1],,,20 to 24 years old,,Percent,Normal value,Units,,64.0
+2019,Proportion of individuals using the Internet [17.8.1],,,25 to 29 years old,,Percent,Normal value,Units,,47.9
+2023,Proportion of individuals using the Internet [17.8.1],,,25 to 29 years old,,Percent,Normal value,Units,,61.8
+2019,Proportion of individuals using the Internet [17.8.1],,,30 to 34 years old,,Percent,Normal value,Units,,41.0
+2023,Proportion of individuals using the Internet [17.8.1],,,30 to 34 years old,,Percent,Normal value,Units,,56.2
+2019,Proportion of individuals using the Internet [17.8.1],,,35 to 39 years old,,Percent,Normal value,Units,,37.9
+2023,Proportion of individuals using the Internet [17.8.1],,,35 to 39 years old,,Percent,Normal value,Units,,48.1
+2019,Proportion of individuals using the Internet [17.8.1],,,(3-4),,Percent,Normal value,Units,,2.1
+2023,Proportion of individuals using the Internet [17.8.1],,,(3-4),,Percent,Normal value,Units,,6.2
+2019,Proportion of individuals using the Internet [17.8.1],,,40 to 44 years old,,Percent,Normal value,Units,,32.4
+2023,Proportion of individuals using the Internet [17.8.1],,,40 to 44 years old,,Percent,Normal value,Units,,46.0
+2019,Proportion of individuals using the Internet [17.8.1],,,45 to 49 years old,,Percent,Normal value,Units,,28.8
+2023,Proportion of individuals using the Internet [17.8.1],,,45 to 49 years old,,Percent,Normal value,Units,,41.8
+2019,Proportion of individuals using the Internet [17.8.1],,,50 to 54 years old,,Percent,Normal value,Units,,26.1
+2023,Proportion of individuals using the Internet [17.8.1],,,50 to 54 years old,,Percent,Normal value,Units,,38.5
+2019,Proportion of individuals using the Internet [17.8.1],,,55 to 59 years old,,Percent,Normal value,Units,,20.8
+2023,Proportion of individuals using the Internet [17.8.1],,,55 to 59 years old,,Percent,Normal value,Units,,35.0
+2019,Proportion of individuals using the Internet [17.8.1],,,5 to 9 years old,,Percent,Normal value,Units,,2.7
+2023,Proportion of individuals using the Internet [17.8.1],,,5 to 9 years old,,Percent,Normal value,Units,,8.9
+2019,Proportion of individuals using the Internet [17.8.1],,,60 to 64 years old,,Percent,Normal value,Units,,15.1
+2023,Proportion of individuals using the Internet [17.8.1],,,60 to 64 years old,,Percent,Normal value,Units,,26.0
+2019,Proportion of individuals using the Internet [17.8.1],,,65 to 69 years old,,Percent,Normal value,Units,,10.6
+2023,Proportion of individuals using the Internet [17.8.1],,,65 to 69 years old,,Percent,Normal value,Units,,20.4
+2019,Proportion of individuals using the Internet [17.8.1],,,70 to 74 years old,,Percent,Normal value,Units,,7.6
+2023,Proportion of individuals using the Internet [17.8.1],,,70 to 74 years old,,Percent,Normal value,Units,,12.4
+2019,Proportion of individuals using the Internet [17.8.1],,Female,,,Percent,Normal value,Units,,20.2
+2023,Proportion of individuals using the Internet [17.8.1],,Female,,,Percent,Normal value,Units,,32.2
+2019,Proportion of individuals using the Internet [17.8.1],,Male,,,Percent,Normal value,Units,,25.2
+2023,Proportion of individuals using the Internet [17.8.1],,Male,,,Percent,Normal value,Units,,37.8

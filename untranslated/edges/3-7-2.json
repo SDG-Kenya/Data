@@ -1,1 +1,1 @@
-{"From":["SEX"],"To":["AGE"]}
+{"From":["SEX","AGE","OBS_STATUS"],"To":["AGE","OBS_STATUS","UNIT_MULT"]}

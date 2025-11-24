@@ -1,11 +1,11 @@
-Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2014,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",,225.0
-2015,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",,120.0
-2016,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",,111.0
-2017,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",,87.0
-2018,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",,89.2
-2019,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",,102.9
-2020,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",,87.3
-2021,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",,91.3
-2022,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",,92.9
-2023,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",,104.4
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,,225.0
+2015,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,,120.0
+2016,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,,111.0
+2017,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,,87.0
+2018,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,,89.2
+2019,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,,102.9
+2020,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,,87.3
+2021,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,,91.3
+2022,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,,92.9
+2023,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 100,000 population",Normal value,Units,,104.4

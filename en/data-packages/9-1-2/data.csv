@@ -1,67 +1,67 @@
-Year,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,GeoCode,Value
-2014,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,,3715.0
-2015,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,,2288.0
-2016,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,,2793.0
-2017,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,,3096.0
-2018,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,,4490.0
-2019,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,,5624.0
-2020,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,,2705.0
-2021,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,,6491.0
-2022,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,,5822.0
-2023,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,,6183.0
-2024,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,,4971.0
-2014,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,,1509.0
-2015,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,,1542.0
-2016,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,,1380.0
-2017,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,,1147.0
-2018,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,,3544.0
-2019,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,,4826.0
-2020,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,,5063.0
-2021,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,,6051.0
-2022,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,,6877.0
-2023,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,,7534.0
-2024,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,,7561.0
-2014,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,,8882.0
-2015,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,,8993.2
-2016,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,,9791.9
-2017,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,,10118.2
-2018,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,,11721.7
-2019,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,,12011.0
-2020,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,,4450.1
-2021,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,,6703.0
-2022,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,,10239.0
-2023,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,,12206.0
-2024,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,,12832.0
-2014,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,,279.4
-2015,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,,263.0
-2016,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,,249.5
-2017,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,,290.8
-2018,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,,358.7
-2019,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,,374.7
-2020,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,,321.6
-2021,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,,375.8
-2022,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,,375.0
-2023,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,,380.0
-2024,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,,374.0
-2014,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,,1126.0
-2015,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,,5072.0
-2016,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,,2298.0
-2017,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,,2342.0
-2018,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,,3025.0
-2019,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,,3165.0
-2020,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,,1924.0
-2021,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,,930.0
-2022,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,,4731.0
-2023,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,,3390.0
-2024,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,,5727.0
-2014,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,,24875.0
-2015,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,,26732.0
-2016,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,,27384.0
-2017,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,,30245.0
-2018,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,,30934.0
-2019,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,,34458.0
-2020,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,,34162.0
-2021,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,,34605.2
-2022,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,,33939.0
-2023,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,,36143.0
-2024,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,,41306.0
+Year,SERIES,Reference area,COMPOSITE_BREAKDOWN,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,,8882.0
+2015,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,,8993.2
+2016,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,,9791.9
+2017,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,,10118.2
+2018,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,,11721.7
+2019,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,,12011.0
+2020,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,,4450.1
+2021,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,,6703.0
+2022,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,,10239.0
+2023,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,,12206.0
+2024,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Number,Normal value,Thousands,,12832.0
+2014,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,,1126.0
+2015,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,,5072.0
+2016,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,,2298.0
+2017,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,,2342.0
+2018,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,,3025.0
+2019,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,,3165.0
+2020,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,,1924.0
+2021,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,,930.0
+2022,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,,4731.0
+2023,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,,3390.0
+2024,"Passenger volumes, by mode of transport (000 Passenger)",,Water,Number,Normal value,Thousands,,5727.0
+2014,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,,3715.0
+2015,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,,2288.0
+2016,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,,2793.0
+2017,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,,3096.0
+2018,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,,4490.0
+2019,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,,5624.0
+2020,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,,2705.0
+2021,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,,6491.0
+2022,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,,5822.0
+2023,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,,6183.0
+2024,"Passenger volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Number,Normal value,Thousands,,4971.0
+2014,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,,279.4
+2015,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,,263.0
+2016,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,,249.5
+2017,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,,290.8
+2018,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,,358.7
+2019,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,,374.7
+2020,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,,321.6
+2021,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,,375.8
+2022,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,,375.0
+2023,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,,380.0
+2024,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Air,Metric Tons,Normal value,Thousands,,374.0
+2014,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,,24875.0
+2015,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,,26732.0
+2016,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,,27384.0
+2017,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,,30245.0
+2018,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,,30934.0
+2019,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,,34458.0
+2020,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,,34162.0
+2021,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,,34605.2
+2022,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,,33939.0
+2023,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,,36143.0
+2024,"Freight volumes, by mode of transport (000 Passenger)",,Water,Metric Tons,Normal value,Thousands,,41306.0
+2014,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,,1509.0
+2015,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,,1542.0
+2016,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,,1380.0
+2017,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,,1147.0
+2018,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,,3544.0
+2019,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,,4826.0
+2020,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,,5063.0
+2021,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,,6051.0
+2022,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,,6877.0
+2023,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,,7534.0
+2024,"Freight volumes, by mode of transport (000 Passenger)",,Mode of Transport: Rail,Metric Tons,Normal value,Thousands,,7561.0

@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of population with access to electricity",
                 "Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2]",
                 ""
               ]
@@ -69,6 +70,28 @@
               ]
             },
             "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

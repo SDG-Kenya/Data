@@ -1,9 +1,9 @@
-Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2016,Proportion of population below international poverty line [1.1.1],,Rural,Percent,,37.2
-2020,Proportion of population below international poverty line [1.1.1],,Rural,Percent,,45.3
-2021,Proportion of population below international poverty line [1.1.1],,Rural,Percent,,45.5
-2022,Proportion of population below international poverty line [1.1.1],,Rural,Percent,,46.0
-2016,Proportion of population below international poverty line [1.1.1],,Urban,Percent,,9.6
-2020,Proportion of population below international poverty line [1.1.1],,Urban,Percent,,13.6
-2021,Proportion of population below international poverty line [1.1.1],,Urban,Percent,,13.6
-2022,Proportion of population below international poverty line [1.1.1],,Urban,Percent,,11.6
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2016,Proportion of population below international poverty line [1.1.1],,Rural,Percent,Normal value,Units,,37.2
+2020,Proportion of population below international poverty line [1.1.1],,Rural,Percent,Normal value,Units,,45.3
+2021,Proportion of population below international poverty line [1.1.1],,Rural,Percent,Normal value,Units,,45.5
+2022,Proportion of population below international poverty line [1.1.1],,Rural,Percent,Normal value,Units,,46.0
+2016,Proportion of population below international poverty line [1.1.1],,Urban,Percent,Normal value,Units,,9.6
+2020,Proportion of population below international poverty line [1.1.1],,Urban,Percent,Normal value,Units,,13.6
+2021,Proportion of population below international poverty line [1.1.1],,Urban,Percent,Normal value,Units,,13.6
+2022,Proportion of population below international poverty line [1.1.1],,Urban,Percent,Normal value,Units,,11.6

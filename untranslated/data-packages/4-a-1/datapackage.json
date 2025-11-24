@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "SE_ACS_CMPTR",
                 "SE_ACS_ELECT",
                 "SE_ACS_INTNT",
-                "SE_ACS_CMPTR",
                 ""
               ]
             }
@@ -40,8 +40,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_1",
                 "_L_KE_3",
+                "ISCED11_1",
                 ""
               ]
             }
@@ -52,6 +52,26 @@
             "constraints": {
               "enum": [
                 "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
                 ""
               ]
             }

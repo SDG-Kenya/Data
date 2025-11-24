@@ -20,9 +20,9 @@
             "constraints": {
               "enum": [
                 "_L_KE_060201_01",
-                "SH_SAN_SAFE",
                 "_L_KE_060201_02",
                 "SH_SAN_HNDWSH",
+                "SH_SAN_SAFE",
                 ""
               ]
             }
@@ -53,6 +53,26 @@
             "constraints": {
               "enum": [
                 "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
                 ""
               ]
             }

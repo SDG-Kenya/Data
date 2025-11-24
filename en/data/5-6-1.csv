@@ -1,21 +1,21 @@
-Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,,,Percent,,32.4
-2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,,,Percent,,64.8
-2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,,Rural,Percent,,29.5
-2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,,Rural,Percent,,59.4
-2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,,Urban,Percent,,37.0
-2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,,Urban,Percent,,73.2
-2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,15 to 19 years old,,Percent,,15.9
-2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,15 to 19 years old,,Percent,,49.3
-2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,20 to 24 years old,,Percent,,26.2
-2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,20 to 24 years old,,Percent,,58.9
-2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,25 to 29 years old,,Percent,,33.0
-2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,25 to 29 years old,,Percent,,67.5
-2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,30 to 34 years old,,Percent,,37.8
-2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,30 to 34 years old,,Percent,,65.4
-2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,35 to 39 years old,,Percent,,37.3
-2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,35 to 39 years old,,Percent,,64.8
-2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,40 to 44 years old,,Percent,,35.2
-2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,40 to 44 years old,,Percent,,68.0
-2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,45 to 49 years old,,Percent,,25.2
-2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,45 to 49 years old,,Percent,,65.9
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,,,Percent,Normal value,Units,,32.4
+2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,,,Percent,Normal value,Units,,64.8
+2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,,Rural,Percent,Normal value,Units,,29.5
+2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,,Rural,Percent,Normal value,Units,,59.4
+2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,,Urban,Percent,Normal value,Units,,37.0
+2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,,Urban,Percent,Normal value,Units,,73.2
+2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,15 to 19 years old,,Percent,Normal value,Units,,15.9
+2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,15 to 19 years old,,Percent,Normal value,Units,,49.3
+2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,20 to 24 years old,,Percent,Normal value,Units,,26.2
+2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,20 to 24 years old,,Percent,Normal value,Units,,58.9
+2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,25 to 29 years old,,Percent,Normal value,Units,,33.0
+2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,25 to 29 years old,,Percent,Normal value,Units,,67.5
+2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,30 to 34 years old,,Percent,Normal value,Units,,37.8
+2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,30 to 34 years old,,Percent,Normal value,Units,,65.4
+2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,35 to 39 years old,,Percent,Normal value,Units,,37.3
+2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,35 to 39 years old,,Percent,Normal value,Units,,64.8
+2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,40 to 44 years old,,Percent,Normal value,Units,,35.2
+2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,40 to 44 years old,,Percent,Normal value,Units,,68.0
+2014,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,45 to 49 years old,,Percent,Normal value,Units,,25.2
+2022,Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years) [5.6.1],,Female,45 to 49 years old,,Percent,Normal value,Units,,65.9

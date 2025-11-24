@@ -39,9 +39,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MOT_RAI",
                 "MOT_AIR",
                 "MOT_IWW_SEA",
+                "MOT_RAI",
                 ""
               ]
             }
@@ -53,6 +53,26 @@
               "enum": [
                 "NUMBER",
                 "T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3",
                 ""
               ]
             }

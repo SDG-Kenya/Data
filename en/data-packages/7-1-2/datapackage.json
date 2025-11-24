@@ -21,9 +21,9 @@
             "constraints": {
               "enum": [
                 "Proportion of household with primary reliance on clean fuels and technology",
-                "Proportion of population with primary reliance on clean fuels and technology [7.1.2]",
                 "Proportion of household with primary reliance on clean fuels and technology for cooking",
                 "Proportion of population with primary reliance on clean fuels and technology for cooking [7.1.2]",
+                "Proportion of population with primary reliance on clean fuels and technology [7.1.2]",
                 ""
               ]
             },
@@ -61,6 +61,28 @@
               ]
             },
             "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

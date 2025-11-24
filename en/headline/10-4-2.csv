@@ -1,4 +1,4 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2016,9.3,,Percent,Change in GINI
-2016,45.0,,Percent,Pre-fiscal GINI index
-2016,35.7,,Percent,Post-fiscal GINI index
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2016,9.3,,Normal value,Units,Percent,Change in GINI
+2016,45.0,,Normal value,Units,Percent,Pre-fiscal GINI index
+2016,35.7,,Normal value,Units,Percent,Post-fiscal GINI index

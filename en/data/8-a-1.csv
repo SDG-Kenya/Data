@@ -1,6 +1,6 @@
-Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2019,"Total official flows (commitments) for Aid for Trade, by recipient countries [8.a.1]",,Kenyan Shillings,,1438.0
-2020,"Total official flows (commitments) for Aid for Trade, by recipient countries [8.a.1]",,Kenyan Shillings,,1938.0
-2021,"Total official flows (commitments) for Aid for Trade, by recipient countries [8.a.1]",,Kenyan Shillings,,715.0
-2022,"Total official flows (commitments) for Aid for Trade, by recipient countries [8.a.1]",,Kenyan Shillings,,1302.1
-2023,"Total official flows (commitments) for Aid for Trade, by recipient countries [8.a.1]",,Kenyan Shillings,,1819.5
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2019,"Total official flows (commitments) for Aid for Trade, by recipient countries [8.a.1]",,Kenyan Shillings,Normal value,Millions,,1438.0
+2020,"Total official flows (commitments) for Aid for Trade, by recipient countries [8.a.1]",,Kenyan Shillings,Normal value,Millions,,1938.0
+2021,"Total official flows (commitments) for Aid for Trade, by recipient countries [8.a.1]",,Kenyan Shillings,Normal value,Millions,,715.0
+2022,"Total official flows (commitments) for Aid for Trade, by recipient countries [8.a.1]",,Kenyan Shillings,Normal value,Millions,,1302.1
+2023,"Total official flows (commitments) for Aid for Trade, by recipient countries [8.a.1]",,Kenyan Shillings,Normal value,Millions,,1819.5

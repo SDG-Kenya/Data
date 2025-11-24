@@ -1,58 +1,58 @@
-Year,SERIES,Reference area,Education level,UNIT_MEASURE,GeoCode,Value
-2014,Parity indices for all education indicators,,Pre-primary education,Ratio,,1.05
-2015,Parity indices for all education indicators,,Pre-primary education,Ratio,,0.97
-2016,Parity indices for all education indicators,,Pre-primary education,Ratio,,0.96
-2017,Parity indices for all education indicators,,Pre-primary education,Ratio,,0.96
-2018,Parity indices for all education indicators,,Pre-primary education,Ratio,,0.96
-2019,Parity indices for all education indicators,,Pre-primary education,Ratio,,0.96
-2020,Parity indices for all education indicators,,Pre-primary education,Ratio,,0.97
-2021,Parity indices for all education indicators,,Pre-primary education,Ratio,,1.0
-2022,Parity indices for all education indicators,,Pre-primary education,Ratio,,1.01
-2023,Parity indices for all education indicators,,Pre-primary education,Ratio,,1.01
-2024,Parity indices for all education indicators,,Pre-primary education,Ratio,,1.0
-2014,Parity indices for all education indicators,,Primary education,Ratio,,0.97
-2015,Parity indices for all education indicators,,Primary education,Ratio,,0.97
-2016,Parity indices for all education indicators,,Primary education,Ratio,,0.97
-2017,Parity indices for all education indicators,,Primary education,Ratio,,0.97
-2018,Parity indices for all education indicators,,Primary education,Ratio,,0.97
-2019,Parity indices for all education indicators,,Primary education,Ratio,,0.97
-2020,Parity indices for all education indicators,,Primary education,Ratio,,0.96
-2021,Parity indices for all education indicators,,Primary education,Ratio,,0.96
-2022,Parity indices for all education indicators,,Primary education,Ratio,,0.97
-2023,Parity indices for all education indicators,,Primary education,Ratio,,0.96
-2024,Parity indices for all education indicators,,Primary education,Ratio,,0.96
-2023,Parity indices for all education indicators,,Junior School,Ratio,,0.96
-2024,Parity indices for all education indicators,,Junior School,Ratio,,0.94
-2014,Parity indices for all education indicators,,Secondary,Ratio,,0.92
-2015,Parity indices for all education indicators,,Secondary,Ratio,,0.9
-2016,Parity indices for all education indicators,,Secondary,Ratio,,0.95
-2017,Parity indices for all education indicators,,Secondary,Ratio,,0.95
-2018,Parity indices for all education indicators,,Secondary,Ratio,,0.96
-2019,Parity indices for all education indicators,,Secondary,Ratio,,1.0
-2020,Parity indices for all education indicators,,Secondary,Ratio,,1.01
-2021,Parity indices for all education indicators,,Secondary,Ratio,,1.03
-2022,Parity indices for all education indicators,,Secondary,Ratio,,1.04
-2023,Parity indices for all education indicators,,Secondary,Ratio,,1.03
-2024,Parity indices for all education indicators,,Secondary,Ratio,,1.01
-2014,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,,0.65
-2015,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,,0.66
-2016,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,,0.78
-2017,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,,0.78
-2018,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,,0.77
-2019,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,,0.76
-2020,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,,0.75
-2021,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,,0.75
-2022,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,,0.89
-2023,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,,0.84
-2024,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,,0.9
-2014,Parity indices for all education indicators,,University,Ratio,,0.71
-2015,Parity indices for all education indicators,,University,Ratio,,0.71
-2016,Parity indices for all education indicators,,University,Ratio,,0.71
-2017,Parity indices for all education indicators,,University,Ratio,,0.7
-2018,Parity indices for all education indicators,,University,Ratio,,0.7
-2019,Parity indices for all education indicators,,University,Ratio,,0.68
-2020,Parity indices for all education indicators,,University,Ratio,,0.68
-2021,Parity indices for all education indicators,,University,Ratio,,0.68
-2022,Parity indices for all education indicators,,University,Ratio,,0.74
-2023,Parity indices for all education indicators,,University,Ratio,,0.76
-2024,Parity indices for all education indicators,,University,Ratio,,0.82
+Year,SERIES,Reference area,Education level,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Parity indices for all education indicators,,Secondary,Ratio,Normal value,Units,,0.92
+2015,Parity indices for all education indicators,,Secondary,Ratio,Normal value,Units,,0.9
+2016,Parity indices for all education indicators,,Secondary,Ratio,Normal value,Units,,0.95
+2017,Parity indices for all education indicators,,Secondary,Ratio,Normal value,Units,,0.95
+2018,Parity indices for all education indicators,,Secondary,Ratio,Normal value,Units,,0.96
+2019,Parity indices for all education indicators,,Secondary,Ratio,Normal value,Units,,1.0
+2020,Parity indices for all education indicators,,Secondary,Ratio,Normal value,Units,,1.01
+2021,Parity indices for all education indicators,,Secondary,Ratio,Normal value,Units,,1.03
+2022,Parity indices for all education indicators,,Secondary,Ratio,Normal value,Units,,1.04
+2023,Parity indices for all education indicators,,Secondary,Ratio,Normal value,Units,,1.03
+2024,Parity indices for all education indicators,,Secondary,Ratio,Normal value,Units,,1.01
+2014,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,Normal value,Units,,0.65
+2015,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,Normal value,Units,,0.66
+2016,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,Normal value,Units,,0.78
+2017,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,Normal value,Units,,0.78
+2018,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,Normal value,Units,,0.77
+2019,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,Normal value,Units,,0.76
+2020,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,Normal value,Units,,0.75
+2021,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,Normal value,Units,,0.75
+2022,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,Normal value,Units,,0.89
+2023,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,Normal value,Units,,0.84
+2024,Parity indices for all education indicators,,Middle-Level Colleges,Ratio,Normal value,Units,,0.9
+2014,Parity indices for all education indicators,,University,Ratio,Normal value,Units,,0.71
+2015,Parity indices for all education indicators,,University,Ratio,Normal value,Units,,0.71
+2016,Parity indices for all education indicators,,University,Ratio,Normal value,Units,,0.71
+2017,Parity indices for all education indicators,,University,Ratio,Normal value,Units,,0.7
+2018,Parity indices for all education indicators,,University,Ratio,Normal value,Units,,0.7
+2019,Parity indices for all education indicators,,University,Ratio,Normal value,Units,,0.68
+2020,Parity indices for all education indicators,,University,Ratio,Normal value,Units,,0.68
+2021,Parity indices for all education indicators,,University,Ratio,Normal value,Units,,0.68
+2022,Parity indices for all education indicators,,University,Ratio,Normal value,Units,,0.74
+2023,Parity indices for all education indicators,,University,Ratio,Normal value,Units,,0.76
+2024,Parity indices for all education indicators,,University,Ratio,Normal value,Units,,0.82
+2023,Parity indices for all education indicators,,Junior School,Ratio,Normal value,Units,,0.96
+2024,Parity indices for all education indicators,,Junior School,Ratio,Normal value,Units,,0.94
+2014,Parity indices for all education indicators,,Pre-primary education,Ratio,Normal value,Units,,1.05
+2015,Parity indices for all education indicators,,Pre-primary education,Ratio,Normal value,Units,,0.97
+2016,Parity indices for all education indicators,,Pre-primary education,Ratio,Normal value,Units,,0.96
+2017,Parity indices for all education indicators,,Pre-primary education,Ratio,Normal value,Units,,0.96
+2018,Parity indices for all education indicators,,Pre-primary education,Ratio,Normal value,Units,,0.96
+2019,Parity indices for all education indicators,,Pre-primary education,Ratio,Normal value,Units,,0.96
+2020,Parity indices for all education indicators,,Pre-primary education,Ratio,Normal value,Units,,0.97
+2021,Parity indices for all education indicators,,Pre-primary education,Ratio,Normal value,Units,,1.0
+2022,Parity indices for all education indicators,,Pre-primary education,Ratio,Normal value,Units,,1.01
+2023,Parity indices for all education indicators,,Pre-primary education,Ratio,Normal value,Units,,1.01
+2024,Parity indices for all education indicators,,Pre-primary education,Ratio,Normal value,Units,,1.0
+2014,Parity indices for all education indicators,,Primary education,Ratio,Normal value,Units,,0.97
+2015,Parity indices for all education indicators,,Primary education,Ratio,Normal value,Units,,0.97
+2016,Parity indices for all education indicators,,Primary education,Ratio,Normal value,Units,,0.97
+2017,Parity indices for all education indicators,,Primary education,Ratio,Normal value,Units,,0.97
+2018,Parity indices for all education indicators,,Primary education,Ratio,Normal value,Units,,0.97
+2019,Parity indices for all education indicators,,Primary education,Ratio,Normal value,Units,,0.97
+2020,Parity indices for all education indicators,,Primary education,Ratio,Normal value,Units,,0.96
+2021,Parity indices for all education indicators,,Primary education,Ratio,Normal value,Units,,0.96
+2022,Parity indices for all education indicators,,Primary education,Ratio,Normal value,Units,,0.97
+2023,Parity indices for all education indicators,,Primary education,Ratio,Normal value,Units,,0.96
+2024,Parity indices for all education indicators,,Primary education,Ratio,Normal value,Units,,0.96

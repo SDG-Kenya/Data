@@ -1,43 +1,43 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2014,16.7,,Percent,Total government revenue as a proportion of GDP [17.1.1]
-2015,16.6,,Percent,Total government revenue as a proportion of GDP [17.1.1]
-2016,16.9,,Percent,Total government revenue as a proportion of GDP [17.1.1]
-2017,17.3,,Percent,Total government revenue as a proportion of GDP [17.1.1]
-2018,16.6,,Percent,Total government revenue as a proportion of GDP [17.1.1]
-2019,17.1,,Percent,Total government revenue as a proportion of GDP [17.1.1]
-2020,17.0,,Percent,Total government revenue as a proportion of GDP [17.1.1]
-2021,15.3,,Percent,Total government revenue as a proportion of GDP [17.1.1]
-2022,16.5,,Percent,Total government revenue as a proportion of GDP [17.1.1]
-2023,15.4,,Percent,Total government revenue as a proportion of GDP [17.1.1]
-2016,16.2,,Percent,Government revenue from domestic taxes as a proportion of GDP
-2017,15.9,,Percent,Government revenue from domestic taxes as a proportion of GDP
-2018,15.1,,Percent,Government revenue from domestic taxes as a proportion of GDP
-2019,15.1,,Percent,Government revenue from domestic taxes as a proportion of GDP
-2020,14.3,,Percent,Government revenue from domestic taxes as a proportion of GDP
-2021,13.6,,Percent,Government revenue from domestic taxes as a proportion of GDP
-2022,14.6,,Percent,Government revenue from domestic taxes as a proportion of GDP
-2023,13.6,,Percent,Government revenue from domestic taxes as a proportion of GDP
-2016,0.0,,Percent,Government revenue from social contributions as a proportion of GDP
-2017,0.0,,Percent,Government revenue from social contributions as a proportion of GDP
-2018,0.0,,Percent,Government revenue from social contributions as a proportion of GDP
-2019,0.0,,Percent,Government revenue from social contributions as a proportion of GDP
-2020,0.0,,Percent,Government revenue from social contributions as a proportion of GDP
-2021,0.0,,Percent,Government revenue from social contributions as a proportion of GDP
-2022,0.0,,Percent,Government revenue from social contributions as a proportion of GDP
-2023,0.0,,Percent,Government revenue from social contributions as a proportion of GDP
-2016,0.4,,Percent,Government revenue from grants as a proportion of GDP
-2017,0.3,,Percent,Government revenue from grants as a proportion of GDP
-2018,0.3,,Percent,Government revenue from grants as a proportion of GDP
-2019,0.5,,Percent,Government revenue from grants as a proportion of GDP
-2020,0.2,,Percent,Government revenue from grants as a proportion of GDP
-2021,0.3,,Percent,Government revenue from grants as a proportion of GDP
-2022,0.2,,Percent,Government revenue from grants as a proportion of GDP
-2023,0.2,,Percent,Government revenue from grants as a proportion of GDP
-2016,0.2,,Percent,Government revenue from  other sources as a proportion of GDP
-2017,1.1,,Percent,Government revenue from  other sources as a proportion of GDP
-2018,1.2,,Percent,Government revenue from  other sources as a proportion of GDP
-2019,1.6,,Percent,Government revenue from  other sources as a proportion of GDP
-2020,2.5,,Percent,Government revenue from  other sources as a proportion of GDP
-2021,1.4,,Percent,Government revenue from  other sources as a proportion of GDP
-2022,1.7,,Percent,Government revenue from  other sources as a proportion of GDP
-2023,1.6,,Percent,Government revenue from  other sources as a proportion of GDP
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2016,16.2,,Normal value,Units,Percent,Government revenue from domestic taxes as a proportion of GDP
+2017,15.9,,Normal value,Units,Percent,Government revenue from domestic taxes as a proportion of GDP
+2018,15.1,,Normal value,Units,Percent,Government revenue from domestic taxes as a proportion of GDP
+2019,15.1,,Normal value,Units,Percent,Government revenue from domestic taxes as a proportion of GDP
+2020,14.3,,Normal value,Units,Percent,Government revenue from domestic taxes as a proportion of GDP
+2021,13.6,,Normal value,Units,Percent,Government revenue from domestic taxes as a proportion of GDP
+2022,14.6,,Normal value,Units,Percent,Government revenue from domestic taxes as a proportion of GDP
+2023,13.6,,Normal value,Units,Percent,Government revenue from domestic taxes as a proportion of GDP
+2016,0.0,,Normal value,Units,Percent,Government revenue from social contributions as a proportion of GDP
+2017,0.0,,Normal value,Units,Percent,Government revenue from social contributions as a proportion of GDP
+2018,0.0,,Normal value,Units,Percent,Government revenue from social contributions as a proportion of GDP
+2019,0.0,,Normal value,Units,Percent,Government revenue from social contributions as a proportion of GDP
+2020,0.0,,Normal value,Units,Percent,Government revenue from social contributions as a proportion of GDP
+2021,0.0,,Normal value,Units,Percent,Government revenue from social contributions as a proportion of GDP
+2022,0.0,,Normal value,Units,Percent,Government revenue from social contributions as a proportion of GDP
+2023,0.0,,Normal value,Units,Percent,Government revenue from social contributions as a proportion of GDP
+2016,0.4,,Normal value,Units,Percent,Government revenue from grants as a proportion of GDP
+2017,0.3,,Normal value,Units,Percent,Government revenue from grants as a proportion of GDP
+2018,0.3,,Normal value,Units,Percent,Government revenue from grants as a proportion of GDP
+2019,0.5,,Normal value,Units,Percent,Government revenue from grants as a proportion of GDP
+2020,0.2,,Normal value,Units,Percent,Government revenue from grants as a proportion of GDP
+2021,0.3,,Normal value,Units,Percent,Government revenue from grants as a proportion of GDP
+2022,0.2,,Normal value,Units,Percent,Government revenue from grants as a proportion of GDP
+2023,0.2,,Normal value,Units,Percent,Government revenue from grants as a proportion of GDP
+2016,0.2,,Normal value,Units,Percent,Government revenue from  other sources as a proportion of GDP
+2017,1.1,,Normal value,Units,Percent,Government revenue from  other sources as a proportion of GDP
+2018,1.2,,Normal value,Units,Percent,Government revenue from  other sources as a proportion of GDP
+2019,1.6,,Normal value,Units,Percent,Government revenue from  other sources as a proportion of GDP
+2020,2.5,,Normal value,Units,Percent,Government revenue from  other sources as a proportion of GDP
+2021,1.4,,Normal value,Units,Percent,Government revenue from  other sources as a proportion of GDP
+2022,1.7,,Normal value,Units,Percent,Government revenue from  other sources as a proportion of GDP
+2023,1.6,,Normal value,Units,Percent,Government revenue from  other sources as a proportion of GDP
+2014,16.7,,Normal value,Units,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2015,16.6,,Normal value,Units,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2016,16.9,,Normal value,Units,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2017,17.3,,Normal value,Units,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2018,16.6,,Normal value,Units,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2019,17.1,,Normal value,Units,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2020,17.0,,Normal value,Units,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2021,15.3,,Normal value,Units,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2022,16.5,,Normal value,Units,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2023,15.4,,Normal value,Units,Percent,Total government revenue as a proportion of GDP [17.1.1]

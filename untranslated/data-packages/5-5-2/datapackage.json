@@ -48,8 +48,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PWSM_PUBLIC",
                 "PWSM_PRIVATE",
+                "PWSM_PUBLIC",
                 ""
               ]
             }
@@ -60,6 +60,26 @@
             "constraints": {
               "enum": [
                 "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
                 ""
               ]
             }

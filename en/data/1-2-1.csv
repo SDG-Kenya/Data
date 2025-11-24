@@ -1,65 +1,65 @@
-Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2014,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,,46.6
-2016,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,,36.1
-2019,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,,33.6
-2020,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,,42.9
-2021,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,,38.6
-2022,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,,39.8
-2014,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,,49.7
-2016,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,,38.8
-2019,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,,37.0
-2020,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,,43.5
-2021,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,,40.7
-2022,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,,42.9
-2014,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,,34.4
-2016,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,,29.5
-2019,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,,26.0
-2020,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,,41.7
-2021,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,,34.1
-2022,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,,33.2
-2016,Proportion of population living below the national poverty line [1.2.1],,Female,,,Percent,,36.1
-2019,Proportion of population living below the national poverty line [1.2.1],,Female,,,Percent,,34.1
-2020,Proportion of population living below the national poverty line [1.2.1],,Female,,,Percent,,42.2
-2021,Proportion of population living below the national poverty line [1.2.1],,Female,,,Percent,,38.0
-2022,Proportion of population living below the national poverty line [1.2.1],,Female,,,Percent,,39.3
-2016,Proportion of population living below the national poverty line [1.2.1],,Male,,,Percent,,36.2
-2019,Proportion of population living below the national poverty line [1.2.1],,Male,,,Percent,,34.0
-2020,Proportion of population living below the national poverty line [1.2.1],,Male,,,Percent,,42.9
-2021,Proportion of population living below the national poverty line [1.2.1],,Male,,,Percent,,38.3
-2022,Proportion of population living below the national poverty line [1.2.1],,Male,,,Percent,,40.3
-2016,Proportion of population living below the national poverty line [1.2.1],,,under 6 years old,,Percent,,37.0
-2019,Proportion of population living below the national poverty line [1.2.1],,,under 6 years old,,Percent,,37.5
-2020,Proportion of population living below the national poverty line [1.2.1],,,under 6 years old,,Percent,,40.5
-2021,Proportion of population living below the national poverty line [1.2.1],,,under 6 years old,,Percent,,34.5
-2022,Proportion of population living below the national poverty line [1.2.1],,,under 6 years old,,Percent,,36.4
-2016,Proportion of population living below the national poverty line [1.2.1],,,6-13 years,,Percent,,44.0
-2019,Proportion of population living below the national poverty line [1.2.1],,,6-13 years,,Percent,,40.6
-2020,Proportion of population living below the national poverty line [1.2.1],,,6-13 years,,Percent,,48.6
-2021,Proportion of population living below the national poverty line [1.2.1],,,6-13 years,,Percent,,42.3
-2022,Proportion of population living below the national poverty line [1.2.1],,,6-13 years,,Percent,,44.4
-2016,Proportion of population living below the national poverty line [1.2.1],,,14-17 years,,Percent,,43.8
-2019,Proportion of population living below the national poverty line [1.2.1],,,14-17 years,,Percent,,39.9
-2020,Proportion of population living below the national poverty line [1.2.1],,,14-17 years,,Percent,,47.7
-2021,Proportion of population living below the national poverty line [1.2.1],,,14-17 years,,Percent,,44.9
-2022,Proportion of population living below the national poverty line [1.2.1],,,14-17 years,,Percent,,47.4
-2016,Proportion of population living below the national poverty line [1.2.1],,,under 18 years old,,Percent,,41.6
-2019,Proportion of population living below the national poverty line [1.2.1],,,under 18 years old,,Percent,,39.5
-2020,Proportion of population living below the national poverty line [1.2.1],,,under 18 years old,,Percent,,46.0
-2021,Proportion of population living below the national poverty line [1.2.1],,,under 18 years old,,Percent,,40.3
-2022,Proportion of population living below the national poverty line [1.2.1],,,under 18 years old,,Percent,,42.4
-2022,Proportion of population living below the national poverty line [1.2.1],,,15 to 24 years old,,Percent,,44.0
-2016,Proportion of population living below the national poverty line [1.2.1],,,18-34 years,,Percent,,28.9
-2019,Proportion of population living below the national poverty line [1.2.1],,,18-34 years,,Percent,,28.3
-2020,Proportion of population living below the national poverty line [1.2.1],,,18-34 years,,Percent,,39.6
-2021,Proportion of population living below the national poverty line [1.2.1],,,18-34 years,,Percent,,34.4
-2022,Proportion of population living below the national poverty line [1.2.1],,,18-34 years,,Percent,,36.7
-2016,Proportion of population living below the national poverty line [1.2.1],,,15 to 64 years old,,Percent,,32.2
-2019,Proportion of population living below the national poverty line [1.2.1],,,15 to 64 years old,,Percent,,30.5
-2020,Proportion of population living below the national poverty line [1.2.1],,,15 to 64 years old,,Percent,,40.8
-2021,Proportion of population living below the national poverty line [1.2.1],,,15 to 64 years old,,Percent,,36.7
-2022,Proportion of population living below the national poverty line [1.2.1],,,15 to 64 years old,,Percent,,38.5
-2016,Proportion of population living below the national poverty line [1.2.1],,,65 years old and over,,Percent,,39.1
-2019,Proportion of population living below the national poverty line [1.2.1],,,65 years old and over,,Percent,,32.1
-2020,Proportion of population living below the national poverty line [1.2.1],,,65 years old and over,,Percent,,39.5
-2021,Proportion of population living below the national poverty line [1.2.1],,,65 years old and over,,Percent,,46.6
-2022,Proportion of population living below the national poverty line [1.2.1],,,65 years old and over,,Percent,,44.4
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,Normal value,Units,,46.6
+2016,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,Normal value,Units,,36.1
+2019,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,Normal value,Units,,33.6
+2020,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,Normal value,Units,,42.9
+2021,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,Normal value,Units,,38.6
+2022,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,Normal value,Units,,39.8
+2014,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,Normal value,Units,,49.7
+2016,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,Normal value,Units,,38.8
+2019,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,Normal value,Units,,37.0
+2020,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,Normal value,Units,,43.5
+2021,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,Normal value,Units,,40.7
+2022,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,Normal value,Units,,42.9
+2014,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,Normal value,Units,,34.4
+2016,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,Normal value,Units,,29.5
+2019,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,Normal value,Units,,26.0
+2020,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,Normal value,Units,,41.7
+2021,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,Normal value,Units,,34.1
+2022,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,Normal value,Units,,33.2
+2016,Proportion of population living below the national poverty line [1.2.1],,,65 years old and over,,Percent,Normal value,Units,,39.1
+2019,Proportion of population living below the national poverty line [1.2.1],,,65 years old and over,,Percent,Normal value,Units,,32.1
+2020,Proportion of population living below the national poverty line [1.2.1],,,65 years old and over,,Percent,Normal value,Units,,39.5
+2021,Proportion of population living below the national poverty line [1.2.1],,,65 years old and over,,Percent,Normal value,Units,,46.6
+2022,Proportion of population living below the national poverty line [1.2.1],,,65 years old and over,,Percent,Normal value,Units,,44.4
+2016,Proportion of population living below the national poverty line [1.2.1],,,under 18 years old,,Percent,Normal value,Units,,41.6
+2019,Proportion of population living below the national poverty line [1.2.1],,,under 18 years old,,Percent,Normal value,Units,,39.5
+2020,Proportion of population living below the national poverty line [1.2.1],,,under 18 years old,,Percent,Normal value,Units,,46.0
+2021,Proportion of population living below the national poverty line [1.2.1],,,under 18 years old,,Percent,Normal value,Units,,40.3
+2022,Proportion of population living below the national poverty line [1.2.1],,,under 18 years old,,Percent,Normal value,Units,,42.4
+2016,Proportion of population living below the national poverty line [1.2.1],,,under 6 years old,,Percent,Normal value,Units,,37.0
+2019,Proportion of population living below the national poverty line [1.2.1],,,under 6 years old,,Percent,Normal value,Units,,37.5
+2020,Proportion of population living below the national poverty line [1.2.1],,,under 6 years old,,Percent,Normal value,Units,,40.5
+2021,Proportion of population living below the national poverty line [1.2.1],,,under 6 years old,,Percent,Normal value,Units,,34.5
+2022,Proportion of population living below the national poverty line [1.2.1],,,under 6 years old,,Percent,Normal value,Units,,36.4
+2016,Proportion of population living below the national poverty line [1.2.1],,,14-17 years,,Percent,Normal value,Units,,43.8
+2019,Proportion of population living below the national poverty line [1.2.1],,,14-17 years,,Percent,Normal value,Units,,39.9
+2020,Proportion of population living below the national poverty line [1.2.1],,,14-17 years,,Percent,Normal value,Units,,47.7
+2021,Proportion of population living below the national poverty line [1.2.1],,,14-17 years,,Percent,Normal value,Units,,44.9
+2022,Proportion of population living below the national poverty line [1.2.1],,,14-17 years,,Percent,Normal value,Units,,47.4
+2022,Proportion of population living below the national poverty line [1.2.1],,,15 to 24 years old,,Percent,Normal value,Units,,44.0
+2016,Proportion of population living below the national poverty line [1.2.1],,,15 to 64 years old,,Percent,Normal value,Units,,32.2
+2019,Proportion of population living below the national poverty line [1.2.1],,,15 to 64 years old,,Percent,Normal value,Units,,30.5
+2020,Proportion of population living below the national poverty line [1.2.1],,,15 to 64 years old,,Percent,Normal value,Units,,40.8
+2021,Proportion of population living below the national poverty line [1.2.1],,,15 to 64 years old,,Percent,Normal value,Units,,36.7
+2022,Proportion of population living below the national poverty line [1.2.1],,,15 to 64 years old,,Percent,Normal value,Units,,38.5
+2016,Proportion of population living below the national poverty line [1.2.1],,,18-34 years,,Percent,Normal value,Units,,28.9
+2019,Proportion of population living below the national poverty line [1.2.1],,,18-34 years,,Percent,Normal value,Units,,28.3
+2020,Proportion of population living below the national poverty line [1.2.1],,,18-34 years,,Percent,Normal value,Units,,39.6
+2021,Proportion of population living below the national poverty line [1.2.1],,,18-34 years,,Percent,Normal value,Units,,34.4
+2022,Proportion of population living below the national poverty line [1.2.1],,,18-34 years,,Percent,Normal value,Units,,36.7
+2016,Proportion of population living below the national poverty line [1.2.1],,,6-13 years,,Percent,Normal value,Units,,44.0
+2019,Proportion of population living below the national poverty line [1.2.1],,,6-13 years,,Percent,Normal value,Units,,40.6
+2020,Proportion of population living below the national poverty line [1.2.1],,,6-13 years,,Percent,Normal value,Units,,48.6
+2021,Proportion of population living below the national poverty line [1.2.1],,,6-13 years,,Percent,Normal value,Units,,42.3
+2022,Proportion of population living below the national poverty line [1.2.1],,,6-13 years,,Percent,Normal value,Units,,44.4
+2016,Proportion of population living below the national poverty line [1.2.1],,Female,,,Percent,Normal value,Units,,36.1
+2019,Proportion of population living below the national poverty line [1.2.1],,Female,,,Percent,Normal value,Units,,34.1
+2020,Proportion of population living below the national poverty line [1.2.1],,Female,,,Percent,Normal value,Units,,42.2
+2021,Proportion of population living below the national poverty line [1.2.1],,Female,,,Percent,Normal value,Units,,38.0
+2022,Proportion of population living below the national poverty line [1.2.1],,Female,,,Percent,Normal value,Units,,39.3
+2016,Proportion of population living below the national poverty line [1.2.1],,Male,,,Percent,Normal value,Units,,36.2
+2019,Proportion of population living below the national poverty line [1.2.1],,Male,,,Percent,Normal value,Units,,34.0
+2020,Proportion of population living below the national poverty line [1.2.1],,Male,,,Percent,Normal value,Units,,42.9
+2021,Proportion of population living below the national poverty line [1.2.1],,Male,,,Percent,Normal value,Units,,38.3
+2022,Proportion of population living below the national poverty line [1.2.1],,Male,,,Percent,Normal value,Units,,40.3

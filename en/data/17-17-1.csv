@@ -1,8 +1,8 @@
-Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2018,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,,124.7
-2019,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,,125.3
-2020,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,,116.3
-2021,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,,112.3
-2022,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,,924.0
-2023,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,,900.5
-2024,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,,1215.1
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2018,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,Normal value,Millions,,124.7
+2019,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,Normal value,Millions,,125.3
+2020,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,Normal value,Millions,,116.3
+2021,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,Normal value,Millions,,112.3
+2022,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,Normal value,Millions,,924.0
+2023,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,Normal value,Millions,,900.5
+2024,Amount in United States dollars committed to public-private partnerships for infrastructure,,USD,Normal value,Millions,,1215.1

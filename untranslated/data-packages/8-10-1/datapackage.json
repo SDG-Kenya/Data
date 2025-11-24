@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "FB_CBK_BRCH",
                 "FB_ATM_TOTL",
+                "FB_CBK_BRCH",
                 ""
               ]
             }
@@ -40,6 +40,26 @@
             "constraints": {
               "enum": [
                 "NUMBER",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
                 ""
               ]
             }

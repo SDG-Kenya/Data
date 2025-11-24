@@ -54,9 +54,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "5 to 9 years old",
                 "10 to 14 years old",
                 "15 to 17 years old",
+                "5 to 9 years old",
                 ""
               ]
             },
@@ -85,6 +85,28 @@
               ]
             },
             "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary government expenditures as a proportion of original approved budget [16.6.1]",
                 "Primary government expenditures as a proportion of original approved budget- Recurrent",
                 "Primary government expenditures as a proportion of original approved budget- Development",
+                "Primary government expenditures as a proportion of original approved budget [16.6.1]",
                 ""
               ]
             },
@@ -48,6 +48,28 @@
               ]
             },
             "title": "Unit of measure"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
           },
           {
             "name": "GeoCode",

@@ -49,11 +49,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Y_GE65",
                 "Y15T24",
                 "Y25T44",
                 "Y45T54",
                 "Y55T64",
-                "Y_GE65",
                 ""
               ]
             }
@@ -75,6 +75,26 @@
             "constraints": {
               "enum": [
                 "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
                 ""
               ]
             }

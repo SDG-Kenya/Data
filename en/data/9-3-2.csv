@@ -1,2 +1,2 @@
-Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Proportion of small-scale industries with a loan or line of credit [9.3.2],,Percent,,17.5
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2016,Proportion of small-scale industries with a loan or line of credit [9.3.2],,Percent,Normal value,Units,,17.5

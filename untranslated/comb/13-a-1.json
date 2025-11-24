@@ -1,1 +1,1 @@
-{"data":{"Year":[2018],"SERIES":["DC_CLC_100B"],"REF_AREA":[null],"UNIT_MEASURE":["USD"],"GeoCode":[null],"Value":[2.4]},"edges":[]}
+{"data":{"Year":[2018],"SERIES":["DC_CLC_100B"],"REF_AREA":[null],"UNIT_MEASURE":["USD"],"OBS_STATUS":["A"],"UNIT_MULT":["9"],"GeoCode":[null],"Value":[2.4]},"edges":{"From":["OBS_STATUS"],"To":["UNIT_MULT"]}}
