@@ -9,7 +9,6 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
-  - es
 
 # Destination directory
 # ---------------------
@@ -39,9 +38,34 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputCsvData
-    # This describes the data files, relative to the "src_dir" indicated above.
-    path_pattern: data/*-*.csv
+  #- class: InputSdmxMl_Multiple
+  #  path_pattern: 'data/*.xml'
+  #  dsd: 'SDG_DSD.xml'
+  - class: InputSdmxMl_Structure
+    source: https://ke.sdmx.afdb.org/ns-ws/rest/data/KE1,DF_KE_SDG,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+    dsd: https://ke.sdmx.afdb.org/ns-ws/rest/dataflow/KE1/DF_KE_SDG/1.0/?detail=Full&references=Descendants
+    dimension_map:
+      REF_AREA|KE: ''
+    drop_dimensions:
+      - FREQ
+      - REPORTING_TYPE
+      - NATURE
+      - TIME_COVERAGE
+      - COMMENT_OBS
+      - SOURCE_DETAIL
+    drop_singleton_dimensions: false
+    import_series_attributes: true
+    import_observation_attributes: false
+    import_codes: true
+    indicator_id_map:
+     AG_FLS_IDX: 12-3-1
+     _L_KE_100C01_01: 10-c-1
+    #request_params: 
+     #headers: 
+      #  User-Agent: Open-SDG-Build-1 
+  - class: InputWordMeta
+    path_pattern: meta/*-*.docm
+    git: true
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
@@ -59,7 +83,12 @@ inputs:
     git_data_dir: data
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
-
+# Metadata Schema
+# This inputs multiple metadata schema to control which metadata tabs
+# the various fields appear in (eg, National, Global, Sources)
+#  - class: SchemaInputSdmxMsd
+#    schema_path: SDG_MSD.xml
+#    scope: national
 # Translations
 # ------------
 # The allows control over the imported translations. This can be omitted if you
@@ -70,13 +99,17 @@ inputs:
 # project. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 translations:
-  # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.2.0
+    tag: 2.4.0
   # This pulls in translations from a local 'translations' folder.
-  - class: TranslationInputYaml
-    source: translations
+  - class: TranslationInputSdmx
+    source: 'SDG_DSD.xml'
+  #- class: TranslationInputSdmx
+  #  source: https://ke.sdmx.afdb.org/ns-ws/rest/dataflow/KE1/DF_KE_SDG/1.0/?detail=Full&references=Descendants
+  #  request_params:
+  #    headers:
+  #      User-Agent: Open-SDG-Build-1
 
 # Reporting status extra fields
 # -----------------------------
@@ -136,3 +169,25 @@ docs_metadata_fields:
       label: Units
     - key: graph_type
       label: Graph type
+
+
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - Units
+    - Series
+    - Value
+    - GeoCode
+    - Observation status
+    - Unit multiplier
+    - Unit measure
+    - UNIT_MEASURE
+    - SERIES
+    - COMMENT_TS
+    - DATA_LAST_UPDATE
+    - TIME_SERIES
+  series_column: SERIES
+  unit_column: UNIT_MEASURE
+  observation_attributes:
+    - COMMENT_OBS
+    - SOURCE_DETAIL
